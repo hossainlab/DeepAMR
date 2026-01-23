@@ -1,0 +1,28 @@
+# Core deep learning (Apple Silicon / MPS compatible)
+torch
+transformers
+
+# Bioinformatics
+biopython
+
+# Data science
+numpy
+pandas
+scikit-learn
+
+# Visualization & notebooks
+jupyter
+matplotlib
+seaborn
+plotly
+
+# Backend & APIs
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-multipart
+
+# Async & task queue
+redis
+celery
