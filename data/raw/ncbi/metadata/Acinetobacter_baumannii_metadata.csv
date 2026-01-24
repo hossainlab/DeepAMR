@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54872780,SAMN54872780,,,urine,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54872779,SAMN54872779,,,wound,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54872778,SAMN54872778,,,sputum,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54872777,SAMN54872777,,,Tissue,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54872594,SAMN54872594,,,respiratory,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54870557,SAMN54870557,,2026EP-00001,urine,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54870556,SAMN54870556,,2026EP-00010,wound,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54870049,SAMN54870049,,,wound,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54870048,SAMN54870048,,,urine,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54870012,SAMN54870012,,,wound,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54870011,SAMN54870011,,,Deep Sacral Wound Swab,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54810324,SAMN54810324,,M4,environment,,2024-09,China: Huizhou,,,,,,,,,Acinetobacter baumannii
+54804744,SAMN54804744,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804743,SAMN54804743,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804739,SAMN54804739,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804738,SAMN54804738,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804733,SAMN54804733,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804732,SAMN54804732,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804731,SAMN54804731,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54804730,SAMN54804730,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54803415,SAMN54803415,,,OT,Homo sapiens,2026-01-02,USA,,,,,GCA_054656435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/435/GCA_054656435.1_PDT003064281.1,Acinetobacter baumannii
+54802198,SAMN54802198,,,Tissue,Homo sapiens,2025-10-24,USA,,,,,GCA_054651715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/715/GCA_054651715.1_PDT003063932.1,Acinetobacter baumannii
+54802197,SAMN54802197,,,Wound/Abscess,Homo sapiens,2025-10-14,USA,,,,,GCA_054651675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/675/GCA_054651675.1_PDT003063933.1,Acinetobacter baumannii
+54802196,SAMN54802196,,,Tissue,Homo sapiens,2025-10-31,USA,,,,,GCA_054651785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/785/GCA_054651785.1_PDT003063924.1,Acinetobacter baumannii
+54802195,SAMN54802195,,,urine,Homo sapiens,2025-10-02,USA,,,,,GCA_054651775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/775/GCA_054651775.1_PDT003063925.1,Acinetobacter baumannii
+54802194,SAMN54802194,,,other,Homo sapiens,2025-10-16,USA,,,,,GCA_054651755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/755/GCA_054651755.1_PDT003063926.1,Acinetobacter baumannii
+54802189,SAMN54802189,,,Wound/Abscess,Homo sapiens,2025-12-17,USA,,,,,GCA_054651735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/735/GCA_054651735.1_PDT003063931.1,Acinetobacter baumannii
+54799541,SAMN54799541,,,Homo Sapiens clinical,Homo sapiens,2026-01-04,USA: Florida,,,,,GCA_054646225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/225/GCA_054646225.1_PDT003063521.1,Acinetobacter baumannii
+54799540,SAMN54799540,,,Homo Sapiens clinical,Homo sapiens,2026-01-04,USA: Florida,,,,,GCA_054646185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/185/GCA_054646185.1_PDT003063523.1,Acinetobacter baumannii
+54799536,SAMN54799536,,,Homo Sapiens clinical,Homo sapiens,2026-01-02,USA: Florida,,,,,GCA_054646205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/205/GCA_054646205.1_PDT003063527.1,Acinetobacter baumannii
+54799532,SAMN54799532,,,Homo Sapiens clinical,Homo sapiens,2026-01-01,USA: Florida,,,,,GCA_054646165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/165/GCA_054646165.1_PDT003063531.1,Acinetobacter baumannii
+54799528,SAMN54799528,,,Homo Sapiens clinical,Homo sapiens,2025-12-27,USA: Florida,,,,,GCA_054646265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/265/GCA_054646265.1_PDT003063517.1,Acinetobacter baumannii
+54799521,SAMN54799521,,,Homo Sapiens clinical,Homo sapiens,2025-12-30,USA: Florida,,,,,GCA_054646125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/125/GCA_054646125.1_PDT003063534.1,Acinetobacter baumannii
+54769199,SAMN54769199,,,urine,Homo sapiens,2026,USA,,,,,GCA_054596095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/095/GCA_054596095.1_PDT003062174.1,Acinetobacter baumannii
+54769198,SAMN54769198,,,Ankle,Homo sapiens,2025,USA,,,,,GCA_054596315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/315/GCA_054596315.1_PDT003062151.1,Acinetobacter baumannii
+54769197,SAMN54769197,,,urine,Homo sapiens,2025,USA,,,,,GCA_054596235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/235/GCA_054596235.1_PDT003062152.1,Acinetobacter baumannii
+54769196,SAMN54769196,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054596155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/155/GCA_054596155.1_PDT003062153.1,Acinetobacter baumannii
+54769194,SAMN54769194,,,Back,Homo sapiens,2025,USA,,,,,GCA_054596145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/145/GCA_054596145.1_PDT003062155.1,Acinetobacter baumannii
+54768981,SAMN54768981,,,Pelvis,Homo sapiens,2025,USA,,,,,GCA_054596425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/425/GCA_054596425.1_PDT003062142.1,Acinetobacter baumannii
+54768980,SAMN54768980,,,wound,Homo sapiens,2025,USA,,,,,GCA_054596415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/415/GCA_054596415.1_PDT003062143.1,Acinetobacter baumannii
+54768979,SAMN54768979,,,Sacrum,Homo sapiens,2025,USA,,,,,GCA_054596355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/355/GCA_054596355.1_PDT003062144.1,Acinetobacter baumannii
+54768978,SAMN54768978,,,blood,Homo sapiens,2025,USA,,,,,GCA_054596285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/285/GCA_054596285.1_PDT003062145.1,Acinetobacter baumannii
+54768851,SAMN54768851,,,Leg,Homo sapiens,2025,USA,,,,,GCA_054593565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/593/565/GCA_054593565.1_PDT003062036.1,Acinetobacter baumannii
+54768848,SAMN54768848,,,Foot,Homo sapiens,2025,USA,,,,,GCA_054592855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/592/855/GCA_054592855.1_PDT003062039.1,Acinetobacter baumannii
+54768360,SAMN54768360,,2026HL-01026,knee,Homo sapiens,2025,USA,,,,,GCA_054593695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/593/695/GCA_054593695.1_PDT003061979.1,Acinetobacter baumannii
+54768358,SAMN54768358,,2026HL-01024,wound,Homo sapiens,2025,USA,,,,,GCA_054593715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/593/715/GCA_054593715.1_PDT003061981.1,Acinetobacter baumannii
+54768164,SAMN54768164,,2025EP-00540,BRONCHIAL ALVEOLAR LAVAGE,Homo sapiens,2025,USA,,,,,GCA_054593735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/593/735/GCA_054593735.1_PDT003061967.1,Acinetobacter baumannii
+54766577,SAMN54766577,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054588175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/588/175/GCA_054588175.1_PDT003061735.1,Acinetobacter baumannii
+54766575,SAMN54766575,,,other,Homo sapiens,2025,USA,,,,,GCA_054588195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/588/195/GCA_054588195.1_PDT003061737.1,Acinetobacter baumannii
+54766574,SAMN54766574,,,throat,Homo sapiens,2025,USA,,,,,GCA_054588155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/588/155/GCA_054588155.1_PDT003061738.1,Acinetobacter baumannii
+54766573,SAMN54766573,,,other,Homo sapiens,2025,USA,,,,,GCA_054589945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/589/945/GCA_054589945.1_PDT003061739.1,Acinetobacter baumannii
+54766519,SAMN54766519,,2026GN-00015,,Homo sapiens,2026,USA,,,,,GCA_054588255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/588/255/GCA_054588255.1_PDT003061731.1,Acinetobacter baumannii
+54766105,SAMN54766105,,,sputum,Homo sapiens,2026,USA,,,,,GCA_054585415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/415/GCA_054585415.1_PDT003061710.1,Acinetobacter baumannii
+54766102,SAMN54766102,,,blood,Homo sapiens,2025,USA,,,,,GCA_054585405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/405/GCA_054585405.1_PDT003061713.1,Acinetobacter baumannii
+54766101,SAMN54766101,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054585395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/395/GCA_054585395.1_PDT003061714.1,Acinetobacter baumannii
+54766011,SAMN54766011,,2025GO-00665,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/515/GCA_054583515.1_PDT003061652.1,Acinetobacter baumannii
+54766008,SAMN54766008,,2025GO-00662,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/475/GCA_054583475.1_PDT003061654.1,Acinetobacter baumannii
+54766001,SAMN54766001,,2025GO-00654,Unknown,Homo sapiens,2026,USA,,,,,GCA_054585555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/555/GCA_054585555.1_PDT003061669.1,Acinetobacter baumannii
+54766000,SAMN54766000,,2025GO-00653,Unknown,Homo sapiens,2026,USA,,,,,GCA_054585515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/515/GCA_054585515.1_PDT003061670.1,Acinetobacter baumannii
+54765999,SAMN54765999,,2025GO-00652,Unknown,Homo sapiens,2026,USA,,,,,GCA_054585525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/525/GCA_054585525.1_PDT003061671.1,Acinetobacter baumannii
+54765998,SAMN54765998,,2025GO-00651,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/285/GCA_054583285.1_PDT003061661.1,Acinetobacter baumannii
+54765997,SAMN54765997,,2025GO-00650,Unknown,Homo sapiens,2026,USA,,,,,GCA_054585455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/455/GCA_054585455.1_PDT003061672.1,Acinetobacter baumannii
+54765988,SAMN54765988,,2025GO-00641,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/425/GCA_054583425.1_PDT003061657.1,Acinetobacter baumannii
+54765713,SAMN54765713,,,Tissue,Homo sapiens,2026,USA,,,,,GCA_054583835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/835/GCA_054583835.1_PDT003061623.1,Acinetobacter baumannii
+54765710,SAMN54765710,,,Not Provided,Homo sapiens,2026,USA,,,,,GCA_054583815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/815/GCA_054583815.1_PDT003061626.1,Acinetobacter baumannii
+54765709,SAMN54765709,,,Not Provided,Homo sapiens,2026,USA,,,,,GCA_054583795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/795/GCA_054583795.1_PDT003061627.1,Acinetobacter baumannii
+54764854,SAMN54764854,,,Tissue (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/315/GCA_054586315.1_PDT003061325.1,Acinetobacter baumannii
+54764853,SAMN54764853,,,Induced Sputum,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/355/GCA_054586355.1_PDT003061324.1,Acinetobacter baumannii
+54764852,SAMN54764852,,,Other (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/395/GCA_054586395.1_PDT003061323.1,Acinetobacter baumannii
+54764850,SAMN54764850,,,sputum,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/775/GCA_054586775.1_PDT003061321.1,Acinetobacter baumannii
+54764848,SAMN54764848,,,Other (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/805/GCA_054586805.1_PDT003061319.1,Acinetobacter baumannii
+54764847,SAMN54764847,,,urine,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/835/GCA_054586835.1_PDT003061318.1,Acinetobacter baumannii
+54764844,SAMN54764844,,,Unknown,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/875/GCA_054586875.1_PDT003061315.1,Acinetobacter baumannii
+54764843,SAMN54764843,,,blood,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/895/GCA_054586895.1_PDT003061314.1,Acinetobacter baumannii
+54764839,SAMN54764839,,,Tissue (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/965/GCA_054586965.1_PDT003061310.1,Acinetobacter baumannii
+54764837,SAMN54764837,,,Body Fluid (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054587025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/025/GCA_054587025.1_PDT003061308.1,Acinetobacter baumannii
+54764835,SAMN54764835,,,Wound Swab,Homo sapiens,2025,USA: Arizona,,,,,GCA_054587055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/055/GCA_054587055.1_PDT003061306.1,Acinetobacter baumannii
+54763878,SAMN54763878,,,blood,Homo sapiens,2026,USA,,,,,GCA_054583255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/255/GCA_054583255.1_PDT003061163.1,Acinetobacter baumannii
+54763876,SAMN54763876,,,Bronchial Wash,Homo sapiens,2026,USA,,,,,GCA_054583235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/235/GCA_054583235.1_PDT003061165.1,Acinetobacter baumannii
+54763875,SAMN54763875,,,sputum,Homo sapiens,2026,USA,,,,,GCA_054583215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/215/GCA_054583215.1_PDT003061166.1,Acinetobacter baumannii
+54763874,SAMN54763874,,,blood,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54763069,SAMN54763069,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054577455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/577/455/GCA_054577455.1_PDT003061058.1,Acinetobacter baumannii
+54763068,SAMN54763068,,,FLUID (BODY)_SPUTUM (COUGHED),Homo sapiens,2025,USA,,,,,GCA_054576565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/565/GCA_054576565.1_PDT003061057.1,Acinetobacter baumannii
+54763067,SAMN54763067,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054576585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/585/GCA_054576585.1_PDT003061056.1,Acinetobacter baumannii
+54763066,SAMN54763066,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054583055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/055/GCA_054583055.1_PDT003061141.1,Acinetobacter baumannii
+54763065,SAMN54763065,,,URINE_CATHETER (INDWELLING),Homo sapiens,2025,USA,,,,,GCA_054583085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/085/GCA_054583085.1_PDT003061140.1,Acinetobacter baumannii
+48395428,SAMN48395428,,AC37,missing,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395427,SAMN48395427,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395426,SAMN48395426,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395425,SAMN48395425,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395424,SAMN48395424,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395423,SAMN48395423,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395422,SAMN48395422,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395421,SAMN48395421,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395420,SAMN48395420,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48395419,SAMN48395419,,AC37,patient,Homo sapiens,2020-03-02,Brazil: Belo Horizonte,,,,,,,,,Acinetobacter baumannii
+48008032,SAMN48008032,,AB25-AUFP,MiniBAL,Homo sapiens,2023,Egypt: Alexandria,,,,,GCF_054483575.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/483/575/GCF_054483575.1_ASM5448357v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/483/575/GCA_054483575.1_ASM5448357v1,Acinetobacter baumannii
+54754399,SAMN54754399,,,Sacrum counds,Homo sapiens,2025,USA,,,,,GCA_054560415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/560/415/GCA_054560415.1_PDT003060017.1,Acinetobacter baumannii
+54754398,SAMN54754398,,,Right Foot Wound,Homo sapiens,2025,USA,,,,,GCA_054559475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/559/475/GCA_054559475.1_PDT003060018.1,Acinetobacter baumannii
+54754373,SAMN54754373,,,urethra,Homo sapiens,2026,USA,,,,,GCA_054558245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/245/GCA_054558245.1_PDT003059748.1,Acinetobacter baumannii
+54754372,SAMN54754372,,,wound,Homo sapiens,2026,USA,,,,,GCA_054559495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/559/495/GCA_054559495.1_PDT003060013.1,Acinetobacter baumannii
+54751902,SAMN54751902,,2026EL-00009,Wound;abscess,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54751645,SAMN54751645,,,urine,Homo sapiens,2025,USA,,,,,GCA_054556385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/385/GCA_054556385.1_PDT003059582.1,Acinetobacter baumannii
+54751644,SAMN54751644,,,Face,Homo sapiens,2025,USA,,,,,GCA_054556425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/425/GCA_054556425.1_PDT003059583.1,Acinetobacter baumannii
+54751578,SAMN54751578,,,urine,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54741109,SAMN54741109,,Pyocyanin Resistant 10,Laboratory developed Pyocyanin resistant line,Homo sapiens,2023,India,,,,,,,,,Acinetobacter baumannii
+54741108,SAMN54741108,,Pyocyanin Resistant 9,Laboratory developed Pyocyanin resistant line,Homo sapiens,2023,India,,,,,,,,,Acinetobacter baumannii
+54741107,SAMN54741107,,Pyocyanin Resistant 7,Laboratory developed Pyocyanin resistant line,Homo sapiens,2023,India,,,,,,,,,Acinetobacter baumannii
+54741106,SAMN54741106,,Pyocyanin Resistant 6,Laboratory developed Pyocyanin resistant line,Homo sapiens,2023,India,,,,,,,,,Acinetobacter baumannii
+54741105,SAMN54741105,,Pyocyanin Resistant,Laboratory developed Pyocyanin resistant line,Homo sapiens,2023,India,,,,,,,,,Acinetobacter baumannii
+54739247,SAMN54739247,,MUWRP16498,Fluid,Homo sapiens,2024-10-07,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739246,SAMN54739246,,MUWRP9937,Pus swab,Homo sapiens,2023-02-13,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739245,SAMN54739245,,MUWRP8920,Pus swab,Homo sapiens,2022-11-14,"Uganda: Lwero, General Military Hospital-Bombo",,,,,,,,,Acinetobacter baumannii
+54739244,SAMN54739244,,MUWRP11128,Wound swab,Homo sapiens,2023-05-08,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739243,SAMN54739243,,MUWRP11105,urine,Homo sapiens,2023-07-24,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739242,SAMN54739242,,MUWRP1036,Pus swab,Homo sapiens,2016-12-28,"Uganda: Kasese, Bwera General Hospital",,,,,,,,,Acinetobacter baumannii
+54739241,SAMN54739241,,MUWRP10339,Catheter central,Homo sapiens,2023-06-19,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739240,SAMN54739240,,MUWRP1031,Pus swab,Homo sapiens,2016-12-14,"Uganda: Kasese, Bwera General Hospital",,,,,,,,,Acinetobacter baumannii
+54739239,SAMN54739239,,MUWRP10232,throat swab,Homo sapiens,2023-05-24,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739238,SAMN54739238,,MUWRP10229,blood,Homo sapiens,2023-05-24,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739237,SAMN54739237,,MUWRP1022,Pus swab,Homo sapiens,2016-07-22,"Uganda: Kasese, Bwera General Hospital",,,,,,,,,Acinetobacter baumannii
+54739236,SAMN54739236,,MUWRP10148,Catheter central,Homo sapiens,2023-03-31,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739235,SAMN54739235,,MUWRP10101,Catheter central,Homo sapiens,2023-04-12,"Uganda: Kampala, Kiruddu National Referral Hospital",,,,,,,,,Acinetobacter baumannii
+54739234,SAMN54739234,,MUWRP0983,Pus swab,Homo sapiens,2017-04-18,"Uganda: Lwero, General Military Hospital-Bombo",,,,,,,,,Acinetobacter baumannii
+54726535,SAMN54726535,,AUSMDU00034737,human,Homo sapiens,2019-08-18,Australia:Victoria,,,,,,,,,Acinetobacter baumannii
+54714068,SAMN54714068,,,Water of Hawksbill rehabilitation,,2024,United Arab Emirates,,,,,,,,,Acinetobacter baumannii
+54711670,SAMN54711670,,not applicable,sputum,Homo sapiens,2025-12-10,USA,,,,,GCA_054509525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/525/GCA_054509525.1_PDT003055270.1,Acinetobacter baumannii
+54689903,SAMN54689903,,imipenem Resistance3,Laboratory developed imipenem resistance,Homo sapiens,2024,India,,,,,,,,,Acinetobacter baumannii
+54689902,SAMN54689902,,imipenem Resistance2,Laboratory developed imipenem resistance,Homo sapiens,2024,India,,,,,,,,,Acinetobacter baumannii
+54689901,SAMN54689901,,imipenem Resistance1,Laboratory developed imipenem resistance,Homo sapiens,2024,India,,,,,,,,,Acinetobacter baumannii
+54686315,SAMN54686315,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54686314,SAMN54686314,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54686313,SAMN54686313,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54686312,SAMN54686312,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54686311,SAMN54686311,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54686310,SAMN54686310,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54684090,SAMN54684090,,2026EL-00002,wound,Homo sapiens,2025,USA,,,,,GCA_054504205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/205/GCA_054504205.1_PDT003054803.1,Acinetobacter baumannii
+54684089,SAMN54684089,,2026EL-00001,wound,Homo sapiens,2025,USA,,,,,GCA_054504145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/145/GCA_054504145.1_PDT003054804.1,Acinetobacter baumannii
+54623159,SAMN54623159,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623158,SAMN54623158,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623157,SAMN54623157,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623156,SAMN54623156,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623155,SAMN54623155,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623154,SAMN54623154,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623153,SAMN54623153,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623152,SAMN54623152,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623151,SAMN54623151,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623150,SAMN54623150,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623149,SAMN54623149,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54623148,SAMN54623148,,ATCC-19606,ATCC 19606; derived from clinical blood culture (1966),laboratory host,2025-12-15,"China: Beijing, Beijing",,,,,,,,,Acinetobacter baumannii
+54448261,SAMN54448261,,2025GN-00369,Rectal swab,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54448259,SAMN54448259,,2025GN-00366,Axilla/Groin,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54448258,SAMN54448258,,2025GN-00367,Axilla/Groin,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54145116,SAMN54145116,,2025GN-00347,Tissue,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+54145111,SAMN54145111,,2025GN-00320,"swab, axilla and groin",Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53626891,SAMN53626891,,2025GN-00337,"swab, axilla and groin",Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53626890,SAMN53626890,,2025GN-00333,fluid,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53626889,SAMN53626889,,2025GN-00310,"swab, axilla and groin",Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53626888,SAMN53626888,,2025GN-00338,"swab, axilla and groin",Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53389561,SAMN53389561,,2025GN-00302,"Isolate, Trachael Aspirate",Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53329053,SAMN53329053,,2025GN-00311,Rectal swab,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53329052,SAMN53329052,,2025GN-00304,Rectal swab,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+53329049,SAMN53329049,,2025GN-00312,Rectal swab,Homo sapiens,2025,USA,,,,,,,,,Acinetobacter baumannii
+39462542,SAMN39462542,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462541,SAMN39462541,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462540,SAMN39462540,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462539,SAMN39462539,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462538,SAMN39462538,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462537,SAMN39462537,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462536,SAMN39462536,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462535,SAMN39462535,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462534,SAMN39462534,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462533,SAMN39462533,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462532,SAMN39462532,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+39462531,SAMN39462531,,,,,missing,missing,,,,,,,,,Acinetobacter baumannii
+54617086,SAMN54617086,,LACPHL-BACT-2026-00025,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617084,SAMN54617084,,LACPHL-BACT-2026-00023,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617083,SAMN54617083,,LACPHL-BACT-2026-00022,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617082,SAMN54617082,,LACPHL-BACT-2026-00021,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617075,SAMN54617075,,LACPHL-BACT-2026-00014,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617074,SAMN54617074,,LACPHL-BACT-2026-00013,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617073,SAMN54617073,,LACPHL-BACT-2026-00012,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54617072,SAMN54617072,,LACPHL-BACT-2026-00011,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54616838,SAMN54616838,,,OT,Homo sapiens,2025-12-11,USA,,,,,GCA_054495125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/125/GCA_054495125.1_PDT003054480.1,Acinetobacter baumannii
+54616836,SAMN54616836,,,OT,Homo sapiens,2025-12-18,USA,,,,,GCA_054495085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/085/GCA_054495085.1_PDT003054482.1,Acinetobacter baumannii
+54616835,SAMN54616835,,,OT,Homo sapiens,2025-12-17,USA,,,,,GCA_054495095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/095/GCA_054495095.1_PDT003054483.1,Acinetobacter baumannii
+54616834,SAMN54616834,,,OT,Homo sapiens,2025-12-29,USA,,,,,GCA_054495025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/025/GCA_054495025.1_PDT003054484.1,Acinetobacter baumannii
+54616833,SAMN54616833,,,OT,Homo sapiens,2026-01-02,USA,,,,,GCA_054495035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/035/GCA_054495035.1_PDT003054485.1,Acinetobacter baumannii
+54616823,SAMN54616823,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054495585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/585/GCA_054495585.1_PDT003054490.1,Acinetobacter baumannii
+54616822,SAMN54616822,,,urine,Homo sapiens,2025,USA,,,,,GCA_054495565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/565/GCA_054495565.1_PDT003054491.1,Acinetobacter baumannii
+54616819,SAMN54616819,,,wound,Homo sapiens,2025,USA,,,,,GCA_054495065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/065/GCA_054495065.1_PDT003054494.1,Acinetobacter baumannii
+54616816,SAMN54616816,,,tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054494965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/965/GCA_054494965.1_PDT003054498.1,Acinetobacter baumannii
+54616203,SAMN54616203,,,blood,Homo sapiens,2026,USA,,,,,GCA_054495245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/245/GCA_054495245.1_PDT003054453.1,Acinetobacter baumannii
+54616202,SAMN54616202,,,blood,Homo sapiens,2026,USA,,,,,GCA_054495205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/205/GCA_054495205.1_PDT003054452.1,Acinetobacter baumannii
+54616201,SAMN54616201,,,urine,Homo sapiens,2026,USA,,,,,GCA_054495365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/365/GCA_054495365.1_PDT003054451.1,Acinetobacter baumannii
+54616200,SAMN54616200,,,wound,Homo sapiens,2026,USA,,,,,GCA_054495345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/345/GCA_054495345.1_PDT003054450.1,Acinetobacter baumannii
+54616198,SAMN54616198,,,urine,Homo sapiens,2026,USA,,,,,GCA_054495355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/355/GCA_054495355.1_PDT003054448.1,Acinetobacter baumannii
+54616197,SAMN54616197,,,Not Provided,Homo sapiens,2026,USA,,,,,GCA_054495445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/445/GCA_054495445.1_PDT003054447.1,Acinetobacter baumannii
+54616196,SAMN54616196,,,Tissue,Homo sapiens,2026,USA,,,,,GCA_054495465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/465/GCA_054495465.1_PDT003054446.1,Acinetobacter baumannii
+54566986,SAMN54566986,,ZS-AB-346NEPT,sputum,Homo sapiens,2025-12,China: Shanghai,,,,,GCF_054552635.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/552/635/GCF_054552635.1_ASM5455263v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/635/GCA_054552635.1_ASM5455263v1,Acinetobacter baumannii
+54566846,SAMN54566846,,ZS-AB-346,sputum,Homo sapiens,2025-12,China: Shanghai,,,,,GCF_054552655.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/552/655/GCF_054552655.1_ASM5455265v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/655/GCA_054552655.1_ASM5455265v1,Acinetobacter baumannii
+54595862,SAMN54595862,,2026HL-01019,wound,Homo sapiens,2025,USA,,,,,GCA_054553315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/553/315/GCA_054553315.1_PDT003054084.1,Acinetobacter baumannii
+54593569,SAMN54593569,,N/A,,Homo sapiens,2025-12-17,USA,,,,,,,,,Acinetobacter baumannii
+54593568,SAMN54593568,,N/A,,Homo sapiens,2025-12-23,USA,,,,,,,,,Acinetobacter baumannii
+54593564,SAMN54593564,,N/A,,Homo sapiens,2025-12-25,USA,,,,,,,,,Acinetobacter baumannii
+54592880,SAMN54592880,,2025EP-00546,sputum,Homo sapiens,2025,USA,,,,,GCA_054487245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/245/GCA_054487245.1_PDT003053530.1,Acinetobacter baumannii
+54592879,SAMN54592879,,2025EP-00545,sputum,Homo sapiens,2025,USA,,,,,GCA_054487265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/265/GCA_054487265.1_PDT003053523.1,Acinetobacter baumannii
+54592877,SAMN54592877,,2025EP-00543,SPUTUM- INDUCED,Homo sapiens,2025,USA,,,,,GCA_054487225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/225/GCA_054487225.1_PDT003053525.1,Acinetobacter baumannii
+54592844,SAMN54592844,,2026HL-01017,wound,Homo sapiens,2025,USA,,,,,GCA_054487305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/305/GCA_054487305.1_PDT003053511.1,Acinetobacter baumannii
+54592843,SAMN54592843,,2026HL-01016,wound,Homo sapiens,2025,USA,,,,,GCA_054487285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/285/GCA_054487285.1_PDT003053512.1,Acinetobacter baumannii
+54592838,SAMN54592838,,2026HL-01011,sputum tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054487325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/325/GCA_054487325.1_PDT003053506.1,Acinetobacter baumannii
+54592340,SAMN54592340,,,Hip Swab,Homo sapiens,2025,USA,,,,,GCA_054487355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/355/GCA_054487355.1_PDT003053490.1,Acinetobacter baumannii
+54592068,SAMN54592068,,,Bronchial wash,Homo sapiens,2025,USA,,,,,GCA_054492565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/565/GCA_054492565.1_PDT003053401.1,Acinetobacter baumannii
+54592067,SAMN54592067,,,Bronchioalveolar lavage,Homo sapiens,2025,USA,,,,,GCA_054492505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/505/GCA_054492505.1_PDT003053402.1,Acinetobacter baumannii
+54590659,SAMN54590659,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054492705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/705/GCA_054492705.1_PDT003053379.1,Acinetobacter baumannii
+54590658,SAMN54590658,,,BLOOD_WHOLE,Homo sapiens,2025,USA,,,,,GCA_054492685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/685/GCA_054492685.1_PDT003053378.1,Acinetobacter baumannii
+54590657,SAMN54590657,,,FLUID (BODY)_SPUTUM (INDUCED),Homo sapiens,2025,USA,,,,,GCA_054492725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/725/GCA_054492725.1_PDT003053377.1,Acinetobacter baumannii
+54590656,SAMN54590656,,,URINE_CATHETER (STRAIGHT),Homo sapiens,2025,USA,,,,,GCA_054492745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/745/GCA_054492745.1_PDT003053376.1,Acinetobacter baumannii
+54590655,SAMN54590655,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054492785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/785/GCA_054492785.1_PDT003053375.1,Acinetobacter baumannii
+54590654,SAMN54590654,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054492765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/765/GCA_054492765.1_PDT003053374.1,Acinetobacter baumannii
+54590653,SAMN54590653,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054492825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/825/GCA_054492825.1_PDT003053373.1,Acinetobacter baumannii
+54590652,SAMN54590652,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054492805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/805/GCA_054492805.1_PDT003053372.1,Acinetobacter baumannii
+54590651,SAMN54590651,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054492845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/845/GCA_054492845.1_PDT003053371.1,Acinetobacter baumannii
+54590650,SAMN54590650,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054492885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/885/GCA_054492885.1_PDT003053370.1,Acinetobacter baumannii
+54590649,SAMN54590649,,,URINE_CATHETER (STRAIGHT),Homo sapiens,2025,USA,,,,,GCA_054492865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/865/GCA_054492865.1_PDT003053369.1,Acinetobacter baumannii
+54590648,SAMN54590648,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054492895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/895/GCA_054492895.1_PDT003053368.1,Acinetobacter baumannii
+54590647,SAMN54590647,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054492925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/925/GCA_054492925.1_PDT003053367.1,Acinetobacter baumannii
+54590646,SAMN54590646,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054492965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/965/GCA_054492965.1_PDT003053366.1,Acinetobacter baumannii
+54590645,SAMN54590645,,,SWAB_OTHER,Homo sapiens,2025,USA,,,,,GCA_054492945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/945/GCA_054492945.1_PDT003053365.1,Acinetobacter baumannii
+54590644,SAMN54590644,,,URINE_CATHETER (STRAIGHT),Homo sapiens,2025,USA,,,,,GCA_054492985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/985/GCA_054492985.1_PDT003053364.1,Acinetobacter baumannii
+54590643,SAMN54590643,,,FLUID (BODY)_SPUTUM (COUGHED),Homo sapiens,2025,USA,,,,,GCA_054493005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/005/GCA_054493005.1_PDT003053363.1,Acinetobacter baumannii
+54590642,SAMN54590642,,,WOUND_SURGICAL,Homo sapiens,2025,USA,,,,,GCA_054493025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/025/GCA_054493025.1_PDT003053362.1,Acinetobacter baumannii
+54590641,SAMN54590641,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054493065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/065/GCA_054493065.1_PDT003053361.1,Acinetobacter baumannii
+54590626,SAMN54590626,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054487345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/345/GCA_054487345.1_PDT003053481.1,Acinetobacter baumannii
+54590625,SAMN54590625,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054487425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/425/GCA_054487425.1_PDT003053480.1,Acinetobacter baumannii
+54590624,SAMN54590624,,,TISSUE_OTHER,Homo sapiens,2025,USA,,,,,GCA_054487645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/645/GCA_054487645.1_PDT003053479.1,Acinetobacter baumannii
+54590623,SAMN54590623,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054487405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/405/GCA_054487405.1_PDT003053478.1,Acinetobacter baumannii
+54590622,SAMN54590622,,,BLOOD_WHOLE,Homo sapiens,2025,USA,,,,,GCA_054487685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/685/GCA_054487685.1_PDT003053477.1,Acinetobacter baumannii
+54590621,SAMN54590621,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054491695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/491/695/GCA_054491695.1_PDT003053400.1,Acinetobacter baumannii
+54590620,SAMN54590620,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054487665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/665/GCA_054487665.1_PDT003053476.1,Acinetobacter baumannii
+54590619,SAMN54590619,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054487705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/705/GCA_054487705.1_PDT003053475.1,Acinetobacter baumannii
+54590618,SAMN54590618,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054487725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/725/GCA_054487725.1_PDT003053474.1,Acinetobacter baumannii
+54590617,SAMN54590617,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054487745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/745/GCA_054487745.1_PDT003053473.1,Acinetobacter baumannii
+54590616,SAMN54590616,,,FLUID (BODY)_SPUTUM (COUGHED),Homo sapiens,2025,USA,,,,,GCA_054487765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/765/GCA_054487765.1_PDT003053472.1,Acinetobacter baumannii
+54590615,SAMN54590615,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054487445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/445/GCA_054487445.1_PDT003053471.1,Acinetobacter baumannii
+54590614,SAMN54590614,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054487785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/785/GCA_054487785.1_PDT003053470.1,Acinetobacter baumannii
+54590613,SAMN54590613,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054487805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/805/GCA_054487805.1_PDT003053469.1,Acinetobacter baumannii
+54589726,SAMN54589726,,,Homo Sapiens clinical,Homo sapiens,2025-12-19,USA: Florida,,,,,GCA_054493695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/695/GCA_054493695.1_PDT003053335.1,Acinetobacter baumannii
+54589716,SAMN54589716,,,Homo Sapiens clinical,Homo sapiens,2025-12-20,USA: Florida,,,,,GCA_054493895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/895/GCA_054493895.1_PDT003053325.1,Acinetobacter baumannii
+54589711,SAMN54589711,,,Homo Sapiens clinical,Homo sapiens,2025-12-09,USA: Florida,,,,,GCA_054493775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/775/GCA_054493775.1_PDT003053330.1,Acinetobacter baumannii
+54587110,SAMN54587110,,2026GN-00008,"swab, rectal",Homo sapiens,2026,USA,,,,,GCA_054486425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/425/GCA_054486425.1_PDT003053282.1,Acinetobacter baumannii
+54587109,SAMN54587109,,2026GN-00005,trachael aspirate,Homo sapiens,2026,USA,,,,,,,,,Acinetobacter baumannii
+54587108,SAMN54587108,,2025GN-00373,"swab, axilla and groin",Homo sapiens,2025,USA,,,,,GCA_054486565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/565/GCA_054486565.1_PDT003053284.1,Acinetobacter baumannii
+54587107,SAMN54587107,,2025GN-00375,"swab, axilla and groin",Homo sapiens,2025,USA,,,,,GCA_054486585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/585/GCA_054486585.1_PDT003053285.1,Acinetobacter baumannii
+54586887,SAMN54586887,,not applicable,blood,Homo sapiens,2025-12-29,USA,,,,,GCA_054486305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/305/GCA_054486305.1_PDT003053250.1,Acinetobacter baumannii
+54586886,SAMN54586886,,not applicable,Catheter tip,Homo sapiens,2025-12-27,USA,,,,,GCA_054486365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/365/GCA_054486365.1_PDT003053251.1,Acinetobacter baumannii
+54586885,SAMN54586885,,not applicable,blood,Homo sapiens,2025-12-16,USA,,,,,GCA_054486265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/265/GCA_054486265.1_PDT003053252.1,Acinetobacter baumannii
+54586884,SAMN54586884,,not applicable,wound,Homo sapiens,2025-12-23,USA,,,,,GCA_054486285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/285/GCA_054486285.1_PDT003053253.1,Acinetobacter baumannii
+54586883,SAMN54586883,,not applicable,Sputum-tracheal,Homo sapiens,2025-12-05,USA,,,,,GCA_054486325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/325/GCA_054486325.1_PDT003053254.1,Acinetobacter baumannii
+54586879,SAMN54586879,,not applicable,wound,Homo sapiens,2025-12-17,USA,,,,,GCA_054486345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/345/GCA_054486345.1_PDT003053258.1,Acinetobacter baumannii
+54572620,SAMN54572620,,,wound,Homo sapiens,2023,USA,,,,,GCA_054476915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/915/GCA_054476915.1_PDT003052850.1,Acinetobacter baumannii
+54572383,SAMN54572383,,,Back,Homo sapiens,2023,USA,,,,,GCA_054476935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/935/GCA_054476935.1_PDT003052831.1,Acinetobacter baumannii
+54572382,SAMN54572382,,,sputum,Homo sapiens,2023,USA,,,,,GCA_054476955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/955/GCA_054476955.1_PDT003052832.1,Acinetobacter baumannii
+54572101,SAMN54572101,,,tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054476495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/495/GCA_054476495.1_PDT003052802.1,Acinetobacter baumannii
+54572100,SAMN54572100,,,Leg,Homo sapiens,2025,USA,,,,,GCA_054476415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/415/GCA_054476415.1_PDT003052803.1,Acinetobacter baumannii
+54572099,SAMN54572099,,,Perineum,Homo sapiens,2025,USA,,,,,GCA_054476435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/435/GCA_054476435.1_PDT003052804.1,Acinetobacter baumannii
+54572098,SAMN54572098,,,wound,Homo sapiens,2025,USA,,,,,GCA_054476395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/395/GCA_054476395.1_PDT003052805.1,Acinetobacter baumannii
+54572057,SAMN54572057,,,Sacrum,Homo sapiens,2025,USA,,,,,GCA_054475355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/475/355/GCA_054475355.1_PDT003052785.1,Acinetobacter baumannii
+54572056,SAMN54572056,,,Foot,Homo sapiens,2025,USA,,,,,GCA_054475405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/475/405/GCA_054475405.1_PDT003052786.1,Acinetobacter baumannii
+54570915,SAMN54570915,,,Leg,Homo sapiens,2025,USA,,,,,GCA_054475535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/475/535/GCA_054475535.1_PDT003052757.1,Acinetobacter baumannii
+54570327,SAMN54570327,,,trachea,Homo sapiens,2025,USA,,,,,GCA_054473635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/635/GCA_054473635.1_PDT003052718.1,Acinetobacter baumannii
+54570326,SAMN54570326,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054473615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/615/GCA_054473615.1_PDT003052719.1,Acinetobacter baumannii
+54570325,SAMN54570325,,,BAL,Homo sapiens,2025,USA,,,,,GCA_054473595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/595/GCA_054473595.1_PDT003052720.1,Acinetobacter baumannii
+54570324,SAMN54570324,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054473575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/575/GCA_054473575.1_PDT003052721.1,Acinetobacter baumannii
+54570323,SAMN54570323,,,Bronchial lavage,Homo sapiens,2025,USA,,,,,GCA_054473535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/535/GCA_054473535.1_PDT003052722.1,Acinetobacter baumannii
+54570322,SAMN54570322,,,respiratory,Homo sapiens,2025,USA,,,,,GCA_054473555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/555/GCA_054473555.1_PDT003052723.1,Acinetobacter baumannii
+54570321,SAMN54570321,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054473795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/795/GCA_054473795.1_PDT003052710.1,Acinetobacter baumannii
+54570320,SAMN54570320,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054473775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/775/GCA_054473775.1_PDT003052711.1,Acinetobacter baumannii
+54570319,SAMN54570319,,,urine,Homo sapiens,2025,USA,,,,,GCA_054473755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/755/GCA_054473755.1_PDT003052712.1,Acinetobacter baumannii
+54570318,SAMN54570318,,,bone,Homo sapiens,2025,USA,,,,,GCA_054473715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/715/GCA_054473715.1_PDT003052713.1,Acinetobacter baumannii
+54570317,SAMN54570317,,,Peritoneal Fluid,Homo sapiens,2025,USA,,,,,GCA_054473735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/735/GCA_054473735.1_PDT003052714.1,Acinetobacter baumannii
+54570316,SAMN54570316,,,urine,Homo sapiens,2025,USA,,,,,GCA_054473695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/695/GCA_054473695.1_PDT003052715.1,Acinetobacter baumannii
+54570315,SAMN54570315,,,Skin (Buttock),Homo sapiens,2025,USA,,,,,GCA_054473675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/675/GCA_054473675.1_PDT003052716.1,Acinetobacter baumannii
+54570314,SAMN54570314,,,Left arm tissue,Homo sapiens,2025,USA,,,,,GCA_054473655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/655/GCA_054473655.1_PDT003052717.1,Acinetobacter baumannii
+54570313,SAMN54570313,,,Left leg,Homo sapiens,2025,USA,,,,,GCA_054473515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/515/GCA_054473515.1_PDT003052724.1,Acinetobacter baumannii
+54570312,SAMN54570312,,,BAL,Homo sapiens,2025,USA,,,,,GCA_054473495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/473/495/GCA_054473495.1_PDT003052725.1,Acinetobacter baumannii
+54570072,SAMN54570072,,,urine,Homo sapiens,2025,USA,,,,,GCA_054476375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/375/GCA_054476375.1_PDT003052815.1,Acinetobacter baumannii
+54570071,SAMN54570071,,,urine,Homo sapiens,2025,USA,,,,,GCA_054476335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/335/GCA_054476335.1_PDT003052816.1,Acinetobacter baumannii
+54570069,SAMN54570069,,,urine,Homo sapiens,2025,USA,,,,,GCA_054476355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/355/GCA_054476355.1_PDT003052818.1,Acinetobacter baumannii
+54555140,SAMN54555140,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/415/GCA_054471415.1_PDT003050142.1,Acinetobacter baumannii
+54555139,SAMN54555139,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/455/GCA_054471455.1_PDT003050141.1,Acinetobacter baumannii
+54555133,SAMN54555133,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/535/GCA_054471535.1_PDT003050136.1,Acinetobacter baumannii
+54555129,SAMN54555129,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/635/GCA_054471635.1_PDT003050132.1,Acinetobacter baumannii
+54553916,SAMN54553916,,not applicable,sputum,Homo sapiens,2025-12-15,USA,,,,,GCA_054445825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/445/825/GCA_054445825.1_PDT003050019.1,Acinetobacter baumannii
+54553915,SAMN54553915,,not applicable,sputum,Homo sapiens,2025-12-14,USA,,,,,GCA_054445845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/445/845/GCA_054445845.1_PDT003050020.1,Acinetobacter baumannii
+54552013,SAMN54552013,,,wound,Homo sapiens,2025,USA,,,,,GCA_054441815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/815/GCA_054441815.1_PDT003049593.1,Acinetobacter baumannii
+54552010,SAMN54552010,,,fluid,Homo sapiens,2025,USA,,,,,GCA_054441975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/975/GCA_054441975.1_PDT003049596.1,Acinetobacter baumannii
+54531359,SAMN54531359,,RH173,pendant,N/A,2021-05-19,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531357,SAMN54531357,,RH288,infusion rack hook,N/A,2021-06-30,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531356,SAMN54531356,,RH287,bedside table,N/A,2021-06-30,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531355,SAMN54531355,,RH286,bed regulator,N/A,2021-06-30,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531354,SAMN54531354,,RH285,bed rail,N/A,2021-06-30,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531353,SAMN54531353,,RH256,treatment cart,N/A,2021-06-16,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531352,SAMN54531352,,RH255,bedside table,N/A,2021-06-16,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531351,SAMN54531351,,RH254,microinjection pump,N/A,2021-06-16,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531350,SAMN54531350,,RH253,ventilator,N/A,2021-06-16,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531349,SAMN54531349,,RH252,bed rail,N/A,2021-06-16,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531358,SAMN54531358,,M21,sputum,Homo sapiens,2021-06-14,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531348,SAMN54531348,,RB65,rectal swab,Homo sapiens,2021-06-30,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54531347,SAMN54531347,,RB55,rectal swab,Homo sapiens,2021-06-16,China: Hangzhou,,,,,,,,,Acinetobacter baumannii
+54529273,SAMN54529273,,2025GO-00638,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/675/GCA_054415675.1_PDT003048741.1,Acinetobacter baumannii
+54529272,SAMN54529272,,2025GO-00637,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/645/GCA_054415645.1_PDT003048742.1,Acinetobacter baumannii
+54529271,SAMN54529271,,2025GO-00636,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/635/GCA_054415635.1_PDT003048743.1,Acinetobacter baumannii
+54529270,SAMN54529270,,2025GO-00635,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/615/GCA_054415615.1_PDT003048744.1,Acinetobacter baumannii
+54529269,SAMN54529269,,2025GO-00634,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/575/GCA_054415575.1_PDT003048745.1,Acinetobacter baumannii
+54529268,SAMN54529268,,2025GO-00633,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/555/GCA_054415555.1_PDT003048747.1,Acinetobacter baumannii
+54529267,SAMN54529267,,2025GO-00632,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/515/GCA_054415515.1_PDT003048748.1,Acinetobacter baumannii
+54529266,SAMN54529266,,2025GO-00631,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/535/GCA_054415535.1_PDT003048749.1,Acinetobacter baumannii
+54529265,SAMN54529265,,2025GO-00630,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/495/GCA_054415495.1_PDT003048750.1,Acinetobacter baumannii
+54529264,SAMN54529264,,2025GO-00629,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/465/GCA_054415465.1_PDT003048751.1,Acinetobacter baumannii
+54529263,SAMN54529263,,2025GO-00628,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/455/GCA_054415455.1_PDT003048752.1,Acinetobacter baumannii
+54529262,SAMN54529262,,2025GO-00627,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/435/GCA_054415435.1_PDT003048753.1,Acinetobacter baumannii
+54529261,SAMN54529261,,2025GO-00626,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/415/GCA_054415415.1_PDT003048754.1,Acinetobacter baumannii
+54529260,SAMN54529260,,2025GO-00625,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/395/GCA_054415395.1_PDT003048755.1,Acinetobacter baumannii
+54529251,SAMN54529251,,2025GO-00616,Unknown,Homo sapiens,2025,USA,,,,,GCA_054415595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/595/GCA_054415595.1_PDT003048746.1,Acinetobacter baumannii
+54527486,SAMN54527486,,,wound,Homo sapiens,2026,USA,,,,,GCA_054411745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/411/745/GCA_054411745.1_PDT003048418.1,Acinetobacter baumannii
+54527485,SAMN54527485,,,wound,Homo sapiens,2026,USA,,,,,GCA_054411755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/411/755/GCA_054411755.1_PDT003048419.1,Acinetobacter baumannii
+54527484,SAMN54527484,,,sputum,Homo sapiens,2026,USA,,,,,GCA_054411735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/411/735/GCA_054411735.1_PDT003048420.1,Acinetobacter baumannii
+54526888,SAMN54526888,,,wound,Homo sapiens,2026,USA,,,,,GCA_054410875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/410/875/GCA_054410875.1_PDT003048412.1,Acinetobacter baumannii
+54526887,SAMN54526887,,,urine,Homo sapiens,2026,USA,,,,,GCA_054410855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/410/855/GCA_054410855.1_PDT003048413.1,Acinetobacter baumannii
+54526886,SAMN54526886,,,wound,Homo sapiens,2026,USA,,,,,GCA_054410835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/410/835/GCA_054410835.1_PDT003048414.1,Acinetobacter baumannii
+54526884,SAMN54526884,,,urine,Homo sapiens,2026,USA,,,,,GCA_054410815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/410/815/GCA_054410815.1_PDT003048416.1,Acinetobacter baumannii
+54496168,SAMN54496168,,,other,Homo sapiens,2025,USA,,,,,GCA_054396745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/396/745/GCA_054396745.1_PDT003047826.1,Acinetobacter baumannii
+54496167,SAMN54496167,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054396695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/396/695/GCA_054396695.1_PDT003047827.1,Acinetobacter baumannii
+54496164,SAMN54496164,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054395385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/395/385/GCA_054395385.1_PDT003047830.1,Acinetobacter baumannii
+54494234,SAMN54494234,,,OT,Homo sapiens,2025-12-12,USA: Kansas,,,,,GCA_054394285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/394/285/GCA_054394285.1_PDT003047732.1,Acinetobacter baumannii
+54494233,SAMN54494233,,,OT,Homo sapiens,2025-12-15,USA: Kansas,,,,,GCA_054394195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/394/195/GCA_054394195.1_PDT003047733.1,Acinetobacter baumannii
+54450589,SAMN54450589,,ATCC 17978,,Homo sapiens,2025,USA: San Diego,,,,,,,,,Acinetobacter baumannii
+52655000,SAMN52655000,,ATCC17978 abaI mutant,"LB broth, 37 degrees Celsius, sub-MIC meropenem",Homo sapiens,2022-11-14,missing,,,,,,,,,Acinetobacter baumannii
+52654999,SAMN52654999,,ATCC17978 abaI mutant,"LB broth, 37 degrees Celsius",Homo sapiens,2022-11-13,missing,,,,,,,,,Acinetobacter baumannii
+52654998,SAMN52654998,,ATCC 17978,"LB broth, 37 degrees Celsius, sub-MIC meropenem",Homo sapiens,2022-11-12,missing,,,,,,,,,Acinetobacter baumannii
+52654997,SAMN52654997,,ATCC 17978,"LB broth, 37 degrees Celsius.",Homo sapiens,2022-11-11,missing,,,,,,,,,Acinetobacter baumannii
+54467167,SAMN54467167,,,Tissue,Homo sapiens,2025,USA,,,,,GCA_054375375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/375/375/GCA_054375375.1_PDT003046584.1,Acinetobacter baumannii
+54459763,SAMN54459763,,,FLUID (BODY)_PLEURAL,Homo sapiens,2025,USA,,,,,GCA_054370555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/555/GCA_054370555.1_PDT003045467.1,Acinetobacter baumannii
+54459762,SAMN54459762,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054369655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/655/GCA_054369655.1_PDT003045466.1,Acinetobacter baumannii
+54459761,SAMN54459761,,,FLUID (BODY)_SPUTUM (COUGHED),Homo sapiens,2025,USA,,,,,GCA_054369675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/675/GCA_054369675.1_PDT003045465.1,Acinetobacter baumannii
+54459760,SAMN54459760,,,WOUND_SURGICAL,Homo sapiens,2025,USA,,,,,GCA_054369975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/975/GCA_054369975.1_PDT003045464.1,Acinetobacter baumannii
+54459759,SAMN54459759,,,TISSUE_ABSCESS,Homo sapiens,2025,USA,,,,,GCA_054369695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/695/GCA_054369695.1_PDT003045463.1,Acinetobacter baumannii
+54459758,SAMN54459758,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054369995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/995/GCA_054369995.1_PDT003045462.1,Acinetobacter baumannii
+54459757,SAMN54459757,,,FLUID (BODY)_SPUTUM (COUGHED),Homo sapiens,2025,USA,,,,,GCA_054370015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/015/GCA_054370015.1_PDT003045461.1,Acinetobacter baumannii
+54459756,SAMN54459756,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054370035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/035/GCA_054370035.1_PDT003045460.1,Acinetobacter baumannii
+54459755,SAMN54459755,,,URINE_OTHER,Homo sapiens,2025,USA,,,,,GCA_054370055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/055/GCA_054370055.1_PDT003045459.1,Acinetobacter baumannii
+54459754,SAMN54459754,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054369715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/715/GCA_054369715.1_PDT003045458.1,Acinetobacter baumannii
+54459753,SAMN54459753,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054370075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/075/GCA_054370075.1_PDT003045457.1,Acinetobacter baumannii
+54459752,SAMN54459752,,,URINE_OTHER,Homo sapiens,2025,USA,,,,,GCA_054369735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/735/GCA_054369735.1_PDT003045456.1,Acinetobacter baumannii
+54459751,SAMN54459751,,,SWAB_OTHER,Homo sapiens,2025,USA,,,,,GCA_054370175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/175/GCA_054370175.1_PDT003045455.1,Acinetobacter baumannii
+54459750,SAMN54459750,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054369805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/805/GCA_054369805.1_PDT003045454.1,Acinetobacter baumannii
+54459749,SAMN54459749,,,WOUND_DRAINAGE,Homo sapiens,2025,USA,,,,,GCA_054370575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/575/GCA_054370575.1_PDT003045453.1,Acinetobacter baumannii
+54459748,SAMN54459748,,,FLUID (BODY)_SPUTUM (INDUCED),Homo sapiens,2025,USA,,,,,GCA_054370095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/095/GCA_054370095.1_PDT003045452.1,Acinetobacter baumannii
+54459747,SAMN54459747,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054370215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/215/GCA_054370215.1_PDT003045451.1,Acinetobacter baumannii
+54459746,SAMN54459746,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054369755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/755/GCA_054369755.1_PDT003045450.1,Acinetobacter baumannii
+54459745,SAMN54459745,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054369775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/775/GCA_054369775.1_PDT003045449.1,Acinetobacter baumannii
+54459744,SAMN54459744,,,FLUID (BODY)_SPUTUM (INDUCED),Homo sapiens,2025,USA,,,,,GCA_054369835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/835/GCA_054369835.1_PDT003045448.1,Acinetobacter baumannii
+54459743,SAMN54459743,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054369795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/795/GCA_054369795.1_PDT003045447.1,Acinetobacter baumannii
+54459742,SAMN54459742,,,BLOOD_OTHER,Homo sapiens,2025,USA,,,,,GCA_054369855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/855/GCA_054369855.1_PDT003045446.1,Acinetobacter baumannii
+54459741,SAMN54459741,,,TISSUE_ABSCESS,Homo sapiens,2025,USA,,,,,GCA_054369865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/865/GCA_054369865.1_PDT003045445.1,Acinetobacter baumannii
+54459740,SAMN54459740,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054369895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/895/GCA_054369895.1_PDT003045444.1,Acinetobacter baumannii
+54459739,SAMN54459739,,,URINE_CATHETER (STRAIGHT),Homo sapiens,2025,USA,,,,,GCA_054369915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/915/GCA_054369915.1_PDT003045443.1,Acinetobacter baumannii
+54459738,SAMN54459738,,,WOUND_OTHER,Homo sapiens,2025,USA,,,,,GCA_054369935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/935/GCA_054369935.1_PDT003045442.1,Acinetobacter baumannii
+54459737,SAMN54459737,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054370195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/195/GCA_054370195.1_PDT003045441.1,Acinetobacter baumannii
+54459736,SAMN54459736,,,ASPIRATE_TRACHEAL,Homo sapiens,2025,USA,,,,,GCA_054369955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/955/GCA_054369955.1_PDT003045440.1,Acinetobacter baumannii
+54456503,SAMN54456503,,,pressure ulcer swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/105/GCA_054368105.1_PDT003045284.1,Acinetobacter baumannii
+54456502,SAMN54456502,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/125/GCA_054368125.1_PDT003045285.1,Acinetobacter baumannii
+54456497,SAMN54456497,,,throat swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/145/GCA_054368145.1_PDT003045290.1,Acinetobacter baumannii
+54456484,SAMN54456484,,,burn swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/045/GCA_054368045.1_PDT003045308.1,Acinetobacter baumannii
+54456483,SAMN54456483,,,burn swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/065/GCA_054368065.1_PDT003045309.1,Acinetobacter baumannii
+54456480,SAMN54456480,,,tracheal aspirate,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/005/GCA_054368005.1_PDT003045312.1,Acinetobacter baumannii
+54456474,SAMN54456474,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054367985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/367/985/GCA_054367985.1_PDT003045319.1,Acinetobacter baumannii
+54456458,SAMN54456458,,,rectum swab,Homo sapiens,2025-02,Slovenia,,,,,GCA_054368085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/085/GCA_054368085.1_PDT003045307.1,Acinetobacter baumannii
+54456457,SAMN54456457,,,rectum swab,Homo sapiens,2025-02,Slovenia,,,,,GCA_054368025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/025/GCA_054368025.1_PDT003045318.1,Acinetobacter baumannii
+54269304,SAMN54269304,,LACPHL-BACT-2025-00554,,Homo sapiens,,,,,,,GCA_054458355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/355/GCA_054458355.1_ASM5445835v1,Acinetobacter baumannii
+54269301,SAMN54269301,,LACPHL-BACT-2025-00551,,Homo sapiens,,,,,,,GCA_054458455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/455/GCA_054458455.1_ASM5445845v1,Acinetobacter baumannii
+54269300,SAMN54269300,,LACPHL-BACT-2025-00550,,Homo sapiens,,,,,,,GCA_054458415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/415/GCA_054458415.1_ASM5445841v1,Acinetobacter baumannii
+54269297,SAMN54269297,,LACPHL-BACT-2025-00547,,Homo sapiens,,,,,,,GCA_054458475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/475/GCA_054458475.1_ASM5445847v1,Acinetobacter baumannii
+50912965,SAMN50912965,,ST52,swab of the purulent open septic ulcer on the right breast,Homo sapiens,2023-02,Kenya:Kisii,,,,,,,,,Acinetobacter baumannii
+49025321,SAMN49025321,,A966,Endotracheal aspirate,Homo sapiens,2022-06-14,Chile:Talcahuano,,,,,GCF_054458995.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/458/995/GCF_054458995.1_ASM5445899v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/995/GCA_054458995.1_ASM5445899v1,Acinetobacter baumannii
+49025320,SAMN49025320,,A956,blood,Homo sapiens,2021-05-20,Chile:Talcahuano,,,,,GCF_054458955.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/458/955/GCF_054458955.1_ASM5445895v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/955/GCA_054458955.1_ASM5445895v1,Acinetobacter baumannii
+46851831,SAMN46851831,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851830,SAMN46851830,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851829,SAMN46851829,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851828,SAMN46851828,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851827,SAMN46851827,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851822,SAMN46851822,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851821,SAMN46851821,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851820,SAMN46851820,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851819,SAMN46851819,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851818,SAMN46851818,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851817,SAMN46851817,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851815,SAMN46851815,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851812,SAMN46851812,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851811,SAMN46851811,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851810,SAMN46851810,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851809,SAMN46851809,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851808,SAMN46851808,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851807,SAMN46851807,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851806,SAMN46851806,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851804,SAMN46851804,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851803,SAMN46851803,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851800,SAMN46851800,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851799,SAMN46851799,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851798,SAMN46851798,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851796,SAMN46851796,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851794,SAMN46851794,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851793,SAMN46851793,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+46851792,SAMN46851792,,,missing,Homo sapiens,missing,Thailand:Khon Kaen,,,,,,,,,Acinetobacter baumannii
+54450648,SAMN54450648,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450647,SAMN54450647,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450646,SAMN54450646,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450645,SAMN54450645,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450644,SAMN54450644,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450643,SAMN54450643,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450642,SAMN54450642,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450641,SAMN54450641,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450640,SAMN54450640,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450639,SAMN54450639,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450638,SAMN54450638,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450637,SAMN54450637,,missing,missing,missing,2024,"China:Guangdong,Shenzhen",,,,,,,,,Acinetobacter baumannii
+54450611,SAMN54450611,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054352415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/352/415/GCA_054352415.1_PDT003045202.1,Acinetobacter baumannii
+54449882,SAMN54449882,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449881,SAMN54449881,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449880,SAMN54449880,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449879,SAMN54449879,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449878,SAMN54449878,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449877,SAMN54449877,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449876,SAMN54449876,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449875,SAMN54449875,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449874,SAMN54449874,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54449873,SAMN54449873,,,,Homo sapiens,,,,,,,,,,,Acinetobacter baumannii
+54448272,SAMN54448272,,not applicable,Sputum - tracheal aspirate,Homo sapiens,2025-12-18,USA,,,,,GCA_054349595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/595/GCA_054349595.1_PDT003045173.1,Acinetobacter baumannii
+54448271,SAMN54448271,,not applicable,urine,Homo sapiens,2025-12-17,USA,,,,,GCA_054349575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/575/GCA_054349575.1_PDT003045174.1,Acinetobacter baumannii
+54444702,SAMN54444702,,,wound,Homo sapiens,2026,USA,,,,,GCA_054374675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/374/675/GCA_054374675.1_PDT003046049.1,Acinetobacter baumannii
+54444701,SAMN54444701,,,sputum,Homo sapiens,2026,USA,,,,,GCA_054374655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/374/655/GCA_054374655.1_PDT003046050.1,Acinetobacter baumannii
+54444663,SAMN54444663,,2025EP-00525,sputum,Homo sapiens,2025,USA,,,,,GCA_054374715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/374/715/GCA_054374715.1_PDT003046047.1,Acinetobacter baumannii
+54444661,SAMN54444661,,2025EP-00498,sputum,Homo sapiens,2025,USA,,,,,GCA_054374695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/374/695/GCA_054374695.1_PDT003046048.1,Acinetobacter baumannii
+54443517,SAMN54443517,,2026HL-00995,rectal swab,Homo sapiens,2025,USA,,,,,GCA_054372635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/635/GCA_054372635.1_PDT003045657.1,Acinetobacter baumannii
+54443346,SAMN54443346,,,wound,Homo sapiens,2026,USA,,,,,GCA_054345835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/835/GCA_054345835.1_PDT003044531.1,Acinetobacter baumannii
+54443345,SAMN54443345,,,Tissue,Homo sapiens,2026,USA,,,,,GCA_054345815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/815/GCA_054345815.1_PDT003044532.1,Acinetobacter baumannii
+54443344,SAMN54443344,,,Tissue,Homo sapiens,2026,USA,,,,,GCA_054345755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/755/GCA_054345755.1_PDT003044533.1,Acinetobacter baumannii
+54443343,SAMN54443343,,,urine,Homo sapiens,2026,USA,,,,,GCA_054345795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/795/GCA_054345795.1_PDT003044534.1,Acinetobacter baumannii
+54443342,SAMN54443342,,,Tissue,Homo sapiens,2026,USA,,,,,GCA_054409095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/409/095/GCA_054409095.1_PDT003044523.1,Acinetobacter baumannii
+54443341,SAMN54443341,,,wound,Homo sapiens,2026,USA,,,,,GCA_054345935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/935/GCA_054345935.1_PDT003044524.1,Acinetobacter baumannii
+54443340,SAMN54443340,,,Tissue,Homo sapiens,2026,USA,,,,,GCA_054409055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/409/055/GCA_054409055.1_PDT003044525.1,Acinetobacter baumannii
+54443339,SAMN54443339,,,Not Provided,Homo sapiens,2026,USA,,,,,GCA_054345895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/895/GCA_054345895.1_PDT003044526.1,Acinetobacter baumannii
+54443338,SAMN54443338,,,wound,Homo sapiens,2026,USA,,,,,GCA_054345915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/915/GCA_054345915.1_PDT003044527.1,Acinetobacter baumannii
+54443336,SAMN54443336,,,sputum,Homo sapiens,2026,USA,,,,,GCA_054345875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/875/GCA_054345875.1_PDT003044529.1,Acinetobacter baumannii
+54443335,SAMN54443335,,,tracheal aspirate,Homo sapiens,2026,USA,,,,,GCA_054345855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/855/GCA_054345855.1_PDT003044530.1,Acinetobacter baumannii
+54443334,SAMN54443334,,,wound,Homo sapiens,2026,USA,,,,,GCA_054345775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/775/GCA_054345775.1_PDT003044535.1,Acinetobacter baumannii
+54348251,SAMN54348251,,LACPHL-BACT-2025-00557,,Homo sapiens,,,,,,,GCA_054457095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/457/095/GCA_054457095.1_ASM5445709v1,Acinetobacter baumannii
+54348249,SAMN54348249,,LACPHL-BACT-2025-00555,,Homo sapiens,,,,,,,GCA_054457135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/457/135/GCA_054457135.1_ASM5445713v1,Acinetobacter baumannii
+54165672,SAMN54165672,,CRAB24088,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165671,SAMN54165671,,CRAB24087,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165670,SAMN54165670,,CRAB24086,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165669,SAMN54165669,,CRAB24085,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165668,SAMN54165668,,CRAB24083,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165667,SAMN54165667,,CRAB24082,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165666,SAMN54165666,,CRAB24081,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165665,SAMN54165665,,CRAB24078,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165664,SAMN54165664,,CRAB24077,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165663,SAMN54165663,,CRAB24076,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165662,SAMN54165662,,CRAB24075,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165661,SAMN54165661,,CRAB24074,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165660,SAMN54165660,,CRAB24073,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165659,SAMN54165659,,CRAB24072,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165658,SAMN54165658,,CRAB24071,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165657,SAMN54165657,,CRAB24070,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165656,SAMN54165656,,CRAB24069,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165655,SAMN54165655,,CRAB24068,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165654,SAMN54165654,,CRAB24067,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165653,SAMN54165653,,CRAB24066,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165652,SAMN54165652,,CRAB24065,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165651,SAMN54165651,,CRAB24064,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165650,SAMN54165650,,CRAB24063,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165649,SAMN54165649,,CRAB24062,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165648,SAMN54165648,,CRAB24061,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165647,SAMN54165647,,CRAB24060,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165646,SAMN54165646,,CRAB24059,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165645,SAMN54165645,,CRAB24058,patient,,2024,China: shanghai,,,,,GCA_054373055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/373/055/GCA_054373055.1_PDT003045622.1,Acinetobacter baumannii
+54165644,SAMN54165644,,CRAB24057,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165643,SAMN54165643,,CRAB24056,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165642,SAMN54165642,,CRAB24053,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165641,SAMN54165641,,CRAB24052,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165640,SAMN54165640,,CRAB24051,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165639,SAMN54165639,,CRAB24050,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165638,SAMN54165638,,CRAB24049,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165637,SAMN54165637,,CRAB24048,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165636,SAMN54165636,,CRAB24047,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165635,SAMN54165635,,CRAB24046,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165634,SAMN54165634,,CRAB24045,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165633,SAMN54165633,,CRAB24044,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii
+54165632,SAMN54165632,,CRAB24043,patient,,2024,China: shanghai,,,,,,,,,Acinetobacter baumannii

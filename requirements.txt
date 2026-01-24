@@ -5,6 +5,10 @@ transformers
 # Bioinformatics
 biopython
 
+# Data collection
+requests
+tqdm
+
 # Data science
 numpy
 pandas

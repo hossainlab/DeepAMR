@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54875024,SAMN54875024,,PNUSAE221323,stool,,2026-01-07,USA,,,,,,,,,Escherichia coli
+54875022,SAMN54875022,,PNUSAE221322,stool,,2026-01-09,USA,,,,,,,,,Escherichia coli
+54875019,SAMN54875019,,PNUSAE221320,stool,,2025-12-31,USA,,,,,,,,,Escherichia coli
+54874631,SAMN54874631,,PNUSAE221325,stool,,2026-01-04,USA,,,,,,,,,Escherichia coli
+54874628,SAMN54874628,,PNUSAE221321,stool,,2025-12-30,USA,,,,,,,,,Escherichia coli
+54874236,SAMN54874236,,PNUSAE221318,missing,,2025,USA,,,,,,,,,Escherichia coli
+54874235,SAMN54874235,,PNUSAE221319,missing,,2026,USA,,,,,,,,,Escherichia coli
+54874232,SAMN54874232,,PNUSAE221317,missing,,2025,USA,,,,,,,,,Escherichia coli
+54874182,SAMN54874182,,PNUSAE221316,missing,,2026,USA,,,,,,,,,Escherichia coli
+54874155,SAMN54874155,,PNUSAE221315,missing,,2026,USA,,,,,,,,,Escherichia coli
+54873388,SAMN54873388,,PNUSAE221313,missing,,2025,USA,,,,,,,,,Escherichia coli
+54873387,SAMN54873387,,PNUSAE221303,missing,,2026,USA,,,,,,,,,Escherichia coli
+54873383,SAMN54873383,,PNUSAE221314,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872973,SAMN54872973,,PNUSAE221312,missing,,2026,USA,,,,,,,,,Escherichia coli
+54872887,SAMN54872887,,PNUSAE221302,missing,,2026,USA,,,,,,,,,Escherichia coli
+54807666,SAMN54807666,,,Vaginal swab,Cattle,2025-09-01,Bangladesh:Dhaka,,,,,,,,,Escherichia coli
+54804728,SAMN54804728,,,Vaginal swab,Goat,2025-09-01,Bangladesh:Dhaka,,,,,,,,,Escherichia coli
+54872811,SAMN54872811,,PNUSAE221310,Missing,,2025,USA,,,,,,,,,Escherichia coli
+54872799,SAMN54872799,,PNUSAE221311,Missing,,2026,USA,,,,,,,,,Escherichia coli
+54872798,SAMN54872798,,PNUSAE221309,Missing,,2026,USA,,,,,,,,,Escherichia coli
+54872761,SAMN54872761,,4717,feces,Homo sapiens,2022-06-16,"China: Zhejiang, Hangzhou",,,,,,,,,Escherichia coli
+54872693,SAMN54872693,,PNUSAE221307,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872595,SAMN54872595,,PNUSAE221305,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872249,SAMN54872249,,PNUSAE221306,missing,,2026,USA,,,,,,,,,Escherichia coli
+54872248,SAMN54872248,,PNUSAE221292,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872244,SAMN54872244,,PNUSAE221304,missing,,2026-01-11,USA,,,,,,,,,Escherichia coli
+54872197,SAMN54872197,,PNUSAE221289,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872194,SAMN54872194,,PNUSAE221291,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872192,SAMN54872192,,PNUSAE221298,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872191,SAMN54872191,,PNUSAE221297,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872166,SAMN54872166,,PNUSAE221293,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872165,SAMN54872165,,PNUSAE221290,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872164,SAMN54872164,,PNUSAE221301,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872163,SAMN54872163,,PNUSAE221300,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872162,SAMN54872162,,PNUSAE221296,missing,,2025,USA,,,,,,,,,Escherichia coli
+54872161,SAMN54872161,,PNUSAE221299,missing,,2025,USA,,,,,,,,,Escherichia coli
+54871786,SAMN54871786,,PNUSAE221295,missing,,2025,USA,,,,,,,,,Escherichia coli
+54871785,SAMN54871785,,PNUSAE221294,missing,,2025,USA,,,,,,,,,Escherichia coli
+54871275,SAMN54871275,,PNUSAE221288,missing,,2025,USA,,,,,,,,,Escherichia coli
+54871217,SAMN54871217,,PNUSAE221287,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870991,SAMN54870991,,PNUSAE221285,missing,,2026,USA,,,,,,,,,Escherichia coli
+54870972,SAMN54870972,,PNUSAE221284,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870887,SAMN54870887,,PNUSAE221278,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870559,SAMN54870559,,2026EP-00019,sputum,Homo sapiens,2025,USA,,,,,,,,,Escherichia coli
+54870226,SAMN54870226,,PNUSAE221283,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870225,SAMN54870225,,PNUSAE221282,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870181,SAMN54870181,,PNUSAE221279,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870180,SAMN54870180,,PNUSAE221281,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870176,SAMN54870176,,PNUSAE221277,missing,,2025,USA,,,,,,,,,Escherichia coli
+54870050,SAMN54870050,,,urine,Homo sapiens,2026,USA,,,,,,,,,Escherichia coli
+54869979,SAMN54869979,,25MD12CB02-EC,Chicken chicken wings,,2025-12,missing,,,,,,,,,Escherichia coli
+54848585,SAMN54848585,,PNUSAE221273,missing,,2026,USA,,,,,,,,,Escherichia coli
+54848575,SAMN54848575,,PNUSAE221274,missing,,2026,USA,,,,,,,,,Escherichia coli
+54795238,SAMEA120657828,,,missing,,,,,,,,,,,,Escherichia coli
+54786236,SAMEA120937468,,,human vagina,,,,,,,,,,,,Escherichia coli
+54781493,SAMEA120658052,,,missing,,,,,,,,,,,,Escherichia coli
+54808057,SAMN54808057,,MSI26,Local fish market,Trichiurus lepturus,2024-04-24,Bangladesh:Patuakhali,,,,,,,,,Escherichia coli
+54807556,SAMN54807556,,DSI26,fish,Trichiurus lepturus,2025-11-13,Bangladesh: Patuakhali,,,,,,,,,Escherichia coli
+54771233,SAMN54771233,,01895259,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770968,SAMN54770968,,01895268,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770964,SAMN54770964,,01895255,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770939,SAMN54770939,,01895266,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770938,SAMN54770938,,01895262,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770937,SAMN54770937,,01895269,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770936,SAMN54770936,,01895263,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770881,SAMN54770881,,01895270,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770880,SAMN54770880,,01895261,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770873,SAMN54770873,,01895253,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770872,SAMN54770872,,01895074,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770871,SAMN54770871,,01895260,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770870,SAMN54770870,,01895071,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770869,SAMN54770869,,01895258,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770868,SAMN54770868,,01895272,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770866,SAMN54770866,,01895271,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770863,SAMN54770863,,01895265,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054666265.1,Contig,,,Escherichia coli
+54770862,SAMN54770862,,01895254,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Escherichia coli
+54770861,SAMN54770861,,01895264,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054666295.1,Contig,,,Escherichia coli
+54748889,SAMN54748889,,DH5[alpha],,,missing,missing,,,,,,,,,Escherichia coli
+54748888,SAMN54748888,,DH5[alpha],,,missing,missing,,,,,,,,,Escherichia coli
+54748887,SAMN54748887,,DH5[alpha],,,missing,missing,,,,,,,,,Escherichia coli
+54748886,SAMN54748886,,DH5[alpha],,,missing,missing,,,,,,,,,Escherichia coli
+54748885,SAMN54748885,,DH5[alpha],,,missing,missing,,,,,,,,,Escherichia coli
+54748884,SAMN54748884,,DH5[alpha],,,missing,missing,,,,,,,,,Escherichia coli
+54807259,SAMN54807259,,YZ_2_2_complete,Tool,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807258,SAMN54807258,,YZ_2_1_complete,Tool,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807257,SAMN54807257,,YJR_complete,Tool,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807256,SAMN54807256,,YDMW_2_complete,Sewage,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807255,SAMN54807255,,XS_1_1_complete,Tool,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807254,SAMN54807254,,XPFI_3_2_complete,Tool,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807253,SAMN54807253,,XPF_3_complete,Pork,,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54807248,SAMN54807248,,KPM-1,urine,Homo sapiens,2025-06-15,India,,,,,,,,,Escherichia coli
+54807192,SAMN54807192,,CFV-1,Cattle feces,,2024-11-24,India: Kanchipuram,,,,,,,,,Escherichia coli
+54804745,SAMN54804745,,,,Homo sapiens,,,,,,,,,,,Escherichia coli
+54804740,SAMN54804740,,,,Homo sapiens,,,,,,,,,,,Escherichia coli
+54804737,SAMN54804737,,,,Homo sapiens,,,,,,,,,,,Escherichia coli
+54804486,SAMN54804486,,PNUSAE220982,missing,,2025,USA,,,,,GCA_054666315.1,Contig,,,Escherichia coli
+54804162,SAMN54804162,,PNUSAE221235,missing,,2026,USA,,,,,GCA_054666215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/666/215/GCA_054666215.1_PDT003064384.1,Escherichia coli
+54804160,SAMN54804160,,PNUSAE221236,missing,,2026,USA,,,,,GCA_054661175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/661/175/GCA_054661175.1_PDT003064382.1,Escherichia coli
+54804159,SAMN54804159,,PNUSAE221232,missing,,2026,USA,,,,,GCA_054661995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/661/995/GCA_054661995.1_PDT003064381.1,Escherichia coli
+54804155,SAMN54804155,,PNUSAE221249,missing,,2025,USA,,,,,GCA_054662045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/045/GCA_054662045.1_PDT003064378.1,Escherichia coli
+54804154,SAMN54804154,,PNUSAE221237,missing,,2025,USA,,,,,GCA_054662155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/155/GCA_054662155.1_PDT003064372.1,Escherichia coli
+54804151,SAMN54804151,,PNUSAE221246,missing,,2025,USA,,,,,GCA_054662015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/015/GCA_054662015.1_PDT003064374.1,Escherichia coli
+54804150,SAMN54804150,,PNUSAE221247,missing,,2025,USA,,,,,GCA_054662975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/975/GCA_054662975.1_PDT003064376.1,Escherichia coli
+54804149,SAMN54804149,,PNUSAE221245,missing,,2025,USA,,,,,GCA_054662105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/105/GCA_054662105.1_PDT003064375.1,Escherichia coli
+54804147,SAMN54804147,,PNUSAE221248,missing,,2025,USA,,,,,GCA_054662275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/275/GCA_054662275.1_PDT003064368.1,Escherichia coli
+54804146,SAMN54804146,,PNUSAE221242,missing,,2025,USA,,,,,GCA_054662135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/135/GCA_054662135.1_PDT003064371.1,Escherichia coli
+54804143,SAMN54804143,,PNUSAE221243,missing,,2026,USA,,,,,GCA_054662235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/235/GCA_054662235.1_PDT003064370.1,Escherichia coli
+54804142,SAMN54804142,,PNUSAE221244,missing,,2025,USA,,,,,GCA_054662295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/295/GCA_054662295.1_PDT003064367.1,Escherichia coli
+54804138,SAMN54804138,,PNUSAE221229,missing,,2026,USA,,,,,GCA_054662375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/375/GCA_054662375.1_PDT003064366.1,Escherichia coli
+54804137,SAMN54804137,,PNUSAE221233,missing,,2025,USA,,,,,GCA_054662415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/415/GCA_054662415.1_PDT003064365.1,Escherichia coli
+54804135,SAMN54804135,,PNUSAE221230,missing,,2026,USA,,,,,GCA_054662435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/435/GCA_054662435.1_PDT003064363.1,Escherichia coli
+54804080,SAMN54804080,,PNUSAE221228,missing,,2026,USA,,,,,GCA_054662475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/475/GCA_054662475.1_PDT003064359.1,Escherichia coli
+54804077,SAMN54804077,,PNUSAE221238,missing,,2025,USA,,,,,GCA_054662515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/515/GCA_054662515.1_PDT003064356.1,Escherichia coli
+54804073,SAMN54804073,,PNUSAE221240,missing,,2025,USA,,,,,,,,,Escherichia coli
+54804071,SAMN54804071,,PNUSAE221241,missing,,2025,USA,,,,,GCA_054662545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/545/GCA_054662545.1_PDT003064350.1,Escherichia coli
+54804070,SAMN54804070,,PNUSAE221239,missing,,2025,USA,,,,,GCA_054662615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/615/GCA_054662615.1_PDT003064349.1,Escherichia coli
+54803922,SAMN54803922,,PNUSAE221234,missing,,2026,USA,,,,,GCA_054662635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/635/GCA_054662635.1_PDT003064341.1,Escherichia coli
+54803766,SAMN54803766,,UMB10257,,Homo sapiens,NA,NA,,,,,,,,,Escherichia coli
+54803649,SAMN54803649,,PNUSAE221226,missing,,2026,USA,,,,,GCA_054660115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/660/115/GCA_054660115.1_PDT003064313.1,Escherichia coli
+54803640,SAMN54803640,,PNUSAE221224,missing,,2026,USA,,,,,GCA_054657135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/657/135/GCA_054657135.1_PDT003064309.1,Escherichia coli
+54803512,SAMN54803512,,PNUSAE221225,missing,,2026,USA,,,,,GCA_054657195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/657/195/GCA_054657195.1_PDT003064301.1,Escherichia coli
+54803311,SAMN54803311,,PNUSAE221223,missing,,2026,USA,,,,,GCA_054657275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/657/275/GCA_054657275.1_PDT003064267.1,Escherichia coli
+54803282,SAMN54803282,,PNUSAE221222,missing,,2026,USA,,,,,GCA_054653675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/653/675/GCA_054653675.1_PDT003064178.1,Escherichia coli
+54802939,SAMN54802939,,PNUSAE221216,missing,,2026,USA,,,,,GCA_054653655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/653/655/GCA_054653655.1_PDT003064155.1,Escherichia coli
+54802937,SAMN54802937,,PNUSAE221217,missing,,2026,USA,,,,,GCA_054656795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/795/GCA_054656795.1_PDT003064153.1,Escherichia coli
+54802812,SAMN54802812,,PNUSAE221215,missing,,2026,USA,,,,,GCA_054653955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/653/955/GCA_054653955.1_PDT003064117.1,Escherichia coli
+54802624,SAMN54802624,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054653895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/653/895/GCA_054653895.1_PDT003064128.1,Escherichia coli
+54802200,SAMN54802200,,PNUSAE221214,human,,2025-12-31,USA,,,,,GCA_054651925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/925/GCA_054651925.1_PDT003063936.1,Escherichia coli
+54802179,SAMN54802179,,PNUSAE221213,human,,2026-01-03,USA,,,,,GCA_054652035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/035/GCA_054652035.1_PDT003063917.1,Escherichia coli
+54802078,SAMN54802078,,M8_H12_Plate 1_7_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802077,SAMN54802077,,M8_H12_Plate 1_7_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802076,SAMN54802076,,M7_G12_Plate 1_49_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802075,SAMN54802075,,M7_G12_Plate 1_49_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802074,SAMN54802074,,M6_F12_Plate 1_137_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802073,SAMN54802073,,M6_F12_Plate 1_137_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802072,SAMN54802072,,M5_E12_Plate 1_2_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802071,SAMN54802071,,M5_E12_Plate 1_2_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802070,SAMN54802070,,M4_D12_Plate 1_22_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802069,SAMN54802069,,M4_D12_Plate 1_22_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802068,SAMN54802068,,M3_C12_Plate 1_47_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802067,SAMN54802067,,M3_C12_Plate 1_47_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802066,SAMN54802066,,M2_B12_Plate 1_122_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802065,SAMN54802065,,M2_B12_Plate 1_122_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802064,SAMN54802064,,M1_A12_Plate 1_30_L001_R2_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802063,SAMN54802063,,M1_A12_Plate 1_30_L001_R1_001,,Mus musculus,2024-08-27,Portugal: Oeiras,,,,,,,,,Escherichia coli
+54802058,SAMN54802058,,PNUSAE221211,human,,2025-12-24,USA,,,,,GCA_054652135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/135/GCA_054652135.1_PDT003063898.1,Escherichia coli
+54802055,SAMN54802055,,PNUSAE221208,human,,2025-12-28,USA,,,,,GCA_054652055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/055/GCA_054652055.1_PDT003063905.1,Escherichia coli
+54802053,SAMN54802053,,PNUSAE221210,human,,2025-12-29,USA,,,,,GCA_054652255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/255/GCA_054652255.1_PDT003063903.1,Escherichia coli
+54802052,SAMN54802052,,PNUSAE221209,human,,2025-12-10,USA,,,,,GCA_054652175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/175/GCA_054652175.1_PDT003063896.1,Escherichia coli
+54802051,SAMN54802051,,PNUSAE221159,missing,,2026,USA,,,,,GCA_054652155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/155/GCA_054652155.1_PDT003063895.1,Escherichia coli
+54802050,SAMN54802050,,PNUSAE221212,human,,2025-12-31,USA,,,,,GCA_054652195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/195/GCA_054652195.1_PDT003063894.1,Escherichia coli
+54801948,SAMN54801948,,PNUSAE221206,missing,,2025,USA,,,,,GCA_054651625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/625/GCA_054651625.1_PDT003063868.1,Escherichia coli
+54801947,SAMN54801947,,26SC01CB02-EC,chicken,,2026-01,USA:SC,,,,,GCA_054651595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/595/GCA_054651595.1_PDT003063869.1,Escherichia coli
+54801401,SAMN54801401,,PNUSAE219981,missing,,2025,USA,,,,,GCA_054651695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/695/GCA_054651695.1_PDT003063847.1,Escherichia coli
+54801185,SAMN54801185,,2026EL-00013,Rectal swab,animal,2026,USA,,,,,,,,,Escherichia coli
+54800482,SAMN54800482,,PNUSAE221199,missing,,2025-12-30,USA,,,,,GCA_054649675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/649/675/GCA_054649675.1_PDT003063765.1,Escherichia coli
+54800481,SAMN54800481,,PNUSAE221197,missing,,2025-12-31,USA,,,,,GCA_054648675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/648/675/GCA_054648675.1_PDT003063766.1,Escherichia coli
+54800480,SAMN54800480,,PNUSAE221201,missing,,2025-12-28,USA,,,,,GCA_054649685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/649/685/GCA_054649685.1_PDT003063762.1,Escherichia coli
+54800479,SAMN54800479,,PNUSAE221202,missing,,2026-01-05,USA,,,,,GCA_054648755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/648/755/GCA_054648755.1_PDT003063760.1,Escherichia coli
+54800475,SAMN54800475,,PNUSAE221196,missing,,2025-12-28,USA,,,,,GCA_054648685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/648/685/GCA_054648685.1_PDT003063764.1,Escherichia coli
+54800474,SAMN54800474,,PNUSAE221198,missing,,2026-01-04,USA,,,,,GCA_054648715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/648/715/GCA_054648715.1_PDT003063763.1,Escherichia coli
+54800473,SAMN54800473,,PNUSAE221200,missing,,2026-01-04,USA,,,,,GCA_054649715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/649/715/GCA_054649715.1_PDT003063761.1,Escherichia coli
+54800012,SAMN54800012,,25MA12GT02-EC,ground turkey,,2026-01,USA:MA,,,,,GCA_054647455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/647/455/GCA_054647455.1_PDT003063540.1,Escherichia coli
+54799979,SAMN54799979,,PNUSAE221195,missing,,2026,USA,,,,,GCA_054650155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/155/GCA_054650155.1_PDT003063536.1,Escherichia coli
+54799968,SAMN54799968,,PNUSAE221191,missing,,2025,USA,,,,,GCA_054650295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/295/GCA_054650295.1_PDT003063510.1,Escherichia coli
+54799920,SAMN54799920,,PNUSAE221183,missing,,2025,USA,,,,,GCA_054650335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/335/GCA_054650335.1_PDT003063504.1,Escherichia coli
+54799918,SAMN54799918,,PNUSAE221193,missing,,2025,USA,,,,,GCA_054650305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/305/GCA_054650305.1_PDT003063503.1,Escherichia coli
+54799758,SAMN54799758,,PNUSAE221187,missing,,2025,USA,,,,,GCA_054647655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/647/655/GCA_054647655.1_PDT003063496.1,Escherichia coli
+54799757,SAMN54799757,,PNUSAE221188,missing,,2025,USA,,,,,GCA_054647635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/647/635/GCA_054647635.1_PDT003063497.1,Escherichia coli
+54799754,SAMN54799754,,PNUSAE221190,missing,,2025,USA,,,,,GCA_054650395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/395/GCA_054650395.1_PDT003063486.1,Escherichia coli
+54799619,SAMN54799619,,PNUSAE221180,missing,,2026,USA,,,,,GCA_054650495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/495/GCA_054650495.1_PDT003063457.1,Escherichia coli
+54799618,SAMN54799618,,PNUSAE221184,missing,,2026,USA,,,,,GCA_054650475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/475/GCA_054650475.1_PDT003063458.1,Escherichia coli
+54799615,SAMN54799615,,25MA12GT04-EC,ground turkey,,2026-01,USA:MA,,,,,GCA_054650435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/435/GCA_054650435.1_PDT003063467.1,Escherichia coli
+54799606,SAMN54799606,,PNUSAE221181,missing,,2025,USA,,,,,GCA_054650455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/455/GCA_054650455.1_PDT003063459.1,Escherichia coli
+54799526,SAMN54799526,,,Homo Sapiens clinical,Homo sapiens,2025-12-31,USA: Florida,,,,,GCA_054647595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/647/595/GCA_054647595.1_PDT003063519.1,Escherichia coli
+54799432,SAMN54799432,,PNUSAE221182,missing,,2026,USA,,,,,GCA_054650515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/515/GCA_054650515.1_PDT003063445.1,Escherichia coli
+54781219,SAMN54781219,,not collected,urine,Homo sapiens,2025,USA,,,,,GCA_054642785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/642/785/GCA_054642785.1_PDT003063154.1,Escherichia coli
+54781218,SAMN54781218,,not collected,urine,Homo sapiens,2025,USA,,,,,GCA_054642715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/642/715/GCA_054642715.1_PDT003063155.1,Escherichia coli
+54773623,SAMN54773623,,YZB_3,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773622,SAMN54773622,,YZB_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773621,SAMN54773621,,YZB_1,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773620,SAMN54773620,,YZ_2_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773619,SAMN54773619,,YZ_2_1,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773618,SAMN54773618,,YW_2,,Sewage,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773617,SAMN54773617,,YW_1,,Sewage,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773616,SAMN54773616,,YP_3,,Pork,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773615,SAMN54773615,,YP_2,,Pork,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773614,SAMN54773614,,YJR,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773613,SAMN54773613,,YDMW_3_2,,Sewage,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773612,SAMN54773612,,YDMW_2,,Sewage,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773611,SAMN54773611,,YD_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773610,SAMN54773610,,XS_2_1,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773609,SAMN54773609,,XS_1_1,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773608,SAMN54773608,,XPFS_3,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773607,SAMN54773607,,XPFI_3_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773606,SAMN54773606,,XPFI_3_1,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773605,SAMN54773605,,XPFC_3_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773604,SAMN54773604,,XPFC_3_1,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773603,SAMN54773603,,XPF_3,,Pork,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773602,SAMN54773602,,XP_2,,Pork,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773601,SAMN54773601,,XP_1,,Pork,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773600,SAMN54773600,,XD_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773599,SAMN54773599,,CZB_2,,Tool,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54773598,SAMN54773598,,CP_2,,Pork,2023-06-12,China:Heyuan,,,,,,,,,Escherichia coli
+54769251,SAMN54769251,,PNUSAE221166,missing,,2025,USA,,,,,GCA_054666235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/666/235/GCA_054666235.1_PDT003064383.1,Escherichia coli
+54768727,SAMN54768727,,PNUSAE221167,missing,,2025,USA,,,,,GCA_054662675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/662/675/GCA_054662675.1_PDT003064336.1,Escherichia coli
+54762745,SAMEA120264323,,,Isolated from sample of chilled clam at retail,,,,,,,,,,,,Escherichia coli
+54762584,SAMEA120264324,,,Isolated from sample of chilled clam at retail,,,,,,,,,,,,Escherichia coli
+54762321,SAMEA120965269,,EH1287,,,,,,,,,,,,,Escherichia coli
+54762293,SAMEA120965270,,EH127,,,,,,,,,,,,,Escherichia coli
+54762265,SAMEA120264322,,,Isolated from sample of frozen octopus at retail,,,,,,,,,,,,Escherichia coli
+54762128,SAMEA120264326,,,Isolated from sample of frozen shrimp at retail,,,,,,,,,,,,Escherichia coli
+54761992,SAMEA120965275,,EH5261,,,,,,,,,,,,,Escherichia coli
+54761980,SAMEA120264320,,,Isolated from sample of chilled clam at retail,,,,,,,,,,,,Escherichia coli
+54761868,SAMEA120965274,,EH5269,,,,,,,,,,,,,Escherichia coli
+54761656,SAMEA120965272,,EH5263,,,,,,,,,,,,,Escherichia coli
+54761586,SAMEA120965276,,EH5040,,,,,,,,,,,,,Escherichia coli
+54761533,SAMEA120965271,,EH5266,,,,,,,,,,,,,Escherichia coli
+54761388,SAMEA120264325,,,Isolated from sample of chilled mussel at retail,,,,,,,,,,,,Escherichia coli
+54761386,SAMEA120965273,,EH5279,,,,,,,,,,,,,Escherichia coli
+54760917,SAMEA120965278,,EH002,,,,,,,,,,,,,Escherichia coli
+54760810,SAMEA120965277,,EH1751,,,,,,,,,,,,,Escherichia coli
+54760788,SAMEA120264321,,,Isolated from sample of anchovy at retail,,,,,,,,,,,,Escherichia coli
+54760699,SAMEA120961125,,,,,,,,,,,,,,,Escherichia coli
+54771558,SAMN54771558,,EC-BJ-01,,,2026-01-15,China: Beijing,,,,,,,,,Escherichia coli
+54756497,SAMN54756497,,01894029,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054624405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/624/405/GCA_054624405.1_PDT003062253.1,Escherichia coli
+54756431,SAMN54756431,,01894081,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054624705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/624/705/GCA_054624705.1_PDT003062246.1,Escherichia coli
+54449705,SAMN54449705,,SPC044,surface of raw chicken meat collected from market,Gallus gallus,2022-06-28,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573115.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/115/GCF_054573115.1_ASM5457311v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/115/GCA_054573115.1_ASM5457311v1,Escherichia coli
+54449704,SAMN54449704,,CHH008-2,feces from toilet paper collected from market bathroom,Homo sapiens,2022-06-26,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573125.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/125/GCF_054573125.1_ASM5457312v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/125/GCA_054573125.1_ASM5457312v1,Escherichia coli
+54449703,SAMN54449703,,CPN007,surface of raw chicken meat collected from market,Gallus gallus,2022-06-26,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573155.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/155/GCF_054573155.1_ASM5457315v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/155/GCA_054573155.1_ASM5457315v1,Escherichia coli
+54449701,SAMN54449701,,CAB044-1,water collected from men's restroom sink at market,,2022-07-27,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573195.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/195/GCF_054573195.1_ASM5457319v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/195/GCA_054573195.1_ASM5457319v1,Escherichia coli
+54449700,SAMN54449700,,CAB043,water collected from men's restroom sink at market,,2022-07-27,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573175.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/175/GCF_054573175.1_ASM5457317v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/175/GCA_054573175.1_ASM5457317v1,Escherichia coli
+54449698,SAMN54449698,,SHH058-2,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-05,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573215.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/215/GCF_054573215.1_ASM5457321v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/215/GCA_054573215.1_ASM5457321v1,Escherichia coli
+54449696,SAMN54449696,,SPN072-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-19,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573235.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/235/GCF_054573235.1_ASM5457323v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/235/GCA_054573235.1_ASM5457323v1,Escherichia coli
+54449694,SAMN54449694,,SPN076-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-20,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573255.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/255/GCF_054573255.1_ASM5457325v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/255/GCA_054573255.1_ASM5457325v1,Escherichia coli
+54449691,SAMN54449691,,SPN027,surface of raw chicken meat collected from market,Gallus gallus,2022-06-21,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573275.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/275/GCF_054573275.1_ASM5457327v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/275/GCA_054573275.1_ASM5457327v1,Escherichia coli
+54449688,SAMN54449688,,SPN070-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-19,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573295.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/295/GCF_054573295.1_ASM5457329v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/295/GCA_054573295.1_ASM5457329v1,Escherichia coli
+54449686,SAMN54449686,,SPN069-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-19,"Guatemala: Guatemala,Santa Catarina Pinula",,,,,GCF_054573315.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/315/GCF_054573315.1_ASM5457331v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/315/GCA_054573315.1_ASM5457331v1,Escherichia coli
+54449685,SAMN54449685,,SPN068-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-19,"Guatemala: Guatemala,Santa Catarina Pinula",,,,,GCF_054573335.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/335/GCF_054573335.1_ASM5457333v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/335/GCA_054573335.1_ASM5457333v1,Escherichia coli
+54449684,SAMN54449684,,LPC009-1,surface of raw chicken meat collected from market,Gallus gallus,2022-06-28,"Guatemala: Guatemala,Guatemala City",,,,,GCF_054573355.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/355/GCF_054573355.1_ASM5457335v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/355/GCA_054573355.1_ASM5457335v1,Escherichia coli
+54449683,SAMN54449683,,SPN016-1,surface of raw chicken meat collected from market,Gallus gallus,2022-06-14,"Guatemala: Guatemala,Santa Catarina Pinula",,,,,GCF_054573375.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/375/GCF_054573375.1_ASM5457337v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/375/GCA_054573375.1_ASM5457337v1,Escherichia coli
+54449682,SAMN54449682,,LPC010-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-12,"Guatemala:Guatemala, Guatemala City",,,,,GCF_054573395.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/395/GCF_054573395.1_ASM5457339v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/395/GCA_054573395.1_ASM5457339v1,Escherichia coli
+54449681,SAMN54449681,,CHH038,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-10,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573415.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/415/GCF_054573415.1_ASM5457341v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/415/GCA_054573415.1_ASM5457341v1,Escherichia coli
+54449680,SAMN54449680,,CHH037-1,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-10,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573435.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/435/GCF_054573435.1_ASM5457343v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/435/GCA_054573435.1_ASM5457343v1,Escherichia coli
+54449679,SAMN54449679,,CHH035-1,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-10,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573455.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/455/GCF_054573455.1_ASM5457345v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/455/GCA_054573455.1_ASM5457345v1,Escherichia coli
+54449678,SAMN54449678,,CPN034-2,surface of raw chicken meat collected from market,Gallus gallus,2022-07-10,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573475.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/475/GCF_054573475.1_ASM5457347v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/475/GCA_054573475.1_ASM5457347v1,Escherichia coli
+54449677,SAMN54449677,,CPN034-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-10,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573495.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/495/GCF_054573495.1_ASM5457349v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/495/GCA_054573495.1_ASM5457349v1,Escherichia coli
+54449675,SAMN54449675,,CHH028-1,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-07,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573515.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/515/GCF_054573515.1_ASM5457351v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/515/GCA_054573515.1_ASM5457351v1,Escherichia coli
+54449674,SAMN54449674,,CHH026-1,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-07,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573555.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/555/GCF_054573555.1_ASM5457355v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/555/GCA_054573555.1_ASM5457355v1,Escherichia coli
+54449673,SAMN54449673,,CHH025-2,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-07,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573535.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/535/GCF_054573535.1_ASM5457353v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/535/GCA_054573535.1_ASM5457353v1,Escherichia coli
+54449672,SAMN54449672,,CHH025-1,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-07,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573575.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/575/GCF_054573575.1_ASM5457357v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/575/GCA_054573575.1_ASM5457357v1,Escherichia coli
+54449671,SAMN54449671,,CAB020-2,water collected from men's restroom sink at market,,2022-07-07,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573595.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/595/GCF_054573595.1_ASM5457359v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/595/GCA_054573595.1_ASM5457359v1,Escherichia coli
+54449670,SAMN54449670,,SPN061-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-05,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573635.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/635/GCF_054573635.1_ASM5457363v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/635/GCA_054573635.1_ASM5457363v1,Escherichia coli
+54449669,SAMN54449669,,CAB020-1,water collected from men's restroom sink at market,,2022-07-07,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573615.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/615/GCF_054573615.1_ASM5457361v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/615/GCA_054573615.1_ASM5457361v1,Escherichia coli
+54449668,SAMN54449668,,SPC065-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-12,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573655.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/655/GCF_054573655.1_ASM5457365v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/655/GCA_054573655.1_ASM5457365v1,Escherichia coli
+54449667,SAMN54449667,,SPC063,surface of raw chicken meat collected from market,Gallus gallus,2022-07-12,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573695.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/695/GCF_054573695.1_ASM5457369v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/695/GCA_054573695.1_ASM5457369v1,Escherichia coli
+54449666,SAMN54449666,,SHM032,feces from toilet paper collected from market bathroom,Homo sapiens,2022-06-21,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573675.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/675/GCF_054573675.1_ASM5457367v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/675/GCA_054573675.1_ASM5457367v1,Escherichia coli
+54449665,SAMN54449665,,CHH011-2,feces from toilet paper collected from market bathroom,Homo sapiens,2022-06-26,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573715.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/715/GCF_054573715.1_ASM5457371v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/715/GCA_054573715.1_ASM5457371v1,Escherichia coli
+54449664,SAMN54449664,,SHH058-1,feces from toilet paper collected from market bathroom,Homo sapiens,2022-07-05,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573755.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/755/GCF_054573755.1_ASM5457375v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/755/GCA_054573755.1_ASM5457375v1,Escherichia coli
+54449663,SAMN54449663,,CPN006-2,surface of raw chicken meat collected from market,Gallus gallus,2022-06-26,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573735.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/735/GCF_054573735.1_ASM5457373v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/735/GCA_054573735.1_ASM5457373v1,Escherichia coli
+54449662,SAMN54449662,,LPC008,surface of raw chicken meat collected from market,Gallus gallus,2022-06-28,"Guatemala:Guatemala, Guatemala City",,,,,GCF_054573815.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/815/GCF_054573815.1_ASM5457381v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/815/GCA_054573815.1_ASM5457381v1,Escherichia coli
+54449661,SAMN54449661,,LPC005,surface of raw chicken meat collected from market,Gallus gallus,2022-06-21,"Guatemala:Guatemala, Guatemala City",,,,,GCF_054573775.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/775/GCF_054573775.1_ASM5457377v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/775/GCA_054573775.1_ASM5457377v1,Escherichia coli
+54449660,SAMN54449660,,SPN042-1,surface of raw chicken meat collected from market,Gallus gallus,2022-06-28,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573795.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/795/GCF_054573795.1_ASM5457379v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/795/GCA_054573795.1_ASM5457379v1,Escherichia coli
+54449659,SAMN54449659,,SPN042-2,surface of raw chicken meat collected from market,Gallus gallus,2022-06-28,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573835.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/835/GCF_054573835.1_ASM5457383v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/835/GCA_054573835.1_ASM5457383v1,Escherichia coli
+54449658,SAMN54449658,,SPN005-1,surface of raw chicken meat collected from market,Gallus gallus,2022-06-07,"Guatemala:Guatemala, Santa Catarina Pinula",,,,,GCF_054573855.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/855/GCF_054573855.1_ASM5457385v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/855/GCA_054573855.1_ASM5457385v1,Escherichia coli
+54449657,SAMN54449657,,CPN018-1,surface of raw chicken meat collected from market,Gallus gallus,2022-07-04,"Guatemala:Chimaltenango, San Martin Jilotepeque",,,,,GCF_054573875.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/875/GCF_054573875.1_ASM5457387v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/875/GCA_054573875.1_ASM5457387v1,Escherichia coli
+54449656,SAMN54449656,,LPC009-2,surface of raw chicken meat collected from market,Gallus gallus,2022-06-28,"Guatemala:Guatemala, Guatemala City",,,,,GCF_054573895.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/573/895/GCF_054573895.1_ASM5457389v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/895/GCA_054573895.1_ASM5457389v1,Escherichia coli
+54769710,SAMN54769710,,PNUSAE221171,missing,,2026,USA,,,,,GCA_054600525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/600/525/GCA_054600525.1_PDT003062217.1,Escherichia coli
+54769696,SAMN54769696,,PNUSAE221160,missing,,2026,USA,,,,,GCA_054598115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/598/115/GCA_054598115.1_PDT003062210.1,Escherichia coli
+54769207,SAMN54769207,,PNUSAE221168,missing,,2026,USA,,,,,GCA_054598215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/598/215/GCA_054598215.1_PDT003062177.1,Escherichia coli
+54769203,SAMN54769203,,PNUSAE221169,missing,,2025,USA,,,,,,,,,Escherichia coli
+54769195,SAMN54769195,,,urine,Homo sapiens,2025,USA,,,,,GCA_054598325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/598/325/GCA_054598325.1_PDT003062154.1,Escherichia coli
+54768529,SAMN54768529,,,blood,Homo sapiens,2026,USA,,,,,GCA_054594935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/594/935/GCA_054594935.1_PDT003061994.1,Escherichia coli
+54768528,SAMN54768528,,,blood,Homo sapiens,2026,USA,,,,,GCA_054594905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/594/905/GCA_054594905.1_PDT003061995.1,Escherichia coli
+54768359,SAMN54768359,,2026HL-01025,axilla/groin/perianal,Homo sapiens,2026,USA,,,,,GCA_054595045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/045/GCA_054595045.1_PDT003061980.1,Escherichia coli
+54768356,SAMN54768356,,2026HL-01022,tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054596535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/596/535/GCA_054596535.1_PDT003061983.1,Escherichia coli
+54768354,SAMN54768354,,2026HL-01020,urine clean catch,Homo sapiens,2025,USA,,,,,GCA_054594965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/594/965/GCA_054594965.1_PDT003061985.1,Escherichia coli
+54768163,SAMN54768163,,2026EP-00005,"BODY FLUID, UNSP",Homo sapiens,2025,USA,,,,,GCA_054595245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/245/GCA_054595245.1_PDT003061963.1,Escherichia coli
+54768162,SAMN54768162,,2026EP-00009,urine,Homo sapiens,2025,USA,,,,,GCA_054593855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/593/855/GCA_054593855.1_PDT003061962.1,Escherichia coli
+54768065,SAMN54768065,,PNUSAE221150,missing,,2025,USA,,,,,GCA_054595375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/375/GCA_054595375.1_PDT003061948.1,Escherichia coli
+54767842,SAMN54767842,,PNUSAE221154,missing,,2026,USA,,,,,GCA_054590515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/515/GCA_054590515.1_PDT003061773.1,Escherichia coli
+54767839,SAMN54767839,,PNUSAE221156,missing,,2025,USA,,,,,GCA_054590295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/295/GCA_054590295.1_PDT003061775.1,Escherichia coli
+54767782,SAMN54767782,,PNUSAE221152,missing,,2026,USA,,,,,GCA_054590475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/475/GCA_054590475.1_PDT003061769.1,Escherichia coli
+54767780,SAMN54767780,,PNUSAE221157,missing,,2026,USA,,,,,GCA_054590395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/395/GCA_054590395.1_PDT003061768.1,Escherichia coli
+54767762,SAMN54767762,,PNUSAE221155,missing,,2026,USA,,,,,GCA_054590525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/525/GCA_054590525.1_PDT003061765.1,Escherichia coli
+54767761,SAMN54767761,,PNUSAE221158,missing,,2025,USA,,,,,GCA_054590415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/415/GCA_054590415.1_PDT003061766.1,Escherichia coli
+54767760,SAMN54767760,,PNUSAE221153,missing,,2025,USA,,,,,GCA_054590435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/435/GCA_054590435.1_PDT003061764.1,Escherichia coli
+54767693,SAMN54767693,,PNUSAE221146,missing,,2025,USA,,,,,GCA_054590075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/075/GCA_054590075.1_PDT003061758.1,Escherichia coli
+54767691,SAMN54767691,,PNUSAE221143,missing,,2025,USA,,,,,GCA_054589975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/589/975/GCA_054589975.1_PDT003061759.1,Escherichia coli
+54767690,SAMN54767690,,PNUSAE221144,missing,,2025,USA,,,,,GCA_054590175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/175/GCA_054590175.1_PDT003061753.1,Escherichia coli
+54767689,SAMN54767689,,PNUSAE221145,missing,,2025,USA,,,,,GCA_054590165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/165/GCA_054590165.1_PDT003061754.1,Escherichia coli
+54767688,SAMN54767688,,PNUSAE221148,missing,,2025,USA,,,,,GCA_054590045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/045/GCA_054590045.1_PDT003061756.1,Escherichia coli
+54767677,SAMN54767677,,PNUSAE221149,missing,,2025,USA,,,,,GCA_054590215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/215/GCA_054590215.1_PDT003061752.1,Escherichia coli
+54767676,SAMN54767676,,PNUSAE221147,missing,,2025,USA,,,,,GCA_054590335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/335/GCA_054590335.1_PDT003061750.1,Escherichia coli
+54766523,SAMN54766523,,25TN12GT02-EC,ground turkey,,2025-12,USA:TN,,,,,GCA_054590285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/285/GCA_054590285.1_PDT003061728.1,Escherichia coli
+54766460,SAMN54766460,,PNUSAE221131,stool,,2026-01-04,USA,,,,,GCA_054586375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/375/GCA_054586375.1_PDT003061723.1,Escherichia coli
+54766360,SAMN54766360,,PNUSAE221136,missing,,2026,USA,,,,,GCA_054586415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/415/GCA_054586415.1_PDT003061717.1,Escherichia coli
+54766046,SAMN54766046,,PNUSAE220942,missing,,2026,USA,,,,,GCA_054586535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/535/GCA_054586535.1_PDT003061681.1,Escherichia coli
+54766045,SAMN54766045,,PNUSAE221132,stool,,2026-01-10,USA,,,,,GCA_054586555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/555/GCA_054586555.1_PDT003061680.1,Escherichia coli
+54766043,SAMN54766043,,PNUSAE220941,missing,,2025,USA,,,,,GCA_054586575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/575/GCA_054586575.1_PDT003061679.1,Escherichia coli
+54766042,SAMN54766042,,PNUSAE221084,missing,,2026,USA,,,,,GCA_054586595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/595/GCA_054586595.1_PDT003061678.1,Escherichia coli
+54766040,SAMN54766040,,PNUSAE221135,missing,,2026,USA,,,,,GCA_054586635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/635/GCA_054586635.1_PDT003061676.1,Escherichia coli
+54766039,SAMN54766039,,PNUSAE220940,missing,,2025,USA,,,,,GCA_054586655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/655/GCA_054586655.1_PDT003061674.1,Escherichia coli
+54766034,SAMN54766034,,PNUSAE221133,stool,,2026-01-07,USA,,,,,GCA_054586665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/665/GCA_054586665.1_PDT003061675.1,Escherichia coli
+54766033,SAMN54766033,,PNUSAE220733,missing,,2025,USA,,,,,GCA_054586615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/615/GCA_054586615.1_PDT003061677.1,Escherichia coli
+54766022,SAMN54766022,,PNUSAE220943,missing,,2026,USA,,,,,GCA_054583575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/575/GCA_054583575.1_PDT003061647.1,Escherichia coli
+54766013,SAMN54766013,,PNUSAE221134,stool,,2025-12-30,USA,,,,,GCA_054583405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/405/GCA_054583405.1_PDT003061664.1,Escherichia coli
+54766010,SAMN54766010,,2025GO-00664,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/525/GCA_054583525.1_PDT003061653.1,Escherichia coli
+54766009,SAMN54766009,,2025GO-00663,Unknown,Homo sapiens,2026,USA,,,,,GCA_054585615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/585/615/GCA_054585615.1_PDT003061668.1,Escherichia coli
+54765993,SAMN54765993,,2025GO-00646,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/585/GCA_054583585.1_PDT003061649.1,Escherichia coli
+54765989,SAMN54765989,,2025GO-00642,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/545/GCA_054583545.1_PDT003061651.1,Escherichia coli
+54765987,SAMN54765987,,2025GO-00640,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/395/GCA_054583395.1_PDT003061662.1,Escherichia coli
+54765940,SAMN54765940,,PNUSAE220939,missing,,2025,USA,,,,,GCA_054583675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/675/GCA_054583675.1_PDT003061635.1,Escherichia coli
+54765712,SAMN54765712,,,wound,Homo sapiens,2026,USA,,,,,GCA_054584535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/535/GCA_054584535.1_PDT003061624.1,Escherichia coli
+54765101,SAMN54765101,,2026EL-00006,blood,Homo sapiens,2025,USA,,,,,GCA_054584275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/275/GCA_054584275.1_PDT003061569.1,Escherichia coli
+54765100,SAMN54765100,,2026EL-00005,urine,Homo sapiens,2025,USA,,,,,GCA_054584545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/545/GCA_054584545.1_PDT003061570.1,Escherichia coli
+54765075,SAMN54765075,,26SC01CG01-EC,chicken,,2026-01,USA:SC,,,,,GCA_054586255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/255/GCA_054586255.1_PDT003061333.1,Escherichia coli
+54764993,SAMN54764993,,PNUSAE221130,missing,,2025,USA,,,,,GCA_054586265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/265/GCA_054586265.1_PDT003061328.1,Escherichia coli
+54764962,SAMN54764962,,26SC01GT01-EC,turkey,,2026-01,USA:SC,,,,,GCA_054587075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/075/GCA_054587075.1_PDT003061301.1,Escherichia coli
+54764939,SAMN54764939,,26SC01CL01-EC,chicken,,2026-01,USA:SC,,,,,GCA_054587155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/155/GCA_054587155.1_PDT003061297.1,Escherichia coli
+54764938,SAMN54764938,,25SC12GB03-EC,beef,,2025-12,USA:SC,,,,,GCA_054587115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/115/GCA_054587115.1_PDT003061298.1,Escherichia coli
+54764859,SAMN54764859,,26SC01PC01-EC,Pork,,2026-01,USA:SC,,,,,GCA_054587135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/135/GCA_054587135.1_PDT003061294.1,Escherichia coli
+54764857,SAMN54764857,,PNUSAE221124,missing,,2025,USA,,,,,GCA_054587175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/175/GCA_054587175.1_PDT003061291.1,Escherichia coli
+54764840,SAMN54764840,,,Other (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/955/GCA_054586955.1_PDT003061311.1,Escherichia coli
+54764749,SAMN54764749,,PNUSAE221117,stool,,2026,USA,,,,,GCA_054587275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/275/GCA_054587275.1_PDT003061284.1,Escherichia coli
+54764748,SAMN54764748,,PNUSAE221118,stool,,2026,USA,,,,,GCA_054587295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/295/GCA_054587295.1_PDT003061283.1,Escherichia coli
+54752685,SAMN54752685,,PNUSAE221073,missing,,2025,USA,,,,,GCA_054595415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/415/GCA_054595415.1_PDT003061946.1,Escherichia coli
+54680167,SAMN54680167,,PNUSAE220950,stool,,2025,USA,,,,,,,,,Escherichia coli
+53649417,SAMN53649417,,,,,missing,missing,,,,,,,,,Escherichia coli
+53649416,SAMN53649416,,,,,missing,missing,,,,,,,,,Escherichia coli
+53649415,SAMN53649415,,,,,missing,missing,,,,,,,,,Escherichia coli
+53649414,SAMN53649414,,,,,missing,missing,,,,,,,,,Escherichia coli
+53649413,SAMN53649413,,,,,missing,missing,,,,,,,,,Escherichia coli
+53649412,SAMN53649412,,,,,missing,missing,,,,,,,,,Escherichia coli
+46890390,SAMN46890390,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+46889760,SAMN46889760,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+46889628,SAMN46889628,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+46889604,SAMN46889604,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+46889600,SAMN46889600,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+46889572,SAMN46889572,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+46889472,SAMN46889472,,,stool,,not applicable,missing,,,,,,,,,Escherichia coli
+54763818,SAMN54763818,,PNUSAE221116,missing,,2026,USA,,,,,GCA_054589825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/589/825/GCA_054589825.1_PDT003061162.1,Escherichia coli
+54763815,SAMN54763815,,PNUSAE221115,missing,,2025,USA,,,,,GCA_054589855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/589/855/GCA_054589855.1_PDT003061161.1,Escherichia coli
+54763780,SAMN54763780,,PNUSAE221035,missing,,2025,USA,,,,,GCA_054583035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/035/GCA_054583035.1_PDT003061158.1,Escherichia coli
+54763172,SAMN54763172,,PNUSAE221097,missing,,2025,USA,,,,,GCA_054582765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/765/GCA_054582765.1_PDT003061051.1,Escherichia coli
+54763171,SAMN54763171,,PNUSAE221113,missing,,2026,USA,,,,,,,,,Escherichia coli
+54763144,SAMN54763144,,PNUSAE221095,missing,,2025,USA,,,,,GCA_054582755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/755/GCA_054582755.1_PDT003061050.1,Escherichia coli
+54763143,SAMN54763143,,PNUSAE221094,missing,,2025,USA,,,,,GCA_054582735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/735/GCA_054582735.1_PDT003061052.1,Escherichia coli
+54763062,SAMN54763062,,PNUSAE221104,missing,,2025,USA,,,,,GCA_054582795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/795/GCA_054582795.1_PDT003061049.1,Escherichia coli
+54763061,SAMN54763061,,PNUSAE221099,missing,,2025,USA,,,,,GCA_054582805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/805/GCA_054582805.1_PDT003061046.1,Escherichia coli
+54762446,SAMN54762446,,PNUSAE221100,missing,,2025,USA,,,,,,,,,Escherichia coli
+54762430,SAMN54762430,,PNUSAE221106,missing,,2025,USA,,,,,,,,,Escherichia coli
+54762423,SAMN54762423,,PNUSAE221105,missing,,2025,USA,,,,,,,,,Escherichia coli
+54762417,SAMN54762417,,PNUSAE221109,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760687,SAMN54760687,,PNUSAE221093,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760684,SAMN54760684,,PNUSAE221107,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760536,SAMN54760536,,PNUSAE221092,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760535,SAMN54760535,,PNUSAE221101,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760534,SAMN54760534,,PNUSAE221108,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760464,SAMN54760464,,PNUSAE221112,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760463,SAMN54760463,,PNUSAE221110,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760462,SAMN54760462,,PNUSAE221111,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760400,SAMN54760400,,PNUSAE221096,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760399,SAMN54760399,,PNUSAE221098,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760372,SAMN54760372,,PNUSAE221103,missing,,2025,USA,,,,,,,,,Escherichia coli
+54760371,SAMN54760371,,PNUSAE221102,missing,,2025,USA,,,,,GCA_054574745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/745/GCA_054574745.1_PDT003061023.1,Escherichia coli
+54748669,SAMEA116304139,,,,,,,,,,,,,,,Escherichia coli
+54748363,SAMEA116304125,,,,,,,,,,,,,,,Escherichia coli
+54748340,SAMEA116304440,,,,,,,,,,,,,,,Escherichia coli
+54748199,SAMEA116304225,,,,,,,,,,,,,,,Escherichia coli
+54748040,SAMEA120955709,,EH5271,,,,,,,,,,,,,Escherichia coli
+54747824,SAMEA116304076,,,,,,,,,,,,,,,Escherichia coli
+54747250,SAMEA116304645,,,,,,,,,,,,,,,Escherichia coli
+54747216,SAMEA116304319,,,,,,,,,,,,,,,Escherichia coli
+54747165,SAMEA120955706,,EH5273,,,,,,,,,,,,,Escherichia coli
+54747095,SAMEA120955705,,EH5275,,,,,,,,,,,,,Escherichia coli
+54747090,SAMEA116304186,,,,,,,,,,,,,,,Escherichia coli
+54746939,SAMEA116304510,,,,,,,,,,,,,,,Escherichia coli
+54746904,SAMEA116304520,,,,,,,,,,,,,,,Escherichia coli
+54746791,SAMEA116304583,,,,,,,,,,,,,,,Escherichia coli
+54746698,SAMEA120955708,,EH5277,,,,,,,,,,,,,Escherichia coli
+54746686,SAMEA116304223,,,,,,,,,,,,,,,Escherichia coli
+54746549,SAMEA116304147,,,,,,,,,,,,,,,Escherichia coli
+54746385,SAMEA120955712,,EH5268,,,,,,,,,,,,,Escherichia coli
+54746289,SAMEA116304277,,,,,,,,,,,,,,,Escherichia coli
+54746205,SAMEA116304071,,,,,,,,,,,,,,,Escherichia coli
+54746153,SAMEA116304201,,,,,,,,,,,,,,,Escherichia coli
+54746067,SAMEA116304433,,,,,,,,,,,,,,,Escherichia coli
+54745843,SAMEA116304286,,,,,,,,,,,,,,,Escherichia coli
+54745778,SAMEA116304336,,,,,,,,,,,,,,,Escherichia coli
+54745540,SAMEA116304590,,,,,,,,,,,,,,,Escherichia coli
+54745528,SAMEA116304388,,,,,,,,,,,,,,,Escherichia coli
+54745504,SAMEA116304181,,,,,,,,,,,,,,,Escherichia coli
+54745490,SAMEA116304456,,,,,,,,,,,,,,,Escherichia coli
+54745466,SAMEA116304236,,,,,,,,,,,,,,,Escherichia coli
+54745187,SAMEA120955707,,EH5278,,,,,,,,,,,,,Escherichia coli
+54745132,SAMEA116304231,,,,,,,,,,,,,,,Escherichia coli
+54744885,SAMEA116304129,,,,,,,,,,,,,,,Escherichia coli
+54744846,SAMEA116304390,,,,,,,,,,,,,,,Escherichia coli
+54744714,SAMEA116304249,,,,,,,,,,,,,,,Escherichia coli
+54744690,SAMEA116304355,,,,,,,,,,,,,,,Escherichia coli
+54744471,SAMEA120955710,,EH5276,,,,,,,,,,,,,Escherichia coli
+54744378,SAMEA116304532,,,,,,,,,,,,,,,Escherichia coli
+54744321,SAMEA116304034,,,,,,,,,,,,,,,Escherichia coli
+54744250,SAMEA116304517,,,,,,,,,,,,,,,Escherichia coli
+54744224,SAMEA116304018,,,,,,,,,,,,,,,Escherichia coli
+54744213,SAMEA116304161,,,,,,,,,,,,,,,Escherichia coli
+54744210,SAMEA116304021,,,,,,,,,,,,,,,Escherichia coli
+54744151,SAMEA116304367,,,,,,,,,,,,,,,Escherichia coli
+54744064,SAMEA116304401,,,,,,,,,,,,,,,Escherichia coli
+54744027,SAMEA120955704,,EH5267,,,,,,,,,,,,,Escherichia coli
+54743937,SAMEA116304373,,,,,,,,,,,,,,,Escherichia coli
+54743861,SAMEA120955711,,EH5280,,,,,,,,,,,,,Escherichia coli
+54758401,SAMN54758401,,18-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758400,SAMN54758400,,17-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758399,SAMN54758399,,16-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758398,SAMN54758398,,15-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758397,SAMN54758397,,14-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758396,SAMN54758396,,13-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758395,SAMN54758395,,12-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758394,SAMN54758394,,11-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758393,SAMN54758393,,10-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758392,SAMN54758392,,9-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758391,SAMN54758391,,8-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758390,SAMN54758390,,7-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758389,SAMN54758389,,6-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758388,SAMN54758388,,5-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758387,SAMN54758387,,4-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758386,SAMN54758386,,3-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758385,SAMN54758385,,2-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758384,SAMN54758384,,1-CV601-BEL,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758383,SAMN54758383,,13-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758382,SAMN54758382,,11-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758381,SAMN54758381,,10-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758380,SAMN54758380,,9-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758379,SAMN54758379,,8-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758378,SAMN54758378,,7-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758377,SAMN54758377,,6-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758376,SAMN54758376,,5-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758375,SAMN54758375,,3-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758374,SAMN54758374,,2-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758373,SAMN54758373,,1-CV601-NOR,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758372,SAMN54758372,,16-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758371,SAMN54758371,,15-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758370,SAMN54758370,,14-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758369,SAMN54758369,,13-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758368,SAMN54758368,,12-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758367,SAMN54758367,,11-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758366,SAMN54758366,,10-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758365,SAMN54758365,,9-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758364,SAMN54758364,,8-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758363,SAMN54758363,,7-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758362,SAMN54758362,,6-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758361,SAMN54758361,,5-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758360,SAMN54758360,,4-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758359,SAMN54758359,,3-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758358,SAMN54758358,,2-CV601-ESP,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758357,SAMN54758357,,84-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758356,SAMN54758356,,82-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758355,SAMN54758355,,81-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758354,SAMN54758354,,80-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758353,SAMN54758353,,79-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758352,SAMN54758352,,77-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758351,SAMN54758351,,76-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758350,SAMN54758350,,75-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758349,SAMN54758349,,65-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758348,SAMN54758348,,50-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758347,SAMN54758347,,49-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758346,SAMN54758346,,47-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758345,SAMN54758345,,46-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758344,SAMN54758344,,42-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758343,SAMN54758343,,41-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54758342,SAMN54758342,,18-CV601-SWE,CV601 E. coli transconjugant with plasmid(s) from environmental donor,,2024,Sweden: Laboratory,,,,,,,,,Escherichia coli
+54738249,SAMN54738249,,01894017,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054573975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/975/GCA_054573975.1_PDT003060435.1,Escherichia coli
+54738211,SAMN54738211,,01894024,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/035/GCA_054574035.1_PDT003060434.1,Escherichia coli
+54738210,SAMN54738210,,01894018,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/075/GCA_054574075.1_PDT003060433.1,Escherichia coli
+54738209,SAMN54738209,,01894020,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/055/GCA_054574055.1_PDT003060432.1,Escherichia coli
+54738207,SAMN54738207,,01894023,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/115/GCA_054574115.1_PDT003060430.1,Escherichia coli
+54738205,SAMN54738205,,01894030,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/135/GCA_054574135.1_PDT003060429.1,Escherichia coli
+54738203,SAMN54738203,,01894028,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/195/GCA_054574195.1_PDT003060427.1,Escherichia coli
+54738202,SAMN54738202,,01894019,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/235/GCA_054574235.1_PDT003060423.1,Escherichia coli
+54738201,SAMN54738201,,01894021,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/155/GCA_054574155.1_PDT003060428.1,Escherichia coli
+54738200,SAMN54738200,,01894013,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/175/GCA_054574175.1_PDT003060426.1,Escherichia coli
+54738199,SAMN54738199,,01894026,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/245/GCA_054574245.1_PDT003060424.1,Escherichia coli
+54738198,SAMN54738198,,01894025,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054574215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/215/GCA_054574215.1_PDT003060425.1,Escherichia coli
+54755863,SAMN54755863,,PNUSAE221089,missing,,2025,USA,,,,,GCA_054574295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/295/GCA_054574295.1_PDT003060337.1,Escherichia coli
+54755862,SAMN54755862,,PNUSAE221090,missing,,2026,USA,,,,,GCA_054574275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/275/GCA_054574275.1_PDT003060338.1,Escherichia coli
+54755860,SAMN54755860,,PNUSAE221091,missing,,2026,USA,,,,,GCA_054574335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/335/GCA_054574335.1_PDT003060334.1,Escherichia coli
+54755859,SAMN54755859,,PNUSAE221086,missing,,2025,USA,,,,,GCA_054574695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/695/GCA_054574695.1_PDT003060336.1,Escherichia coli
+54755858,SAMN54755858,,PNUSAE221088,missing,,2025,USA,,,,,GCA_054574315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/574/315/GCA_054574315.1_PDT003060335.1,Escherichia coli
+54755857,SAMN54755857,,PNUSAE221087,missing,,2025,USA,,,,,GCA_054563315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/563/315/GCA_054563315.1_PDT003060168.1,Escherichia coli
+53669773,SAMN53669773,,PRO_A-2576-6M-A_ESBL,feces,Homo sapiens,2023-03-10,Tanzania,,,,,GCF_054388855.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/855/GCF_054388855.1_PRO_A-2576-6M-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/855/GCA_054388855.1_PRO_A-2576-6M-A_ESBL,Escherichia coli
+53669772,SAMN53669772,,PRO_A-2567-6M-A_ESBL,feces,Homo sapiens,2023-03-08,Tanzania,,,,,GCF_054388835.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/835/GCF_054388835.1_PRO_A-2567-6M-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/835/GCA_054388835.1_PRO_A-2567-6M-A_ESBL,Escherichia coli
+53669771,SAMN53669771,,PRO_A-1551-6M-A_ESBL,feces,Homo sapiens,2022-10-21,Tanzania,,,,,GCF_054388875.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/875/GCF_054388875.1_PRO_A-1551-6M-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/875/GCA_054388875.1_PRO_A-1551-6M-A_ESBL,Escherichia coli
+53669770,SAMN53669770,,PRO_A-1534-6M-A_ESBL,feces,Homo sapiens,2022-10-25,Tanzania,,,,,GCF_054388895.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/895/GCF_054388895.1_PRO_A-1534-6M-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/895/GCA_054388895.1_PRO_A-1534-6M-A_ESBL,Escherichia coli
+53669769,SAMN53669769,,PRO_A-1505-6W-A_ESBL,feces,Homo sapiens,2022-05-30,Tanzania,,,,,GCF_054388915.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/915/GCF_054388915.1_PRO_A-1505-6W-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/915/GCA_054388915.1_PRO_A-1505-6W-A_ESBL,Escherichia coli
+53669768,SAMN53669768,,PRO_A-1504-6M-A_ESBL,feces,Homo sapiens,2022-10-14,Tanzania,,,,,GCF_054388935.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/935/GCF_054388935.1_PRO_A-1504-6M-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/935/GCA_054388935.1_PRO_A-1504-6M-A_ESBL,Escherichia coli
+53669767,SAMN53669767,,PRO_A-1496-6W-A_ESBL,feces,Homo sapiens,2022-06-05,Tanzania,,,,,GCF_054388965.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/965/GCF_054388965.1_PRO_A-1496-6W-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/965/GCA_054388965.1_PRO_A-1496-6W-A_ESBL,Escherichia coli
+53669766,SAMN53669766,,PRO_A-1490-6W-A_ESBL,feces,Homo sapiens,2022-05-31,Tanzania,,,,,GCF_054388995.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/995/GCF_054388995.1_PRO_A-1490-6W-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/995/GCA_054388995.1_PRO_A-1490-6W-A_ESBL,Escherichia coli
+53669765,SAMN53669765,,PRO_A-1482-6W-A_ESBL,feces,Homo sapiens,2022-06-02,Tanzania,,,,,GCF_054388955.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/388/955/GCF_054388955.1_PRO_A-1482-6W-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/388/955/GCA_054388955.1_PRO_A-1482-6W-A_ESBL,Escherichia coli

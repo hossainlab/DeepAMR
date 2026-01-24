@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54875861,SAMN54875861,,,mobile device,,2020-04,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875860,SAMN54875860,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875859,SAMN54875859,,,mobile device,,2019-06,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875858,SAMN54875858,,,mobile device,,2019-06,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875857,SAMN54875857,,,mobile device,,2019-06,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875856,SAMN54875856,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875855,SAMN54875855,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875854,SAMN54875854,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54875853,SAMN54875853,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Staphylococcus aureus
+54762636,SAMEA120959364,,,nasal swab,,,,,,,,,,,,Staphylococcus aureus
+54762357,SAMEA120959363,,,nasal swab,,,,,,,,,,,,Staphylococcus aureus
+54762181,SAMEA120959365,,,nasal swab,,,,,,,,,,,,Staphylococcus aureus
+54761842,SAMEA120959362,,,nasal swab,,,,,,,,,,,,Staphylococcus aureus
+54760843,SAMEA120959361,,,nasal swab,,,,,,,,,,,,Staphylococcus aureus
+54760743,SAMEA120959366,,,nasal swab,,,,,,,,,,,,Staphylococcus aureus
+54748471,SAMEA116304291,,,,,,,,,,,,,,,Staphylococcus aureus
+54748030,SAMEA116304417,,,,,,,,,,,,,,,Staphylococcus aureus
+54747230,SAMEA116304362,,,,,,,,,,,,,,,Staphylococcus aureus
+54746741,SAMEA116304296,,,,,,,,,,,,,,,Staphylococcus aureus
+54746526,SAMEA116304084,,,,,,,,,,,,,,,Staphylococcus aureus
+54745921,SAMEA116304299,,,,,,,,,,,,,,,Staphylococcus aureus
+54745815,SAMEA116304628,,,,,,,,,,,,,,,Staphylococcus aureus
+54745701,SAMEA116304239,,,,,,,,,,,,,,,Staphylococcus aureus
+54745491,SAMEA116304392,,,,,,,,,,,,,,,Staphylococcus aureus
+54744684,SAMEA116304525,,,,,,,,,,,,,,,Staphylococcus aureus
+54744520,SAMEA116304411,,,,,,,,,,,,,,,Staphylococcus aureus
+54103789,SAMN54103789,,not provided,sputum,Homo sapiens,2023-11,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54103788,SAMN54103788,,not provided,sputum,Homo sapiens,2023-10,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54103787,SAMN54103787,,not provided,sputum,Homo sapiens,2023-09,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54103786,SAMN54103786,,not provided,sputum,Homo sapiens,2023-03,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54103785,SAMN54103785,,not provided,sputum,Homo sapiens,2022-12,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54103784,SAMN54103784,,not provided,sputum,Homo sapiens,2022-11,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54103783,SAMN54103783,,not provided,sputum,Homo sapiens,2022-11,Kazakhstan: Karaganda,,,,,,,,,Staphylococcus aureus
+54613047,SAMN54613047,,Sa43LFONT,milk,,2024,South Africa: Dr Kenneth Kaunda District Municipality,,,,,,,,,Staphylococcus aureus
+54613046,SAMN54613046,,Sa3RFONT,milk,,2024,South Africa: Dr Kenneth Kaunda District Municipality,,,,,,,,,Staphylococcus aureus
+54613045,SAMN54613045,,Sa50RH,milk,,2024,South Africa: Dr Kenneth Kaunda District Municipality,,,,,,,,,Staphylococcus aureus
+54613044,SAMN54613044,,Sa45RF2,milk,,2024,South Africa: Dr Kenneth Kaunda District Municipality,,,,,,,,,Staphylococcus aureus
+54613043,SAMN54613043,,Sa25LH1,milk,,2024,South Africa: Dr Kenneth Kaunda District Municipality,,,,,,,,,Staphylococcus aureus
+54727120,SAMN54727120,,IMRA191,wound,Homo sapiens,2021-01-08,Malaysia: Selangor,,,,,,,,,Staphylococcus aureus
+54693082,SAMEA120862935,,,,,,,,,,,,,,,Staphylococcus aureus
+54712450,SAMN54712450,,ST152,wheelchair handle,not applicable,2020-01-16,Tanzania: Mwanza,,,,,,,,,Staphylococcus aureus
+54712436,SAMN54712436,,ST8,rectal swab,Homo sapiens,2020-04-06,Tanzania: Mwanza,,,,,,,,,Staphylococcus aureus
+54692311,SAMN54692311,,UMB1068,,Homo sapiens,NA,NA,,,,,,,,,Staphylococcus aureus
+54685747,SAMN54685747,,not applicable,Tumour,Homo sapiens,2021-10-12,Australia: Adelaide,,,,,,,,,Staphylococcus aureus
+54685742,SAMN54685742,,not applicable,Tumour,Homo sapiens,2021-10-12,Australia: Adelaide,,,,,,,,,Staphylococcus aureus
+54685719,SAMN54685719,,not applicable,Oral swab,Homo sapiens,2021-08-10,Australia: Adelaide,,,,,,,,,Staphylococcus aureus
+54685712,SAMN54685712,,not applicable,Tumour,Homo sapiens,2021-08-10,Australia: Adelaide,,,,,,,,,Staphylococcus aureus
+54685711,SAMN54685711,,not applicable,Oral swab,Homo sapiens,2021-08-10,Australia: Adelaide,,,,,,,,,Staphylococcus aureus
+54615923,SAMN54615923,,Sa48RNI,milk,,2024,South Africa: Dr Kenneth Kaunda District,,,,,,,,,Staphylococcus aureus
+54615922,SAMN54615922,,Sa44LF2,milk,,2024,South Africa: Dr Kenneth Kaunda District,,,,,,,,,Staphylococcus aureus
+54614330,SAMN54614330,,Sa48RNI,milk,,2024,South Africa: Dr Kenneth Kaunda District,,,,,,,,,Staphylococcus aureus
+54614329,SAMN54614329,,Sa44LH,milk,,2024,South Africa: Dr Kenneth Kaunda District,,,,,,,,,Staphylococcus aureus
+54614328,SAMN54614328,,Sa44LF2,milk,,2024,South Africa: Dr Kenneth Kaunda District,,,,,,,,,Staphylococcus aureus
+54605021,SAMN54605021,,UMB11740,,Homo sapiens,NA,NA,,,,,,,,,Staphylococcus aureus
+54608384,SAMEA116304641,,,,,,,,,,,,,,,Staphylococcus aureus
+54596230,SAMN54596230,,TP8090-D6,Dairy milk,Bos taurus,2025,Canada: Sainte-Anne-de-Bellevue,,,,,GCA_054634315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/634/315/GCA_054634315.1_ASM5463431v1,Staphylococcus aureus
+54596229,SAMN54596229,,TP8090-B6,Dairy milk,Bos taurus,2025,Canada: Sainte-Anne-de-Bellevue,,,,,GCA_054634335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/634/335/GCA_054634335.1_ASM5463433v1,Staphylococcus aureus
+54596202,SAMN54596202,,725Q1-9926Q4-E5,Dairy milk,Bos taurus,2025,Canada: Sainte-Anne-de-Bellevue,,,,,GCA_054634875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/634/875/GCA_054634875.1_ASM5463487v1,Staphylococcus aureus
+54586967,SAMN54586967,,not applicable,nares,Homo sapiens,2025-12-29,USA,,,,,GCA_054486805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/805/GCA_054486805.1_PDT003053260.1,Staphylococcus aureus
+54586966,SAMN54586966,,not applicable,nares,Homo sapiens,2025-12-29,USA,,,,,GCA_054486825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/825/GCA_054486825.1_PDT003053261.1,Staphylococcus aureus
+54578590,SAMN54578590,,IMRB214,urine,Homo sapiens,2020-02-17,Malaysia: Selangor,,,,,,,,,Staphylococcus aureus
+54566320,SAMN54566320,,1140/12,nasal swab,Homo sapiens,2009-01-29,Luxembourg: Luxembourg,,,,,,,,,Staphylococcus aureus
+54566307,SAMN54566307,,2363/09,blood,Homo sapiens,2009-04-30,Poland: Gorlice,,,,,,,,,Staphylococcus aureus
+54566303,SAMN54566303,,2711/09,blood,Homo sapiens,2009-05-08,Poland: Warszawa,,,,,,,,,Staphylococcus aureus
+54566291,SAMN54566291,,10432/11,blood,Homo sapiens,2011-05-14,Poland: Lublin,,,,,,,,,Staphylococcus aureus
+54566289,SAMN54566289,,3956/13,blood,Homo sapiens,2013-09-05,Poland: Inowroclaw,,,,,,,,,Staphylococcus aureus
+54546442,SAMN54546442,,2027/06,blood,Homo sapiens,2006-07-07,Poland: Wolomin,,,,,,,,,Staphylococcus aureus
+54531393,SAMN54531393,,missing,not collected,not collected,2023-07-01,China: Changsha,,,,,,,,,Staphylococcus aureus
+54531392,SAMN54531392,,missing,not collected,not collected,2023-07-01,China: Changsha,,,,,,,,,Staphylococcus aureus
+54531391,SAMN54531391,,missing,not collected,not collected,2023-07-01,China: Changsha,,,,,,,,,Staphylococcus aureus
+54531390,SAMN54531390,,missing,not collected,not collected,2023-07-01,China: Changsha,,,,,,,,,Staphylococcus aureus
+54531389,SAMN54531389,,missing,not collected,not collected,2023-07-01,China: Changsha,,,,,,,,,Staphylococcus aureus
+54531388,SAMN54531388,,missing,not collected,not collected,2023-07-01,China: Changsha,,,,,,,,,Staphylococcus aureus
+54509352,SAMN54509352,,,missing,missing,missing,USA,,,,,GCA_054408605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/605/GCA_054408605.1_PDT003048056.1,Staphylococcus aureus
+53838643,SAMN53838643,,ME01D3112,blood,Homo sapiens,2024-12-05,China:Hunan,,,,,,,,,Staphylococcus aureus
+53838642,SAMN53838642,,TNE5789,bronchoalveolar lavage fluid,Homo sapiens,2024-12-05,China:Hunan,,,,,,,,,Staphylococcus aureus
+54492852,SAMN54492852,,DSM 110565,laboratory culture,not provided,2023-12-06,not provided,,,,,,,,,Staphylococcus aureus
+54440322,SAMN54440322,,02,bronchoalveolar lavage fluid,Homo sapiens,2023-07-04,China:Hefei,,,,,GCF_054462195.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/462/195/GCF_054462195.1_ASM5446219v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/462/195/GCA_054462195.1_ASM5446219v1,Staphylococcus aureus
+54439218,SAMN54439218,,GZ261,,Homo sapiens,2023,"China: Shenzhen, Guangdong",,,,,,,,,Staphylococcus aureus
+54179245,SAMN54179245,,marc.niicuss.904,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179244,SAMN54179244,,marc.niicuss.903,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179243,SAMN54179243,,marc.niicuss.902,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179242,SAMN54179242,,marc.niicuss.901,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179241,SAMN54179241,,marc.niicuss.900,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179240,SAMN54179240,,marc.niicuss.899,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179239,SAMN54179239,,marc.niicuss.898,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179238,SAMN54179238,,marc.niicuss.897,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179237,SAMN54179237,,marc.niicuss.896,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179236,SAMN54179236,,marc.niicuss.895,surveillance swabs,Homo sapiens,2024-02-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179235,SAMN54179235,,marc.niicuss.894,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179234,SAMN54179234,,marc.niicuss.893,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179233,SAMN54179233,,marc.niicuss.892,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179232,SAMN54179232,,marc.niicuss.891,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179231,SAMN54179231,,marc.niicuss.890,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179230,SAMN54179230,,marc.niicuss.889,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179229,SAMN54179229,,marc.niicuss.888,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179228,SAMN54179228,,marc.niicuss.887,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179227,SAMN54179227,,marc.niicuss.886,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179226,SAMN54179226,,marc.niicuss.885,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179225,SAMN54179225,,marc.niicuss.884,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179224,SAMN54179224,,marc.niicuss.883,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179223,SAMN54179223,,marc.niicuss.882,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179222,SAMN54179222,,marc.niicuss.881,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179221,SAMN54179221,,marc.niicuss.880,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179220,SAMN54179220,,marc.niicuss.879,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179219,SAMN54179219,,marc.niicuss.878,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179218,SAMN54179218,,marc.niicuss.877,surveillance swabs,Homo sapiens,2024-02-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179217,SAMN54179217,,marc.niicuss.876,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179216,SAMN54179216,,marc.niicuss.875,surveillance swabs,Homo sapiens,2024-02-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179215,SAMN54179215,,marc.niicuss.874,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179214,SAMN54179214,,marc.niicuss.873,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179213,SAMN54179213,,marc.niicuss.872,surveillance swabs,Homo sapiens,2024-01-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179212,SAMN54179212,,marc.niicuss.871,surveillance swabs,Homo sapiens,2024-01-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179211,SAMN54179211,,marc.niicuss.870,surveillance swabs,Homo sapiens,2024-01-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179210,SAMN54179210,,marc.niicuss.869,surveillance swabs,Homo sapiens,2024-01-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179209,SAMN54179209,,marc.niicuss.868,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179208,SAMN54179208,,marc.niicuss.867,surveillance swabs,Homo sapiens,2024-01-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179207,SAMN54179207,,marc.niicuss.866,surveillance swabs,Homo sapiens,2024-01-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179206,SAMN54179206,,marc.niicuss.865,surveillance swabs,Homo sapiens,2023-12-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179205,SAMN54179205,,marc.niicuss.864,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179204,SAMN54179204,,marc.niicuss.863,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179203,SAMN54179203,,marc.niicuss.862,surveillance swabs,Homo sapiens,2024-01-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179202,SAMN54179202,,marc.niicuss.861,surveillance swabs,Homo sapiens,2024-01-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179201,SAMN54179201,,marc.niicuss.860,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179200,SAMN54179200,,marc.niicuss.859,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179199,SAMN54179199,,marc.niicuss.858,surveillance swabs,Homo sapiens,2023-12-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179198,SAMN54179198,,marc.niicuss.857,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179197,SAMN54179197,,marc.niicuss.856,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179196,SAMN54179196,,marc.niicuss.855,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179195,SAMN54179195,,marc.niicuss.854,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179194,SAMN54179194,,marc.niicuss.853,surveillance swabs,Homo sapiens,2024-01-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179193,SAMN54179193,,marc.niicuss.852,surveillance swabs,Homo sapiens,2024-01-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179192,SAMN54179192,,marc.niicuss.851,surveillance swabs,Homo sapiens,2024-01-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179191,SAMN54179191,,marc.niicuss.850,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179190,SAMN54179190,,marc.niicuss.849,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179189,SAMN54179189,,marc.niicuss.848,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179188,SAMN54179188,,marc.niicuss.847,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179187,SAMN54179187,,marc.niicuss.846,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179186,SAMN54179186,,marc.niicuss.845,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179185,SAMN54179185,,marc.niicuss.844,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179184,SAMN54179184,,marc.niicuss.843,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179183,SAMN54179183,,marc.niicuss.842,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179182,SAMN54179182,,marc.niicuss.841,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179181,SAMN54179181,,marc.niicuss.840,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179180,SAMN54179180,,marc.niicuss.839,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179179,SAMN54179179,,marc.niicuss.838,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179178,SAMN54179178,,marc.niicuss.837,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179177,SAMN54179177,,marc.niicuss.836,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179176,SAMN54179176,,marc.niicuss.835,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179175,SAMN54179175,,marc.niicuss.834,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179174,SAMN54179174,,marc.niicuss.833,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179173,SAMN54179173,,marc.niicuss.832,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179172,SAMN54179172,,marc.niicuss.831,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179171,SAMN54179171,,marc.niicuss.830,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179170,SAMN54179170,,marc.niicuss.829,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179169,SAMN54179169,,marc.niicuss.828,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179168,SAMN54179168,,marc.niicuss.827,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179167,SAMN54179167,,marc.niicuss.826,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179166,SAMN54179166,,marc.niicuss.825,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179165,SAMN54179165,,marc.niicuss.824,surveillance swabs,Homo sapiens,2023-11-21,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179164,SAMN54179164,,marc.niicuss.823,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179163,SAMN54179163,,marc.niicuss.822,surveillance swabs,Homo sapiens,2023-11-22,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179162,SAMN54179162,,marc.niicuss.821,surveillance swabs,Homo sapiens,2023-11-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179161,SAMN54179161,,marc.niicuss.820,surveillance swabs,Homo sapiens,2023-11-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179160,SAMN54179160,,marc.niicuss.819,surveillance swabs,Homo sapiens,2023-11-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179159,SAMN54179159,,marc.niicuss.818,surveillance swabs,Homo sapiens,2023-11-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179158,SAMN54179158,,marc.niicuss.817,surveillance swabs,Homo sapiens,2023-11-20,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179157,SAMN54179157,,marc.niicuss.816,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179156,SAMN54179156,,marc.niicuss.815,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179155,SAMN54179155,,marc.niicuss.814,surveillance swabs,Homo sapiens,2023-10-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179154,SAMN54179154,,marc.niicuss.813,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179153,SAMN54179153,,marc.niicuss.812,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179152,SAMN54179152,,marc.niicuss.811,surveillance swabs,Homo sapiens,2023-10-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179151,SAMN54179151,,marc.niicuss.810,surveillance swabs,Homo sapiens,2023-10-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179150,SAMN54179150,,marc.niicuss.809,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179149,SAMN54179149,,marc.niicuss.808,surveillance swabs,Homo sapiens,2023-10-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179114,SAMN54179114,,marc.niicuss.807,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179113,SAMN54179113,,marc.niicuss.806,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179112,SAMN54179112,,marc.niicuss.805,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179111,SAMN54179111,,marc.niicuss.804,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179110,SAMN54179110,,marc.niicuss.803,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179109,SAMN54179109,,marc.niicuss.802,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179108,SAMN54179108,,marc.niicuss.801,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179107,SAMN54179107,,marc.niicuss.800,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179106,SAMN54179106,,marc.niicuss.799,surveillance swabs,Homo sapiens,2023-10-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179105,SAMN54179105,,marc.niicuss.798,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179104,SAMN54179104,,marc.niicuss.797,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179103,SAMN54179103,,marc.niicuss.796,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179102,SAMN54179102,,marc.niicuss.795,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179101,SAMN54179101,,marc.niicuss.794,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179100,SAMN54179100,,marc.niicuss.793,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179099,SAMN54179099,,marc.niicuss.792,surveillance swabs,Homo sapiens,2023-10-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179098,SAMN54179098,,marc.niicuss.702,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179097,SAMN54179097,,marc.niicuss.701,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179096,SAMN54179096,,marc.niicuss.700,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179095,SAMN54179095,,marc.niicuss.699,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179094,SAMN54179094,,marc.niicuss.698,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179093,SAMN54179093,,marc.niicuss.697,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179092,SAMN54179092,,marc.niicuss.696,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179091,SAMN54179091,,marc.niicuss.695,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179090,SAMN54179090,,marc.niicuss.694,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179089,SAMN54179089,,marc.niicuss.693,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179088,SAMN54179088,,marc.niicuss.692,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179087,SAMN54179087,,marc.niicuss.691,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179086,SAMN54179086,,marc.niicuss.690,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179085,SAMN54179085,,marc.niicuss.689,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179084,SAMN54179084,,marc.niicuss.688,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179083,SAMN54179083,,marc.niicuss.687,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179082,SAMN54179082,,marc.niicuss.686,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179081,SAMN54179081,,marc.niicuss.685,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179080,SAMN54179080,,marc.niicuss.684,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179079,SAMN54179079,,marc.niicuss.683,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179078,SAMN54179078,,marc.niicuss.682,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179077,SAMN54179077,,marc.niicuss.681,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179076,SAMN54179076,,marc.niicuss.680,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179075,SAMN54179075,,marc.niicuss.679,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179074,SAMN54179074,,marc.niicuss.678,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179073,SAMN54179073,,marc.niicuss.677,surveillance swabs,Homo sapiens,2023-06-28,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179072,SAMN54179072,,marc.niicuss.676,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179071,SAMN54179071,,marc.niicuss.675,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179070,SAMN54179070,,marc.niicuss.674,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179069,SAMN54179069,,marc.niicuss.673,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179068,SAMN54179068,,marc.niicuss.672,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179067,SAMN54179067,,marc.niicuss.671,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179066,SAMN54179066,,marc.niicuss.670,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179065,SAMN54179065,,marc.niicuss.669,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179064,SAMN54179064,,marc.niicuss.668,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179063,SAMN54179063,,marc.niicuss.667,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179062,SAMN54179062,,marc.niicuss.666,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179061,SAMN54179061,,marc.niicuss.665,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179060,SAMN54179060,,marc.niicuss.664,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179059,SAMN54179059,,marc.niicuss.663,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179058,SAMN54179058,,marc.niicuss.662,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179057,SAMN54179057,,marc.niicuss.661,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179056,SAMN54179056,,marc.niicuss.660,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179055,SAMN54179055,,marc.niicuss.659,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179054,SAMN54179054,,marc.niicuss.658,surveillance swabs,Homo sapiens,2023-06-26,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179053,SAMN54179053,,marc.niicuss.657,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179052,SAMN54179052,,marc.niicuss.656,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179051,SAMN54179051,,marc.niicuss.655,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179050,SAMN54179050,,marc.niicuss.654,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179049,SAMN54179049,,marc.niicuss.653,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179048,SAMN54179048,,marc.niicuss.652,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179047,SAMN54179047,,marc.niicuss.651,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179046,SAMN54179046,,marc.niicuss.650,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179045,SAMN54179045,,marc.niicuss.649,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179044,SAMN54179044,,marc.niicuss.648,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179043,SAMN54179043,,marc.niicuss.647,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179042,SAMN54179042,,marc.niicuss.646,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179041,SAMN54179041,,marc.niicuss.645,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179040,SAMN54179040,,marc.niicuss.644,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179039,SAMN54179039,,marc.niicuss.643,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179038,SAMN54179038,,marc.niicuss.642,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179037,SAMN54179037,,marc.niicuss.641,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179036,SAMN54179036,,marc.niicuss.640,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179035,SAMN54179035,,marc.niicuss.639,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179034,SAMN54179034,,marc.niicuss.638,surveillance swabs,Homo sapiens,2023-06-27,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179033,SAMN54179033,,marc.niicuss.637,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179032,SAMN54179032,,marc.niicuss.636,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179031,SAMN54179031,,marc.niicuss.635,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179030,SAMN54179030,,marc.niicuss.634,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179029,SAMN54179029,,marc.niicuss.633,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179028,SAMN54179028,,marc.niicuss.632,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179027,SAMN54179027,,marc.niicuss.631,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179026,SAMN54179026,,marc.niicuss.630,surveillance swabs,Homo sapiens,2023-05-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179025,SAMN54179025,,marc.niicuss.629,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179024,SAMN54179024,,marc.niicuss.628,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179023,SAMN54179023,,marc.niicuss.627,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179022,SAMN54179022,,marc.niicuss.626,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179021,SAMN54179021,,marc.niicuss.625,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179020,SAMN54179020,,marc.niicuss.624,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179019,SAMN54179019,,marc.niicuss.623,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179018,SAMN54179018,,marc.niicuss.622,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179017,SAMN54179017,,marc.niicuss.621,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179016,SAMN54179016,,marc.niicuss.620,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179015,SAMN54179015,,marc.niicuss.619,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179014,SAMN54179014,,marc.niicuss.618,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179013,SAMN54179013,,marc.niicuss.617,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179012,SAMN54179012,,marc.niicuss.616,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179011,SAMN54179011,,marc.niicuss.615,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179010,SAMN54179010,,marc.niicuss.614,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179009,SAMN54179009,,marc.niicuss.613,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179008,SAMN54179008,,marc.niicuss.612,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179007,SAMN54179007,,marc.niicuss.611,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179006,SAMN54179006,,marc.niicuss.610,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179005,SAMN54179005,,marc.niicuss.609,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179004,SAMN54179004,,marc.niicuss.608,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179003,SAMN54179003,,marc.niicuss.607,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179002,SAMN54179002,,marc.niicuss.606,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179001,SAMN54179001,,marc.niicuss.605,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54179000,SAMN54179000,,marc.niicuss.604,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178999,SAMN54178999,,marc.niicuss.603,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178998,SAMN54178998,,marc.niicuss.602,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178997,SAMN54178997,,marc.niicuss.601,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178996,SAMN54178996,,marc.niicuss.600,surveillance swabs,Homo sapiens,2023-05-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178995,SAMN54178995,,marc.niicuss.599,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178994,SAMN54178994,,marc.niicuss.598,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178993,SAMN54178993,,marc.niicuss.597,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178992,SAMN54178992,,marc.niicuss.596,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178991,SAMN54178991,,marc.niicuss.595,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178990,SAMN54178990,,marc.niicuss.594,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178989,SAMN54178989,,marc.niicuss.593,surveillance swabs,Homo sapiens,2023-05-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178988,SAMN54178988,,marc.niicuss.592,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178987,SAMN54178987,,marc.niicuss.591,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178986,SAMN54178986,,marc.niicuss.590,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178985,SAMN54178985,,marc.niicuss.589,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178984,SAMN54178984,,marc.niicuss.588,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178983,SAMN54178983,,marc.niicuss.587,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178982,SAMN54178982,,marc.niicuss.586,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178981,SAMN54178981,,marc.niicuss.585,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178980,SAMN54178980,,marc.niicuss.584,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178979,SAMN54178979,,marc.niicuss.583,surveillance swabs,Homo sapiens,2023-05-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178978,SAMN54178978,,marc.niicuss.582,surveillance swabs,Homo sapiens,2023-05-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178977,SAMN54178977,,marc.niicuss.581,surveillance swabs,Homo sapiens,2023-05-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178976,SAMN54178976,,marc.niicuss.580,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178975,SAMN54178975,,marc.niicuss.579,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178974,SAMN54178974,,marc.niicuss.578,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178973,SAMN54178973,,marc.niicuss.577,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178972,SAMN54178972,,marc.niicuss.576,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178971,SAMN54178971,,marc.niicuss.575,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178970,SAMN54178970,,marc.niicuss.574,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178969,SAMN54178969,,marc.niicuss.573,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178968,SAMN54178968,,marc.niicuss.572,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178967,SAMN54178967,,marc.niicuss.571,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178966,SAMN54178966,,marc.niicuss.570,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178965,SAMN54178965,,marc.niicuss.569,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178964,SAMN54178964,,marc.niicuss.568,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178963,SAMN54178963,,marc.niicuss.567,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178962,SAMN54178962,,marc.niicuss.566,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178961,SAMN54178961,,marc.niicuss.565,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178960,SAMN54178960,,marc.niicuss.564,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178959,SAMN54178959,,marc.niicuss.563,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178958,SAMN54178958,,marc.niicuss.562,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178957,SAMN54178957,,marc.niicuss.561,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178956,SAMN54178956,,marc.niicuss.560,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178955,SAMN54178955,,marc.niicuss.559,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178954,SAMN54178954,,marc.niicuss.558,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178953,SAMN54178953,,marc.niicuss.557,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178952,SAMN54178952,,marc.niicuss.556,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178951,SAMN54178951,,marc.niicuss.555,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178950,SAMN54178950,,marc.niicuss.554,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178949,SAMN54178949,,marc.niicuss.553,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178948,SAMN54178948,,marc.niicuss.552,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178947,SAMN54178947,,marc.niicuss.551,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178946,SAMN54178946,,marc.niicuss.550,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178945,SAMN54178945,,marc.niicuss.549,surveillance swabs,Homo sapiens,2023-04-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178944,SAMN54178944,,marc.niicuss.548,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178943,SAMN54178943,,marc.niicuss.547,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178942,SAMN54178942,,marc.niicuss.546,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178941,SAMN54178941,,marc.niicuss.545,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178940,SAMN54178940,,marc.niicuss.544,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178939,SAMN54178939,,marc.niicuss.543,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178938,SAMN54178938,,marc.niicuss.542,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178937,SAMN54178937,,marc.niicuss.541,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178936,SAMN54178936,,marc.niicuss.540,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178935,SAMN54178935,,marc.niicuss.539,surveillance swabs,Homo sapiens,2023-04-18,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178934,SAMN54178934,,marc.niicuss.538,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178933,SAMN54178933,,marc.niicuss.537,surveillance swabs,Homo sapiens,2023-04-19,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178932,SAMN54178932,,marc.niicuss.536,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178931,SAMN54178931,,marc.niicuss.535,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178930,SAMN54178930,,marc.niicuss.534,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178929,SAMN54178929,,marc.niicuss.533,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178928,SAMN54178928,,marc.niicuss.532,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178927,SAMN54178927,,marc.niicuss.531,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178926,SAMN54178926,,marc.niicuss.530,surveillance swabs,Homo sapiens,2023-04-17,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178925,SAMN54178925,,marc.niicuss.529,surveillance swabs,Homo sapiens,2023-03-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178924,SAMN54178924,,marc.niicuss.528,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178923,SAMN54178923,,marc.niicuss.527,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178922,SAMN54178922,,marc.niicuss.526,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178921,SAMN54178921,,marc.niicuss.525,surveillance swabs,Homo sapiens,2023-03-16,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178920,SAMN54178920,,marc.niicuss.524,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178919,SAMN54178919,,marc.niicuss.523,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178918,SAMN54178918,,marc.niicuss.522,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178917,SAMN54178917,,marc.niicuss.521,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178916,SAMN54178916,,marc.niicuss.520,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178915,SAMN54178915,,marc.niicuss.519,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178914,SAMN54178914,,marc.niicuss.518,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178913,SAMN54178913,,marc.niicuss.517,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178912,SAMN54178912,,marc.niicuss.516,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178911,SAMN54178911,,marc.niicuss.515,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178910,SAMN54178910,,marc.niicuss.514,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178909,SAMN54178909,,marc.niicuss.513,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178908,SAMN54178908,,marc.niicuss.512,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178907,SAMN54178907,,marc.niicuss.511,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178906,SAMN54178906,,marc.niicuss.510,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178905,SAMN54178905,,marc.niicuss.509,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178904,SAMN54178904,,marc.niicuss.508,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178903,SAMN54178903,,marc.niicuss.507,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178902,SAMN54178902,,marc.niicuss.506,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178901,SAMN54178901,,marc.niicuss.505,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178900,SAMN54178900,,marc.niicuss.504,surveillance swabs,Homo sapiens,2023-03-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178899,SAMN54178899,,marc.niicuss.503,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178898,SAMN54178898,,marc.niicuss.502,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178897,SAMN54178897,,marc.niicuss.501,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178896,SAMN54178896,,marc.niicuss.500,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178895,SAMN54178895,,marc.niicuss.499,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178894,SAMN54178894,,marc.niicuss.498,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178893,SAMN54178893,,marc.niicuss.497,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178892,SAMN54178892,,marc.niicuss.496,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178891,SAMN54178891,,marc.niicuss.495,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178890,SAMN54178890,,marc.niicuss.494,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178889,SAMN54178889,,marc.niicuss.493,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178888,SAMN54178888,,marc.niicuss.492,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178887,SAMN54178887,,marc.niicuss.491,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178886,SAMN54178886,,marc.niicuss.490,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178885,SAMN54178885,,marc.niicuss.489,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178884,SAMN54178884,,marc.niicuss.488,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178883,SAMN54178883,,marc.niicuss.487,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178882,SAMN54178882,,marc.niicuss.486,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178881,SAMN54178881,,marc.niicuss.485,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178880,SAMN54178880,,marc.niicuss.484,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178879,SAMN54178879,,marc.niicuss.483,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178878,SAMN54178878,,marc.niicuss.482,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178877,SAMN54178877,,marc.niicuss.481,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178876,SAMN54178876,,marc.niicuss.480,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178875,SAMN54178875,,marc.niicuss.479,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178874,SAMN54178874,,marc.niicuss.478,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178873,SAMN54178873,,marc.niicuss.477,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178872,SAMN54178872,,marc.niicuss.476,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178871,SAMN54178871,,marc.niicuss.475,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178870,SAMN54178870,,marc.niicuss.474,surveillance swabs,Homo sapiens,2023-03-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178869,SAMN54178869,,marc.niicuss.473,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178868,SAMN54178868,,marc.niicuss.472,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178867,SAMN54178867,,marc.niicuss.471,surveillance swabs,Homo sapiens,2023-03-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178866,SAMN54178866,,marc.niicuss.470,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178865,SAMN54178865,,marc.niicuss.469,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178864,SAMN54178864,,marc.niicuss.468,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178863,SAMN54178863,,marc.niicuss.467,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178862,SAMN54178862,,marc.niicuss.466,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178861,SAMN54178861,,marc.niicuss.465,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178860,SAMN54178860,,marc.niicuss.464,surveillance swabs,Homo sapiens,2023-02-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178859,SAMN54178859,,marc.niicuss.463,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178858,SAMN54178858,,marc.niicuss.462,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178857,SAMN54178857,,marc.niicuss.461,surveillance swabs,Homo sapiens,2023-02-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178856,SAMN54178856,,marc.niicuss.460,surveillance swabs,Homo sapiens,2023-02-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178855,SAMN54178855,,marc.niicuss.459,surveillance swabs,Homo sapiens,2023-02-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178854,SAMN54178854,,marc.niicuss.458,surveillance swabs,Homo sapiens,2023-02-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178853,SAMN54178853,,marc.niicuss.457,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178852,SAMN54178852,,marc.niicuss.456,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178851,SAMN54178851,,marc.niicuss.455,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178850,SAMN54178850,,marc.niicuss.454,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178849,SAMN54178849,,marc.niicuss.453,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178848,SAMN54178848,,marc.niicuss.452,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178847,SAMN54178847,,marc.niicuss.451,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178846,SAMN54178846,,marc.niicuss.450,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178845,SAMN54178845,,marc.niicuss.449,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178844,SAMN54178844,,marc.niicuss.448,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178843,SAMN54178843,,marc.niicuss.447,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178842,SAMN54178842,,marc.niicuss.446,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178841,SAMN54178841,,marc.niicuss.445,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178840,SAMN54178840,,marc.niicuss.444,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178839,SAMN54178839,,marc.niicuss.443,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178838,SAMN54178838,,marc.niicuss.442,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178837,SAMN54178837,,marc.niicuss.441,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178836,SAMN54178836,,marc.niicuss.440,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178835,SAMN54178835,,marc.niicuss.439,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178834,SAMN54178834,,marc.niicuss.438,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178833,SAMN54178833,,marc.niicuss.437,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178832,SAMN54178832,,marc.niicuss.436,surveillance swabs,Homo sapiens,2023-02-14,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178831,SAMN54178831,,marc.niicuss.435,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178830,SAMN54178830,,marc.niicuss.434,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178829,SAMN54178829,,marc.niicuss.433,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178828,SAMN54178828,,marc.niicuss.432,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178827,SAMN54178827,,marc.niicuss.431,surveillance swabs,Homo sapiens,2023-02-15,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178826,SAMN54178826,,marc.niicuss.430,surveillance swabs,Homo sapiens,2023-02-13,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178825,SAMN54178825,,marc.niicuss.429,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178824,SAMN54178824,,marc.niicuss.428,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178823,SAMN54178823,,marc.niicuss.427,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178822,SAMN54178822,,marc.niicuss.426,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178821,SAMN54178821,,marc.niicuss.425,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178820,SAMN54178820,,marc.niicuss.424,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178819,SAMN54178819,,marc.niicuss.423,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178818,SAMN54178818,,marc.niicuss.422,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178817,SAMN54178817,,marc.niicuss.421,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178816,SAMN54178816,,marc.niicuss.420,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178815,SAMN54178815,,marc.niicuss.419,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178653,SAMN54178653,,marc.niicuss.418,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178652,SAMN54178652,,marc.niicuss.417,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178651,SAMN54178651,,marc.niicuss.416,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178650,SAMN54178650,,marc.niicuss.415,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178649,SAMN54178649,,marc.niicuss.414,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178648,SAMN54178648,,marc.niicuss.413,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178647,SAMN54178647,,marc.niicuss.412,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178646,SAMN54178646,,marc.niicuss.411,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178645,SAMN54178645,,marc.niicuss.410,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178644,SAMN54178644,,marc.niicuss.409,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178643,SAMN54178643,,marc.niicuss.408,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178642,SAMN54178642,,marc.niicuss.407,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178641,SAMN54178641,,marc.niicuss.406,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178640,SAMN54178640,,marc.niicuss.405,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178639,SAMN54178639,,marc.niicuss.404,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178638,SAMN54178638,,marc.niicuss.403,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178637,SAMN54178637,,marc.niicuss.402,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178636,SAMN54178636,,marc.niicuss.401,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178635,SAMN54178635,,marc.niicuss.400,surveillance swabs,Homo sapiens,2023-01-11,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178634,SAMN54178634,,marc.niicuss.399,surveillance swabs,Homo sapiens,2023-01-09,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178633,SAMN54178633,,marc.niicuss.398,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178632,SAMN54178632,,marc.niicuss.397,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178631,SAMN54178631,,marc.niicuss.396,surveillance swabs,Homo sapiens,2023-01-10,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus
+54178630,SAMN54178630,,marc.niicuss.395,surveillance swabs,Homo sapiens,2023-01-09,"USA: Philadelphia, PA",,,,,,,,,Staphylococcus aureus

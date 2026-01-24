@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54875852,SAMN54875852,,,mobile device,,2020-06,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875851,SAMN54875851,,,mobile device,,2020-06,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875850,SAMN54875850,,,mobile device,,2020-06,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875849,SAMN54875849,,,mobile device,,2020-06,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875848,SAMN54875848,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875847,SAMN54875847,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875846,SAMN54875846,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875845,SAMN54875845,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875844,SAMN54875844,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875843,SAMN54875843,,,mobile device,,2019-07,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875842,SAMN54875842,,,mobile device,,2019-06,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875841,SAMN54875841,,,mobile device,,2019-06,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875840,SAMN54875840,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875839,SAMN54875839,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875838,SAMN54875838,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875837,SAMN54875837,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875836,SAMN54875836,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875835,SAMN54875835,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875834,SAMN54875834,,,mobile device,,2019-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875833,SAMN54875833,,,mobile device,,2018-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875832,SAMN54875832,,,mobile device,,2018-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875831,SAMN54875831,,,mobile device,,2018-05,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875830,SAMN54875830,,,mobile device,,2018-04,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875829,SAMN54875829,,,mobile device,,2018-03,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875828,SAMN54875828,,,mobile device,,2018-04,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54875827,SAMN54875827,,,mobile device,,2018-04,Germany: Frankfurt am Main,,,,,,,,,Enterococcus faecium
+54803515,SAMN54803515,,UMB10283,,Homo sapiens,NA,NA,,,,,,,,,Enterococcus faecium
+54803490,SAMN54803490,,FSIS12642608,Animal-Swine-Sow (cecal),,2026,USA:VA,,,,,GCA_054656315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/315/GCA_054656315.1_PDT003064286.1,Enterococcus faecium
+54803419,SAMN54803419,,FSIS12642605,Animal-Cattle-Beef Cow (cecal),,2026,USA:CA,,,,,GCA_054656395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/395/GCA_054656395.1_PDT003064284.1,Enterococcus faecium
+54803413,SAMN54803413,,FSIS12642604,Animal-Swine-Market Swine (cecal),,2026,USA:TN,,,,,GCA_054656495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/495/GCA_054656495.1_PDT003064278.1,Enterococcus faecium
+54803377,SAMN54803377,,FSIS12642600,Animal-Swine-Sow (cecal),,2026,USA:TN,,,,,GCA_054656625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/625/GCA_054656625.1_PDT003064269.1,Enterococcus faecium
+54803376,SAMN54803376,,FSIS12642502,Animal-Cattle-Dairy Cow (cecal),,2025,USA:OK,,,,,GCA_054656635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/635/GCA_054656635.1_PDT003064271.1,Enterococcus faecium
+54803284,SAMN54803284,,FSIS12642496,Animal-Cattle-Steer (cecal),,2025,USA:KS,,,,,,,,,Enterococcus faecium
+54798594,SAMN54798594,,A115_1,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798592,SAMN54798592,,A110_8,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798591,SAMN54798591,,A110_5,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798590,SAMN54798590,,A105_5,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798589,SAMN54798589,,A104_2,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798588,SAMN54798588,,A103_7,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798587,SAMN54798587,,A103_5,outpatient,,2025-03-17,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798586,SAMN54798586,,A98_8,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798585,SAMN54798585,,A98_4,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798584,SAMN54798584,,A94_8,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798583,SAMN54798583,,A90_8,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798582,SAMN54798582,,A90_3,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798580,SAMN54798580,,A87_3,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798579,SAMN54798579,,A86_6,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798578,SAMN54798578,,A85_3,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798577,SAMN54798577,,A84_8,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798576,SAMN54798576,,A83_3,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798575,SAMN54798575,,A83_2,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798574,SAMN54798574,,A83_1,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798573,SAMN54798573,,A82_8,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798572,SAMN54798572,,A82_7,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798571,SAMN54798571,,A82_2,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798570,SAMN54798570,,A78_6,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798569,SAMN54798569,,A78_4,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798568,SAMN54798568,,A78_3,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798567,SAMN54798567,,A77_1,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798566,SAMN54798566,,A76_7,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798565,SAMN54798565,,A76_2,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798564,SAMN54798564,,A70_7,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798563,SAMN54798563,,A58_4,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798561,SAMN54798561,,A51_5,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798560,SAMN54798560,,A50_7,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798559,SAMN54798559,,A50_6,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798558,SAMN54798558,,A27_1,emergency,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54798557,SAMN54798557,,A19_3,outpatient,,2024-12-27,China: Zhejiang,,,,,,,,,Enterococcus faecium
+54773705,SAMN54773705,,BM4105RF-LTVRE-4,,Homo sapiens,2025,China,,,,,,,,,Enterococcus faecium
+54773704,SAMN54773704,,BM4105RF-LTVRE-3,,Homo sapiens,2025,China,,,,,,,,,Enterococcus faecium
+54773703,SAMN54773703,,BM4105RF-LTVRE-2,,Homo sapiens,2025,China,,,,,,,,,Enterococcus faecium
+54773702,SAMN54773702,,BM4105RF-LTVRE-1,,Homo sapiens,2025,China,,,,,,,,,Enterococcus faecium
+54773701,SAMN54773701,,LTVRE-03,,Homo sapiens,2025,China,,,,,,,,,Enterococcus faecium
+54773700,SAMN54773700,,LTVRE-02,,Homo sapiens,2024,China,,,,,,,,,Enterococcus faecium
+54773699,SAMN54773699,,LTVRE-01,,Homo sapiens,2024,China,,,,,,,,,Enterococcus faecium
+46890160,SAMN46890160,,,stool,,not applicable,missing,,,,,,,,,Enterococcus faecium
+46889774,SAMN46889774,,,stool,,not applicable,missing,,,,,,,,,Enterococcus faecium
+54706158,SAMN54706158,,X74659-Efm,not collected,Homo sapiens,2018-11-18,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706157,SAMN54706157,,X68934-Efm,not collected,Homo sapiens,2019-06-09,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706156,SAMN54706156,,X41440-Efm,not collected,Homo sapiens,2019-01-20,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706155,SAMN54706155,,X30682-Efm,not collected,Homo sapiens,2019-01-06,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706154,SAMN54706154,,X30419-Efm,not collected,Homo sapiens,2019-04-21,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706153,SAMN54706153,,X29559-Efm,not collected,Homo sapiens,2018-05-21,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706152,SAMN54706152,,X28544-Efm,not collected,Homo sapiens,2018-05-20,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706151,SAMN54706151,,X24454-Efm,not collected,Homo sapiens,2018-01-28,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706150,SAMN54706150,,X24376-Efm,not collected,Homo sapiens,2019-08-04,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706149,SAMN54706149,,X19535-Efm,not collected,Homo sapiens,2019-04-07,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706148,SAMN54706148,,W79062-Efm,not collected,Homo sapiens,2018-09-12,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706147,SAMN54706147,,W73303-Efm,not collected,Homo sapiens,2019-02-06,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706146,SAMN54706146,,W59510-Efm,not collected,Homo sapiens,2018-03-21,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706145,SAMN54706145,,W48342-2-Efm,not collected,Homo sapiens,2020-02-05,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706144,SAMN54706144,,W48342-1-Efm,not collected,Homo sapiens,2020-02-05,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706143,SAMN54706143,,W36940-Efm,not collected,Homo sapiens,2019-03-20,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706142,SAMN54706142,,W27104-Efm,not collected,Homo sapiens,2019-08-14,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706141,SAMN54706141,,T83345-Efm,not collected,Homo sapiens,2019-06-11,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706140,SAMN54706140,,T76669-Efm,not collected,Homo sapiens,2019-01-08,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706139,SAMN54706139,,T73217-Efm,not collected,Homo sapiens,2017-12-19,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706138,SAMN54706138,,T62419-Efm,not collected,Homo sapiens,2017-12-12,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706137,SAMN54706137,,T61692-Efm,not collected,Homo sapiens,2018-10-09,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706136,SAMN54706136,,T19036-Efm,not collected,Homo sapiens,2018-03-27,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706135,SAMN54706135,,T11082-Efm,not collected,Homo sapiens,2018-11-06,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706134,SAMN54706134,,T10126-Efm,not collected,Homo sapiens,2018-08-21,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706133,SAMN54706133,,S60063-Efm,not collected,Homo sapiens,2018-01-21,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706132,SAMN54706132,,S48080-Efm,not collected,Homo sapiens,2018-04-14,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706131,SAMN54706131,,S45727-Efm,not collected,Homo sapiens,2018-08-04,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706130,SAMN54706130,,S45308-Efm,not collected,Homo sapiens,2018-08-04,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706129,SAMN54706129,,S2835-Efm,not collected,Homo sapiens,2019-04-27,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706128,SAMN54706128,,M9687-Efm,not collected,Homo sapiens,2018-02-12,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706127,SAMN54706127,,M77859-Efm,not collected,Homo sapiens,2018-11-20,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706126,SAMN54706126,,M71508-Efm,not collected,Homo sapiens,2018-11-19,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706125,SAMN54706125,,M70092-Efm,not collected,Homo sapiens,2019-04-16,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706124,SAMN54706124,,M68224-Efm,not collected,Homo sapiens,2019-04-15,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706123,SAMN54706123,,M6558-Efm,not collected,Homo sapiens,2017-11-21,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706122,SAMN54706122,,M60539-Efm,not collected,Homo sapiens,2019-04-08,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706121,SAMN54706121,,M54551-Efm,not collected,Homo sapiens,2019-11-17,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706120,SAMN54706120,,M48889-Efm,not collected,Homo sapiens,2018-01-01,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706119,SAMN54706119,,M47071-Efm,not collected,Homo sapiens,2019-01-14,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706118,SAMN54706118,,M30240-Efm,not collected,Homo sapiens,2018-07-23,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706117,SAMN54706117,,M2827-Efm,not collected,Homo sapiens,2019-09-30,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706116,SAMN54706116,,M24680-Efm,not collected,Homo sapiens,2018-05-07,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706115,SAMN54706115,,M24679-Efm,not collected,Homo sapiens,2018-05-07,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706114,SAMN54706114,,H48611-Efm,not collected,Homo sapiens,2018-10-11,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706113,SAMN54706113,,H4266-Efm,not collected,Homo sapiens,2018-11-15,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706112,SAMN54706112,,H41546-Efm,not collected,Homo sapiens,2019-03-07,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706111,SAMN54706111,,H36301-Efm,not collected,Homo sapiens,2018-04-26,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706110,SAMN54706110,,H29248-Efm,not collected,Homo sapiens,2019-10-10,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706109,SAMN54706109,,H28409-Efm,not collected,Homo sapiens,2017-11-23,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706108,SAMN54706108,,H21889-Efm,not collected,Homo sapiens,2018-04-12,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706107,SAMN54706107,,F46702-Efm,not collected,Homo sapiens,2019-07-12,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706106,SAMN54706106,,F4278-Efm,not collected,Homo sapiens,2020-01-31,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706105,SAMN54706105,,F33093-Efm,not collected,Homo sapiens,2018-11-03,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706104,SAMN54706104,,F24750-Efm,not collected,Homo sapiens,2018-08-03,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706103,SAMN54706103,,F19190-Efm,not collected,Homo sapiens,2018-05-04,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706102,SAMN54706102,,F15329-Efm,not collected,Homo sapiens,2018-10-19,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706101,SAMN54706101,,F10887-Efm,not collected,Homo sapiens,2020-02-07,USA:Detroit,,,,,,,,,Enterococcus faecium
+54706100,SAMN54706100,,F10819-Efm,not collected,Homo sapiens,2018-10-12,USA:Detroit,,,,,,,,,Enterococcus faecium
+54690574,SAMN54690574,,3185-M,gastrointestinal tract,chicken,1985-09,Russia:Moscow,,,,,,,,,Enterococcus faecium
+46385930,SAMN46385930,,N/A,Brukina,,2024-04-18,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385929,SAMN46385929,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385928,SAMN46385928,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385927,SAMN46385927,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385926,SAMN46385926,,N/A,Khebab,,2024-03-13,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385925,SAMN46385925,,N/A,Salad,,2024-03-13,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385924,SAMN46385924,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385923,SAMN46385923,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385922,SAMN46385922,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385921,SAMN46385921,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385920,SAMN46385920,,N/A,Brukina,,2024-04-18,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385919,SAMN46385919,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385918,SAMN46385918,,N/A,Salad,,2024-03-13,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+46385917,SAMN46385917,,N/A,milk,,2024-05-17,Ghana: ACCRA,,,,,,,,,Enterococcus faecium
+54497551,SAMN54497551,,FSIS12542293,Animal-Swine-Market Swine (cecal),,2025,USA:SD,,,,,GCA_054396965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/396/965/GCA_054396965.1_PDT003047910.1,Enterococcus faecium
+54497544,SAMN54497544,,FSIS12642400,Animal-Cattle-Dairy Cow (cecal),,2025,USA:OH,,,,,GCA_054397185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/397/185/GCA_054397185.1_PDT003047907.1,Enterococcus faecium
+54487799,SAMEA120775103,,,human feces,,,,,,,,,,,,Enterococcus faecium
+54485186,SAMEA120775203,,,human feces,,,,,,,,,,,,Enterococcus faecium
+54482606,SAMEA120775284,,,human feces,,,,,,,,,,,,Enterococcus faecium
+54482510,SAMEA120769148,,,human feces,,,,,,,,,,,,Enterococcus faecium
+54481493,SAMEA120775253,,,human feces,,,,,,,,,,,,Enterococcus faecium
+54417098,SAMN54417098,,EFM250826,hospital,,2025-08-20,China: Henan province,,,,,GCF_054461615.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/615/GCF_054461615.1_ASM5446161v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/615/GCA_054461615.1_ASM5446161v1,Enterococcus faecium
+54417097,SAMN54417097,,EFM250320,hospital,,2025-03-05,China: Henan province,,,,,GCF_054461585.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/585/GCF_054461585.1_ASM5446158v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/585/GCA_054461585.1_ASM5446158v1,Enterococcus faecium
+54417096,SAMN54417096,,EFM250319,hospital,,2025-03-18,China: Henan province,,,,,GCF_054461635.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/635/GCF_054461635.1_ASM5446163v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/635/GCA_054461635.1_ASM5446163v1,Enterococcus faecium
+54417095,SAMN54417095,,EFM250318,hospital,,2025-03-09,China: Henan province,,,,,GCF_054461655.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/655/GCF_054461655.1_ASM5446165v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/655/GCA_054461655.1_ASM5446165v1,Enterococcus faecium
+54417094,SAMN54417094,,EFM250317,hospital,,2025-03-07,China: Henan province,,,,,GCF_054461675.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/675/GCF_054461675.1_ASM5446167v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/675/GCA_054461675.1_ASM5446167v1,Enterococcus faecium
+54417093,SAMN54417093,,EFM250216,hospital,,2025-02-16,China: Henan province,,,,,GCF_054461695.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/695/GCF_054461695.1_ASM5446169v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/695/GCA_054461695.1_ASM5446169v1,Enterococcus faecium
+54417092,SAMN54417092,,EFM250515,hospital,,2025-05-23,China: Henan province,,,,,GCF_054461715.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/715/GCF_054461715.1_ASM5446171v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/715/GCA_054461715.1_ASM5446171v1,Enterococcus faecium
+54417091,SAMN54417091,,EFM250114,hospital,,2025-01-14,China: Henan province,,,,,GCF_054461735.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/735/GCF_054461735.1_ASM5446173v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/735/GCA_054461735.1_ASM5446173v1,Enterococcus faecium
+54417090,SAMN54417090,,EFM250113,hospital,,2025-01-17,China: Henan province,,,,,GCF_054461755.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/755/GCF_054461755.1_ASM5446175v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/755/GCA_054461755.1_ASM5446175v1,Enterococcus faecium
+54417089,SAMN54417089,,EFM250512,hospital,,2025-05-14,China: Henan province,,,,,GCF_054461775.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/775/GCF_054461775.1_ASM5446177v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/775/GCA_054461775.1_ASM5446177v1,Enterococcus faecium
+54417088,SAMN54417088,,EFM241209,hospital,,2024-12-15,China: Henan province,,,,,GCF_054461795.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/795/GCF_054461795.1_ASM5446179v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/795/GCA_054461795.1_ASM5446179v1,Enterococcus faecium
+54417087,SAMN54417087,,EFM250108,hospital,,2025-01-21,China: Henan province,,,,,GCF_054461815.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/815/GCF_054461815.1_ASM5446181v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/815/GCA_054461815.1_ASM5446181v1,Enterococcus faecium
+54417086,SAMN54417086,,EFM250107,hospital,,2025-01-28,China: Henan province,,,,,GCF_054461835.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/835/GCF_054461835.1_ASM5446183v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/835/GCA_054461835.1_ASM5446183v1,Enterococcus faecium
+54417085,SAMN54417085,,EFM250106,hospital,,2025-01-21,China: Henan province,,,,,GCF_054461855.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/855/GCF_054461855.1_ASM5446185v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/855/GCA_054461855.1_ASM5446185v1,Enterococcus faecium
+54417084,SAMN54417084,,EFM241204,hospital,,2024-12-23,China: Henan province,,,,,GCF_054461895.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/895/GCF_054461895.1_ASM5446189v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/895/GCA_054461895.1_ASM5446189v1,Enterococcus faecium
+54417083,SAMN54417083,,EFM230603,hospital,,2023-06-21,China: Henan province,,,,,GCF_054461875.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/875/GCF_054461875.1_ASM5446187v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/875/GCA_054461875.1_ASM5446187v1,Enterococcus faecium
+54417082,SAMN54417082,,EFM241102,hospital,,2024-11-29,China: Henan province,,,,,GCF_054461915.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/915/GCF_054461915.1_ASM5446191v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/915/GCA_054461915.1_ASM5446191v1,Enterococcus faecium
+54417081,SAMN54417081,,EFM241201,hospital,,2024-12-10,China: Henan province,,,,,GCF_054461935.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/461/935/GCF_054461935.1_ASM5446193v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/461/935/GCA_054461935.1_ASM5446193v1,Enterococcus faecium
+54448201,SAMN54448201,,FSIS12542117,Animal-Cattle-Steer (cecal),,2025,USA:NE,,,,,GCA_054349095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/095/GCA_054349095.1_PDT003044812.1,Enterococcus faecium
+54437353,SAMN54437353,,,screen,Homo sapiens,2025,New Zealand,,,,,GCA_054345255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/255/GCA_054345255.1_PDT003044128.1,Enterococcus faecium
+44698556,SAMN44698556,,5240185625,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698555,SAMN44698555,,5240073140,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698554,SAMN44698554,,5240047427,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698553,SAMN44698553,,5240037556,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698552,SAMN44698552,,5240037552,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698551,SAMN44698551,,5813784401,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698550,SAMN44698550,,5121239701,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698549,SAMN44698549,,5116469901,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698548,SAMN44698548,,5116344501,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698547,SAMN44698547,,5115126801,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698546,SAMN44698546,,5112281001,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698545,SAMN44698545,,5112225902,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698544,SAMN44698544,,5111595402,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+44698543,SAMN44698543,,5100623501,Rectal Swab,Homo sapiens,2024-07-30,Italy:Trento,,,,,,,,,Enterococcus faecium
+54275482,SAMN54275482,,8K2J,river sediment,missing,2024,Pakistan,,,,,,,,,Enterococcus faecium
+54275481,SAMN54275481,,10K2M,river sediment,missing,2024,Pakistan,,,,,,,,,Enterococcus faecium
+52901795,SAMN52901795,,AMC872,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901794,SAMN52901794,,AMC868,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901793,SAMN52901793,,AMC860,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901792,SAMN52901792,,AMC858,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901791,SAMN52901791,,AMC853,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901790,SAMN52901790,,AMC842,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901789,SAMN52901789,,AMC839,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901788,SAMN52901788,,AMC838,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901787,SAMN52901787,,AMC836,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2022-08-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901786,SAMN52901786,,AMC774,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-15,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901785,SAMN52901785,,AMC765,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-15,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901784,SAMN52901784,,AMC761,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2022-08-15,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901783,SAMN52901783,,AMC754,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2022-08-15,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901782,SAMN52901782,,AMC3405,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901781,SAMN52901781,,AMC3333,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901780,SAMN52901780,,AMC3332,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901779,SAMN52901779,,AMC3329,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901778,SAMN52901778,,AMC3327,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901777,SAMN52901777,,AMC3326,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901776,SAMN52901776,,AMC3324,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901775,SAMN52901775,,AMC3311,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901774,SAMN52901774,,AMC3310,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901773,SAMN52901773,,AMC3307,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901772,SAMN52901772,,AMC3286,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901771,SAMN52901771,,AMC3285,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901770,SAMN52901770,,AMC3278,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901769,SAMN52901769,,AMC3273,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901768,SAMN52901768,,AMC3264,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901767,SAMN52901767,,AMC3262,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901766,SAMN52901766,,AMC3260,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-05-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901765,SAMN52901765,,AMC3193,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901764,SAMN52901764,,AMC3190,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901763,SAMN52901763,,AMC3188,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901762,SAMN52901762,,AMC3175,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901761,SAMN52901761,,AMC3170,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901760,SAMN52901760,,AMC3167,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901759,SAMN52901759,,AMC3165,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901758,SAMN52901758,,AMC3163,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901757,SAMN52901757,,AMC3145,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901756,SAMN52901756,,AMC3143,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901755,SAMN52901755,,AMC3137,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901754,SAMN52901754,,AMC3132,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-04-29,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901753,SAMN52901753,,AMC3064,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901752,SAMN52901752,,AMC3061,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901751,SAMN52901751,,AMC3041,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901750,SAMN52901750,,AMC3037,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901749,SAMN52901749,,AMC3033,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901748,SAMN52901748,,AMC3027,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901747,SAMN52901747,,AMC3026,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901746,SAMN52901746,,AMC2969,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901745,SAMN52901745,,AMC2967,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2024-02-19,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901744,SAMN52901744,,AMC2946,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901743,SAMN52901743,,AMC2944,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901742,SAMN52901742,,AMC2943,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901741,SAMN52901741,,AMC2941,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901740,SAMN52901740,,AMC2938,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901739,SAMN52901739,,AMC2936,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901738,SAMN52901738,,AMC2933,Dairy farm [ENVO:03501416]; Agricultural Field [ENVO:00000114]; Agricultural soil [ENVO:00002259],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901737,SAMN52901737,,AMC2925,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901736,SAMN52901736,,AMC2923,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901735,SAMN52901735,,AMC2921,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901734,SAMN52901734,,AMC2918,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901733,SAMN52901733,,AMC2915,Dairy farm [ENVO:03501416]; Agricultural Field [ENVO:00000114]; Agricultural soil [ENVO:00002259],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901732,SAMN52901732,,AMC2914,Dairy farm [ENVO:03501416]; Agricultural Field [ENVO:00000114]; Agricultural soil [ENVO:00002259],Not Applicable [GENEPIO:0001619],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901731,SAMN52901731,,AMC2896,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901730,SAMN52901730,,AMC2893,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901729,SAMN52901729,,AMC2892,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-12,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901728,SAMN52901728,,AMC2808,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901727,SAMN52901727,,AMC2801,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901726,SAMN52901726,,AMC2800,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901725,SAMN52901725,,AMC2797,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901724,SAMN52901724,,AMC2796,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901723,SAMN52901723,,AMC2793,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901722,SAMN52901722,,AMC2785,Dairy farm [ENVO:03501416]; Agricultural Field [ENVO:00000114]; Agricultural soil [ENVO:00002259],Not Applicable [GENEPIO:0001619],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901721,SAMN52901721,,AMC2783,Dairy farm [ENVO:03501416]; Agricultural Field [ENVO:00000114]; Agricultural soil [ENVO:00002259],Not Applicable [GENEPIO:0001619],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901720,SAMN52901720,,AMC2780,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901719,SAMN52901719,,AMC2773,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901718,SAMN52901718,,AMC2770,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2024-02-05,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901717,SAMN52901717,,AMC2694,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901716,SAMN52901716,,AMC2693,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901715,SAMN52901715,,AMC2691,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901714,SAMN52901714,,AMC2689,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901713,SAMN52901713,,AMC2687,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901712,SAMN52901712,,AMC2672,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901711,SAMN52901711,,AMC2649,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901710,SAMN52901710,,AMC2648,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901709,SAMN52901709,,AMC2647,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901708,SAMN52901708,,AMC2641,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901707,SAMN52901707,,AMC2636,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901706,SAMN52901706,,AMC2634,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901705,SAMN52901705,,AMC2632,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-30,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901704,SAMN52901704,,AMC2565,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901703,SAMN52901703,,AMC2548,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901702,SAMN52901702,,AMC2544,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901701,SAMN52901701,,AMC2531,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901700,SAMN52901700,,AMC2525,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901699,SAMN52901699,,AMC2524,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901698,SAMN52901698,,AMC2522,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-23,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901697,SAMN52901697,,AMC2452,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901696,SAMN52901696,,AMC2449,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901695,SAMN52901695,,AMC2448,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901694,SAMN52901694,,AMC2445,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901693,SAMN52901693,,AMC2444,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901692,SAMN52901692,,AMC2422,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901691,SAMN52901691,,AMC2419,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-10-09,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901690,SAMN52901690,,AMC2340,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-07-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901689,SAMN52901689,,AMC2307,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901688,SAMN52901688,,AMC2305,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901687,SAMN52901687,,AMC2304,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-24,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901686,SAMN52901686,,AMC2233,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901685,SAMN52901685,,AMC2230,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901684,SAMN52901684,,AMC2228,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901683,SAMN52901683,,AMC2224,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901682,SAMN52901682,,AMC2223,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901681,SAMN52901681,,AMC2209,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901680,SAMN52901680,,AMC2205,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901679,SAMN52901679,,AMC2189,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901678,SAMN52901678,,AMC2186,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901677,SAMN52901677,,AMC2184,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901676,SAMN52901676,,AMC2177,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901675,SAMN52901675,,AMC2176,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-07-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901674,SAMN52901674,,AMC2058,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-10,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901673,SAMN52901673,,AMC2055,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-10,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901672,SAMN52901672,,AMC2049,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-07-10,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901671,SAMN52901671,,AMC1975,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-05-08,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901670,SAMN52901670,,AMC1971,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-05-08,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901669,SAMN52901669,,AMC1852,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-05-02,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901668,SAMN52901668,,AMC1835,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-05-02,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901667,SAMN52901667,,AMC1834,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-05-02,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901666,SAMN52901666,,AMC1776,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-04-18,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901665,SAMN52901665,,AMC1775,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-04-18,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901664,SAMN52901664,,AMC1772,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-04-18,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901663,SAMN52901663,,AMC1759,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-04-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901662,SAMN52901662,,AMC1757,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-04-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901661,SAMN52901661,,AMC1754,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-04-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901660,SAMN52901660,,AMC1708,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-04-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901659,SAMN52901659,,AMC1707,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-04-17,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901658,SAMN52901658,,AMC1646,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-03-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901657,SAMN52901657,,AMC1644,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-03-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901656,SAMN52901656,,AMC1642,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-03-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901655,SAMN52901655,,AMC1622,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-03-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901654,SAMN52901654,,AMC1615,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-03-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901653,SAMN52901653,,AMC1563,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901652,SAMN52901652,,AMC1562,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901651,SAMN52901651,,AMC1559,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901650,SAMN52901650,,AMC1557,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901649,SAMN52901649,,AMC1555,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901648,SAMN52901648,,AMC1554,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901647,SAMN52901647,,AMC1541,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901646,SAMN52901646,,AMC1537,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2023-02-21,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901645,SAMN52901645,,AMC1519,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901644,SAMN52901644,,AMC1514,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901643,SAMN52901643,,AMC1511,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901642,SAMN52901642,,AMC1508,Dairy farm [ENVO:03501416]; Manure pit [ENVO:01001872]; Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512],Bos taurus [NCBITaxon:9913],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901641,SAMN52901641,,AMC1503,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901640,SAMN52901640,,AMC1498,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901639,SAMN52901639,,AMC1494,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901638,SAMN52901638,,AMC1484,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-13,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901637,SAMN52901637,,AMC1404,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901636,SAMN52901636,,AMC1394,Dairy farm [ENVO:03501416]; Agricultural Field [ENVO:00000114]; Agricultural soil [ENVO:00002259],Not Applicable [GENEPIO:0001619],2023-02-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901635,SAMN52901635,,AMC1386,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901634,SAMN52901634,,AMC1381,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901633,SAMN52901633,,AMC1379,Bos taurus [NCBITaxon:9913]; Fecal composite [GENEPIO:0004512]; Animal pen [ENVO:03501387]; Dairy farm [ENVO:03501416],Bos taurus [NCBITaxon:9913],2023-02-06,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901632,SAMN52901632,,AMC1277,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2022-11-14,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901631,SAMN52901631,,AMC1275,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2022-11-14,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901630,SAMN52901630,,AMC1274,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2022-11-14,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901629,SAMN52901629,,AMC1187,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-11-07,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901628,SAMN52901628,,AMC1185,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-11-07,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901627,SAMN52901627,,AMC1183,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-11-07,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901626,SAMN52901626,,AMC1147,Creek [ENVO:03501405]; Dairy farm [ENVO:03501416],Not Applicable [GENEPIO:0001619],2022-11-07,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+52901625,SAMN52901625,,AMC1056,Wastewater treatment plant [ENVO:00002272],Not Applicable [GENEPIO:0001619],2022-10-31,Canada:British Columbia,,,,,,,,,Enterococcus faecium
+54431021,SAMEA120862807,,,,,,,,,,,,,,,Enterococcus faecium
+54430829,SAMEA120862802,,,,,,,,,,,,,,,Enterococcus faecium
+54430610,SAMEA120862794,,,,,,,,,,,,,,,Enterococcus faecium
+54430512,SAMEA120862800,,,,,,,,,,,,,,,Enterococcus faecium
+54430261,SAMEA120862795,,,,,,,,,,,,,,,Enterococcus faecium
+54430122,SAMEA120862786,,,,,,,,,,,,,,,Enterococcus faecium
+54429916,SAMEA120862801,,,,,,,,,,,,,,,Enterococcus faecium
+54429776,SAMEA120862791,,,,,,,,,,,,,,,Enterococcus faecium
+54429586,SAMEA120862787,,,,,,,,,,,,,,,Enterococcus faecium
+54428784,SAMEA120862796,,,,,,,,,,,,,,,Enterococcus faecium
+54428762,SAMEA120862810,,,,,,,,,,,,,,,Enterococcus faecium
+54428760,SAMEA120862792,,,,,,,,,,,,,,,Enterococcus faecium
+54428656,SAMEA120862790,,,,,,,,,,,,,,,Enterococcus faecium
+54428340,SAMEA120862811,,,,,,,,,,,,,,,Enterococcus faecium
+54428166,SAMEA120862804,,,,,,,,,,,,,,,Enterococcus faecium
+54428102,SAMEA120862789,,,,,,,,,,,,,,,Enterococcus faecium
+54427828,SAMEA120862798,,,,,,,,,,,,,,,Enterococcus faecium
+54427681,SAMEA120862993,,,,,,,,,,,,,,,Enterococcus faecium
+54427634,SAMEA120862808,,,,,,,,,,,,,,,Enterococcus faecium
+54427168,SAMEA120862809,,,,,,,,,,,,,,,Enterococcus faecium
+54426842,SAMEA120862803,,,,,,,,,,,,,,,Enterococcus faecium
+54425753,SAMEA120862799,,,,,,,,,,,,,,,Enterococcus faecium
+54425626,SAMEA120862805,,,,,,,,,,,,,,,Enterococcus faecium
+54425464,SAMEA120862793,,,,,,,,,,,,,,,Enterococcus faecium
+54425307,SAMEA120862797,,,,,,,,,,,,,,,Enterococcus faecium
+54424945,SAMEA120862995,,,,,,,,,,,,,,,Enterococcus faecium
+54424373,SAMEA120862806,,,,,,,,,,,,,,,Enterococcus faecium
+54424094,SAMEA120862788,,,,,,,,,,,,,,,Enterococcus faecium
+45874024,SAMN45874024,,5083,secretion,Homo sapiens,2015-06-15,China: Chongqing,,,,,,,,,Enterococcus faecium
+45828633,SAMN45828633,,,bovine feces,,2016,USA:TX,,,,,,,,,Enterococcus faecium
+45828204,SAMN45828204,,,swine feces,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828203,SAMN45828203,,,swine feces,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828202,SAMN45828202,,,swine feces,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828201,SAMN45828201,,,swine feces,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828199,SAMN45828199,,,swine feces,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828198,SAMN45828198,,,swine feces,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828196,SAMN45828196,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828193,SAMN45828193,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828192,SAMN45828192,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828191,SAMN45828191,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828190,SAMN45828190,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828189,SAMN45828189,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828188,SAMN45828188,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828187,SAMN45828187,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828186,SAMN45828186,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828184,SAMN45828184,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828183,SAMN45828183,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828182,SAMN45828182,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828181,SAMN45828181,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828180,SAMN45828180,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828178,SAMN45828178,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828177,SAMN45828177,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828175,SAMN45828175,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828174,SAMN45828174,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+45828173,SAMN45828173,,,wastewater,,2004,USA:Texas,,,,,,,,,Enterococcus faecium
+54389922,SAMEA120787933,,,,,,,,,,,,,,,Enterococcus faecium
+54389909,SAMEA120787949,,,,,,,,,,,,,,,Enterococcus faecium
+54389902,SAMEA120787961,,,,,,,,,,,,,,,Enterococcus faecium
+54389895,SAMEA120787994,,,,,,,,,,,,,,,Enterococcus faecium
+54389854,SAMEA120787928,,,,,,,,,,,,,,,Enterococcus faecium
+44472746,SAMN44472746,,NN-EF52,Rectal Swab,Homo sapiens,2023-05-26,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44472285,SAMN44472285,,NN-EF51,Rectal Swab,Homo sapiens,2023-05-23,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471504,SAMN44471504,,NN-EF50,Rectal Swab,Homo sapiens,2023-06-29,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471306,SAMN44471306,,NN-EF43,Rectal Swab,Homo sapiens,2023-06-06,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471281,SAMN44471281,,NN-EF41,Rectal Swab,Homo sapiens,2023-06-04,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471215,SAMN44471215,,NN-EF38,Rectal Swab,Homo sapiens,2023-05-14,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471185,SAMN44471185,,NN-EF37,Rectal Swab,Homo sapiens,2023-04-17,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471164,SAMN44471164,,NN-EF35,Rectal Swab,Homo sapiens,2023-03-31,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471134,SAMN44471134,,NN-EF29,Rectal Swab,Homo sapiens,2023-02-17,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471115,SAMN44471115,,NN-EF26,Rectal Swab,Homo sapiens,2023-02-04,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471110,SAMN44471110,,NN-EF25,Rectal Swab,Homo sapiens,2023-01-24,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471095,SAMN44471095,,NN-EF16,Rectal Swab,Homo sapiens,2022-11-21,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471072,SAMN44471072,,NN-EF15,Rectal Swab,Homo sapiens,2022-11-14,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44471051,SAMN44471051,,NN-EF13,Rectal Swab,Homo sapiens,2022-08-18,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44470990,SAMN44470990,,NN-EF12,Rectal Swab,Homo sapiens,2022-08-12,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44470979,SAMN44470979,,NN-EF11,Rectal Swab,Homo sapiens,2022-06-11,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44470920,SAMN44470920,,NN-EF9,Rectal Swab,Homo sapiens,2022-05-06,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+44470223,SAMN44470223,,NN-EF1,Rectal Swab,Homo sapiens,2021-08-27/2024-01-04,Netherlands: Groningen,,,,,,,,,Enterococcus faecium
+38345637,SAMN38345637,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+38345516,SAMN38345516,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+38345509,SAMN38345509,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+38345508,SAMN38345508,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+38345102,SAMN38345102,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+38344905,SAMN38344905,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+38344848,SAMN38344848,,not collected,Membrane Vesicles,,2020-03-01,China: Foshan,,,,,,,,,Enterococcus faecium
+54353763,SAMN54353763,,AUSMDU00124272,human,Homo sapiens,2025-10-24,Australia:Victoria,,,,,GCA_054246175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/246/175/GCA_054246175.1_PDT003041276.1,Enterococcus faecium
+54353762,SAMN54353762,,AUSMDU00124173,human,Homo sapiens,2025-10-22,Australia:Victoria,,,,,GCA_054252005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/252/005/GCA_054252005.1_PDT003040595.1,Enterococcus faecium
+54353761,SAMN54353761,,AUSMDU00124174,human,Homo sapiens,2025-10-20,Australia:Victoria,,,,,GCA_054251975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/975/GCA_054251975.1_PDT003040596.1,Enterococcus faecium
+54353760,SAMN54353760,,AUSMDU00124175,human,Homo sapiens,2025-10-20,Australia:Victoria,,,,,GCA_054251915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/915/GCA_054251915.1_PDT003040597.1,Enterococcus faecium
+54353759,SAMN54353759,,AUSMDU00124059,human,Homo sapiens,2025-10-13,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353758,SAMN54353758,,AUSMDU00124061,human,Homo sapiens,2025-10-14,Australia:Victoria,,,,,GCA_054251955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/955/GCA_054251955.1_PDT003040599.1,Enterococcus faecium
+54353757,SAMN54353757,,AUSMDU00124055,human,Homo sapiens,2025-10-02,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353756,SAMN54353756,,AUSMDU00124065,human,Homo sapiens,2025-10-16,Australia:Victoria,,,,,GCA_054251935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/935/GCA_054251935.1_PDT003040601.1,Enterococcus faecium
+54353755,SAMN54353755,,AUSMDU00124063,human,Homo sapiens,2025-10-13,Australia:Victoria,,,,,GCA_054251865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/865/GCA_054251865.1_PDT003040602.1,Enterococcus faecium
+54353754,SAMN54353754,,AUSMDU00124057,human,Homo sapiens,2025-10-20,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353753,SAMN54353753,,AUSMDU00124064,human,Homo sapiens,2025-10-06,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353752,SAMN54353752,,AUSMDU00124056,human,Homo sapiens,2025-10-20,Australia:Victoria,,,,,GCA_054251855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/855/GCA_054251855.1_PDT003040606.1,Enterococcus faecium
+54353751,SAMN54353751,,AUSMDU00124062,human,Homo sapiens,2025-10-16,Australia:Victoria,,,,,GCA_054251795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/795/GCA_054251795.1_PDT003040607.1,Enterococcus faecium
+54353750,SAMN54353750,,AUSMDU00124058,human,Homo sapiens,2025-10-12,Australia:Victoria,,,,,GCA_054251815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/815/GCA_054251815.1_PDT003040608.1,Enterococcus faecium
+54353749,SAMN54353749,,AUSMDU00124066,human,Homo sapiens,2025-10-08,Australia:Victoria,,,,,GCA_054251835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/835/GCA_054251835.1_PDT003040609.1,Enterococcus faecium
+54353748,SAMN54353748,,AUSMDU00123952,human,Homo sapiens,2025-10-13,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353747,SAMN54353747,,AUSMDU00123950,human,Homo sapiens,2025-10-17,Australia:Victoria,,,,,GCA_054251755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/755/GCA_054251755.1_PDT003040611.1,Enterococcus faecium
+54353746,SAMN54353746,,AUSMDU00123949,human,Homo sapiens,2025-10-08,Australia:Victoria,,,,,GCA_054251775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/775/GCA_054251775.1_PDT003040612.1,Enterococcus faecium
+54353745,SAMN54353745,,AUSMDU00123951,human,Homo sapiens,2025-10-08,Australia:Victoria,,,,,GCA_054251735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/735/GCA_054251735.1_PDT003040613.1,Enterococcus faecium
+54353744,SAMN54353744,,AUSMDU00123851,human,Homo sapiens,2025-10-14,Australia:Victoria,,,,,GCA_054251695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/695/GCA_054251695.1_PDT003040614.1,Enterococcus faecium
+54353743,SAMN54353743,,AUSMDU00123824,human,Homo sapiens,2025-10-12,Australia:Victoria,,,,,GCA_054251645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/251/645/GCA_054251645.1_PDT003040616.1,Enterococcus faecium
+54353742,SAMN54353742,,AUSMDU00123861,human,Homo sapiens,2025-10-01,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353741,SAMN54353741,,AUSMDU00123812,human,Homo sapiens,2025-10-05,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353740,SAMN54353740,,AUSMDU00123845,human,Homo sapiens,2025-10-10,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353739,SAMN54353739,,AUSMDU00123876,human,Homo sapiens,2025-10-05,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353738,SAMN54353738,,AUSMDU00123705,human,Homo sapiens,2025-10-09,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353737,SAMN54353737,,AUSMDU00123706,human,Homo sapiens,2025-10-02,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353736,SAMN54353736,,AUSMDU00123582,human,Homo sapiens,2025-10-05,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353735,SAMN54353735,,AUSMDU00123583,human,Homo sapiens,2025-09-26,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353734,SAMN54353734,,AUSMDU00123580,human,Homo sapiens,2025-09-19,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353733,SAMN54353733,,AUSMDU00123589,human,Homo sapiens,2025-09-28,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353732,SAMN54353732,,AUSMDU00123584,human,Homo sapiens,2025-10-02,Australia:Victoria,,,,,GCA_054247915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/915/GCA_054247915.1_PDT003041089.1,Enterococcus faecium
+54353731,SAMN54353731,,AUSMDU00123592,human,Homo sapiens,2025-09-29,Australia:Victoria,,,,,GCA_054247875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/875/GCA_054247875.1_PDT003041090.1,Enterococcus faecium
+54353730,SAMN54353730,,AUSMDU00123704,human,Homo sapiens,2025-09-21,Australia:Victoria,,,,,GCA_054247895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/895/GCA_054247895.1_PDT003041091.1,Enterococcus faecium
+54353729,SAMN54353729,,AUSMDU00123588,human,Homo sapiens,2025-09-22,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353728,SAMN54353728,,AUSMDU00123586,human,Homo sapiens,2025-10-02,Australia:Victoria,,,,,GCA_054247855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/855/GCA_054247855.1_PDT003041093.1,Enterococcus faecium
+54353727,SAMN54353727,,AUSMDU00123591,human,Homo sapiens,2025-10-01,Australia:Victoria,,,,,GCA_054247815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/815/GCA_054247815.1_PDT003041094.1,Enterococcus faecium
+54353726,SAMN54353726,,AUSMDU00123581,human,Homo sapiens,2025-10-01,Australia:Victoria,,,,,GCA_054247795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/795/GCA_054247795.1_PDT003041095.1,Enterococcus faecium
+54353725,SAMN54353725,,AUSMDU00123587,human,Homo sapiens,2025-10-03,Australia:Victoria,,,,,GCA_054247775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/775/GCA_054247775.1_PDT003041096.1,Enterococcus faecium
+54353724,SAMN54353724,,AUSMDU00123446,human,Homo sapiens,2025-10-01,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353723,SAMN54353723,,AUSMDU00123447,human,Homo sapiens,2025-10-01,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353722,SAMN54353722,,AUSMDU00123442,human,Homo sapiens,2025-09-23,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353721,SAMN54353721,,AUSMDU00123444,human,Homo sapiens,2025-09-23,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353720,SAMN54353720,,AUSMDU00123445,human,Homo sapiens,2025-09-23,Australia:Victoria,,,,,GCA_054247735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/735/GCA_054247735.1_PDT003041102.1,Enterococcus faecium
+54353719,SAMN54353719,,AUSMDU00123441,human,Homo sapiens,2025-09-29,Australia:Victoria,,,,,,,,,Enterococcus faecium
+54353717,SAMN54353717,,AUSMDU00123425,human,Homo sapiens,2025-09-27,Australia:Victoria,,,,,GCA_054247695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/695/GCA_054247695.1_PDT003041105.1,Enterococcus faecium
+54353716,SAMN54353716,,AUSMDU00123280,human,Homo sapiens,2025-09-27,Australia:Victoria,,,,,GCA_054247715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/715/GCA_054247715.1_PDT003041106.1,Enterococcus faecium
+54353715,SAMN54353715,,AUSMDU00123268,human,Homo sapiens,2025-09-21,Australia:Victoria,,,,,GCA_054247675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/675/GCA_054247675.1_PDT003041107.1,Enterococcus faecium
+54353714,SAMN54353714,,AUSMDU00123267,human,Homo sapiens,2025-09-19,Australia:Victoria,,,,,GCA_054247655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/247/655/GCA_054247655.1_PDT003041108.1,Enterococcus faecium
+54353713,SAMN54353713,,AUSMDU00123274,human,Homo sapiens,2025-09-21,Australia:Victoria,,,,,,,,,Enterococcus faecium

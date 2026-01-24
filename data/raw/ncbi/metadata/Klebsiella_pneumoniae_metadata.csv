@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54853498,SAMEA120970212,Klebsiella pneumoniae,,,,,,,,,,,,,,Klebsiella pneumoniae
+54832029,SAMEA120970146,Klebsiella pneumoniae,,,,,,,,,,,,,,Klebsiella pneumoniae
+54821146,SAMEA120970149,Klebsiella pneumoniae,,,,,,,,,,,,,,Klebsiella pneumoniae
+54815314,SAMEA120969541,Klebsiella pneumoniae,,,,,,,,,,,,,,Klebsiella pneumoniae
+54872776,SAMN54872776,,,sputum,Homo sapiens,2026,USA,,,,,,,,,Klebsiella pneumoniae
+54870561,SAMN54870561,,2026EP-00007,urine,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54870560,SAMN54870560,,2026EP-00012,urine,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54870558,SAMN54870558,,2026EP-00018,blood,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54870554,SAMN54870554,,2026EP-00008,urine,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54870553,SAMN54870553,,2026EP-00016,urine,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54870549,SAMN54870549,,2026EP-00006,urine,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54804742,SAMN54804742,,,,Homo sapiens,,,,,,,,,,,Klebsiella pneumoniae
+54804741,SAMN54804741,,,,Homo sapiens,,,,,,,,,,,Klebsiella pneumoniae
+54804736,SAMN54804736,,,,Homo sapiens,,,,,,,,,,,Klebsiella pneumoniae
+54804735,SAMN54804735,,,,Homo sapiens,,,,,,,,,,,Klebsiella pneumoniae
+54802630,SAMN54802630,,unknown,unknown,Homo sapiens,2025,USA,,,,,,,,,Klebsiella pneumoniae
+54802620,SAMN54802620,,,urine,Homo sapiens,2025,USA,,,,,GCA_054654875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/654/875/GCA_054654875.1_PDT003064087.1,Klebsiella pneumoniae
+54802188,SAMN54802188,,,Wound/Abscess,Homo sapiens,2025-12-18,USA,,,,,GCA_054652015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/015/GCA_054652015.1_PDT003063934.1,Klebsiella pneumoniae
+54801186,SAMN54801186,,2026EL-00014,Rectal swab,animal,2026,USA,,,,,,,,,Klebsiella pneumoniae
+54801183,SAMN54801183,,2026EL-00011,Rectal swab,animal,2026,USA,,,,,,,,,Klebsiella pneumoniae
+54799537,SAMN54799537,,,Homo Sapiens clinical,Homo sapiens,2026-01-07,USA: Florida,,,,,GCA_054647535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/647/535/GCA_054647535.1_PDT003063526.1,Klebsiella pneumoniae
+54799534,SAMN54799534,,,Homo Sapiens clinical,Homo sapiens,2026-01-03,USA: Florida,,,,,GCA_054647495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/647/495/GCA_054647495.1_PDT003063529.1,Klebsiella pneumoniae
+54799529,SAMN54799529,,,Homo Sapiens clinical,Homo sapiens,2025-12-31,USA: Florida,,,,,GCA_054650275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/275/GCA_054650275.1_PDT003063516.1,Klebsiella pneumoniae
+54762849,SAMEA119513765,,,feces,,,,,,,,,,,,Klebsiella pneumoniae
+54762810,SAMEA119513749,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54762762,SAMEA119513741,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54762658,SAMEA120959367,,,nasal swab,,,,,,,,,,,,Klebsiella pneumoniae
+54762489,SAMEA119513743,,,urine,,,,,,,,,,,,Klebsiella pneumoniae
+54762477,SAMEA119513767,,,intestine,,,,,,,,,,,,Klebsiella pneumoniae
+54762400,SAMEA119513764,,,intestine,,,,,,,,,,,,Klebsiella pneumoniae
+54762397,SAMEA119513747,,,blood,,,,,,,,,,,,Klebsiella pneumoniae
+54762052,SAMEA119513752,,,blood,,,,,,,,,,,,Klebsiella pneumoniae
+54761974,SAMEA119513746,,,blood,,,,,,,,,,,,Klebsiella pneumoniae
+54761937,SAMEA119513742,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54761917,SAMEA119513740,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54761899,SAMEA119513754,,,urine,,,,,,,,,,,,Klebsiella pneumoniae
+54761726,SAMEA119513753,,,blood,,,,,,,,,,,,Klebsiella pneumoniae
+54761642,SAMEA119513755,,,surveillance swab,,,,,,,,,,,,Klebsiella pneumoniae
+54761597,SAMEA119513750,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54761426,SAMEA119513748,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54761365,SAMEA119513738,,,blood,,,,,,,,,,,,Klebsiella pneumoniae
+54761315,SAMEA119513739,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54761235,SAMEA119513760,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54761055,SAMEA119513745,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54760926,SAMEA119513751,,,unknown,,,,,,,,,,,,Klebsiella pneumoniae
+54760830,SAMEA119513744,,,urine,,,,,,,,,,,,Klebsiella pneumoniae
+54760802,SAMEA119513761,,,spleen,,,,,,,,,,,,Klebsiella pneumoniae
+54719734,SAMN54719734,,QL698,sputum,Homo sapiens,2023-02-14,China,,,,,,,,,Klebsiella pneumoniae
+51531023,SAMN51531023,,cKp83,,Homo sapiens,missing,"USA: Buffalo, NY",,,,,,,,,Klebsiella pneumoniae
+54768362,SAMN54768362,,2026HL-01028,rectal swab,Homo sapiens,2026,USA,,,,,GCA_054595105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/105/GCA_054595105.1_PDT003061977.1,Klebsiella pneumoniae
+54768355,SAMN54768355,,2026HL-01021,hip,Homo sapiens,2025,USA,,,,,GCA_054595005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/005/GCA_054595005.1_PDT003061984.1,Klebsiella pneumoniae
+54768160,SAMN54768160,,2026EP-00003,urine,Homo sapiens,2025,USA,,,,,GCA_054595155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/155/GCA_054595155.1_PDT003061965.1,Klebsiella pneumoniae
+54768159,SAMN54768159,,2026EP-00002,aspirate,Homo sapiens,2025,USA,,,,,GCA_054595145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/145/GCA_054595145.1_PDT003061966.1,Klebsiella pneumoniae
+54768158,SAMN54768158,,2026EP-00004,sputum,Homo sapiens,2025,USA,,,,,GCA_054595205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/205/GCA_054595205.1_PDT003061964.1,Klebsiella pneumoniae
+54757923,SAMN54757923,,sample17,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757922,SAMN54757922,,sample16,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757921,SAMN54757921,,sample15,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757920,SAMN54757920,,sample14,missing,Homo sapiens,2022,Israel,,,,,,,,,Klebsiella pneumoniae
+54757919,SAMN54757919,,sample13,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757918,SAMN54757918,,sample12,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757917,SAMN54757917,,sample11,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757916,SAMN54757916,,sample10,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757915,SAMN54757915,,sample9,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757914,SAMN54757914,,sample8,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757913,SAMN54757913,,sample7,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757912,SAMN54757912,,sample6,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757911,SAMN54757911,,sample5,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757910,SAMN54757910,,sample4,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757909,SAMN54757909,,sample3,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757908,SAMN54757908,,sample2,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54757907,SAMN54757907,,sample1,missing,Homo sapiens,2021,Israel,,,,,,,,,Klebsiella pneumoniae
+54766103,SAMN54766103,,,sputum,Homo sapiens,2026,USA,,,,,GCA_054586445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/445/GCA_054586445.1_PDT003061712.1,Klebsiella pneumoniae
+54766003,SAMN54766003,,2025GO-00656,Unknown,Homo sapiens,2026,USA,,,,,GCA_054584455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/455/GCA_054584455.1_PDT003061660.1,Klebsiella pneumoniae
+54765995,SAMN54765995,,2025GO-00648,Unknown,Homo sapiens,2026,USA,,,,,GCA_054586755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/755/GCA_054586755.1_PDT003061665.1,Klebsiella pneumoniae
+54765994,SAMN54765994,,2025GO-00647,Unknown,Homo sapiens,2026,USA,,,,,GCA_054584475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/475/GCA_054584475.1_PDT003061648.1,Klebsiella pneumoniae
+54765992,SAMN54765992,,2025GO-00645,Unknown,Homo sapiens,2026,USA,,,,,GCA_054586715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/715/GCA_054586715.1_PDT003061666.1,Klebsiella pneumoniae
+54765991,SAMN54765991,,2025GO-00644,Unknown,Homo sapiens,2026,USA,,,,,GCA_054586725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/725/GCA_054586725.1_PDT003061667.1,Klebsiella pneumoniae
+54765990,SAMN54765990,,2025GO-00643,Unknown,Homo sapiens,2026,USA,,,,,GCA_054583615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/615/GCA_054583615.1_PDT003061650.1,Klebsiella pneumoniae
+54765986,SAMN54765986,,2025GO-00639,Unknown,Homo sapiens,2026,USA,,,,,GCA_054584435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/435/GCA_054584435.1_PDT003061663.1,Klebsiella pneumoniae
+54764856,SAMN54764856,,,blood,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/295/GCA_054586295.1_PDT003061327.1,Klebsiella pneumoniae
+54764855,SAMN54764855,,,sputum,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/325/GCA_054586325.1_PDT003061326.1,Klebsiella pneumoniae
+54764851,SAMN54764851,,,sputum,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/795/GCA_054586795.1_PDT003061322.1,Klebsiella pneumoniae
+54764846,SAMN54764846,,,blood,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/855/GCA_054586855.1_PDT003061317.1,Klebsiella pneumoniae
+54764842,SAMN54764842,,,urine,Homo sapiens,2025,USA: Arizona,,,,,GCA_054586905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/905/GCA_054586905.1_PDT003061313.1,Klebsiella pneumoniae
+54764841,SAMN54764841,,,Other (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/935/GCA_054586935.1_PDT003061312.1,Klebsiella pneumoniae
+54764838,SAMN54764838,,,Tissue (Specify:),Homo sapiens,2025,USA: Arizona,,,,,GCA_054586995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/586/995/GCA_054586995.1_PDT003061309.1,Klebsiella pneumoniae
+54764817,SAMN54764817,,634Kp,Rectal swab,Homo sapiens,2024-03,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764816,SAMN54764816,,633Kp,Rectal swab,Homo sapiens,2024-03,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764815,SAMN54764815,,632Kp,TBA,Homo sapiens,2024-03,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764814,SAMN54764814,,617Kp,TBA,Homo sapiens,2024-01,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764813,SAMN54764813,,612Kp,Rectal swab,Homo sapiens,2024-01,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764812,SAMN54764812,,611Kp,TBA,Homo sapiens,2024-01,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764811,SAMN54764811,,574Kp,Rectal swab,Homo sapiens,2023-11,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764810,SAMN54764810,,573Kp,TBA,Homo sapiens,2023-11,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764809,SAMN54764809,,569Kp,TBA,Homo sapiens,2023-10,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764808,SAMN54764808,,556Kp,BAL,Homo sapiens,2023-10,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764807,SAMN54764807,,550Kp,TBA,Homo sapiens,2023-09,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764806,SAMN54764806,,505Kp,central venous catheter,Homo sapiens,2023-07,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764805,SAMN54764805,,502Kp,TBA,Homo sapiens,2023-07,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764804,SAMN54764804,,479Kp,TBA,Homo sapiens,2023-05,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764803,SAMN54764803,,450Kp,BAL,Homo sapiens,2023-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764802,SAMN54764802,,449Kp,Rectal swab,Homo sapiens,2023-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764801,SAMN54764801,,447Kp,TBA,Homo sapiens,2023-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764800,SAMN54764800,,440Kp,TBA,Homo sapiens,2023-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764799,SAMN54764799,,430Kp,BAL,Homo sapiens,2023-01,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764798,SAMN54764798,,422Kp,BAL,Homo sapiens,2023-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764797,SAMN54764797,,419Kp,TBA,Homo sapiens,2022-12,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764796,SAMN54764796,,413Kp,BAL,Homo sapiens,2022-12,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764795,SAMN54764795,,383Kp,BAL,Homo sapiens,2022-09,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764794,SAMN54764794,,320Kp,TBA,Homo sapiens,2022-04,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764793,SAMN54764793,,293Kp,TBA,Homo sapiens,2022-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764792,SAMN54764792,,276Kp,BAL,Homo sapiens,2022-02,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764791,SAMN54764791,,184Kp,urine,Homo sapiens,2021-06,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54764790,SAMN54764790,,182Kp,Rectal swab,Homo sapiens,2021-06,Italy: Rome,,,,,,,,,Klebsiella pneumoniae
+54763064,SAMN54763064,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054577485.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/577/485/GCA_054577485.1_PDT003061055.1,Klebsiella pneumoniae
+54747786,SAMEA116304289,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54745672,SAMEA116304446,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54745261,SAMEA116304194,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54744453,SAMEA116304292,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54744407,SAMEA116304408,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54757906,SAMN54757906,,2023006485,urine,Homo sapiens,2023-12-15,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757905,SAMN54757905,,2023006483,urine,Homo sapiens,2023-12-17,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757904,SAMN54757904,,2023006476,cannula,Homo sapiens,2023-11-25,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757903,SAMN54757903,,2023006457,urine,Homo sapiens,2023-12-08,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757902,SAMN54757902,,2023005717,tracheal aspirate,Homo sapiens,2023-06-20,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757901,SAMN54757901,,2023005674,urine,Homo sapiens,2023-06-09,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757900,SAMN54757900,,2023005684,tracheal aspirate,Homo sapiens,2023-06-13,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757899,SAMN54757899,,2023005690,urine,Homo sapiens,2023-06-16,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757898,SAMN54757898,,2023005653,urine,Homo sapiens,2023-06-02,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757897,SAMN54757897,,2023005616,tracheal aspirate,Homo sapiens,2023-05-26,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757896,SAMN54757896,,2023005599,urine,Homo sapiens,2023-05-09,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757895,SAMN54757895,,2023005587,tracheal aspirate,Homo sapiens,2023-05-23,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757894,SAMN54757894,,2023005583,urine,Homo sapiens,2023-05-17,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757893,SAMN54757893,,2023005451,urine,Homo sapiens,2023-04-12,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757892,SAMN54757892,,2023005443,wound,Homo sapiens,2023-04-12,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757891,SAMN54757891,,2023005428,urine,Homo sapiens,2023-04-07,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757890,SAMN54757890,,2023005412,cannula,Homo sapiens,2023-04-05,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757889,SAMN54757889,,2023005359,urine,Homo sapiens,2023-03-14,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757888,SAMN54757888,,2023005513,tracheal aspirate,Homo sapiens,2023-05-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757887,SAMN54757887,,2023005490,tracheal aspirate,Homo sapiens,2023-04-25,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757886,SAMN54757886,,2022005361,broncho-alveolar lavage,Homo sapiens,2022-04-19,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757885,SAMN54757885,,2024005303,urine,Homo sapiens,2024-03-12,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757884,SAMN54757884,,2024005289,tracheal aspirate,Homo sapiens,2024-03-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757883,SAMN54757883,,2024005288,tracheal aspirate,Homo sapiens,2024-03-08,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757882,SAMN54757882,,2024005255,urine,Homo sapiens,2024-02-20,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757881,SAMN54757881,,2024005246,urine,Homo sapiens,2024-02-16,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757880,SAMN54757880,,2024005230,urine,Homo sapiens,2024-02-18,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757879,SAMN54757879,,2024005197,urine,Homo sapiens,2024-02-14,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757878,SAMN54757878,,2024005182,urine,Homo sapiens,2024-02-08,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757877,SAMN54757877,,2024005161,urine,Homo sapiens,2024-01-26,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757876,SAMN54757876,,2024005145,urine,Homo sapiens,2024-01-23,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757875,SAMN54757875,,2024005130,urine,Homo sapiens,2024-01-21,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757874,SAMN54757874,,2024005110,urine,Homo sapiens,2024-01-09,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757873,SAMN54757873,,2024005106,urine,Homo sapiens,2024-01-15,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757872,SAMN54757872,,2024005090,urine,Homo sapiens,2024-01-11,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757871,SAMN54757871,,2024005081,urine,Homo sapiens,2024-01-09,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757870,SAMN54757870,,2024005060,broncho-alveolar lavage,Homo sapiens,2024-01-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757869,SAMN54757869,,2024005059,blood,Homo sapiens,2023-12-23,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757868,SAMN54757868,,2024005058,wound,Homo sapiens,2023-12-30,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757867,SAMN54757867,,2024005057,urine,Homo sapiens,2023-12-28,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757866,SAMN54757866,,2024005056,wound,Homo sapiens,2023-12-27,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757865,SAMN54757865,,2024005022,urine,Homo sapiens,2023-10-27,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757864,SAMN54757864,,2022005304,urine,Homo sapiens,2022-03-29,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757863,SAMN54757863,,2022005302,blood,Homo sapiens,2022-01-26,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757862,SAMN54757862,,2022005246,blood,Homo sapiens,2022-02-26,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757861,SAMN54757861,,2022005232,blood,Homo sapiens,2022-03-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757860,SAMN54757860,,2022005153,blood,Homo sapiens,2021-10-18,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757859,SAMN54757859,,2022005156,blood,Homo sapiens,2022-01-18,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757858,SAMN54757858,,2022005149,blood,Homo sapiens,2022-02-20,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757857,SAMN54757857,,2022005081,cannula,Homo sapiens,2022-01-20,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757856,SAMN54757856,,2022005054,blood,Homo sapiens,2021-11-13,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757855,SAMN54757855,,2022005080,urine,Homo sapiens,2022-01-14,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757854,SAMN54757854,,2022005077,blood,Homo sapiens,2022-01-17,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757853,SAMN54757853,,2022005076,urine,Homo sapiens,2022-01-18,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757852,SAMN54757852,,2022006121,urine,Homo sapiens,2022-11-10,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757851,SAMN54757851,,2022006171,urine,Homo sapiens,2022-11-07,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757850,SAMN54757850,,2022005949,urine,Homo sapiens,2022-09-28,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757849,SAMN54757849,,2024005460,urine,Homo sapiens,2024-04-22,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757848,SAMN54757848,,2024005406,urine,Homo sapiens,2024-04-08,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757847,SAMN54757847,,2024005393,urine,Homo sapiens,2024-03-27,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757846,SAMN54757846,,2024005307,blood,Homo sapiens,2024-03-15,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757845,SAMN54757845,,2024005304,urine,Homo sapiens,2024-03-12,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757844,SAMN54757844,,2024005248,urine,Homo sapiens,2024-02-22,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757843,SAMN54757843,,2024005244,urine,Homo sapiens,2024-01-18,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757842,SAMN54757842,,2024005238,tracheal aspirate,Homo sapiens,2024-02-19,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757841,SAMN54757841,,2024005181,urine,Homo sapiens,2024-02-08,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757840,SAMN54757840,,2024005170,punctate,Homo sapiens,2024-02-02,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757839,SAMN54757839,,2024005162,urine,Homo sapiens,2024-01-29,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757838,SAMN54757838,,2024005124,urine,Homo sapiens,2024-01-12,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757837,SAMN54757837,,2024005107,tracheal aspirate,Homo sapiens,2024-01-15,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757836,SAMN54757836,,2024005104,urine,Homo sapiens,2024-01-15,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757835,SAMN54757835,,2024005049,urine,Homo sapiens,2023-12-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757834,SAMN54757834,,2024005048,urine,Homo sapiens,2023-12-21,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757833,SAMN54757833,,2024005039,urine,Homo sapiens,2023-12-23,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757832,SAMN54757832,,2024005032,blood,Homo sapiens,2023-12-06,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757831,SAMN54757831,,2024005002,urine,Homo sapiens,2023-12-21,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757830,SAMN54757830,,2023006501,urine,Homo sapiens,2023-12-17,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757829,SAMN54757829,,2023005726,wound,Homo sapiens,2023-06-20,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757828,SAMN54757828,,2023005708,blood,Homo sapiens,2023-06-13,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757827,SAMN54757827,,2023005663,wound,Homo sapiens,2023-05-30,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757826,SAMN54757826,,2023005640,drain,Homo sapiens,2023-06-02,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757825,SAMN54757825,,2023005619,punctate,Homo sapiens,2023-05-18,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757824,SAMN54757824,,2023005581,cannula,Homo sapiens,2023-05-17,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757823,SAMN54757823,,2023005560,urine,Homo sapiens,2023-05-06,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757822,SAMN54757822,,2023005497,urine,Homo sapiens,2023-05-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757821,SAMN54757821,,2023005445,blood,Homo sapiens,2023-04-08,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757820,SAMN54757820,,2022006260,blood,Homo sapiens,2022-10-04,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757819,SAMN54757819,,2022006141,blood,Homo sapiens,2022-11-14,Hungary,,,,,,,,,Klebsiella pneumoniae
+54757818,SAMN54757818,,2022006053,urine,Homo sapiens,2022-10-15,Hungary,,,,,,,,,Klebsiella pneumoniae
+54461063,SAMN54461063,,ST35-KP78,sputum,Homo sapiens,2019-02-17,"China: Hefei, Anhui",,,,,GCF_054512835.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/512/835/GCF_054512835.1_ASM5451283v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/512/835/GCA_054512835.1_ASM5451283v1,Klebsiella pneumoniae
+54249895,SAMN54249895,,142686,sputum,,2025-03-04,"China: Chengdu, Sichuan",,,,,GCA_054504505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/505/GCA_054504505.1_ASM5450450v1,Klebsiella pneumoniae
+54249894,SAMN54249894,,142276,tracheal secretion,,2024-07-04,"China: Chengdu, Sichuan",,,,,GCA_054504545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/545/GCA_054504545.1_ASM5450454v1,Klebsiella pneumoniae
+54249893,SAMN54249893,,142252,sputum,,2024-06-20,"China: Chengdu, Sichuan",,,,,GCA_054504565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/565/GCA_054504565.1_ASM5450456v1,Klebsiella pneumoniae
+54249892,SAMN54249892,,142022,sputum,,2024-04-11,"China: Chengdu, Sichuan",,,,,GCA_054504605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/605/GCA_054504605.1_ASM5450460v1,Klebsiella pneumoniae
+53669762,SAMN53669762,,PRO_A-1465-6W-A_ESBL,feces,Homo sapiens,2022-06-03,Tanzania,,,,,GCF_054391535.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/391/535/GCF_054391535.1_PRO_A-1465-6W-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/391/535/GCA_054391535.1_PRO_A-1465-6W-A_ESBL,Klebsiella pneumoniae
+53669743,SAMN53669743,,PRO_A-1010-6W-A_ESBL,feces,Homo sapiens,2022-03-14,Tanzania,,,,,GCF_054391795.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/391/795/GCF_054391795.1_PRO_A-1010-6W-A_ESBL,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/391/795/GCA_054391795.1_PRO_A-1010-6W-A_ESBL,Klebsiella pneumoniae
+48634345,SAMN48634345,,141814,sputum,Homo sapiens,2023-12-29,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634180,SAMN48634180,,141641,urine,Homo sapiens,2023-10-06,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634141,SAMN48634141,,141599,sputum,Homo sapiens,2023-07-06,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634139,SAMN48634139,,141597,gluteal secretion,Homo sapiens,2023-07-08,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634121,SAMN48634121,,141577,sputum,Homo sapiens,2023-06-05,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634104,SAMN48634104,,141560,sputum,Homo sapiens,2023-04-29,"China: Chengdu, Sichuan",,,,,GCF_054354115.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/354/115/GCF_054354115.1_ASM5435411v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/354/115/GCA_054354115.1_ASM5435411v1,Klebsiella pneumoniae
+48634076,SAMN48634076,,141522,sputum,Homo sapiens,2023-04-06,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634030,SAMN48634030,,141338,bronchoalveolar lavage fluid,Homo sapiens,2023-02-21,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634021,SAMN48634021,,141328,peritoneal drainage fluid,Homo sapiens,2023-02-18,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48634002,SAMN48634002,,141309,sputum,Homo sapiens,2023-01-28,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48633913,SAMN48633913,,141080,subcutaneous abscess pus,Homo sapiens,2022-08-16,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+48633360,SAMN48633360,,130114,cerebrospinal fluid,Homo sapiens,2019-11-05,"China: Chengdu, Sichuan",,,,,GCF_054504585.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/504/585/GCF_054504585.1_ASM5450458v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/585/GCA_054504585.1_ASM5450458v1,Klebsiella pneumoniae
+48146759,SAMN48146759,,,rectal swab,Homo sapiens,2024-04-27,Qatar:Doha,,,,,GCA_054407285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/285/GCA_054407285.1_PDT003047442.1,Klebsiella pneumoniae
+48146752,SAMN48146752,,,rectal swab,Homo sapiens,2024-04-25,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146750,SAMN48146750,,,rectal swab,Homo sapiens,2024-04-14,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146745,SAMN48146745,,,rectal swab,Homo sapiens,2024-04-04,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146744,SAMN48146744,,,rectal swab,Homo sapiens,2024-04-04,Qatar:Doha,,,,,GCA_054407145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/145/GCA_054407145.1_PDT003047459.1,Klebsiella pneumoniae
+48146740,SAMN48146740,,,rectal swab,Homo sapiens,2024-03-19,Qatar:Doha,,,,,GCA_054407105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/105/GCA_054407105.1_PDT003047462.1,Klebsiella pneumoniae
+48146738,SAMN48146738,,,rectal swab,Homo sapiens,2024-03-19,Qatar:Doha,,,,,GCA_054407065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/065/GCA_054407065.1_PDT003047464.1,Klebsiella pneumoniae
+48146737,SAMN48146737,,,rectal swab,Homo sapiens,2024-03-19,Qatar:Doha,,,,,GCA_054407045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/045/GCA_054407045.1_PDT003047465.1,Klebsiella pneumoniae
+48146734,SAMN48146734,,,rectal swab,Homo sapiens,2024-03-01,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146730,SAMN48146730,,,rectal swab,Homo sapiens,2024-02-19,Qatar:Doha,,,,,GCA_054407005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/005/GCA_054407005.1_PDT003047472.1,Klebsiella pneumoniae
+48146729,SAMN48146729,,,rectal swab,Homo sapiens,2024-02-17,Qatar:Doha,,,,,GCA_054406985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/985/GCA_054406985.1_PDT003047473.1,Klebsiella pneumoniae
+48146726,SAMN48146726,,,rectal swab,Homo sapiens,2024-02-09,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146723,SAMN48146723,,,rectal swab,Homo sapiens,2024-02-02,Qatar:Doha,,,,,GCA_054406945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/945/GCA_054406945.1_PDT003047480.1,Klebsiella pneumoniae
+48146720,SAMN48146720,,,rectal swab,Homo sapiens,2024-02-01,Qatar:Doha,,,,,GCA_054406925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/925/GCA_054406925.1_PDT003047483.1,Klebsiella pneumoniae
+48146714,SAMN48146714,,,rectal swab,Homo sapiens,2024-01-12,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146711,SAMN48146711,,,rectal swab,Homo sapiens,2023-12-28,Qatar:Doha,,,,,GCA_054406885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/885/GCA_054406885.1_PDT003047493.1,Klebsiella pneumoniae
+48146709,SAMN48146709,,,rectal swab,Homo sapiens,2023-12-25,Qatar:Doha,,,,,GCA_054406855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/855/GCA_054406855.1_PDT003047495.1,Klebsiella pneumoniae
+48146707,SAMN48146707,,,rectal swab,Homo sapiens,2023-12-24,Qatar:Doha,,,,,GCA_054406845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/845/GCA_054406845.1_PDT003047497.1,Klebsiella pneumoniae
+48146699,SAMN48146699,,,rectal swab,Homo sapiens,2023-12-11,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146697,SAMN48146697,,,rectal swab,Homo sapiens,2023-12-10,Qatar:Doha,,,,,GCA_054407165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/407/165/GCA_054407165.1_PDT003047458.1,Klebsiella pneumoniae
+48146696,SAMN48146696,,,rectal swab,Homo sapiens,2023-12-09,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146695,SAMN48146695,,,rectal swab,Homo sapiens,2023-12-09,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146694,SAMN48146694,,,rectal swab,Homo sapiens,2023-12-09,Qatar:Doha,,,,,GCA_054406905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/905/GCA_054406905.1_PDT003047490.1,Klebsiella pneumoniae
+48146658,SAMN48146658,,,rectal swab,Homo sapiens,2022-06-30,Qatar:Doha,,,,,GCA_054406235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/235/GCA_054406235.1_PDT003047524.1,Klebsiella pneumoniae
+48146656,SAMN48146656,,,rectal swab,Homo sapiens,2022-06-16,Qatar:Doha,,,,,GCA_054406825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/825/GCA_054406825.1_PDT003047526.1,Klebsiella pneumoniae
+48146654,SAMN48146654,,,rectal swab,Homo sapiens,2022-05-08,Qatar:Doha,,,,,GCA_054406805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/805/GCA_054406805.1_PDT003047529.1,Klebsiella pneumoniae
+48146651,SAMN48146651,,,rectal swab,Homo sapiens,2022-04-22,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146647,SAMN48146647,,,rectal swab,Homo sapiens,2022-03-29,Qatar:Doha,,,,,,,,,Klebsiella pneumoniae
+48146646,SAMN48146646,,,rectal swab,Homo sapiens,2022-02-15,Qatar:Doha,,,,,GCA_054406785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/406/785/GCA_054406785.1_PDT003047509.1,Klebsiella pneumoniae
+54752196,SAMN54752196,,171-25,abdominal fluid,,2025-04-22,Chile,,,,,,,,,Klebsiella pneumoniae
+54752195,SAMN54752195,,225-25,urine,,2025-05-12,Chile,,,,,,,,,Klebsiella pneumoniae
+54752194,SAMN54752194,,206-25,wound,,2025-04-30,Chile,,,,,,,,,Klebsiella pneumoniae
+54752193,SAMN54752193,,139-25,abdominal fluid,,2025-03-31,Chile,,,,,,,,,Klebsiella pneumoniae
+54752192,SAMN54752192,,219-25,bronchoalveolar lavage,,2025-05-07,Chile,,,,,,,,,Klebsiella pneumoniae
+54752191,SAMN54752191,,150-25,urine,,2025-04-10,Chile,,,,,,,,,Klebsiella pneumoniae
+54752190,SAMN54752190,,285-25,urine,,2025-05-28,Chile,,,,,,,,,Klebsiella pneumoniae
+54751649,SAMN54751649,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054557065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/065/GCA_054557065.1_PDT003059578.1,Klebsiella pneumoniae
+54751648,SAMN54751648,,,urine,Homo sapiens,2025,USA,,,,,GCA_054557025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/025/GCA_054557025.1_PDT003059579.1,Klebsiella pneumoniae
+54751647,SAMN54751647,,,urine,Homo sapiens,2025,USA,,,,,GCA_054557045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/045/GCA_054557045.1_PDT003059580.1,Klebsiella pneumoniae
+54751646,SAMN54751646,,,urine,Homo sapiens,2025,USA,,,,,GCA_054557005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/005/GCA_054557005.1_PDT003059581.1,Klebsiella pneumoniae
+54751640,SAMN54751640,,,urine,Homo sapiens,2025,USA,,,,,GCA_054556985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/985/GCA_054556985.1_PDT003059587.1,Klebsiella pneumoniae
+54751639,SAMN54751639,,,urine,Homo sapiens,2025,USA,,,,,GCA_054556945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/945/GCA_054556945.1_PDT003059588.1,Klebsiella pneumoniae
+54751638,SAMN54751638,,,urine,Homo sapiens,2025,USA,,,,,GCA_054556925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/925/GCA_054556925.1_PDT003059589.1,Klebsiella pneumoniae
+54751637,SAMN54751637,,,blood,Homo sapiens,2025,USA,,,,,GCA_054556905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/905/GCA_054556905.1_PDT003059590.1,Klebsiella pneumoniae
+54751636,SAMN54751636,,,urine,Homo sapiens,2025,USA,,,,,GCA_054556885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/885/GCA_054556885.1_PDT003059591.1,Klebsiella pneumoniae
+54751635,SAMN54751635,,,blood,Homo sapiens,2025,USA,,,,,GCA_054556865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/865/GCA_054556865.1_PDT003059592.1,Klebsiella pneumoniae
+54751634,SAMN54751634,,,Sacrum,Homo sapiens,2025,USA,,,,,GCA_054557465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/465/GCA_054557465.1_PDT003059571.1,Klebsiella pneumoniae
+54751633,SAMN54751633,,,Sacrum,Homo sapiens,2025,USA,,,,,GCA_054557085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/085/GCA_054557085.1_PDT003059572.1,Klebsiella pneumoniae
+54751632,SAMN54751632,,,wound,Homo sapiens,2025,USA,,,,,GCA_054557445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/445/GCA_054557445.1_PDT003059573.1,Klebsiella pneumoniae
+54751631,SAMN54751631,,,urine,Homo sapiens,2025,USA,,,,,GCA_054557425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/425/GCA_054557425.1_PDT003059574.1,Klebsiella pneumoniae
+54751630,SAMN54751630,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054557225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/225/GCA_054557225.1_PDT003059575.1,Klebsiella pneumoniae
+54751629,SAMN54751629,,,blood,Homo sapiens,2025,USA,,,,,GCA_054557395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/395/GCA_054557395.1_PDT003059576.1,Klebsiella pneumoniae
+54751628,SAMN54751628,,,Catheterized,Homo sapiens,2025,USA,,,,,GCA_054557685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/685/GCA_054557685.1_PDT003059577.1,Klebsiella pneumoniae
+54751625,SAMN54751625,,,Sacrum,Homo sapiens,2025,USA,,,,,GCA_054557385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/385/GCA_054557385.1_PDT003059594.1,Klebsiella pneumoniae
+54749138,SAMEA120903234,,17Y0674,milk,,,,,,,,,,,,Klebsiella pneumoniae
+54749137,SAMEA120903231,,17Y0669,catfish,,,,,,,,,,,,Klebsiella pneumoniae
+54741631,SAMN54741631,,BSI012438,,Homo sapiens,2001/2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741630,SAMN54741630,,BSI012382,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741594,SAMN54741594,,BSI0198,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741593,SAMN54741593,,BSI0188,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741592,SAMN54741592,,BSI0169,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741591,SAMN54741591,,BSI0152,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741590,SAMN54741590,,BSI014,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741589,SAMN54741589,,BSI012600,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741588,SAMN54741588,,BSI0126,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741587,SAMN54741587,,BSI012578,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741586,SAMN54741586,,BSI012574,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741585,SAMN54741585,,BSI012536,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741584,SAMN54741584,,BSI012488,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741583,SAMN54741583,,BSI012438,,Homo sapiens,2001/2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741582,SAMN54741582,,BSI0124,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741581,SAMN54741581,,BSI012382,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741580,SAMN54741580,,BSI01236,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741579,SAMN54741579,,BSI01232,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741578,SAMN54741578,,BSI012302,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741577,SAMN54741577,,BSI012276,,Homo sapiens,2001/2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741576,SAMN54741576,,BSI012252,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741575,SAMN54741575,,BSI012145,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741574,SAMN54741574,,BSI012106,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741573,SAMN54741573,,BSI01207,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741572,SAMN54741572,,BSI011989,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741571,SAMN54741571,,BSI011972,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741570,SAMN54741570,,BSI011739,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741569,SAMN54741569,,BSI011668,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741568,SAMN54741568,,BSI011659,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741567,SAMN54741567,,BSI011533,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741566,SAMN54741566,,BSI011501,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741565,SAMN54741565,,BSI011383,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741564,SAMN54741564,,BSI011382,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741563,SAMN54741563,,BSI011378,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741562,SAMN54741562,,BSI011346,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741561,SAMN54741561,,BSI011337,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741560,SAMN54741560,,BSI011321,,Homo sapiens,2001/2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741559,SAMN54741559,,BSI01132,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741558,SAMN54741558,,BSI011319,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741557,SAMN54741557,,BSI01125,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741556,SAMN54741556,,BSI011236,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741555,SAMN54741555,,BSI011173,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741554,SAMN54741554,,BSI011102,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741553,SAMN54741553,,BSI01109,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741552,SAMN54741552,,BSI011060,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741551,SAMN54741551,,BSI011054,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741550,SAMN54741550,,BSI011036,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741549,SAMN54741549,,BSI011035,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741548,SAMN54741548,,BSI011023,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741547,SAMN54741547,,BSI0110,,Homo sapiens,2001,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741546,SAMN54741546,,990,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741545,SAMN54741545,,987,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741544,SAMN54741544,,968,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741543,SAMN54741543,,961,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741542,SAMN54741542,,906,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741541,SAMN54741541,,770,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741540,SAMN54741540,,558,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741539,SAMN54741539,,431,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741538,SAMN54741538,,2315,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741537,SAMN54741537,,2313,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741536,SAMN54741536,,2265,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741535,SAMN54741535,,2261,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741534,SAMN54741534,,2255,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741533,SAMN54741533,,2254,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741532,SAMN54741532,,2202,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741531,SAMN54741531,,2171,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741530,SAMN54741530,,2166,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741529,SAMN54741529,,2163,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741528,SAMN54741528,,2155,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741527,SAMN54741527,,2130,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741526,SAMN54741526,,213,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741525,SAMN54741525,,2124,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741524,SAMN54741524,,2112,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741523,SAMN54741523,,2111,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741522,SAMN54741522,,2095,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741521,SAMN54741521,,2070,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741520,SAMN54741520,,207,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741519,SAMN54741519,,2032,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741518,SAMN54741518,,2013,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741517,SAMN54741517,,2006,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741516,SAMN54741516,,1925,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741515,SAMN54741515,,1912,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741514,SAMN54741514,,1895,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741513,SAMN54741513,,1866,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741512,SAMN54741512,,1865,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741511,SAMN54741511,,1802,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741510,SAMN54741510,,1801,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741509,SAMN54741509,,1775,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741508,SAMN54741508,,1701,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741507,SAMN54741507,,1533,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741506,SAMN54741506,,1462,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741505,SAMN54741505,,1448,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741504,SAMN54741504,,1435,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741503,SAMN54741503,,1432,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741502,SAMN54741502,,1431,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741501,SAMN54741501,,1425,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741500,SAMN54741500,,1414,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741499,SAMN54741499,,1393,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741498,SAMN54741498,,1386,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741497,SAMN54741497,,1359,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741496,SAMN54741496,,1318,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741495,SAMN54741495,,1299,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741494,SAMN54741494,,1254,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741493,SAMN54741493,,1252,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741492,SAMN54741492,,1232,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741491,SAMN54741491,,1220,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741490,SAMN54741490,,1218,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741489,SAMN54741489,,1212,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741488,SAMN54741488,,1204,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741487,SAMN54741487,,1185,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741486,SAMN54741486,,1038,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741485,SAMN54741485,,1014,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741484,SAMN54741484,,1004,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741475,SAMN54741475,,BSI012276,,Homo sapiens,2001/2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741470,SAMN54741470,,BSI012106,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741459,SAMN54741459,,BSI011668,,Homo sapiens,2002,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741439,SAMN54741439,,2033,,Homo sapiens,2018,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54741430,SAMN54741430,,1359,,Homo sapiens,2017,Tanzania,,,,,,,,,Klebsiella pneumoniae
+54733821,SAMEA120903237,,17Y0680,milk,,,,,,,,,,,,Klebsiella pneumoniae
+54733794,SAMEA120903238,,17Y0682,milk,,,,,,,,,,,,Klebsiella pneumoniae
+54733643,SAMEA120903236,,17Y0678,milk,,,,,,,,,,,,Klebsiella pneumoniae
+54733257,SAMEA120903230,,17Y0668,catfish,,,,,,,,,,,,Klebsiella pneumoniae
+54733186,SAMEA120903228,,17Y0567,yogurt,,,,,,,,,,,,Klebsiella pneumoniae
+54733087,SAMEA120903235,,17Y0676,milk,,,,,,,,,,,,Klebsiella pneumoniae
+54732745,SAMEA120903233,,17Y0673,catfish,,,,,,,,,,,,Klebsiella pneumoniae
+54732686,SAMEA120903229,,17Y0667,catfish,,,,,,,,,,,,Klebsiella pneumoniae
+54731611,SAMEA120903232,,17Y0672,catfish,,,,,,,,,,,,Klebsiella pneumoniae
+54738958,SAMN54738958,,KP85,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738957,SAMN54738957,,KP79,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738956,SAMN54738956,,KP76,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738955,SAMN54738955,,KP75,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738954,SAMN54738954,,KP72,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738953,SAMN54738953,,KP64,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738952,SAMN54738952,,KP58,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738951,SAMN54738951,,KP53,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738950,SAMN54738950,,KP51,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738949,SAMN54738949,,KP50,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738948,SAMN54738948,,KP45,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738947,SAMN54738947,,KP43,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54738946,SAMN54738946,,KP42,feces,sheep,2025-04-28,China,,,,,,,,,Klebsiella pneumoniae
+54736092,SAMN54736092,,ST258,lung,Homo sapiens,not applicable,Greece,,,,,,,,,Klebsiella pneumoniae
+54726258,SAMN54726258,,170026V256B3,cell passaging,,2025,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54726257,SAMN54726257,,170026V256B2,cell passaging,,2025,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54726256,SAMN54726256,,170026V256B1,cell passaging,,2025,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54726255,SAMN54726255,,140438V256B3,cell passaging,,2025,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54726254,SAMN54726254,,140438V256B2,cell passaging,,2025,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54726253,SAMN54726253,,140438V256B1,cell passaging,,2025,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54725953,SAMN54725953,,YZB7,chicken,,2022-06,China: Jiangsu,,,,,,,,,Klebsiella pneumoniae
+54725952,SAMN54725952,,YZB6,chicken,,2022-06,China: Jiangsu,,,,,,,,,Klebsiella pneumoniae
+54725951,SAMN54725951,,YZB2,chicken,,2022-06,China: Jiangsu,,,,,,,,,Klebsiella pneumoniae
+54725700,SAMN54725700,,K28,Artisanal coastal cheese,,2024,Colombia:Valledupar,,,,,,,,,Klebsiella pneumoniae
+54722750,SAMN54722750,,CPF28-2,feces,pig,2022-06,China: Yangzhou,,,,,,,,,Klebsiella pneumoniae
+54688176,SAMN54688176,,142686B1,sputum,Homo sapiens,2025-03-04,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54688175,SAMN54688175,,142276B1,tracheal secretion,Homo sapiens,2024-07-04,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54688174,SAMN54688174,,142252B1,sputum,Homo sapiens,2024-06-20,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54688173,SAMN54688173,,142047B1,tracheal secretion,Homo sapiens,2024-04-22,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54688172,SAMN54688172,,142022B1,sputum,Homo sapiens,2024-04-11,"China: Chengdu, Sichuan",,,,,,,,,Klebsiella pneumoniae
+54721361,SAMN54721361,,UMB10518,,Homo sapiens,NA,NA,,,,,,,,,Klebsiella pneumoniae
+54714311,SAMN54714311,,CPF28-2,feces,pig,2022-06,China: Yangzhou,,,,,,,,,Klebsiella pneumoniae
+54712215,SAMD01795453,,,venous blood,Homo sapiens,2023,Japan:Fukuoka,,,,,,,,,Klebsiella pneumoniae
+54712205,SAMD01795443,,,pus,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712204,SAMD01795442,,,sputum,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712197,SAMD01795435,,,urine,Homo sapiens,2023,Japan:Gunma,,,,,,,,,Klebsiella pneumoniae
+54712196,SAMD01795434,,,sputum,Homo sapiens,2023,Japan:Gunma,,,,,,,,,Klebsiella pneumoniae
+54712195,SAMD01795433,,,urine,Homo sapiens,2023,Japan:Hiroshima,,,,,,,,,Klebsiella pneumoniae
+54712190,SAMD01795428,,,bile,Homo sapiens,2023,Japan:Shizuoka,,,,,,,,,Klebsiella pneumoniae
+54712187,SAMD01795425,,,sputum,Homo sapiens,2023,Japan:Wakayama,,,,,,,,,Klebsiella pneumoniae
+54712177,SAMD01795415,,,urine,Homo sapiens,2023,Japan:Aichi,,,,,,,,,Klebsiella pneumoniae
+54712176,SAMD01795414,,,venous blood,Homo sapiens,2023,Japan:Kyoto,,,,,,,,,Klebsiella pneumoniae
+54712175,SAMD01795413,,,others,Homo sapiens,2023,Japan:Kyoto,,,,,,,,,Klebsiella pneumoniae
+54712173,SAMD01795411,,,urine,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712171,SAMD01795409,,,ascites,Homo sapiens,2023,Japan:Ehime,,,,,,,,,Klebsiella pneumoniae
+54712166,SAMD01795404,,,sputum,Homo sapiens,2023,Japan:Gunma,,,,,,,,,Klebsiella pneumoniae
+54712159,SAMD01795397,,,stool,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712158,SAMD01795396,,,stool,Homo sapiens,2023,Japan:Okayama,,,,,,,,,Klebsiella pneumoniae
+54712146,SAMD01795384,,,stool,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712145,SAMD01795383,,,stool,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712143,SAMD01795381,,,stool,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712142,SAMD01795380,,,sputum,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712141,SAMD01795379,,,stool,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712138,SAMD01795376,,,stool,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712135,SAMD01795373,,,stool,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712134,SAMD01795372,,,stool,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712133,SAMD01795371,,,sputum,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712132,SAMD01795370,,,urine,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712131,SAMD01795369,,,skin,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712130,SAMD01795368,,,sputum,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712129,SAMD01795367,,,sputum,Homo sapiens,2023,Japan:Osaka,,,,,,,,,Klebsiella pneumoniae
+54712128,SAMD01795366,,,skin,Homo sapiens,2023,Japan:Aichi,,,,,,,,,Klebsiella pneumoniae
+54712126,SAMD01795364,,,pressure ulcer,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712125,SAMD01795363,,,sputum,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712123,SAMD01795361,,,sputum,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712121,SAMD01795359,,,venous blood,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54712120,SAMD01795358,,,sputum,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Klebsiella pneumoniae
+54703357,SAMEA120931203,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54703273,SAMEA120930518,,uvzsr-PT_26_00004-G12-AR_25_00009471,tissue biopsy,,,,,,,,GCA_054543355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/543/355/GCA_054543355.1_PDT003058066.1,Klebsiella pneumoniae
+54703214,SAMEA120930533,,uvzsr-PT_26_00004-C12-AR_25_00009204,wound swab,,,,,,,,GCA_054548355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/548/355/GCA_054548355.1_PDT003058076.1,Klebsiella pneumoniae
+54703164,SAMEA120930532,,uvzsr-PT_26_00004-B01-AR_25_00008851,necroptic material,,,,,,,,GCA_054553035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/553/035/GCA_054553035.1_PDT003059081.1,Klebsiella pneumoniae
+54702992,SAMEA120931249,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54702979,SAMEA120931240,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54702899,SAMEA120931270,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54702888,SAMEA120930530,,uvzsr-PT_26_00004-A01-AR_25_00008850,necroptic material,,,,,,,,GCA_054543315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/543/315/GCA_054543315.1_PDT003058068.1,Klebsiella pneumoniae
+54702876,SAMEA120931247,,,,,,,,,,,,,,,Klebsiella pneumoniae
+54702854,SAMEA120930535,,uvzsr-PT_26_00004-C01-AR_25_00008852,urine (permanent catheter),,,,,,,,GCA_054551695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/551/695/GCA_054551695.1_PDT003058081.1,Klebsiella pneumoniae
+54707441,SAMN54707441,,,urine,Homo sapiens,2025,USA,,,,,GCA_054509285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/285/GCA_054509285.1_PDT003055173.1,Klebsiella pneumoniae
+54707439,SAMN54707439,,,"Sputum, nebulized",Homo sapiens,2025,USA,,,,,GCA_054509245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/245/GCA_054509245.1_PDT003055175.1,Klebsiella pneumoniae
+54692032,SAMN54692032,,24145001-1,urine,Canis lupus familiaris,2024-05-25,USA:TX,,,,,GCA_054507675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/675/GCA_054507675.1_PDT003055012.1,Klebsiella pneumoniae
+54691158,SAMN54691158,,NNKP_2026.13,wound discharge,Homo sapiens,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54691111,SAMN54691111,,NNKP_2026.12,wound discharge,Homo sapiens,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54691085,SAMN54691085,,NNKP_2026.11,wound discharge,Homo sapiens,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54690656,SAMN54690656,,NNKP_2026.10,wound discharge,Homo sapiens,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54690642,SAMN54690642,,NNKP_2026.9,wound discharge,Homo sapiens,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54690584,SAMN54690584,,NNKP_2026.8,wound discharge,Homo sapiens,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54690577,SAMN54690577,,NNKP_2026.7,medical environment,,2025-01,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54689858,SAMN54689858,,NNKP_2026.6,wound discharge,Homo sapiens,2024-11,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae
+54689809,SAMN54689809,,NNKP_2026.5,punctuation sample,Homo sapiens,2024-11,Russia: Nizhniy Novgorod,,,,,,,,,Klebsiella pneumoniae

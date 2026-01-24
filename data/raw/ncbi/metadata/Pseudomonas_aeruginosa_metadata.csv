@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54875441,SAMD01607513,,Ocean-1187,,,2003,Pacific Ocean,,,,,,,,,Pseudomonas aeruginosa
+54812904,SAMN54812904,,,milk,Cattle,2025-10-15,Bangladesh:Dhaka,,,,,,,,,Pseudomonas aeruginosa
+54872160,SAMN54872160,,CCGC-5266,"Moscow, Russian Federation",Homo sapiens,2016-09-15,"Russia: Moscow, Botkin hospital",,,,,,,,,Pseudomonas aeruginosa
+54870051,SAMN54870051,,,wound,Homo sapiens,2025,USA,,,,,,,,,Pseudomonas aeruginosa
+54870013,SAMN54870013,,,urine,Homo sapiens,2026,USA,,,,,,,,,Pseudomonas aeruginosa
+54807462,SAMN54807462,,Pseudomonas aeruginosaSRMPA1270,clinical,patient,2024,China: Hangzhou,,,,,,,,,Pseudomonas aeruginosa
+54807461,SAMN54807461,,Pseudomonas aeruginosaSRMPA4678,clinical,patient,2024,China: Hangzhou,,,,,,,,,Pseudomonas aeruginosa
+54807460,SAMN54807460,,Pseudomonas aeruginosaSRMPA2956,clinical,patient,2023,China: Hangzhou,,,,,,,,,Pseudomonas aeruginosa
+54807459,SAMN54807459,,Pseudomonas aeruginosaSRMPA3740,clinical,patient,2023,China: Hangzhou,,,,,,,,,Pseudomonas aeruginosa
+54807458,SAMN54807458,,Pseudomonas aeruginosaSRMPA6505,clinical,patient,2022,China: Hangzhou,,,,,,,,,Pseudomonas aeruginosa
+54802633,SAMN54802633,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054656835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/835/GCA_054656835.1_PDT003064137.1,Pseudomonas aeruginosa
+54802631,SAMN54802631,,unknown,unknown,Homo sapiens,2025,USA,,,,,,,,,Pseudomonas aeruginosa
+54802628,SAMN54802628,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054656875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/656/875/GCA_054656875.1_PDT003064132.1,Pseudomonas aeruginosa
+54802191,SAMN54802191,,,urine,Homo sapiens,2025-12-08,USA,,,,,GCA_054652295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/295/GCA_054652295.1_PDT003063929.1,Pseudomonas aeruginosa
+54801945,SAMN54801945,,,clinical,Homo sapiens,2026-01-15,USA: Wyoming,,,,,,,,,Pseudomonas aeruginosa
+54801944,SAMN54801944,,,clinical,Homo sapiens,2026-01-07,USA: Wyoming,,,,,GCA_054651895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/895/GCA_054651895.1_PDT003063865.1,Pseudomonas aeruginosa
+54799539,SAMN54799539,,,Homo Sapiens clinical,Homo sapiens,2026-01-08,USA: Florida,,,,,GCA_054650235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/235/GCA_054650235.1_PDT003063524.1,Pseudomonas aeruginosa
+54799531,SAMN54799531,,,Homo Sapiens clinical,Homo sapiens,2026-01-01,USA: Florida,,,,,GCA_054650195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/195/GCA_054650195.1_PDT003063532.1,Pseudomonas aeruginosa
+54799530,SAMN54799530,,,Homo Sapiens clinical,Homo sapiens,2025-12-31,USA: Florida,,,,,GCA_054650255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/255/GCA_054650255.1_PDT003063515.1,Pseudomonas aeruginosa
+54799527,SAMN54799527,,,Homo Sapiens clinical,Homo sapiens,2025-12-31,USA: Florida,,,,,GCA_054650205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/205/GCA_054650205.1_PDT003063518.1,Pseudomonas aeruginosa
+54799522,SAMN54799522,,,Homo Sapiens clinical,Homo sapiens,2025-12-24,USA: Florida,,,,,GCA_054650175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/650/175/GCA_054650175.1_PDT003063533.1,Pseudomonas aeruginosa
+54771983,SAMN54771983,,,Water from the Qiantang River was supplemented with domestic sewage and incubated for two days,,2025-06-17,China,,,,,,,,,Pseudomonas aeruginosa
+54768357,SAMN54768357,,2026HL-01023,wound,Homo sapiens,2025,USA,,,,,GCA_054598455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/598/455/GCA_054598455.1_PDT003061982.1,Pseudomonas aeruginosa
+54766677,SAMN54766677,,pasaR,,Homo sapiens,2025-06,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766676,SAMN54766676,,phi83R,,Homo sapiens,2025-06,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766675,SAMN54766675,,2753_S23,,Homo sapiens,2023-03,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766674,SAMN54766674,,2753_S22,,Homo sapiens,2023-03,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766673,SAMN54766673,,2753_S21,,Homo sapiens,2022-12,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766672,SAMN54766672,,2753_S20,,Homo sapiens,2022-12,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766671,SAMN54766671,,2753_S19,,Homo sapiens,2022-12,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766670,SAMN54766670,,2753_S18,,Homo sapiens,2022-12,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766669,SAMN54766669,,2753_S17,,Homo sapiens,2022-12,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766668,SAMN54766668,,2753_S16,,Homo sapiens,2022-12,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766667,SAMN54766667,,2753_S15,,Homo sapiens,2022-11,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766666,SAMN54766666,,2753_S14,,Homo sapiens,2022-11,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766665,SAMN54766665,,2753_S13,,Homo sapiens,2022-07,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766664,SAMN54766664,,2753_S12,,Homo sapiens,2022-07,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766663,SAMN54766663,,2753_S11,,Homo sapiens,2022-07,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766662,SAMN54766662,,2753_S10,,Homo sapiens,2022-06,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766661,SAMN54766661,,2753_S9,,Homo sapiens,2022-06,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766660,SAMN54766660,,2753_S8,,Homo sapiens,2022-05,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766659,SAMN54766659,,2753_S7,,Homo sapiens,2022-05,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766658,SAMN54766658,,2753_S6,,Homo sapiens,2022-03,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766657,SAMN54766657,,2753_S5,,Homo sapiens,2022-03,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766656,SAMN54766656,,2753_S4,,Homo sapiens,2022-03,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766655,SAMN54766655,,2753_S3,,Homo sapiens,2022-03,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766654,SAMN54766654,,2753_S2,,Homo sapiens,2021-11,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766653,SAMN54766653,,2753_S1,,Homo sapiens,2021-11,"USA:Pittsburgh, PA",,,,,,,,,Pseudomonas aeruginosa
+54766047,SAMN54766047,,BK96,seawater,,2020,Turkey,,,,,,,,,Pseudomonas aeruginosa
+54763877,SAMN54763877,,,urine,Homo sapiens,2026,USA,,,,,GCA_054589785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/589/785/GCA_054589785.1_PDT003061164.1,Pseudomonas aeruginosa
+54751643,SAMN54751643,,,tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054557185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/185/GCA_054557185.1_PDT003059584.1,Pseudomonas aeruginosa
+54751641,SAMN54751641,,,wound,Homo sapiens,2025,USA,,,,,GCA_054557205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/205/GCA_054557205.1_PDT003059586.1,Pseudomonas aeruginosa
+54751580,SAMN54751580,,,sputum,Homo sapiens,2025,USA,,,,,GCA_054557485.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/485/GCA_054557485.1_PDT003059565.1,Pseudomonas aeruginosa
+54727704,SAMN54727704,,,Water from the Qiantang River was supplemented with domestic sewage and incubated for two days,,2025-06-17,China,,,,,,,,,Pseudomonas aeruginosa
+54725701,SAMN54725701,,PS1,Artisanal coastal cheese,,2024,Colombia:Valledupar,,,,,,,,,Pseudomonas aeruginosa
+54725267,SAMN54725267,,UCSF-D47,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725266,SAMN54725266,,UCSF-D32,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725265,SAMN54725265,,UCSF-D44,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725264,SAMN54725264,,UCSF-D41,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725263,SAMN54725263,,UCSF-D40,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725262,SAMN54725262,,UCSF-D39,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725261,SAMN54725261,,UCSF-D38,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725260,SAMN54725260,,UCSF-D33,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725259,SAMN54725259,,UCSF-D28-2,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725258,SAMN54725258,,UCSF-A31,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725257,SAMN54725257,,UCSF-A24,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725256,SAMN54725256,,UCSF-F47,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725255,SAMN54725255,,UCSF-F40-2,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725254,SAMN54725254,,UCSF-C35,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725253,SAMN54725253,,UCSF-G8,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725252,SAMN54725252,,UCSF-G2,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725251,SAMN54725251,,UCSF-E27,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725250,SAMN54725250,,UCSF-D30,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725249,SAMN54725249,,UCSF-A28,not provided,,not provided,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725248,SAMN54725248,,UCSF-F27,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725247,SAMN54725247,,UCSF-F26,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725246,SAMN54725246,,UCSF-G10,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725245,SAMN54725245,,UCSF-G1,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725244,SAMN54725244,,UCSF-F40,deep throat,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725243,SAMN54725243,,UCSF-F38,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725242,SAMN54725242,,UCSF-F28,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725241,SAMN54725241,,UCSF-E45,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725240,SAMN54725240,,UCSF-E41,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725239,SAMN54725239,,UCSF-E36,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725238,SAMN54725238,,UCSF-D46,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725237,SAMN54725237,,UCSF-D34,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725236,SAMN54725236,,UCSF-D10,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725235,SAMN54725235,,UCSF-D31,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725234,SAMN54725234,,UCSF-D28,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725233,SAMN54725233,,UCSF-D19,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725232,SAMN54725232,,UCSF-D14,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725231,SAMN54725231,,UCSF-C48,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725230,SAMN54725230,,UCSF-C47,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725229,SAMN54725229,,UCSF-D6,bronchoalveolar lavage,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725228,SAMN54725228,,UCSF-D7,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725227,SAMN54725227,,UCSF-D5,sputum,Homo sapiens,2017,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725226,SAMN54725226,,EnvBC20,environment; soil,,2008-08,"Canada: British Columbia, Vancouver, Victory Park",,,,,,,,,Pseudomonas aeruginosa
+54725225,SAMN54725225,,SA2,environment; water at golf course pond,,2006,South Africa,,,,,,,,,Pseudomonas aeruginosa
+54725224,SAMN54725224,,Env203,environment; soil,,2008-08,"Canada: Ontario, Toronto, University of Toronto, Trinity quad",,,,,,,,,Pseudomonas aeruginosa
+54725223,SAMN54725223,,EnvCIN1,environment; soil/water,,2008-08,"USA: Ohio, Cincinatti, creek",,,,,,,,,Pseudomonas aeruginosa
+54725222,SAMN54725222,,EnvBC10,environment; soil,,2008-08,"Canada: British Columbia, Vancouver, Stanley Park",,,,,,,,,Pseudomonas aeruginosa
+54725221,SAMN54725221,,EnvBC15,environment; soil,,2008-08,"Canada: British Columbia, Granville Island",,,,,,,,,Pseudomonas aeruginosa
+54725220,SAMN54725220,,EnvHM,environment; soil,,2004,"Canada: Ontario, Holland Marsh, near Hwy400",,,,,,,,,Pseudomonas aeruginosa
+54725219,SAMN54725219,,EnvSG4,"environment; water at soil, covered in duckweed",,2008-08,"Canada: Ontario, Toronto, Cedarvale Ravine",,,,,,,,,Pseudomonas aeruginosa
+54725218,SAMN54725218,,Env201,environment; soil,,2004,"Canada: Ontario, Toronto, Spadina/Harbord intersection",,,,,,,,,Pseudomonas aeruginosa
+54725217,SAMN54725217,,EnvBC13,environment; soil,,2008-08,"Canada: British Columbia, Vancouver, Stanley Island, near geese",,,,,,,,,Pseudomonas aeruginosa
+54725216,SAMN54725216,,PAK (PA06),cystic fibrosis isolate,Homo sapiens,not collected,not collected,,,,,,,,,Pseudomonas aeruginosa
+54725215,SAMN54725215,,PA4944,rectal swab,Homo sapiens,not collected,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725214,SAMN54725214,,114199,sputum,Homo sapiens,not collected,"USA: Texas, Houston",,,,,,,,,Pseudomonas aeruginosa
+54725213,SAMN54725213,,CFS2,cystic fibrosis isolate,Homo sapiens,not collected,"Canada: British Columbia, Univerisity of British Columbia",,,,,,,,,Pseudomonas aeruginosa
+54725212,SAMN54725212,,PA131533,liver abcess,Homo sapiens,not collected,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725211,SAMN54725211,,PA1032,"acute infection, respiratory tract",Homo sapiens,not collected,"USA: California, San Francisco",,,,,,,,,Pseudomonas aeruginosa
+54725210,SAMN54725210,,PA100420,cystic fibrosis isolate,Homo sapiens,not collected,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725209,SAMN54725209,,Env25 DJ,environment; soil,,2007-07,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725208,SAMN54725208,,Env63 BP,environment; soil,,2004,"Canada: Ontario, Toronto, cow pasture near Damascus",,,,,,,,,Pseudomonas aeruginosa
+54725207,SAMN54725207,,EnvJH2,environment; soil,,2008-07,"Canada: Ontario, Toronto, Joker's Hill",,,,,,,,,Pseudomonas aeruginosa
+54725206,SAMN54725206,,Env23 DJ,environment; soil,,2007-07,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725205,SAMN54725205,,Env24 DJ,environment; soil,,2007-07,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725204,SAMN54725204,,PA100683,cornea,Homo sapiens,not collected,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725203,SAMN54725203,,PA87110594,endotracheal tube,Homo sapiens,not collected,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725202,SAMN54725202,,PA191517,cystic fibrosis isolate,Homo sapiens,not collected,"Canada: Ontario, Toronto",,,,,,,,,Pseudomonas aeruginosa
+54725201,SAMN54725201,,RR1,environment; contaminated Soil,,1996,Spain: Madrid,,,,,,,,,Pseudomonas aeruginosa
+54725200,SAMN54725200,,RYC25616,cystic fibrosis isolate,Homo sapiens,not collected,"Spain: Madrid, Hospital Ramon y Cajal",,,,,,,,,Pseudomonas aeruginosa
+54725199,SAMN54725199,,EnvJH,environment; soil,,2004,"Canada: Ontario, Joker's Hill, near pond by driveway",,,,,,,,,Pseudomonas aeruginosa
+54725198,SAMN54725198,,CF040,cystic fibrosis isolate,Homo sapiens,not collected,USA: North Carolina,,,,,,,,,Pseudomonas aeruginosa
+54714070,SAMN54714070,,,Water of Hawksbill rehabilitation,,2024,United Arab Emirates,,,,,,,,,Pseudomonas aeruginosa
+54714069,SAMN54714069,,,Water of Hawksbill rehabilitation,,2024,United Arab Emirates,,,,,,,,,Pseudomonas aeruginosa
+54714050,SAMN54714050,,,Rectal swab of hawksbill turtle,Turtle,2024,United Arab Emirates,,,,,,,,,Pseudomonas aeruginosa
+54693075,SAMEA120862895,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54712257,SAMN54712257,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054509625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/625/GCA_054509625.1_PDT003055321.1,Pseudomonas aeruginosa
+54712255,SAMN54712255,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054509645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/645/GCA_054509645.1_PDT003055323.1,Pseudomonas aeruginosa
+48394998,SAMN48394998,,PAO1,"bacterial culture, following phage PaStL2 selection, clone 4",Homo sapiens,2024-09-30,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+48394997,SAMN48394997,,PAO1,"bacterial culture, following phage PaStL2 selection, clone 3",Homo sapiens,2024-09-30,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+48394996,SAMN48394996,,PAO1,"bacterial culture, following phage PaStL2 selection, clone 2",Homo sapiens,2024-09-30,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+48394995,SAMN48394995,,PAO1,"bacterial culture, following phage PaStL2 selection, clone 1",Homo sapiens,2024-09-30,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+48394994,SAMN48394994,,PAO1,"bacterial culture, following phage PaStL1 selection, clone 2",Homo sapiens,2025-02-17,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+48394993,SAMN48394993,,PAO1,"bacterial culture, following phage PaStL1 selection, clone 1",Homo sapiens,2024-09-30,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+48394992,SAMN48394992,,PAO1,bacterial culture,Homo sapiens,2024-09-30,"USA: St Louis, MO",,,,,,,,,Pseudomonas aeruginosa
+46009504,SAMN46009504,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009503,SAMN46009503,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009502,SAMN46009502,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009501,SAMN46009501,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009500,SAMN46009500,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009499,SAMN46009499,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009498,SAMN46009498,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009497,SAMN46009497,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009496,SAMN46009496,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009495,SAMN46009495,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009494,SAMN46009494,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009493,SAMN46009493,,PA14,not collected,not collected,2024-07-16,China,,,,,,,,,Pseudomonas aeruginosa
+46009492,SAMN46009492,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009491,SAMN46009491,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009490,SAMN46009490,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009489,SAMN46009489,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009488,SAMN46009488,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009487,SAMN46009487,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009486,SAMN46009486,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009485,SAMN46009485,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009484,SAMN46009484,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009483,SAMN46009483,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009482,SAMN46009482,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009481,SAMN46009481,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009480,SAMN46009480,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009479,SAMN46009479,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009478,SAMN46009478,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009477,SAMN46009477,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009476,SAMN46009476,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009475,SAMN46009475,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009474,SAMN46009474,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009473,SAMN46009473,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009472,SAMN46009472,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009471,SAMN46009471,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009470,SAMN46009470,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+46009469,SAMN46009469,,PA14,not collected,not collected,2020-07-24,China,,,,,,,,,Pseudomonas aeruginosa
+54623318,SAMN54623318,,,urine,Homo sapiens,2024-11-01,Russia:Moscow,,,,,GCA_054501705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/705/GCA_054501705.1_PDT003054565.1,Pseudomonas aeruginosa
+54621047,SAMN54621047,,PA_35,hospital sink drain,not applicable,2023-08-10,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621046,SAMN54621046,,PA_32,blood culture,Homo sapiens,2022-11-08,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621045,SAMN54621045,,PA_31,blood culture,Homo sapiens,2022-07-18,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621044,SAMN54621044,,PA_28,tracheal aspirate,Homo sapiens,2022-09-17,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621043,SAMN54621043,,PA_27,tracheal aspirate,Homo sapiens,2022-09-22,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621042,SAMN54621042,,PA_23,urine,Homo sapiens,2022-09-20,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621041,SAMN54621041,,PA_22,blood culture,Homo sapiens,2022-09-26,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621040,SAMN54621040,,PA_21,blood culture,Homo sapiens,2022-09-17,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621039,SAMN54621039,,PA_15,tracheal aspirate,Homo sapiens,2022-06-12,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621038,SAMN54621038,,PA_14,blood culture,Homo sapiens,2022-06-06,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621037,SAMN54621037,,PA_11,tracheal aspirate,Homo sapiens,2022-05-14,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+54621036,SAMN54621036,,PA_02,tracheal aspirate,Homo sapiens,2022-02-08,Ecuador: Quito,,,,,,,,,Pseudomonas aeruginosa
+53235161,SAMN53235161,,gp53-12,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235160,SAMN53235160,,gp53-11,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235159,SAMN53235159,,gp53-10,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235158,SAMN53235158,,gp53-9,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235157,SAMN53235157,,gp53-8,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235156,SAMN53235156,,gp53-7,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235155,SAMN53235155,,gp53-6,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235154,SAMN53235154,,gp53-5,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235153,SAMN53235153,,gp53-4,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235152,SAMN53235152,,gp53-3,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235151,SAMN53235151,,gp53-2,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53235150,SAMN53235150,,gp53-1,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+54618843,SAMN54618843,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054501305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/305/GCA_054501305.1_PDT003054514.1,Pseudomonas aeruginosa
+54618841,SAMN54618841,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054501265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/265/GCA_054501265.1_PDT003054516.1,Pseudomonas aeruginosa
+54618839,SAMN54618839,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054501225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/225/GCA_054501225.1_PDT003054518.1,Pseudomonas aeruginosa
+54618836,SAMN54618836,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054501165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/165/GCA_054501165.1_PDT003054521.1,Pseudomonas aeruginosa
+54616825,SAMN54616825,,,urine,Homo sapiens,2025,USA,,,,,GCA_054501365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/365/GCA_054501365.1_PDT003054497.1,Pseudomonas aeruginosa
+54616824,SAMN54616824,,,tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054501445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/445/GCA_054501445.1_PDT003054489.1,Pseudomonas aeruginosa
+54616821,SAMN54616821,,,respiratory,Homo sapiens,2025,USA,,,,,GCA_054501425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/425/GCA_054501425.1_PDT003054492.1,Pseudomonas aeruginosa
+54616820,SAMN54616820,,,Abscess,Homo sapiens,2025,USA,,,,,GCA_054501405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/405/GCA_054501405.1_PDT003054493.1,Pseudomonas aeruginosa
+54616818,SAMN54616818,,,tracheal aspirate,Homo sapiens,2025,USA,,,,,GCA_054501385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/385/GCA_054501385.1_PDT003054495.1,Pseudomonas aeruginosa
+54616730,SAMN54616730,,CCVSU5861,water,,2019,Brazil: Rio de Janeiro,,,,,,,,,Pseudomonas aeruginosa
+53236846,SAMN53236846,,gp53-4,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53236845,SAMN53236845,,gp53-3,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53236844,SAMN53236844,,gp53-2,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+53236843,SAMN53236843,,gp53-1,,not collected,2024,not provided,,,,,,,,,Pseudomonas aeruginosa
+54595869,SAMN54595869,,,,Homo sapiens,,,,,,,,,,,Pseudomonas aeruginosa
+54595868,SAMN54595868,,,,Homo sapiens,,,,,,,,,,,Pseudomonas aeruginosa
+54595867,SAMN54595867,,,,Homo sapiens,,,,,,,,,,,Pseudomonas aeruginosa
+54595866,SAMN54595866,,,,Homo sapiens,,,,,,,,,,,Pseudomonas aeruginosa
+54592840,SAMN54592840,,2026HL-01013,urine,Homo sapiens,2025,USA,,,,,GCA_054488345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/488/345/GCA_054488345.1_PDT003053504.1,Pseudomonas aeruginosa
+54592837,SAMN54592837,,2026HL-01010,stool/fecal,Homo sapiens,2025,USA,,,,,GCA_054488665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/488/665/GCA_054488665.1_PDT003053507.1,Pseudomonas aeruginosa
+54590629,SAMN54590629,,,SWAB_WOUND,Homo sapiens,2025,USA,,,,,GCA_054493255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/255/GCA_054493255.1_PDT003053349.1,Pseudomonas aeruginosa
+54590628,SAMN54590628,,,BLOOD_WHOLE,Homo sapiens,2025,USA,,,,,GCA_054493315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/315/GCA_054493315.1_PDT003053348.1,Pseudomonas aeruginosa
+54590608,SAMN54590608,,,FLUID (BODY)_SPUTUM (COUGHED),Homo sapiens,2026,USA,,,,,GCA_054488385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/488/385/GCA_054488385.1_PDT003053464.1,Pseudomonas aeruginosa
+54590607,SAMN54590607,,,URINE_CLEAN CATCH/VOIDED,Homo sapiens,2025,USA,,,,,GCA_054488365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/488/365/GCA_054488365.1_PDT003053463.1,Pseudomonas aeruginosa
+54589714,SAMN54589714,,,Homo Sapiens clinical,Homo sapiens,2025-12-20,USA: Florida,,,,,GCA_054493855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/855/GCA_054493855.1_PDT003053327.1,Pseudomonas aeruginosa
+54572055,SAMN54572055,,,urine,Homo sapiens,2025,USA,,,,,GCA_054476475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/475/GCA_054476475.1_PDT003052787.1,Pseudomonas aeruginosa
+54495905,SAMN54495905,,,wastewater,,2025-12-16,USA: Utah,,,,,GCA_054408365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/365/GCA_054408365.1_PDT003047784.1,Pseudomonas aeruginosa
+54495904,SAMN54495904,,,wastewater,,2025-12-12,USA: Utah,,,,,GCA_054408335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/335/GCA_054408335.1_PDT003047785.1,Pseudomonas aeruginosa
+54495903,SAMN54495903,,,wastewater,,2025-12-04,USA: Utah,,,,,GCA_054408325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/325/GCA_054408325.1_PDT003047786.1,Pseudomonas aeruginosa
+48746242,SAMN48746242,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746241,SAMN48746241,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746240,SAMN48746240,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746239,SAMN48746239,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746238,SAMN48746238,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746237,SAMN48746237,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746236,SAMN48746236,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746235,SAMN48746235,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746234,SAMN48746234,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746233,SAMN48746233,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746232,SAMN48746232,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746231,SAMN48746231,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746230,SAMN48746230,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746229,SAMN48746229,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746228,SAMN48746228,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746227,SAMN48746227,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746226,SAMN48746226,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746225,SAMN48746225,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746164,SAMN48746164,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746163,SAMN48746163,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746162,SAMN48746162,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746161,SAMN48746161,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746160,SAMN48746160,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746159,SAMN48746159,,PAO1,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746158,SAMN48746158,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746157,SAMN48746157,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+48746156,SAMN48746156,,PAO1 with phaF deletion,,,missing,missing,,,,,,,,,Pseudomonas aeruginosa
+54561340,SAMN54561340,,,Pus,Homo sapiens,2024-12-03,"Viet Nam: Cho Ray Hospital, Ho Chi Minh",,,,,,,,,Pseudomonas aeruginosa
+54560990,SAMN54560990,,KNFVi,Flower of Kata Notey (Amaranthus spinosus),Amaranthus spinosus,2025-02-25,Bangladesh: Gazipur,,,,,GCF_054552695.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/552/695/GCF_054552695.1_ASM5455269v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/695/GCA_054552695.1_ASM5455269v1,Pseudomonas aeruginosa
+54560987,SAMN54560987,,PaRV,Seed of Wheat S-615 cultivar,Triticum aestivum,2024-08-23,Bangladesh: Gazipur,,,,,GCF_054552575.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/552/575/GCF_054552575.1_ASM5455257v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/575/GCA_054552575.1_ASM5455257v1,Pseudomonas aeruginosa
+48693712,SAMN48693712,,D162F,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693711,SAMN48693711,,D162A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693710,SAMN48693710,,D120A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693709,SAMN48693709,,D29C,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693708,SAMN48693708,,D29B,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693707,SAMN48693707,,D29A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693706,SAMN48693706,,D15E,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693705,SAMN48693705,,D15D,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693704,SAMN48693704,,D15C,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693703,SAMN48693703,,D15B,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693702,SAMN48693702,,D15A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693701,SAMN48693701,,D14A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693700,SAMN48693700,,D13A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693699,SAMN48693699,,D11D,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693698,SAMN48693698,,D3A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693697,SAMN48693697,,D2A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693696,SAMN48693696,,D1D,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693695,SAMN48693695,,D1A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693694,SAMN48693694,,D0C,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693693,SAMN48693693,,D0B,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693692,SAMN48693692,,D0A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693691,SAMN48693691,,D-5B,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693690,SAMN48693690,,D-5A,lung sputum,Homo sapiens,2022,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693689,SAMN48693689,,D-202,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693688,SAMN48693688,,D-321B,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693687,SAMN48693687,,D-321A,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693686,SAMN48693686,,D-370B,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693685,SAMN48693685,,D-370A,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693684,SAMN48693684,,D-440B,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693683,SAMN48693683,,D-440A,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48693682,SAMN48693682,,D-538A,lung sputum,Homo sapiens,2021,USA: San Diego,,,,,,,,,Pseudomonas aeruginosa
+48625799,SAMN48625799,,PAMNT054,,not collected,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+48625798,SAMN48625798,,PAMNT051,,not collected,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+48625797,SAMN48625797,,PAMNT049,,not collected,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+48625796,SAMN48625796,,PAMNT048,,not collected,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+48625795,SAMN48625795,,PAMNT044,,not collected,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+48625794,SAMN48625794,,PAMNT043,,not collected,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+32736171,SAMN32736171,,Pa-wfmc-01,blood,Homo sapiens,2022-11-16,China:Weifang,,,,,,,,,Pseudomonas aeruginosa
+54558993,SAMN54558993,,,urine,,2025-12-17,USA,,,,,,,,,Pseudomonas aeruginosa
+54558118,SAMN54558118,,,urine,Homo sapiens,2024-01-08,"Viet Nam: Cho Ray Hospital, Ho Chi Minh",,,,,,,,,Pseudomonas aeruginosa
+54555135,SAMN54555135,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/555/GCA_054471555.1_PDT003050137.1,Pseudomonas aeruginosa
+54555131,SAMN54555131,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/595/GCA_054471595.1_PDT003050134.1,Pseudomonas aeruginosa
+54555130,SAMN54555130,,unknown,unknown,Homo sapiens,2025,USA,,,,,GCA_054471655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/655/GCA_054471655.1_PDT003050133.1,Pseudomonas aeruginosa
+48739815,SAMN48739815,,PAH,sputum,Homo sapiens,2022-08-22,Argentina: Buenos Aires,,,,,GCF_054507755.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/507/755/GCF_054507755.1_ASM5450775v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/755/GCA_054507755.1_ASM5450775v1,Pseudomonas aeruginosa
+54554639,SAMN54554639,,Pseudomonas aeruginosa12,Pure culture12,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554638,SAMN54554638,,Pseudomonas aeruginosa11,Pure culture11,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554637,SAMN54554637,,Pseudomonas aeruginosa10,Pure culture10,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554636,SAMN54554636,,Pseudomonas aeruginosa9,Pure culture9,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554635,SAMN54554635,,Pseudomonas aeruginosa8,Pure culture8,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554634,SAMN54554634,,Pseudomonas aeruginosa7,Pure culture7,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554633,SAMN54554633,,Pseudomonas aeruginosa6,Pure culture6,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554632,SAMN54554632,,Pseudomonas aeruginosa5,Pure culture5,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554631,SAMN54554631,,Pseudomonas aeruginosa4,Pure culture4,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554630,SAMN54554630,,Pseudomonas aeruginosa3,Pure culture3,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554629,SAMN54554629,,Pseudomonas aeruginosa2,Pure culture2,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54554628,SAMN54554628,,Pseudomonas aeruginosa1,Pure culture1,,missing,China:Ningbo,,,,,,,,,Pseudomonas aeruginosa
+54553326,SAMN54553326,,PC,Surgery bed,Homo sapiens,2023-12-13,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54553325,SAMN54553325,,P21,Ear swab,Homo sapiens,2023-11-17,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54553324,SAMN54553324,,P16,sputum,Homo sapiens,2023-10-20,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54553323,SAMN54553323,,P13,blood,Homo sapiens,2023-09-10,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54553322,SAMN54553322,,P10,urine,Homo sapiens,2023-07-25,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54553321,SAMN54553321,,P9,sputum,Homo sapiens,2023-07-10,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54553320,SAMN54553320,,P2,throat swab,Homo sapiens,2023-01-04,Iraq: Baghdad,,,,,,,,,Pseudomonas aeruginosa
+54502734,SAMN54502734,,2375,urine,Homo sapiens,2021/2022,China:Nanchang,,,,,GCF_054495325.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/495/325/GCF_054495325.1_ASM5449532v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/325/GCA_054495325.1_ASM5449532v1,Pseudomonas aeruginosa
+54502733,SAMN54502733,,2288,cerebrospinal fluid,Homo sapiens,2021/2022,China:Nanchang,,,,,GCF_054495415.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/495/415/GCF_054495415.1_ASM5449541v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/415/GCA_054495415.1_ASM5449541v1,Pseudomonas aeruginosa
+54502732,SAMN54502732,,6327,Catheter tip,Homo sapiens,2021/2022,China:Nanchang,,,,,GCF_054495335.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/495/335/GCF_054495335.1_ASM5449533v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/335/GCA_054495335.1_ASM5449533v1,Pseudomonas aeruginosa
+54529795,SAMN54529795,,SCHI0211.S.1,Oral wash,Homo sapiens,2024-09-05,Australia: Sunshine Coast,,,,,,,,,Pseudomonas aeruginosa
+54529794,SAMN54529794,,SCHI0218.S.1,Oral wash,Homo sapiens,2024-10-10,Australia: Sunshine Coast,,,,,,,,,Pseudomonas aeruginosa
+54529254,SAMN54529254,,2025GO-00619,Unknown,Homo sapiens,2025,USA,,,,,GCA_054416235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/235/GCA_054416235.1_PDT003048738.1,Pseudomonas aeruginosa
+54529249,SAMN54529249,,2025GO-00605,Unknown,Homo sapiens,2025,USA,,,,,GCA_054416255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/255/GCA_054416255.1_PDT003048758.1,Pseudomonas aeruginosa
+54528387,SAMN54528387,,,Rectum,Homo sapiens,2025,USA,,,,,GCA_054414535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/535/GCA_054414535.1_PDT003048624.1,Pseudomonas aeruginosa
+54502648,SAMN54502648,,PS5,Tissue Biopsy Culture,Homo sapiens,2024-11-27,Turkey: Ankara,,,,,,,,,Pseudomonas aeruginosa
+54502647,SAMN54502647,,PS4,Blood Culture,Homo sapiens,2024-11-26,Turkey: Ankara,,,,,,,,,Pseudomonas aeruginosa
+54502646,SAMN54502646,,PS3,Deep Tracheal Aspirate Culture,Homo sapiens,2024-11-26,Turkey: Ankara,,,,,,,,,Pseudomonas aeruginosa
+54502645,SAMN54502645,,PS2,Quantitative Cultures of Respiratory Secretions,Homo sapiens,2024-11-14,Turkey: Ankara,,,,,,,,,Pseudomonas aeruginosa
+54502644,SAMN54502644,,PS1,Deep Tracheal Aspirate Culture,Homo sapiens,2024-11-26,Turkey: Ankara,,,,,,,,,Pseudomonas aeruginosa
+37960601,SAMN37960601,,KK6,soil,,1993,USA: Texas,,,,,GCA_033345415.2,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/345/415/GCA_033345415.2_ASM3334541v2,Pseudomonas aeruginosa
+54494255,SAMN54494255,,,Tracheal Aspirate/Wash,Homo sapiens,2025-12-11,USA,,,,,GCA_054395525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/395/525/GCA_054395525.1_PDT003047749.1,Pseudomonas aeruginosa
+54494254,SAMN54494254,,,bronchoalveolar lavage,Homo sapiens,2025-12-17,USA,,,,,GCA_054395505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/395/505/GCA_054395505.1_PDT003047750.1,Pseudomonas aeruginosa
+54492382,SAMN54492382,,jcl-3,,,2022-06-30,China: Huaian,,,,,,,,,Pseudomonas aeruginosa
+51798779,SAMN51798779,,cystic fibrosis clinical isolate 081,,Homo sapiens,2023-09-15,USA,,,,,,,,,Pseudomonas aeruginosa
+51798778,SAMN51798778,,cystic fibrosis clinical isolate 047,,Homo sapiens,2023-09-15,USA,,,,,,,,,Pseudomonas aeruginosa
+51798777,SAMN51798777,,cystic fibrosis clinical isolate 033,,Homo sapiens,2023-09-15,USA,,,,,,,,,Pseudomonas aeruginosa
+51798776,SAMN51798776,,cystic fibrosis clinical isolate 002,,Homo sapiens,2023-09-15,USA,,,,,,,,,Pseudomonas aeruginosa
+54491289,SAMEA120908212,,13520,,,,,,,,,,,,,Pseudomonas aeruginosa
+54491015,SAMEA120908201,,24TCP,,,,,,,,,,,,,Pseudomonas aeruginosa
+54490807,SAMEA120908206,,24TCP,,,,,,,,,,,,,Pseudomonas aeruginosa
+54487857,SAMEA120908195,,13534,,,,,,,,,,,,,Pseudomonas aeruginosa
+54487578,SAMEA120908198,,13534,,,,,,,,,,,,,Pseudomonas aeruginosa
+54486098,SAMEA120908203,,24TCP,,,,,,,,,,,,,Pseudomonas aeruginosa
+54485617,SAMEA120908210,,13520,,,,,,,,,,,,,Pseudomonas aeruginosa
+54483932,SAMEA120908202,,24TCP,,,,,,,,,,,,,Pseudomonas aeruginosa
+54483841,SAMEA120908196,,13534,,,,,,,,,,,,,Pseudomonas aeruginosa
+54483195,SAMEA120908200,,13534,,,,,,,,,,,,,Pseudomonas aeruginosa
+54483123,SAMEA120908208,,13520,,,,,,,,,,,,,Pseudomonas aeruginosa
+54481664,SAMEA120908199,,13534,,,,,,,,,,,,,Pseudomonas aeruginosa
+54481438,SAMEA120908205,,24TCP,,,,,,,,,,,,,Pseudomonas aeruginosa
+54479988,SAMEA120908204,,24TCP,,,,,,,,,,,,,Pseudomonas aeruginosa
+54479063,SAMEA120908209,,13520,,,,,,,,,,,,,Pseudomonas aeruginosa
+54478644,SAMEA120908197,,13534,,,,,,,,,,,,,Pseudomonas aeruginosa
+54478276,SAMEA120908211,,13520,,,,,,,,,,,,,Pseudomonas aeruginosa
+54477581,SAMEA120908207,,13520,,,,,,,,,,,,,Pseudomonas aeruginosa
+54471550,SAMN54471550,,missing,BAL,Homo sapiens,2025,USA,,,,,,,,,Pseudomonas aeruginosa
+54471548,SAMN54471548,,missing,urine,Homo sapiens,2025,USA,,,,,,,,,Pseudomonas aeruginosa
+54456506,SAMN54456506,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/345/GCA_054369345.1_PDT003045280.1,Pseudomonas aeruginosa
+54456501,SAMN54456501,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/295/GCA_054369295.1_PDT003045286.1,Pseudomonas aeruginosa
+54456496,SAMN54456496,,,tracheal aspirate,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/315/GCA_054369315.1_PDT003045291.1,Pseudomonas aeruginosa
+54456492,SAMN54456492,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/245/GCA_054369245.1_PDT003045299.1,Pseudomonas aeruginosa
+54456489,SAMN54456489,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/205/GCA_054369205.1_PDT003045302.1,Pseudomonas aeruginosa
+54456486,SAMN54456486,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/185/GCA_054369185.1_PDT003045305.1,Pseudomonas aeruginosa
+54456481,SAMN54456481,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/145/GCA_054369145.1_PDT003045311.1,Pseudomonas aeruginosa
+54456473,SAMN54456473,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/165/GCA_054369165.1_PDT003045320.1,Pseudomonas aeruginosa
+54456472,SAMN54456472,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054369105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/105/GCA_054369105.1_PDT003045321.1,Pseudomonas aeruginosa
+54456465,SAMN54456465,,,sputum,Homo sapiens,2025-02,Slovenia,,,,,GCA_054369125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/125/GCA_054369125.1_PDT003045328.1,Pseudomonas aeruginosa
+54456464,SAMN54456464,,,urine,Homo sapiens,2025-02,Slovenia,,,,,GCA_054369265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/265/GCA_054369265.1_PDT003045292.1,Pseudomonas aeruginosa
+54456463,SAMN54456463,,,rectum swab,Homo sapiens,2025-02,Slovenia,,,,,GCA_054369225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/225/GCA_054369225.1_PDT003045293.1,Pseudomonas aeruginosa
+54456460,SAMN54456460,,,rectum swab,Homo sapiens,2025-02,Slovenia,,,,,GCA_054369365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/369/365/GCA_054369365.1_PDT003045282.1,Pseudomonas aeruginosa
+47177160,SAMN47177160,,MLSE01,seawater,,2022,Bangladesh,,,,,GCF_048514535.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/514/535/GCF_048514535.1_ASM4851453v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/048/514/535/GCA_048514535.1_ASM4851453v1,Pseudomonas aeruginosa
+54450609,SAMN54450609,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054352715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/352/715/GCA_054352715.1_PDT003045204.1,Pseudomonas aeruginosa
+54450608,SAMN54450608,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054352595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/352/595/GCA_054352595.1_PDT003045205.1,Pseudomonas aeruginosa
+54448257,SAMN54448257,,2025GN-00351,sputum,Homo sapiens,2025,USA,,,,,GCA_054349535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/535/GCA_054349535.1_PDT003044865.1,Pseudomonas aeruginosa
+54448171,SAMN54448171,,,clinical,Homo sapiens,2025-12-30,USA: Wyoming,,,,,,,,,Pseudomonas aeruginosa
+54448169,SAMN54448169,,,clinical,Homo sapiens,2025-12-24,USA: Wyoming,,,,,GCA_054349555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/555/GCA_054349555.1_PDT003044797.1,Pseudomonas aeruginosa
+54443526,SAMN54443526,,2026HL-01004,chest,Homo sapiens,2025,USA,,,,,,,,,Pseudomonas aeruginosa
+54443337,SAMN54443337,,,wound,Homo sapiens,2026,USA,,,,,GCA_054346015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/015/GCA_054346015.1_PDT003044528.1,Pseudomonas aeruginosa
+53884069,SAMN53884069,,PA-555,,Homo sapiens,2023,"India: Tamil Nadu, Vellore",,,,,,,,,Pseudomonas aeruginosa
+40889934,SAMN40889934,,19733,blood,Homo sapiens,2023-06-29,"China: Jiangsu, Nanjing",,,,,GCF_054299635.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/635/GCF_054299635.1_ASM5429963v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/635/GCA_054299635.1_ASM5429963v1,Pseudomonas aeruginosa
+40889933,SAMN40889933,,19686,blood,Homo sapiens,2023-06-23,"China: Jiangsu, Nanjing",,,,,GCF_054299655.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/655/GCF_054299655.1_ASM5429965v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/655/GCA_054299655.1_ASM5429965v1,Pseudomonas aeruginosa
+40889932,SAMN40889932,,19199,blood,Homo sapiens,2023-04-02,"China: Jiangsu, Nanjing",,,,,GCF_054299675.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/675/GCF_054299675.1_ASM5429967v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/675/GCA_054299675.1_ASM5429967v1,Pseudomonas aeruginosa
+40889931,SAMN40889931,,18985,blood,Homo sapiens,2023-02-19,"China: Jiangsu, Nanjing",,,,,GCF_054299695.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/695/GCF_054299695.1_ASM5429969v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/695/GCA_054299695.1_ASM5429969v1,Pseudomonas aeruginosa
+40889930,SAMN40889930,,18612,blood,Homo sapiens,2022-11-28,"China: Jiangsu, Nanjing",,,,,GCF_054299715.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/715/GCF_054299715.1_ASM5429971v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/715/GCA_054299715.1_ASM5429971v1,Pseudomonas aeruginosa
+40889929,SAMN40889929,,17809,blood,Homo sapiens,2022-07-13,"China: Jiangsu, Nanjing",,,,,GCF_054299735.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/735/GCF_054299735.1_ASM5429973v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/735/GCA_054299735.1_ASM5429973v1,Pseudomonas aeruginosa
+40889928,SAMN40889928,,17774,blood,Homo sapiens,2022-07-04,"China: Jiangsu, Nanjing",,,,,GCF_054299755.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/755/GCF_054299755.1_ASM5429975v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/755/GCA_054299755.1_ASM5429975v1,Pseudomonas aeruginosa
+40889927,SAMN40889927,,17767,blood,Homo sapiens,2022-06-30,"China: Jiangsu, Nanjing",,,,,GCF_054299775.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/775/GCF_054299775.1_ASM5429977v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/775/GCA_054299775.1_ASM5429977v1,Pseudomonas aeruginosa
+40889926,SAMN40889926,,17448,blood,Homo sapiens,2022-05-02,"China: Jiangsu, Nanjing",,,,,GCF_054299795.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/795/GCF_054299795.1_ASM5429979v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/795/GCA_054299795.1_ASM5429979v1,Pseudomonas aeruginosa
+40889925,SAMN40889925,,16359,blood,Homo sapiens,2021-09-07,"China: Jiangsu, Nanjing",,,,,GCF_054299815.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/815/GCF_054299815.1_ASM5429981v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/815/GCA_054299815.1_ASM5429981v1,Pseudomonas aeruginosa
+40889924,SAMN40889924,,16194,blood,Homo sapiens,2021-08-06,"China: Jiangsu, Nanjing",,,,,GCF_054299835.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/835/GCF_054299835.1_ASM5429983v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/835/GCA_054299835.1_ASM5429983v1,Pseudomonas aeruginosa
+40889923,SAMN40889923,,16093,blood,Homo sapiens,2021-07-06,"China: Jiangsu, Nanjing",,,,,GCF_054299855.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/855/GCF_054299855.1_ASM5429985v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/855/GCA_054299855.1_ASM5429985v1,Pseudomonas aeruginosa
+40889922,SAMN40889922,,15508,blood,Homo sapiens,2021-04-12,"China: Jiangsu, Nanjing",,,,,GCF_054299875.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/875/GCF_054299875.1_ASM5429987v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/875/GCA_054299875.1_ASM5429987v1,Pseudomonas aeruginosa
+40889921,SAMN40889921,,15232,blood,Homo sapiens,2021-02-27,"China: Jiangsu, Nanjing",,,,,GCF_054299895.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/895/GCF_054299895.1_ASM5429989v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/895/GCA_054299895.1_ASM5429989v1,Pseudomonas aeruginosa
+40889920,SAMN40889920,,15145,blood,Homo sapiens,2021-02-09,"China: Jiangsu, Nanjing",,,,,GCF_054299915.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/915/GCF_054299915.1_ASM5429991v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/915/GCA_054299915.1_ASM5429991v1,Pseudomonas aeruginosa
+40889919,SAMN40889919,,14760,blood,Homo sapiens,2020-12-14,"China: Jiangsu, Nanjing",,,,,GCF_054299935.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/935/GCF_054299935.1_ASM5429993v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/935/GCA_054299935.1_ASM5429993v1,Pseudomonas aeruginosa
+40889918,SAMN40889918,,14700,blood,Homo sapiens,2020-12-05,"China: Jiangsu, Nanjing",,,,,GCF_054299975.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/975/GCF_054299975.1_ASM5429997v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/975/GCA_054299975.1_ASM5429997v1,Pseudomonas aeruginosa
+40889917,SAMN40889917,,14564,blood,Homo sapiens,2020-11-13,"China: Jiangsu, Nanjing",,,,,GCF_054299955.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/955/GCF_054299955.1_ASM5429995v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/955/GCA_054299955.1_ASM5429995v1,Pseudomonas aeruginosa
+40889916,SAMN40889916,,14400,blood,Homo sapiens,2020-10-22,"China: Jiangsu, Nanjing",,,,,GCF_054299995.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/299/995/GCF_054299995.1_ASM5429999v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/299/995/GCA_054299995.1_ASM5429999v1,Pseudomonas aeruginosa
+40889915,SAMN40889915,,13910,blood,Homo sapiens,2020-08-18,"China: Jiangsu, Nanjing",,,,,GCF_054300015.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/015/GCF_054300015.1_ASM5430001v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/015/GCA_054300015.1_ASM5430001v1,Pseudomonas aeruginosa
+40889914,SAMN40889914,,13576,blood,Homo sapiens,2020-06-26,"China: Jiangsu, Nanjing",,,,,GCA_054300035.1,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/035/GCA_054300035.1_ASM5430003v1,Pseudomonas aeruginosa
+40889913,SAMN40889913,,13101,blood,Homo sapiens,2020-03-07,"China: Jiangsu, Nanjing",,,,,GCF_054300075.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/075/GCF_054300075.1_ASM5430007v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/075/GCA_054300075.1_ASM5430007v1,Pseudomonas aeruginosa
+40889912,SAMN40889912,,12253,blood,Homo sapiens,2019-10-21,"China: Jiangsu, Nanjing",,,,,GCF_054300055.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/055/GCF_054300055.1_ASM5430005v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/055/GCA_054300055.1_ASM5430005v1,Pseudomonas aeruginosa
+40889911,SAMN40889911,,12218,blood,Homo sapiens,2019-10-16,"China: Jiangsu, Nanjing",,,,,GCF_054300095.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/095/GCF_054300095.1_ASM5430009v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/095/GCA_054300095.1_ASM5430009v1,Pseudomonas aeruginosa
+40889910,SAMN40889910,,11749,blood,Homo sapiens,2019-08-08,"China: Jiangsu, Nanjing",,,,,GCF_054300115.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/115/GCF_054300115.1_ASM5430011v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/115/GCA_054300115.1_ASM5430011v1,Pseudomonas aeruginosa
+40889909,SAMN40889909,,11638,blood,Homo sapiens,2019-07-22,"China: Jiangsu, Nanjing",,,,,GCF_054300135.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/135/GCF_054300135.1_ASM5430013v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/135/GCA_054300135.1_ASM5430013v1,Pseudomonas aeruginosa
+40889908,SAMN40889908,,11381,blood,Homo sapiens,2019-06-10,"China: Jiangsu, Nanjing",,,,,GCF_054300155.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/155/GCF_054300155.1_ASM5430015v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/155/GCA_054300155.1_ASM5430015v1,Pseudomonas aeruginosa
+40889907,SAMN40889907,,10291,blood,Homo sapiens,2019-01-04,"China: Jiangsu, Nanjing",,,,,GCF_054300175.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/175/GCF_054300175.1_ASM5430017v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/175/GCA_054300175.1_ASM5430017v1,Pseudomonas aeruginosa
+40889906,SAMN40889906,,10041,blood,Homo sapiens,2018-11-26,"China: Jiangsu, Nanjing",,,,,GCF_054300195.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/195/GCF_054300195.1_ASM5430019v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/195/GCA_054300195.1_ASM5430019v1,Pseudomonas aeruginosa
+40889905,SAMN40889905,,9615,blood,Homo sapiens,2018-09-30,"China: Jiangsu, Nanjing",,,,,GCF_054300215.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/215/GCF_054300215.1_ASM5430021v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/215/GCA_054300215.1_ASM5430021v1,Pseudomonas aeruginosa
+40889904,SAMN40889904,,9524,blood,Homo sapiens,2018-09-18,"China: Jiangsu, Nanjing",,,,,GCF_054300235.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/235/GCF_054300235.1_ASM5430023v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/235/GCA_054300235.1_ASM5430023v1,Pseudomonas aeruginosa
+40889903,SAMN40889903,,9137,blood,Homo sapiens,2018-07-25,"China: Jiangsu, Nanjing",,,,,GCF_054300255.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/255/GCF_054300255.1_ASM5430025v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/255/GCA_054300255.1_ASM5430025v1,Pseudomonas aeruginosa
+40889902,SAMN40889902,,9002,blood,Homo sapiens,2018-07-07,"China: Jiangsu, Nanjing",,,,,GCF_054300275.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/275/GCF_054300275.1_ASM5430027v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/275/GCA_054300275.1_ASM5430027v1,Pseudomonas aeruginosa
+40889901,SAMN40889901,,8681,blood,Homo sapiens,2018-05-25,"China: Jiangsu, Nanjing",,,,,GCF_054300295.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/295/GCF_054300295.1_ASM5430029v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/295/GCA_054300295.1_ASM5430029v1,Pseudomonas aeruginosa
+40889900,SAMN40889900,,7409,blood,Homo sapiens,2017-09-27,"China: Jiangsu, Nanjing",,,,,GCF_054300315.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/315/GCF_054300315.1_ASM5430031v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/315/GCA_054300315.1_ASM5430031v1,Pseudomonas aeruginosa
+40889899,SAMN40889899,,7339,blood,Homo sapiens,2017-09-14,"China: Jiangsu, Nanjing",,,,,GCF_054300335.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/335/GCF_054300335.1_ASM5430033v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/335/GCA_054300335.1_ASM5430033v1,Pseudomonas aeruginosa
+40889898,SAMN40889898,,7318,blood,Homo sapiens,2017-09-08,"China: Jiangsu, Nanjing",,,,,GCF_054300355.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/355/GCF_054300355.1_ASM5430035v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/355/GCA_054300355.1_ASM5430035v1,Pseudomonas aeruginosa
+40889897,SAMN40889897,,7166,blood,Homo sapiens,2017-08-08,"China: Jiangsu, Nanjing",,,,,GCF_054300375.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/375/GCF_054300375.1_ASM5430037v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/375/GCA_054300375.1_ASM5430037v1,Pseudomonas aeruginosa
+40889896,SAMN40889896,,7106,blood,Homo sapiens,2017-07-26,"China: Jiangsu, Nanjing",,,,,GCF_054300395.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/395/GCF_054300395.1_ASM5430039v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/395/GCA_054300395.1_ASM5430039v1,Pseudomonas aeruginosa
+40889895,SAMN40889895,,6868,blood,Homo sapiens,2017-05-21,"China: Jiangsu, Nanjing",,,,,GCF_054300415.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/415/GCF_054300415.1_ASM5430041v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/415/GCA_054300415.1_ASM5430041v1,Pseudomonas aeruginosa
+40889894,SAMN40889894,,6650,blood,Homo sapiens,2017-03-28,"China: Jiangsu, Nanjing",,,,,GCA_054300435.1,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/435/GCA_054300435.1_ASM5430043v1,Pseudomonas aeruginosa
+40889893,SAMN40889893,,6012,blood,Homo sapiens,2016-10-12,"China: Jiangsu, Nanjing",,,,,GCF_054300455.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/455/GCF_054300455.1_ASM5430045v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/455/GCA_054300455.1_ASM5430045v1,Pseudomonas aeruginosa
+40889892,SAMN40889892,,5563,blood,Homo sapiens,2016-07-03,"China: Jiangsu, Nanjing",,,,,GCF_054300475.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/475/GCF_054300475.1_ASM5430047v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/475/GCA_054300475.1_ASM5430047v1,Pseudomonas aeruginosa
+40889891,SAMN40889891,,5454,blood,Homo sapiens,2016-05-17,"China: Jiangsu, Nanjing",,,,,GCF_054300515.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/515/GCF_054300515.1_ASM5430051v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/515/GCA_054300515.1_ASM5430051v1,Pseudomonas aeruginosa
+40889890,SAMN40889890,,5241,blood,Homo sapiens,2016-03-16,"China: Jiangsu, Nanjing",,,,,GCF_054300495.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/495/GCF_054300495.1_ASM5430049v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/495/GCA_054300495.1_ASM5430049v1,Pseudomonas aeruginosa
+40889889,SAMN40889889,,4996,blood,Homo sapiens,2016-01-04,"China: Jiangsu, Nanjing",,,,,GCF_054300535.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/535/GCF_054300535.1_ASM5430053v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/535/GCA_054300535.1_ASM5430053v1,Pseudomonas aeruginosa
+40889888,SAMN40889888,,4591,blood,Homo sapiens,2015-10-09,"China: Jiangsu, Nanjing",,,,,GCF_054300555.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/555/GCF_054300555.1_ASM5430055v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/555/GCA_054300555.1_ASM5430055v1,Pseudomonas aeruginosa
+40889887,SAMN40889887,,4087,blood,Homo sapiens,2015-07-02,"China: Jiangsu, Nanjing",,,,,GCF_054301115.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/301/115/GCF_054301115.1_ASM5430111v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/301/115/GCA_054301115.1_ASM5430111v1,Pseudomonas aeruginosa
+40889886,SAMN40889886,,3567,blood,Homo sapiens,2015-02-16,"China: Jiangsu, Nanjing",,,,,GCF_054300575.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/300/575/GCF_054300575.1_ASM5430057v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/300/575/GCA_054300575.1_ASM5430057v1,Pseudomonas aeruginosa
+40889885,SAMN40889885,,3206,blood,Homo sapiens,2014-10-07,"China: Jiangsu, Nanjing",,,,,GCF_054301135.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/301/135/GCF_054301135.1_ASM5430113v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/301/135/GCA_054301135.1_ASM5430113v1,Pseudomonas aeruginosa
+40889884,SAMN40889884,,3077,blood,Homo sapiens,2014-08-18,"China: Jiangsu, Nanjing",,,,,GCF_054301155.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/301/155/GCF_054301155.1_ASM5430115v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/301/155/GCA_054301155.1_ASM5430115v1,Pseudomonas aeruginosa
+40889883,SAMN40889883,,2745,blood,Homo sapiens,2014-05-19,"China: Jiangsu, Nanjing",,,,,GCF_054301175.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/301/175/GCF_054301175.1_ASM5430117v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/301/175/GCA_054301175.1_ASM5430117v1,Pseudomonas aeruginosa
+10793678,SAMN10793678,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+10793677,SAMN10793677,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+10793676,SAMN10793676,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+10793675,SAMN10793675,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+10793674,SAMN10793674,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54414983,SAMN54414983,,2026HL-00978,kidney,Homo sapiens,2025,USA,,,,,GCA_054266595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/266/595/GCA_054266595.1_PDT003043135.1,Pseudomonas aeruginosa
+54430929,SAMEA120863003,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54430921,SAMEA120862907,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54430758,SAMEA120862923,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54430564,SAMEA120862926,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54430373,SAMEA120862896,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54430297,SAMEA120862904,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54430217,SAMEA120862931,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54429900,SAMEA120862919,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54429737,SAMEA120862893,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54429439,SAMEA120862925,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54429265,SAMEA120862898,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54429177,SAMEA120862918,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54429124,SAMEA120862906,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54428437,SAMEA120862932,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54428300,SAMEA120862917,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54427986,SAMEA120862924,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54427799,SAMEA120862911,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54427604,SAMEA120862920,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54427557,SAMEA120862900,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54427332,SAMEA120862929,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54427026,SAMEA120862903,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426989,SAMEA120862930,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426740,SAMEA120862922,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426683,SAMEA120862901,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426558,SAMEA120862909,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426520,SAMEA120862902,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426478,SAMEA120863005,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426219,SAMEA120862910,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426203,SAMEA120862921,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426103,SAMEA120862913,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54426018,SAMEA120862915,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54425763,SAMEA120862912,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54425671,SAMEA120862905,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54425479,SAMEA120862927,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54425226,SAMEA120862899,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54425129,SAMEA120862894,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54424835,SAMEA120862908,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54424446,SAMEA120862928,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54424190,SAMEA120862916,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54424106,SAMEA120862897,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54423792,SAMEA120862914,,,,,,,,,,,,,,,Pseudomonas aeruginosa
+54389621,SAMN54389621,,,Wound swab,Homo sapiens,2025-09-20,Iraq,,,,,,,,,Pseudomonas aeruginosa
+52399028,SAMN52399028,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399027,SAMN52399027,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399026,SAMN52399026,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399025,SAMN52399025,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399024,SAMN52399024,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399023,SAMN52399023,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399022,SAMN52399022,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+52399021,SAMN52399021,,UCBPP-PA14,burn wound,Homo sapiens,not applicable,not applicable,,,,,,,,,Pseudomonas aeruginosa
+48025158,SAMN48025158,,,soil,,2024-11-13,China,,,,,,,,,Pseudomonas aeruginosa
+45903079,SAMN45903079,,PM136,Wound Pus,Homo sapiens,2023-06-30,Ethiopia: Yekatit 12 Hospital Medical collage,,,,,,,,,Pseudomonas aeruginosa
+45903078,SAMN45903078,,PM133,Wound Pus,Homo sapiens,2023-06-30,Ethiopia: Yekatit 12 Hospital Medical collage,,,,,,,,,Pseudomonas aeruginosa
+45903077,SAMN45903077,,PM120,blood,Homo sapiens,2023-06-30,Ethiopia: Tikur Anbessa Specialized Hospital,,,,,,,,,Pseudomonas aeruginosa
+45903076,SAMN45903076,,PM115,blood,Homo sapiens,2023-06-30,Ethiopia: Tikur Anbessa Specialized Hospital,,,,,,,,,Pseudomonas aeruginosa
+45903075,SAMN45903075,,PM114,urine,Homo sapiens,2023-06-30,Ethiopia: Tikur Anbessa Specialized Hospital,,,,,,,,,Pseudomonas aeruginosa
+45903074,SAMN45903074,,PM111,urine,Homo sapiens,2023-06-30,Ethiopia: Tikur Anbessa Specialized Hospital,,,,,,,,,Pseudomonas aeruginosa
+45903073,SAMN45903073,,PM108,urine,Homo sapiens,2023-06-30,Ethiopia: Tikur Anbessa Specialized Hospital,,,,,,,,,Pseudomonas aeruginosa

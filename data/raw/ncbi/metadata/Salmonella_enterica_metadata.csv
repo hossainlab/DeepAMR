@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54876027,SAMN54876027,,FSIS22619863,chicken carcass,,2026,USA:NY,,,,,,,,,Salmonella enterica
+54876026,SAMN54876026,,FSIS22619864,chicken carcass,,2026,USA:MI,,,,,,,,,Salmonella enterica
+54876025,SAMN54876025,,FSIS22619858,raw intact chicken,,2026,USA:PA,,,,,,,,,Salmonella enterica
+54876024,SAMN54876024,,FSIS22619855,animal-cattle-dairy cow,,2026,USA:ID,,,,,,,,,Salmonella enterica
+54876023,SAMN54876023,,FSIS22619856,raw intact chicken,,2026,USA:NY,,,,,,,,,Salmonella enterica
+54876022,SAMN54876022,,FSIS22619859,comminuted chicken,,2026,USA:CA,,,,,,,,,Salmonella enterica
+54876021,SAMN54876021,,FSIS22619851,raw intact chicken,,2026,USA:SC,,,,,,,,,Salmonella enterica
+54876020,SAMN54876020,,FSIS22619850,raw intact chicken,,2026,USA:AR,,,,,,,,,Salmonella enterica
+54876019,SAMN54876019,,FSIS22619848,comminuted chicken,,2026,USA:SC,,,,,,,,,Salmonella enterica
+54876018,SAMN54876018,,FSIS22619847,comminuted chicken,,2026,USA:KS,,,,,,,,,Salmonella enterica
+54876017,SAMN54876017,,FSIS22619845,raw intact chicken,,2026,USA:NC,,,,,,,,,Salmonella enterica
+54876016,SAMN54876016,,FSIS22619844,Comminuted Turkey,,2026,USA:IN,,,,,,,,,Salmonella enterica
+54875973,SAMN54875973,,FSIS22619841,Nonintact Chicken,,2026,USA:MI,,,,,,,,,Salmonella enterica
+54875972,SAMN54875972,,FSIS22619842,raw intact chicken,,2026,USA:NY,,,,,,,,,Salmonella enterica
+54875960,SAMN54875960,,FSIS22619839,raw intact chicken,,2026,USA:CA,,,,,,,,,Salmonella enterica
+54875959,SAMN54875959,,FSIS22619838,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:IL,,,,,,,,,Salmonella enterica
+54875864,SAMN54875864,,FSIS22619814,comminuted chicken,,2026,USA:NC,,,,,,,,,Salmonella enterica
+54875780,SAMN54875780,,FSIS22619812,raw intact chicken,,2026,USA:VA,,,,,,,,,Salmonella enterica
+54875779,SAMN54875779,,FSIS22619808,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:MO,,,,,,,,,Salmonella enterica
+54875778,SAMN54875778,,FSIS22619809,raw intact chicken,,2026,USA:NY,,,,,,,,,Salmonella enterica
+54875777,SAMN54875777,,FSIS22619811,chicken - young chicken carcass rinse (post-chill),,2026,USA:NY,,,,,,,,,Salmonella enterica
+54875747,SAMN54875747,,FSIS22619805,animal-cattle-dairy cow,,2026,USA:ID,,,,,,,,,Salmonella enterica
+54875746,SAMN54875746,,FSIS22619806,animal-cattle-steer,,2026,USA:MI,,,,,,,,,Salmonella enterica
+54875676,SAMN54875676,,FSIS22619860,comminuted beef,,2026,USA:NE,,,,,,,,,Salmonella enterica
+54875675,SAMN54875675,,FSIS22619857,Nonintact Chicken,,2026,USA:MI,,,,,,,,,Salmonella enterica
+54875674,SAMN54875674,,FSIS22619853,comminuted chicken,,2026,USA:NE,,,,,,,,,Salmonella enterica
+54875672,SAMN54875672,,FSIS22619846,raw intact chicken,,2026,USA:CA,,,,,,,,,Salmonella enterica
+54875671,SAMN54875671,,FSIS22619843,comminuted chicken,,2026,USA:KS,,,,,,,,,Salmonella enterica
+54875670,SAMN54875670,,FSIS22619840,raw intact chicken,,2026,USA:AR,,,,,,,,,Salmonella enterica
+54875665,SAMN54875665,,FSIS22619813,comminuted chicken,,2026,USA:DE,,,,,,,,,Salmonella enterica
+54875664,SAMN54875664,,FSIS22619810,Nonintact Chicken,,2026,USA:MS,,,,,,,,,Salmonella enterica
+54875663,SAMN54875663,,FSIS22619807,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:CA,,,,,,,,,Salmonella enterica
+54875662,SAMN54875662,,FSIS22619803,Comminuted Turkey,,2026,USA:UT,,,,,,,,,Salmonella enterica
+54875655,SAMN54875655,,FSIS22619862,raw intact chicken,,2026,USA:CA,,,,,,,,,Salmonella enterica
+54875462,SAMN54875462,,FSIS22619854,comminuted chicken,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54875255,SAMN54875255,,PNUSAS562001,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54875253,SAMN54875253,,PNUSAS562003,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54875252,SAMN54875252,,PNUSAS562002,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54875026,SAMN54875026,,FSIS12642697,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54875025,SAMN54875025,,FSIS12642696,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54875023,SAMN54875023,,PNUSAS561999,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54875021,SAMN54875021,,FSIS12642695,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54875020,SAMN54875020,,FSIS12642698,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54875018,SAMN54875018,,PNUSAS561998,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874633,SAMN54874633,,FSIS12642694,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54874632,SAMN54874632,,FSIS12642693,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54874630,SAMN54874630,,PNUSAS562000,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874629,SAMN54874629,,PNUSAS561996,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874623,SAMN54874623,,PNUSAS561997,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874622,SAMN54874622,,PNUSAS561995,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874487,SAMN54874487,,FSIS12642690,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54874486,SAMN54874486,,FSIS12642688,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54874238,SAMN54874238,,FSIS12642686,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54874237,SAMN54874237,,FSIS12642678,raw intact chicken,,2026,USA:CA,,,,,,,,,Salmonella enterica
+54874234,SAMN54874234,,FSIS12642679,raw intact chicken,,2026,USA:PR,,,,,,,,,Salmonella enterica
+54874233,SAMN54874233,,FSIS12642677,comminuted chicken,,2026,USA:IL,,,,,,,,,Salmonella enterica
+54874230,SAMN54874230,,FSIS12642676,comminuted chicken,,2026,USA:CO,,,,,,,,,Salmonella enterica
+54874229,SAMN54874229,,FSIS12642675,chicken - young chicken carcass rinse (post-chill),,2026,USA:KY,,,,,,,,,Salmonella enterica
+54874228,SAMN54874228,,FSIS12642689,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54874227,SAMN54874227,,FSIS12642687,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54874192,SAMN54874192,,FSIS12642685,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54874191,SAMN54874191,,FSIS12642625,Animal-Cattle-Heifer (cecal),,2026,USA:PA,,,,,,,,,Salmonella enterica
+54874190,SAMN54874190,,PNUSAS561979,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874188,SAMN54874188,,FSIS12642624,Animal-Chicken-Young Chicken (cecal),,2026,USA:TX,,,,,,,,,Salmonella enterica
+54874187,SAMN54874187,,FSIS12642623,Animal-Swine-Sow (cecal),,2026,USA:VA,,,,,,,,,Salmonella enterica
+54874186,SAMN54874186,,PNUSAS561977,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874185,SAMN54874185,,PNUSAS561980,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874184,SAMN54874184,,PNUSAS561978,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874183,SAMN54874183,,PNUSAS561993,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874181,SAMN54874181,,PNUSAS561994,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874157,SAMN54874157,,FSIS12642622,Animal-Swine-Market Swine (cecal),,2026,USA:MN,,,,,,,,,Salmonella enterica
+54874156,SAMN54874156,,PNUSAS561991,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874137,SAMN54874137,,PNUSAS561989,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874136,SAMN54874136,,PNUSAS561988,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874135,SAMN54874135,,PNUSAS561992,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54874134,SAMN54874134,,PNUSAS561987,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54874133,SAMN54874133,,PNUSAS561990,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54873422,SAMN54873422,,PNUSAS561976,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54873421,SAMN54873421,,PNUSAS561986,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54873420,SAMN54873420,,PNUSAS561975,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54873403,SAMN54873403,,FSIS12642684,comminuted beef,,2026,USA:WA,,,,,,,,,Salmonella enterica
+54873402,SAMN54873402,,PNUSAS561984,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54873401,SAMN54873401,,PNUSAS561983,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54873400,SAMN54873400,,PNUSAS561985,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54873390,SAMN54873390,,FSIS12642683,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:IA,,,,,,,,,Salmonella enterica
+54873389,SAMN54873389,,FSIS12642682,Product-Raw-Intact-Pork,,2026,USA:IL,,,,,,,,,Salmonella enterica
+54873386,SAMN54873386,,FSIS12642681,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:IL,,,,,,,,,Salmonella enterica
+54873385,SAMN54873385,,FSIS12642680,comminuted beef,,2026,USA:TX,,,,,,,,,Salmonella enterica
+54873384,SAMN54873384,,PNUSAS561982,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872886,SAMN54872886,,PNUSAS561973,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54872885,SAMN54872885,,PNUSAS561981,Missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872866,SAMN54872866,,PNUSAS561970,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872865,SAMN54872865,,PNUSAS561974,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872864,SAMN54872864,,PNUSAS561972,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872810,SAMN54872810,,PNUSAS561968,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872797,SAMN54872797,,PNUSAS561969,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872796,SAMN54872796,,PNUSAS561967,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872795,SAMN54872795,,PNUSAS561966,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872794,SAMN54872794,,PNUSAS561971,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872793,SAMN54872793,,PNUSAS561965,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872792,SAMN54872792,,PNUSAS561347,wound,,2026-01-09,USA,,,,,,,,,Salmonella enterica
+54872789,SAMN54872789,,PNUSAS561349,stool,,2026-01-11,USA,,,,,,,,,Salmonella enterica
+54872788,SAMN54872788,,PNUSAS561956,stool,,2026-01-14,USA,,,,,,,,,Salmonella enterica
+54872783,SAMN54872783,,PNUSAS561964,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872782,SAMN54872782,,PNUSAS561953,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872775,SAMN54872775,,PNUSAS561348,stool,,2026-01-07,USA,,,,,,,,,Salmonella enterica
+54872774,SAMN54872774,,PNUSAS561963,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872773,SAMN54872773,,PNUSAS561955,stool,,2026-01-14,USA,,,,,,,,,Salmonella enterica
+54872772,SAMN54872772,,PNUSAS561351,stool,,2026-01-09,USA,,,,,,,,,Salmonella enterica
+54872771,SAMN54872771,,PNUSAS561957,stool,,2026-01-14,USA,,,,,,,,,Salmonella enterica
+54872770,SAMN54872770,,PNUSAS561350,stool,,2026-01-11,USA,,,,,,,,,Salmonella enterica
+54872769,SAMN54872769,,PNUSAS561961,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872760,SAMN54872760,,PNUSAS561962,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872759,SAMN54872759,,PNUSAS561958,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872758,SAMN54872758,,PNUSAS561951,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872757,SAMN54872757,,PNUSAS561960,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872694,SAMN54872694,,PNUSAS561959,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872692,SAMN54872692,,PNUSAS561950,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872691,SAMN54872691,,PNUSAS561949,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872597,SAMN54872597,,PNUSAS561952,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872577,SAMN54872577,,PNUSAS561954,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872576,SAMN54872576,,PNUSAS561948,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872247,SAMN54872247,,PNUSAS561942,blood,,2026,USA,,,,,,,,,Salmonella enterica
+54872246,SAMN54872246,,PNUSAS561947,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872243,SAMN54872243,,PNUSAS561944,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54872242,SAMN54872242,,PNUSAS561945,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872199,SAMN54872199,,PNUSAS561946,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54872198,SAMN54872198,,PNUSAS561941,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54872196,SAMN54872196,,PNUSAS561943,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54872195,SAMN54872195,,PNUSAS561940,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54872193,SAMN54872193,,PNUSAS561939,urine,,2026,USA,,,,,,,,,Salmonella enterica
+54871590,SAMN54871590,,PNUSAS561920,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871405,SAMN54871405,,FSIS12642639,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:TN,,,,,,,,,Salmonella enterica
+54871335,SAMN54871335,,FSIS12642599,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:GA,,,,,,,,,Salmonella enterica
+54871334,SAMN54871334,,FSIS12642598,comminuted chicken,,2026,USA:NY,,,,,,,,,Salmonella enterica
+54871280,SAMN54871280,,FSIS12642619,Animal-Swine-Sow (cecal),,2026,USA:AL,,,,,,,,,Salmonella enterica
+54871279,SAMN54871279,,FSIS12642576,"Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork",,2026,USA:NC,,,,,,,,,Salmonella enterica
+54871276,SAMN54871276,,PNUSAS561905,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871216,SAMN54871216,,PNUSAS561918,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871215,SAMN54871215,,PNUSAS561914,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871193,SAMN54871193,,FSIS12642620,Animal-Swine-Sow (cecal),,2026,USA:KY,,,,,,,,,Salmonella enterica
+54871192,SAMN54871192,,FSIS12642616,Animal-Chicken-Young Chicken (cecal),,2026,USA:GA,,,,,,,,,Salmonella enterica
+54871191,SAMN54871191,,FSIS12642596,comminuted chicken,,2026,USA:FL,,,,,,,,,Salmonella enterica
+54871187,SAMN54871187,,FSIS12642617,Animal-Chicken-Young Chicken (cecal),,2025,USA:VA,,,,,,,,,Salmonella enterica
+54871186,SAMN54871186,,FSIS12642572,raw intact chicken,,2026,USA:KY,,,,,,,,,Salmonella enterica
+54871185,SAMN54871185,,FSIS12642573,raw intact chicken,,2026,USA:GA,,,,,,,,,Salmonella enterica
+54871158,SAMN54871158,,PNUSAS561906,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871157,SAMN54871157,,PNUSAS561903,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871156,SAMN54871156,,PNUSAS561902,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871155,SAMN54871155,,PNUSAS561916,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871151,SAMN54871151,,FSIS12642621,Animal-Chicken-Young Chicken (cecal),,2026,USA:GA,,,,,,,,,Salmonella enterica
+54871150,SAMN54871150,,FSIS12642618,Animal-Swine-Market Swine (cecal),,2026,USA:TN,,,,,,,,,Salmonella enterica
+54871149,SAMN54871149,,FSIS12642615,Animal-Chicken-Young Chicken (cecal),,2025,USA:AR,,,,,,,,,Salmonella enterica
+54871148,SAMN54871148,,FSIS12642597,raw intact chicken,,2026,USA:TN,,,,,,,,,Salmonella enterica
+54871147,SAMN54871147,,FSIS12642575,comminuted beef,,2026,USA:OH,,,,,,,,,Salmonella enterica
+54871142,SAMN54871142,,PNUSAS561890,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871141,SAMN54871141,,PNUSAS561904,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871140,SAMN54871140,,PNUSAS561919,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871137,SAMN54871137,,PNUSAS561917,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871136,SAMN54871136,,PNUSAS561901,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871135,SAMN54871135,,PNUSAS561900,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871134,SAMN54871134,,PNUSAS561897,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871068,SAMN54871068,,PNUSAS561898,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871067,SAMN54871067,,PNUSAS561875,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54871062,SAMN54871062,,PNUSAS561915,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871061,SAMN54871061,,PNUSAS561913,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871060,SAMN54871060,,PNUSAS561912,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871059,SAMN54871059,,PNUSAS561910,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871023,SAMN54871023,,FSIS12642574,raw intact chicken,,2026,USA:NY,,,,,,,,,Salmonella enterica
+54871022,SAMN54871022,,FSIS12642571,Comminuted Turkey,,2026,USA:VA,,,,,,,,,Salmonella enterica
+54871020,SAMN54871020,,PNUSAS561911,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871018,SAMN54871018,,PNUSAS561909,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871015,SAMN54871015,,PNUSAS561899,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871013,SAMN54871013,,PNUSAS561895,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871011,SAMN54871011,,PNUSAS561883,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871008,SAMN54871008,,PNUSAS561896,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871007,SAMN54871007,,PNUSAS561908,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871006,SAMN54871006,,PNUSAS561907,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54871005,SAMN54871005,,PNUSAS561876,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870992,SAMN54870992,,PNUSAS561873,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870990,SAMN54870990,,PNUSAS561874,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870983,SAMN54870983,,PNUSAS561889,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870982,SAMN54870982,,PNUSAS561894,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870981,SAMN54870981,,PNUSAS561871,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870971,SAMN54870971,,PNUSAS561872,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870967,SAMN54870967,,PNUSAS561878,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870966,SAMN54870966,,PNUSAS561892,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870965,SAMN54870965,,PNUSAS561885,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870886,SAMN54870886,,PNUSAS561881,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870723,SAMN54870723,,PNUSAS561884,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870722,SAMN54870722,,PNUSAS561882,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870721,SAMN54870721,,PNUSAS561886,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870720,SAMN54870720,,PNUSAS561880,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870719,SAMN54870719,,PNUSAS561891,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870718,SAMN54870718,,PNUSAS561893,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870716,SAMN54870716,,PNUSAS561887,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870715,SAMN54870715,,PNUSAS561888,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870714,SAMN54870714,,PNUSAS561879,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870706,SAMN54870706,,PNUSAS560813,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870705,SAMN54870705,,PNUSAS561877,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870548,SAMN54870548,,25MD12CL01-S,Chicken chicken liver,,2025-12,USA:MD,,,,,,,,,Salmonella enterica
+54870479,SAMN54870479,,PNUSAS561846,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870429,SAMN54870429,,PNUSAS561849,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870427,SAMN54870427,,PNUSAS561852,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870314,SAMN54870314,,PNUSAS561865,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870313,SAMN54870313,,PNUSAS561855,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870296,SAMN54870296,,25MD12CB02-S,Chicken chicken wings,,2025-12,USA:MD,,,,,,,,,Salmonella enterica
+54870295,SAMN54870295,,PNUSAS561848,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870294,SAMN54870294,,PNUSAS561850,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870291,SAMN54870291,,PNUSAS561858,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870290,SAMN54870290,,PNUSAS561859,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870289,SAMN54870289,,PNUSAS561854,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870178,SAMN54870178,,PNUSAS561845,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870177,SAMN54870177,,PNUSAS561866,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870047,SAMN54870047,,PNUSAS561856,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870046,SAMN54870046,,PNUSAS561861,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870045,SAMN54870045,,PNUSAS561867,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870044,SAMN54870044,,PNUSAS561870,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870023,SAMN54870023,,PNUSAS561868,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870022,SAMN54870022,,PNUSAS561869,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870020,SAMN54870020,,PNUSAS561851,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870019,SAMN54870019,,PNUSAS561853,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870018,SAMN54870018,,PNUSAS561857,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54870017,SAMN54870017,,PNUSAS561860,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870016,SAMN54870016,,PNUSAS561863,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870015,SAMN54870015,,PNUSAS561862,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54870014,SAMN54870014,,PNUSAS561864,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54869964,SAMN54869964,,PNUSAS561847,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54869959,SAMN54869959,,PNUSAS560814,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54869958,SAMN54869958,,PNUSAS560815,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54869899,SAMN54869899,,PNUSAS560812,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54869898,SAMN54869898,,PNUSAS560811,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54869897,SAMN54869897,,PNUSAS561838,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54869896,SAMN54869896,,PNUSAS561837,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54868750,SAMN54868750,,PNUSAS561839,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54868725,SAMN54868725,,PNUSAS561840,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54859489,SAMN54859489,,PNUSAS561841,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54859481,SAMN54859481,,PNUSAS561842,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54837203,SAMN54837203,,PNUSAS560809,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54837193,SAMN54837193,,PNUSAS560808,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54825796,SAMN54825796,,PNUSAS560807,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54825783,SAMN54825783,,PNUSAS560810,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54825773,SAMN54825773,,PNUSAS560806,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54815286,SAMN54815286,,PNUSAS560804,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54815195,SAMN54815195,,PNUSAS560805,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54812552,SAMN54812552,,PNUSAS560802,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54812428,SAMN54812428,,PNUSAS560803,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54797870,SAMEA120966095,,,,,,,,,,,,,,,Salmonella enterica
+54794407,SAMEA120969151,,,,,,,,,,,,,,,Salmonella enterica
+54794208,SAMEA120969046,,,,,,,,,,,,,,,Salmonella enterica
+54790319,SAMEA120969149,,,,,,,,,,,,,,,Salmonella enterica
+54789990,SAMEA120969042,,,,,,,,,,,,,,,Salmonella enterica
+54789207,SAMEA120969045,,,,,,,,,,,,,,,Salmonella enterica
+54787917,SAMEA120968721,,,,,,,,,,,,,,,Salmonella enterica
+54786125,SAMEA120969144,,,,,,,,,,,,,,,Salmonella enterica
+54784398,SAMEA120966093,,,,,,,,,,,,,,,Salmonella enterica
+54784228,SAMEA120969158,,,,,,,,,,,,,,,Salmonella enterica
+54784190,SAMEA120969153,,,,,,,,,,,,,,,Salmonella enterica
+54783922,SAMEA120969148,,,,,,,,,,,,,,,Salmonella enterica
+54781541,SAMEA120968720,,,,,,,,,,,,,,,Salmonella enterica
+54780232,SAMEA120969155,,,,,,,,,,,,,,,Salmonella enterica
+54778956,SAMEA120969146,,,,,,,,,,,,,,,Salmonella enterica
+54778411,SAMEA120969044,,,,,,,,,,,,,,,Salmonella enterica
+54771430,SAMN54771430,,01894069,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Salmonella enterica
+54771429,SAMN54771429,,01895066,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Salmonella enterica
+54771428,SAMN54771428,,01895274,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Salmonella enterica
+54771427,SAMN54771427,,01895064,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Salmonella enterica
+38657035,SAMN38657035,,SJTUF15550,Chicken meat,chicken,2022-01-13,China: Shanghai,,,,,,,,,Salmonella enterica
+54806869,SAMN54806869,,FDA1313936-S001-001,ground melon seeds,,2025-10-09,USA:MD,,,,,GCA_054666255.1,Contig,,,Salmonella enterica
+54806866,SAMN54806866,,FDA1319310-C001-005,bean seeds (seem bichi),,2025-12-09,USA,,,,,GCA_054666355.1,Contig,,,Salmonella enterica
+54804163,SAMN54804163,,PNUSAS561834,Stool specimen,,2025-10-23,USA,,,,,,,,,Salmonella enterica
+54804158,SAMN54804158,,PNUSAS561825,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54804156,SAMN54804156,,PNUSAS561823,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54804153,SAMN54804153,,PNUSAS561826,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54804152,SAMN54804152,,PNUSAS561824,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54804144,SAMN54804144,,PNUSAS561835,Stool specimen,,2025-11-15,USA,,,,,,,,,Salmonella enterica
+54804134,SAMN54804134,,PNUSAS561808,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54804084,SAMN54804084,,PNUSAS561821,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54804083,SAMN54804083,,PNUSAS561820,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54804081,SAMN54804081,,PNUSAS561822,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54804079,SAMN54804079,,PNUSAS561836,Stool specimen,,2025-11-10,USA,,,,,,,,,Salmonella enterica
+54804078,SAMN54804078,,PNUSAS561819,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54804076,SAMN54804076,,PNUSAS561809,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54804075,SAMN54804075,,PNUSAS561807,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54804074,SAMN54804074,,PNUSAS561806,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54804072,SAMN54804072,,PNUSAS561534,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803929,SAMN54803929,,PNUSAS561805,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803928,SAMN54803928,,PNUSAS561832,Stool specimen,,2025-11-25,USA,,,,,,,,,Salmonella enterica
+54803927,SAMN54803927,,PNUSAS561827,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54803926,SAMN54803926,,PNUSAS561816,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803925,SAMN54803925,,PNUSAS561833,Stool specimen,,2025-11-18,USA,,,,,,,,,Salmonella enterica
+54803924,SAMN54803924,,PNUSAS561829,blood,,2026,USA,,,,,,,,,Salmonella enterica
+54803923,SAMN54803923,,PNUSAS561831,Stool specimen,,2025-11-13,USA,,,,,,,,,Salmonella enterica
+54803921,SAMN54803921,,PNUSAS561830,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54803920,SAMN54803920,,PNUSAS561828,stool,,2026,USA,,,,,,,,,Salmonella enterica
+54803917,SAMN54803917,,PNUSAS561818,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803916,SAMN54803916,,PNUSAS561817,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803808,SAMN54803808,,PNUSAS561815,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803770,SAMN54803770,,PNUSAS561804,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803769,SAMN54803769,,PNUSAS561814,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803768,SAMN54803768,,PNUSAS561813,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803767,SAMN54803767,,PNUSAS561812,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803761,SAMN54803761,,PNUSAS561803,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803760,SAMN54803760,,PNUSAS561811,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803759,SAMN54803759,,PNUSAS561799,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803758,SAMN54803758,,PNUSAS561798,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803757,SAMN54803757,,PNUSAS561801,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803756,SAMN54803756,,PNUSAS561802,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803753,SAMN54803753,,PNUSAS561797,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803752,SAMN54803752,,PNUSAS561810,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803745,SAMN54803745,,PNUSAS561533,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803744,SAMN54803744,,PNUSAS561532,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803682,SAMN54803682,,PNUSAS561527,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803656,SAMN54803656,,PNUSAS561800,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803650,SAMN54803650,,PNUSAS561531,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54803644,SAMN54803644,,PNUSAS561530,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803643,SAMN54803643,,PNUSAS561524,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54803642,SAMN54803642,,PNUSAS561538,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803641,SAMN54803641,,PNUSAS561785,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803519,SAMN54803519,,PNUSAS561539,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803518,SAMN54803518,,PNUSAS561536,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803517,SAMN54803517,,PNUSAS561537,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803516,SAMN54803516,,PNUSAS561535,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803513,SAMN54803513,,PNUSAS561526,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803511,SAMN54803511,,PNUSAS561523,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803510,SAMN54803510,,PNUSAS561786,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803506,SAMN54803506,,PNUSAS561788,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803505,SAMN54803505,,PNUSAS561793,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803488,SAMN54803488,,PNUSAS561529,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54803487,SAMN54803487,,PNUSAS561528,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803486,SAMN54803486,,PNUSAS561525,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803485,SAMN54803485,,PNUSAS561522,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54803484,SAMN54803484,,PNUSAS561787,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803483,SAMN54803483,,PNUSAS561791,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803417,SAMN54803417,,PNUSAS561783,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803416,SAMN54803416,,PNUSAS561780,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803412,SAMN54803412,,PNUSAS561784,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803411,SAMN54803411,,PNUSAS561792,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803395,SAMN54803395,,PNUSAS561789,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803394,SAMN54803394,,PNUSAS561782,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803375,SAMN54803375,,PNUSAS561790,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803374,SAMN54803374,,PNUSAS561794,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803310,SAMN54803310,,PNUSAS561796,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803287,SAMN54803287,,PNUSAS561781,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54803280,SAMN54803280,,PNUSAS561795,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802955,SAMN54802955,,PNUSAS561705,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802954,SAMN54802954,,PNUSAS561706,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802953,SAMN54802953,,PNUSAS561734,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802952,SAMN54802952,,PNUSAS561735,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802951,SAMN54802951,,PNUSAS561741,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802950,SAMN54802950,,PNUSAS561723,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802949,SAMN54802949,,PNUSAS561758,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802948,SAMN54802948,,PNUSAS561708,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802941,SAMN54802941,,PNUSAS561742,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802940,SAMN54802940,,PNUSAS561768,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802938,SAMN54802938,,PNUSAS561769,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802936,SAMN54802936,,PNUSAS561757,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802935,SAMN54802935,,PNUSAS561726,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802934,SAMN54802934,,PNUSAS561703,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802933,SAMN54802933,,PNUSAS561710,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802932,SAMN54802932,,PNUSAS561738,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802931,SAMN54802931,,PNUSAS561709,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802930,SAMN54802930,,PNUSAS561740,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802884,SAMN54802884,,PNUSAS561702,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802882,SAMN54802882,,PNUSAS561731,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802881,SAMN54802881,,PNUSAS561732,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802880,SAMN54802880,,PNUSAS561704,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802879,SAMN54802879,,PNUSAS561712,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802878,SAMN54802878,,PNUSAS561765,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802877,SAMN54802877,,PNUSAS561767,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802876,SAMN54802876,,PNUSAS561727,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802875,SAMN54802875,,PNUSAS561729,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802874,SAMN54802874,,PNUSAS561736,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802873,SAMN54802873,,PNUSAS561707,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802872,SAMN54802872,,PNUSAS561737,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802871,SAMN54802871,,PNUSAS561739,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802870,SAMN54802870,,PNUSAS561711,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802821,SAMN54802821,,PNUSAS561762,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802820,SAMN54802820,,PNUSAS561730,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802819,SAMN54802819,,PNUSAS561733,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802816,SAMN54802816,,PNUSAS561725,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802815,SAMN54802815,,PNUSAS561760,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802814,SAMN54802814,,PNUSAS561724,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802813,SAMN54802813,,PNUSAS561759,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802811,SAMN54802811,,PNUSAS561700,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802810,SAMN54802810,,PNUSAS561689,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802809,SAMN54802809,,PNUSAS561695,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802808,SAMN54802808,,PNUSAS561722,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802807,SAMN54802807,,PNUSAS561698,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802806,SAMN54802806,,PNUSAS561755,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802804,SAMN54802804,,PNUSAS561697,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802803,SAMN54802803,,PNUSAS561699,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802802,SAMN54802802,,PNUSAS561728,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802801,SAMN54802801,,PNUSAS561701,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802799,SAMN54802799,,PNUSAS561715,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802798,SAMN54802798,,PNUSAS561749,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802797,SAMN54802797,,PNUSAS561716,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802796,SAMN54802796,,PNUSAS561753,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802795,SAMN54802795,,PNUSAS561745,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802794,SAMN54802794,,PNUSAS561746,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802793,SAMN54802793,,PNUSAS561721,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802792,SAMN54802792,,PNUSAS561752,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802791,SAMN54802791,,PNUSAS561754,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802790,SAMN54802790,,PNUSAS561761,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802789,SAMN54802789,,PNUSAS561756,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802788,SAMN54802788,,PNUSAS561766,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802786,SAMN54802786,,PNUSAS561694,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802785,SAMN54802785,,PNUSAS561763,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802784,SAMN54802784,,PNUSAS561764,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802642,SAMN54802642,,PNUSAS561691,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802641,SAMN54802641,,PNUSAS561744,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802640,SAMN54802640,,PNUSAS561717,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802639,SAMN54802639,,PNUSAS561690,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802638,SAMN54802638,,PNUSAS561693,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802637,SAMN54802637,,PNUSAS561743,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802636,SAMN54802636,,PNUSAS561692,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802635,SAMN54802635,,PNUSAS561718,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802634,SAMN54802634,,PNUSAS561696,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802622,SAMN54802622,,PNUSAS561719,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802621,SAMN54802621,,PNUSAS561720,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802580,SAMN54802580,,PNUSAS561750,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802579,SAMN54802579,,PNUSAS561751,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802476,SAMN54802476,,PNUSAS561747,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802475,SAMN54802475,,PNUSAS561748,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802199,SAMN54802199,,PNUSAS561688,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802182,SAMN54802182,,PNUSAS561714,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802181,SAMN54802181,,PNUSAS561713,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802180,SAMN54802180,,PNUSAS561675,missing,,2026-01-01,USA,,,,,,,,,Salmonella enterica
+54802178,SAMN54802178,,PNUSAS561676,missing,,2025-12-29,USA,,,,,,,,,Salmonella enterica
+54802177,SAMN54802177,,PNUSAS561687,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802143,SAMN54802143,,PNUSAS561680,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802142,SAMN54802142,,PNUSAS561682,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802141,SAMN54802141,,PNUSAS561681,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802140,SAMN54802140,,PNUSAS561683,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802139,SAMN54802139,,PNUSAS561684,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802138,SAMN54802138,,PNUSAS561685,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802137,SAMN54802137,,PNUSAS561686,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802095,SAMN54802095,,PNUSAS561658,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54802094,SAMN54802094,,PNUSAS561672,missing,,2026-01-03,USA,,,,,,,,,Salmonella enterica
+54802093,SAMN54802093,,LAC-S.-DOC-CL-6,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/815/GCA_054651815.1_PDT003063907.1,Salmonella enterica
+54802062,SAMN54802062,,LAC-S.-DOC-CL-10,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054652075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/075/GCA_054652075.1_PDT003063902.1,Salmonella enterica
+54802061,SAMN54802061,,LAC-S.-DOC-CL-7,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/875/GCA_054651875.1_PDT003063899.1,Salmonella enterica
+54802060,SAMN54802060,,LAC-S.-DOC-CL-11,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054652095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/095/GCA_054652095.1_PDT003063900.1,Salmonella enterica
+54802059,SAMN54802059,,PNUSAS561669,missing,,2026-01-04,USA,,,,,,,,,Salmonella enterica
+54802057,SAMN54802057,,LAC-S.-DOC-CL-1,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054652115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/115/GCA_054652115.1_PDT003063897.1,Salmonella enterica
+54802056,SAMN54802056,,PNUSAS561678,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802054,SAMN54802054,,PNUSAS561677,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802012,SAMN54802012,,PNUSAS561670,missing,,2025-12-26,USA,,,,,,,,,Salmonella enterica
+54802011,SAMN54802011,,PNUSAS561671,missing,,2026-01-02,USA,,,,,,,,,Salmonella enterica
+54802010,SAMN54802010,,PNUSAS561674,missing,,2025-12-26,USA,,,,,,,,,Salmonella enterica
+54802009,SAMN54802009,,PNUSAS561673,missing,,2025-12-23,USA,,,,,,,,,Salmonella enterica
+54802008,SAMN54802008,,PNUSAS561679,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802007,SAMN54802007,,LAC-S.-DOC-CL-5,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/845/GCA_054651845.1_PDT003063887.1,Salmonella enterica
+54802006,SAMN54802006,,LAC-S.-DOC-CL-2,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054652215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/215/GCA_054652215.1_PDT003063888.1,Salmonella enterica
+54802005,SAMN54802005,,LAC-S.-DOC-CL-8,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/835/GCA_054651835.1_PDT003063886.1,Salmonella enterica
+54802004,SAMN54802004,,PNUSAS561649,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54802003,SAMN54802003,,PNUSAS561667,missing,,2026-01-02,USA,,,,,,,,,Salmonella enterica
+54802002,SAMN54802002,,LAC-S.-DOC-CL-9,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/495/GCA_054651495.1_PDT003063882.1,Salmonella enterica
+54802001,SAMN54802001,,LAC-S.-DOC-CL-4,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/915/GCA_054651915.1_PDT003063885.1,Salmonella enterica
+54801971,SAMN54801971,,PNUSAS561656,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801970,SAMN54801970,,LAC-S.-DOC-CL-12,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/555/GCA_054651555.1_PDT003063877.1,Salmonella enterica
+54801969,SAMN54801969,,PNUSAS561650,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801968,SAMN54801968,,PNUSAS561657,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801967,SAMN54801967,,LAC-S.-DOC-CL-3,chicken slaughter houses,,2024-03,Brazil,,,,,GCA_054651515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/651/515/GCA_054651515.1_PDT003063878.1,Salmonella enterica
+54801955,SAMN54801955,,PNUSAS561660,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801953,SAMN54801953,,PNUSAS561644,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801952,SAMN54801952,,PNUSAS561655,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801951,SAMN54801951,,PNUSAS561648,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801950,SAMN54801950,,PNUSAS561661,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801941,SAMN54801941,,PNUSAS561653,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801940,SAMN54801940,,PNUSAS561662,missing,,2025-12-29,USA,,,,,,,,,Salmonella enterica
+54801939,SAMN54801939,,PNUSAS561664,missing,,2025-12-29,USA,,,,,,,,,Salmonella enterica
+54801793,SAMN54801793,,PNUSAS561666,missing,,2025-12-25,USA,,,,,,,,,Salmonella enterica
+54801792,SAMN54801792,,PNUSAS561668,missing,,2025-12-22,USA,,,,,,,,,Salmonella enterica
+54801721,SAMN54801721,,PNUSAS561659,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801720,SAMN54801720,,PNUSAS561654,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801718,SAMN54801718,,PNUSAS561663,missing,,2025-12-31,USA,,,,,,,,,Salmonella enterica
+54801717,SAMN54801717,,PNUSAS561665,missing,,2026-01-04,USA,,,,,,,,,Salmonella enterica
+54801704,SAMN54801704,,PNUSAS561651,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801703,SAMN54801703,,PNUSAS561652,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801426,SAMN54801426,,PNUSAS561645,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801425,SAMN54801425,,PNUSAS561643,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801424,SAMN54801424,,PNUSAS561646,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801423,SAMN54801423,,PNUSAS561647,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801393,SAMN54801393,,PNUSAS561642,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801391,SAMN54801391,,PNUSAS561631,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801244,SAMN54801244,,PNUSAS561607,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801243,SAMN54801243,,PNUSAS561621,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801181,SAMN54801181,,PNUSAS561599,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801180,SAMN54801180,,PNUSAS561624,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801179,SAMN54801179,,PNUSAS561600,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801178,SAMN54801178,,PNUSAS561609,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54801142,SAMN54801142,,PNUSAS561602,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54801141,SAMN54801141,,PNUSAS561639,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54800899,SAMN54800899,,PNUSAS561622,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54800898,SAMN54800898,,PNUSAS561637,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54800785,SAMN54800785,,PNUSAS561616,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54800784,SAMN54800784,,PNUSAS561632,missing,,2025,USA,,,,,,,,,Salmonella enterica
+54800783,SAMN54800783,,PNUSAS561598,missing,,2026,USA,,,,,,,,,Salmonella enterica
+54800782,SAMN54800782,,PNUSAS561638,missing,,2026,USA,,,,,,,,,Salmonella enterica
