@@ -1,0 +1,123 @@
+{
+  "timestamp": "2026-01-26T23:32:21.211795",
+  "organism_classifier": {
+    "model_name": "random_forest",
+    "test_metrics": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "f1_macro": 1.0,
+      "auc": 1.0
+    },
+    "class_names": [
+      "Acinetobacter baumannii",
+      "Enterococcus faecalis",
+      "Enterococcus faecium",
+      "Escherichia coli",
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa",
+      "Salmonella enterica",
+      "Staphylococcus aureus"
+    ]
+  },
+  "amr_predictor": {
+    "model_name": "logistic_regression",
+    "test_metrics": {
+      "hamming_loss": 0.17341040462427745,
+      "micro_f1": 0.7662889518413598,
+      "macro_f1": 0.7020811382492265,
+      "weighted_f1": 0.7646072087020819,
+      "micro_precision": 0.8110944527736131,
+      "micro_recall": 0.7261744966442953,
+      "micro_auc": 0.9040001854620904,
+      "macro_auc": 0.8535802413780661
+    },
+    "drug_classes": [
+      "aminoglycoside",
+      "beta-lactam",
+      "fosfomycin",
+      "glycopeptide",
+      "macrolide",
+      "phenicol",
+      "quinolone",
+      "rifampicin",
+      "sulfonamide",
+      "tetracycline",
+      "trimethoprim"
+    ]
+  },
+  "model_comparison": {
+    "organism": [
+      {
+        "Model": "random_forest",
+        "Type": "sklearn",
+        "Accuracy": 1.0,
+        "F1 (Weighted)": 1.0,
+        "F1 (Macro)": 1.0,
+        "AUC": 1.0
+      },
+      {
+        "Model": "extra_trees",
+        "Type": "sklearn",
+        "Accuracy": 1.0,
+        "F1 (Weighted)": 1.0,
+        "F1 (Macro)": 1.0,
+        "AUC": 1.0
+      },
+      {
+        "Model": "logistic_regression",
+        "Type": "sklearn",
+        "Accuracy": 1.0,
+        "F1 (Weighted)": 1.0,
+        "F1 (Macro)": 1.0,
+        "AUC": 1.0
+      },
+      {
+        "Model": "deep_learning",
+        "Type": "pytorch",
+        "Accuracy": 1.0,
+        "F1 (Weighted)": 1.0,
+        "F1 (Macro)": 1.0,
+        "AUC": 1.0
+      },
+      {
+        "Model": "mlp",
+        "Type": "sklearn",
+        "Accuracy": 0.9826589595375722,
+        "F1 (Weighted)": 0.974178055020311,
+        "F1 (Macro)": 0.7417991203715496,
+        "AUC": 0.9968073665815298
+      }
+    ],
+    "amr": [
+      {
+        "Model": "logistic_regression",
+        "Type": "sklearn",
+        "Micro F1": 0.7662889518413598,
+        "Macro F1": 0.7020811382492265,
+        "Weighted F1": 0.7646072087020819,
+        "Micro AUC": 0.9040001854620904,
+        "Hamming Loss": 0.17341040462427745
+      },
+      {
+        "Model": "random_forest",
+        "Type": "sklearn",
+        "Micro F1": 0.7991452991452992,
+        "Macro F1": 0.6908079172035083,
+        "Weighted F1": 0.7827803435524553,
+        "Micro AUC": 0.9341910955013852,
+        "Hamming Loss": 0.14818707304256437
+      },
+      {
+        "Model": "extra_trees",
+        "Type": "sklearn",
+        "Micro F1": 0.7954220314735336,
+        "Macro F1": 0.6864798260561993,
+        "Weighted F1": 0.7793674789864272,
+        "Micro AUC": 0.9348147117803202,
+        "Hamming Loss": 0.15028901734104047
+      }
+    ]
+  }
+}

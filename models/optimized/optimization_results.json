@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-01-27T00:52:56.295011",
+  "dataset_info": {
+    "n_samples": 862,
+    "n_features": 500,
+    "n_classes": 11
+  },
+  "individual_results": {
+    "random_forest": {
+      "model_name": "random_forest",
+      "train_metrics": {
+        "hamming_loss": 0.0,
+        "micro_f1": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0,
+        "micro_auc": 1.0,
+        "macro_auc": 1.0
+      },
+      "val_metrics": {
+        "hamming_loss": 0.1786833855799373,
+        "micro_f1": 0.7673469387755102,
+        "macro_f1": 0.6611981165464018,
+        "weighted_f1": 0.7467117873190267,
+        "micro_auc": 0.9162017948096046,
+        "macro_auc": 0.8549241829349307
+      },
+      "test_metrics": {
+        "hamming_loss": 0.14923804519180242,
+        "micro_f1": 0.8008415147265077,
+        "macro_f1": 0.6931580854940095,
+        "weighted_f1": 0.7866584010781301,
+        "micro_auc": 0.9352383767430538,
+        "macro_auc": 0.892347870119787
+      }
+    },
+    "extra_trees": {
+      "model_name": "extra_trees",
+      "train_metrics": {
+        "hamming_loss": 0.0,
+        "micro_f1": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0,
+        "micro_auc": 1.0,
+        "macro_auc": 1.0
+      },
+      "val_metrics": {
+        "hamming_loss": 0.18599791013584116,
+        "micro_f1": 0.7594594594594595,
+        "macro_f1": 0.6533138084494247,
+        "weighted_f1": 0.7361252764165931,
+        "micro_auc": 0.9163432775487105,
+        "macro_auc": 0.854105786134419
+      },
+      "test_metrics": {
+        "hamming_loss": 0.1466106148187073,
+        "micro_f1": 0.8036593947923997,
+        "macro_f1": 0.6945431573475435,
+        "weighted_f1": 0.7884340134356437,
+        "micro_auc": 0.9366403542325926,
+        "macro_auc": 0.8982194606889102
+      }
+    },
+    "gradient_boosting": {
+      "model_name": "gradient_boosting",
+      "train_metrics": {
+        "hamming_loss": 0.0,
+        "micro_f1": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0,
+        "micro_auc": 1.0,
+        "macro_auc": 1.0
+      },
+      "val_metrics": {
+        "hamming_loss": 0.1839080459770115,
+        "micro_f1": 0.7589041095890411,
+        "macro_f1": 0.6542717586940907,
+        "weighted_f1": 0.7397730287328006,
+        "micro_auc": 0.9161523881388057,
+        "macro_auc": 0.8533130438034391
+      },
+      "test_metrics": {
+        "hamming_loss": 0.14450867052023122,
+        "micro_f1": 0.8064743138634765,
+        "macro_f1": 0.698124788986773,
+        "weighted_f1": 0.794469781428789,
+        "micro_auc": 0.9331513486571386,
+        "macro_auc": 0.8911995355576819
+      }
+    },
+    "logistic_regression": {
+      "model_name": "logistic_regression",
+      "train_metrics": {
+        "hamming_loss": 0.03578979160374509,
+        "micro_f1": 0.9496066340633638,
+        "macro_f1": 0.9410580744807551,
+        "weighted_f1": 0.9501523052236384,
+        "micro_auc": 0.9938833816959917,
+        "macro_auc": 0.9926233091582063
+      },
+      "val_metrics": {
+        "hamming_loss": 0.19853709508881923,
+        "micro_f1": 0.7425474254742548,
+        "macro_f1": 0.6611275075433016,
+        "weighted_f1": 0.7391600206558622,
+        "micro_auc": 0.8958327718938924,
+        "macro_auc": 0.8265557424462046
+      },
+      "test_metrics": {
+        "hamming_loss": 0.18917498686284814,
+        "micro_f1": 0.7503467406380028,
+        "macro_f1": 0.6922691173840723,
+        "weighted_f1": 0.7538927063910608,
+        "micro_auc": 0.9022916159543763,
+        "macro_auc": 0.8554535252061399
+      }
+    },
+    "mlp": {
+      "model_name": "mlp",
+      "train_metrics": {
+        "hamming_loss": 0.1256418000604047,
+        "micro_f1": 0.8147818343722173,
+        "macro_f1": 0.7228300076383021,
+        "weighted_f1": 0.7994840539887537,
+        "micro_auc": 0.939653506113024,
+        "macro_auc": 0.901795988138621
+      },
+      "val_metrics": {
+        "hamming_loss": 0.19540229885057472,
+        "micro_f1": 0.7434842249657064,
+        "macro_f1": 0.6305353532373609,
+        "weighted_f1": 0.7115266944899845,
+        "micro_auc": 0.9021927578803639,
+        "macro_auc": 0.8104458880513469
+      },
+      "test_metrics": {
+        "hamming_loss": 0.162900683131897,
+        "micro_f1": 0.7756874095513748,
+        "macro_f1": 0.6690600656739343,
+        "weighted_f1": 0.7526547575679734,
+        "micro_auc": 0.9221406961783218,
+        "macro_auc": 0.8544357687048616
+      }
+    }
+  },
+  "ensemble_results": {
+    "ensemble_type": "stacking",
+    "individual_results": {
+      "random_forest": {
+        "hamming_loss": 0.1786833855799373,
+        "micro_f1": 0.7673469387755102,
+        "macro_f1": 0.6611981165464018,
+        "weighted_f1": 0.7467117873190267,
+        "micro_auc": 0.9162017948096046,
+        "macro_auc": 0.8549241829349307
+      },
+      "extra_trees": {
+        "hamming_loss": 0.18599791013584116,
+        "micro_f1": 0.7594594594594595,
+        "macro_f1": 0.6533138084494247,
+        "weighted_f1": 0.7361252764165931,
+        "micro_auc": 0.9163432775487105,
+        "macro_auc": 0.854105786134419
+      },
+      "gradient_boosting": {
+        "hamming_loss": 0.1839080459770115,
+        "micro_f1": 0.7589041095890411,
+        "macro_f1": 0.6542717586940907,
+        "weighted_f1": 0.7397730287328006,
+        "micro_auc": 0.9161523881388057,
+        "macro_auc": 0.8533130438034391
+      },
+      "logistic_regression": {
+        "hamming_loss": 0.19853709508881923,
+        "micro_f1": 0.7425474254742548,
+        "macro_f1": 0.6611275075433016,
+        "weighted_f1": 0.7391600206558622,
+        "micro_auc": 0.8958327718938924,
+        "macro_auc": 0.8265557424462046
+      },
+      "mlp": {
+        "hamming_loss": 0.19540229885057472,
+        "micro_f1": 0.7434842249657064,
+        "macro_f1": 0.6305353532373609,
+        "weighted_f1": 0.7115266944899845,
+        "micro_auc": 0.9021927578803639,
+        "macro_auc": 0.8104458880513469
+      }
+    },
+    "test_metrics": {
+      "hamming_loss": 0.1466106148187073,
+      "micro_f1": 0.802547770700637,
+      "macro_f1": 0.7008390358266979,
+      "weighted_f1": 0.7906725118067189
+    }
+  },
+  "optimization_techniques": [
+    "SMOTE-Tomek resampling",
+    "Feature selection with mutual information",
+    "Optimized hyperparameters",
+    "Ensemble stacking"
+  ]
+}

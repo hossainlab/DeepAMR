@@ -1,0 +1,17 @@
+{
+  "aminoglycoside": 0,
+  "beta-lactam": 1,
+  "colistin": 2,
+  "fosfomycin": 3,
+  "fusidic_acid": 4,
+  "glycopeptide": 5,
+  "macrolide": 6,
+  "nitroimidazole": 7,
+  "oxazolidinone": 8,
+  "phenicol": 9,
+  "quinolone": 10,
+  "rifampicin": 11,
+  "sulfonamide": 12,
+  "tetracycline": 13,
+  "trimethoprim": 14
+}

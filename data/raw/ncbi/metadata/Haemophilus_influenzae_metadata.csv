@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54765081,SAMN54765081,,,blood,Homo sapiens,2026,USA,,,,,GCA_054584255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/255/GCA_054584255.1_PDT003061572.1,Haemophilus influenzae
+54765080,SAMN54765080,,,blood,Homo sapiens,2026,USA,,,,,GCA_054584235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/235/GCA_054584235.1_PDT003061573.1,Haemophilus influenzae
+54765079,SAMN54765079,,,CSF,Homo sapiens,2026,USA,,,,,GCA_054584175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/175/GCA_054584175.1_PDT003061574.1,Haemophilus influenzae
+54765078,SAMN54765078,,,blood,Homo sapiens,2026,USA,,,,,GCA_054584155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/155/GCA_054584155.1_PDT003061575.1,Haemophilus influenzae
+54765077,SAMN54765077,,,blood,Homo sapiens,2026,USA,,,,,GCA_054584135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/135/GCA_054584135.1_PDT003061576.1,Haemophilus influenzae
+54765076,SAMN54765076,,,blood,Homo sapiens,2026,USA,,,,,GCA_054584115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/115/GCA_054584115.1_PDT003061577.1,Haemophilus influenzae
+46265006,SAMN46265006,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46265005,SAMN46265005,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46265004,SAMN46265004,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46265003,SAMN46265003,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46265002,SAMN46265002,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46265001,SAMN46265001,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46265000,SAMN46265000,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264999,SAMN46264999,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264998,SAMN46264998,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264997,SAMN46264997,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264996,SAMN46264996,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264995,SAMN46264995,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264994,SAMN46264994,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264993,SAMN46264993,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264992,SAMN46264992,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264991,SAMN46264991,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264990,SAMN46264990,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264989,SAMN46264989,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264988,SAMN46264988,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264987,SAMN46264987,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264986,SAMN46264986,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264985,SAMN46264985,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264984,SAMN46264984,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264983,SAMN46264983,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264982,SAMN46264982,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264981,SAMN46264981,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264980,SAMN46264980,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264979,SAMN46264979,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264978,SAMN46264978,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264977,SAMN46264977,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264966,SAMN46264966,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264965,SAMN46264965,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264964,SAMN46264964,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264963,SAMN46264963,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264962,SAMN46264962,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264961,SAMN46264961,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264960,SAMN46264960,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264959,SAMN46264959,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264958,SAMN46264958,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264957,SAMN46264957,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264956,SAMN46264956,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264955,SAMN46264955,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264954,SAMN46264954,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264953,SAMN46264953,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264952,SAMN46264952,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264951,SAMN46264951,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264950,SAMN46264950,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264949,SAMN46264949,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264948,SAMN46264948,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264947,SAMN46264947,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264946,SAMN46264946,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264945,SAMN46264945,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264944,SAMN46264944,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264943,SAMN46264943,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264942,SAMN46264942,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264941,SAMN46264941,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264940,SAMN46264940,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264939,SAMN46264939,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264938,SAMN46264938,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+46264937,SAMN46264937,,rRdS,,Homo sapiens,2024,Spain,,,,,,,,,Haemophilus influenzae
+54614574,SAMN54614574,,,blood,Homo sapiens,2026,USA,,,,,GCA_054494685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/685/GCA_054494685.1_PDT003054387.1,Haemophilus influenzae
+54614573,SAMN54614573,,,blood,Homo sapiens,2026,USA,,,,,GCA_054494665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/665/GCA_054494665.1_PDT003054388.1,Haemophilus influenzae
+54586818,SAMEA120919301,,,,,,,,,,,,,,,Haemophilus influenzae
+54586811,SAMEA120919245,,,,,,,,,,,,,,,Haemophilus influenzae
+54586810,SAMEA120919165,,,,,,,,,,,,,,,Haemophilus influenzae
+54586798,SAMEA120919299,,,,,,,,,,,,,,,Haemophilus influenzae
+54586779,SAMEA120919274,,,,,,,,,,,,,,,Haemophilus influenzae
+54586765,SAMEA120919258,,,,,,,,,,,,,,,Haemophilus influenzae
+54586712,SAMEA120919156,,,,,,,,,,,,,,,Haemophilus influenzae
+54586702,SAMEA120919273,,,,,,,,,,,,,,,Haemophilus influenzae
+54586688,SAMEA120919148,,,,,,,,,,,,,,,Haemophilus influenzae
+54586686,SAMEA120919311,,,,,,,,,,,,,,,Haemophilus influenzae
+54586670,SAMEA120919226,,,,,,,,,,,,,,,Haemophilus influenzae
+54586642,SAMEA120919284,,,,,,,,,,,,,,,Haemophilus influenzae
+54586632,SAMEA120919217,,,,,,,,,,,,,,,Haemophilus influenzae
+54586631,SAMEA120919139,,,,,,,,,,,,,,,Haemophilus influenzae
+54586620,SAMEA120919287,,,,,,,,,,,,,,,Haemophilus influenzae
+54586612,SAMEA120919278,,,,,,,,,,,,,,,Haemophilus influenzae
+54586609,SAMEA120919163,,,,,,,,,,,,,,,Haemophilus influenzae
+54586563,SAMEA120919222,,,,,,,,,,,,,,,Haemophilus influenzae
+54586517,SAMEA120919191,,,,,,,,,,,,,,,Haemophilus influenzae
+54586515,SAMEA120919236,,,,,,,,,,,,,,,Haemophilus influenzae
+54586481,SAMEA120919196,,,,,,,,,,,,,,,Haemophilus influenzae
+54586456,SAMEA120919246,,,,,,,,,,,,,,,Haemophilus influenzae
+54586450,SAMEA120919203,,,,,,,,,,,,,,,Haemophilus influenzae
+54586433,SAMEA120919225,,,,,,,,,,,,,,,Haemophilus influenzae
+54586405,SAMEA120919151,,,,,,,,,,,,,,,Haemophilus influenzae
+54586363,SAMEA120919228,,,,,,,,,,,,,,,Haemophilus influenzae
+54586360,SAMEA120919150,,,,,,,,,,,,,,,Haemophilus influenzae
+54586355,SAMEA120919140,,,,,,,,,,,,,,,Haemophilus influenzae
+54586346,SAMEA120919237,,,,,,,,,,,,,,,Haemophilus influenzae
+54586276,SAMEA120919252,,,,,,,,,,,,,,,Haemophilus influenzae
+54586237,SAMEA120919262,,,,,,,,,,,,,,,Haemophilus influenzae
+54586178,SAMEA120919309,,,,,,,,,,,,,,,Haemophilus influenzae
+54586140,SAMEA120919154,,,,,,,,,,,,,,,Haemophilus influenzae
+54586097,SAMEA120919149,,,,,,,,,,,,,,,Haemophilus influenzae
+54586095,SAMEA120919308,,,,,,,,,,,,,,,Haemophilus influenzae
+54586086,SAMEA120919227,,,,,,,,,,,,,,,Haemophilus influenzae
+54586049,SAMEA120919234,,,,,,,,,,,,,,,Haemophilus influenzae
+54586023,SAMEA120919218,,,,,,,,,,,,,,,Haemophilus influenzae
+54586004,SAMEA120919313,,,,,,,,,,,,,,,Haemophilus influenzae
+54585987,SAMEA120919264,,,,,,,,,,,,,,,Haemophilus influenzae
+54585979,SAMEA120919199,,,,,,,,,,,,,,,Haemophilus influenzae
+54585964,SAMEA120919166,,,,,,,,,,,,,,,Haemophilus influenzae
+54585954,SAMEA120919177,,,,,,,,,,,,,,,Haemophilus influenzae
+54585920,SAMEA120919286,,,,,,,,,,,,,,,Haemophilus influenzae
+54585890,SAMEA120919239,,,,,,,,,,,,,,,Haemophilus influenzae
+54585875,SAMEA120919312,,,,,,,,,,,,,,,Haemophilus influenzae
+54585871,SAMEA120919279,,,,,,,,,,,,,,,Haemophilus influenzae
+54585839,SAMEA120919254,,,,,,,,,,,,,,,Haemophilus influenzae
+54585804,SAMEA120919171,,,,,,,,,,,,,,,Haemophilus influenzae
+54585802,SAMEA120919192,,,,,,,,,,,,,,,Haemophilus influenzae
+54585798,SAMEA120919314,,,,,,,,,,,,,,,Haemophilus influenzae
+54585795,SAMEA120919297,,,,,,,,,,,,,,,Haemophilus influenzae
+54585785,SAMEA120919207,,,,,,,,,,,,,,,Haemophilus influenzae
+54585763,SAMEA120919137,,,,,,,,,,,,,,,Haemophilus influenzae
+54585754,SAMEA120919243,,,,,,,,,,,,,,,Haemophilus influenzae
+54585752,SAMEA120919255,,,,,,,,,,,,,,,Haemophilus influenzae
+54585742,SAMEA120919215,,,,,,,,,,,,,,,Haemophilus influenzae
+54585741,SAMEA120919275,,,,,,,,,,,,,,,Haemophilus influenzae
+54585727,SAMEA120919265,,,,,,,,,,,,,,,Haemophilus influenzae
+54585723,SAMEA120919146,,,,,,,,,,,,,,,Haemophilus influenzae
+54585722,SAMEA120919224,,,,,,,,,,,,,,,Haemophilus influenzae
+54585698,SAMEA120919172,,,,,,,,,,,,,,,Haemophilus influenzae
+54585685,SAMEA120919214,,,,,,,,,,,,,,,Haemophilus influenzae
+54585680,SAMEA120919184,,,,,,,,,,,,,,,Haemophilus influenzae
+54585654,SAMEA120919244,,,,,,,,,,,,,,,Haemophilus influenzae
+54585638,SAMEA120919195,,,,,,,,,,,,,,,Haemophilus influenzae
+54585624,SAMEA120919162,,,,,,,,,,,,,,,Haemophilus influenzae
+54585621,SAMEA120919283,,,,,,,,,,,,,,,Haemophilus influenzae
+54585616,SAMEA120919267,,,,,,,,,,,,,,,Haemophilus influenzae
+54585604,SAMEA120919197,,,,,,,,,,,,,,,Haemophilus influenzae
+54585589,SAMEA120919211,,,,,,,,,,,,,,,Haemophilus influenzae
+54585583,SAMEA120919180,,,,,,,,,,,,,,,Haemophilus influenzae
+54585575,SAMEA120919300,,,,,,,,,,,,,,,Haemophilus influenzae
+54585565,SAMEA120919200,,,,,,,,,,,,,,,Haemophilus influenzae
+54585497,SAMEA120919231,,,,,,,,,,,,,,,Haemophilus influenzae
+54585488,SAMEA120919281,,,,,,,,,,,,,,,Haemophilus influenzae
+54585475,SAMEA120919219,,,,,,,,,,,,,,,Haemophilus influenzae
+54585452,SAMEA120919249,,,,,,,,,,,,,,,Haemophilus influenzae
+54585427,SAMEA120919152,,,,,,,,,,,,,,,Haemophilus influenzae
+54585397,SAMEA120919187,,,,,,,,,,,,,,,Haemophilus influenzae
+54585395,SAMEA120919240,,,,,,,,,,,,,,,Haemophilus influenzae
+54585377,SAMEA120919250,,,,,,,,,,,,,,,Haemophilus influenzae
+54585374,SAMEA120919229,,,,,,,,,,,,,,,Haemophilus influenzae
+54585315,SAMEA120919304,,,,,,,,,,,,,,,Haemophilus influenzae
+54585313,SAMEA120919145,,,,,,,,,,,,,,,Haemophilus influenzae
+54585307,SAMEA120919253,,,,,,,,,,,,,,,Haemophilus influenzae
+54585264,SAMEA120919216,,,,,,,,,,,,,,,Haemophilus influenzae
+54585247,SAMEA120919272,,,,,,,,,,,,,,,Haemophilus influenzae
+54585237,SAMEA120919235,,,,,,,,,,,,,,,Haemophilus influenzae
+54585235,SAMEA120919306,,,,,,,,,,,,,,,Haemophilus influenzae
+54585174,SAMEA120919277,,,,,,,,,,,,,,,Haemophilus influenzae
+54585163,SAMEA120919160,,,,,,,,,,,,,,,Haemophilus influenzae
+54585126,SAMEA120919256,,,,,,,,,,,,,,,Haemophilus influenzae
+54585119,SAMEA120919170,,,,,,,,,,,,,,,Haemophilus influenzae
+54585101,SAMEA120919136,,,,,,,,,,,,,,,Haemophilus influenzae
+54585072,SAMEA120919266,,,,,,,,,,,,,,,Haemophilus influenzae
+54585065,SAMEA120919167,,,,,,,,,,,,,,,Haemophilus influenzae
+54585060,SAMEA120919305,,,,,,,,,,,,,,,Haemophilus influenzae
+54585058,SAMEA120919230,,,,,,,,,,,,,,,Haemophilus influenzae
+54585042,SAMEA120919188,,,,,,,,,,,,,,,Haemophilus influenzae
+54585024,SAMEA120919293,,,,,,,,,,,,,,,Haemophilus influenzae
+54585022,SAMEA120919198,,,,,,,,,,,,,,,Haemophilus influenzae
+54585004,SAMEA120919298,,,,,,,,,,,,,,,Haemophilus influenzae
+54584994,SAMEA120919178,,,,,,,,,,,,,,,Haemophilus influenzae
+54584993,SAMEA120919135,,,,,,,,,,,,,,,Haemophilus influenzae
+54584979,SAMEA120919288,,,,,,,,,,,,,,,Haemophilus influenzae
+54584971,SAMEA120919204,,,,,,,,,,,,,,,Haemophilus influenzae
+54584969,SAMEA120919183,,,,,,,,,,,,,,,Haemophilus influenzae
+54584955,SAMEA120919221,,,,,,,,,,,,,,,Haemophilus influenzae
+54584953,SAMEA120919209,,,,,,,,,,,,,,,Haemophilus influenzae
+54584919,SAMEA120919153,,,,,,,,,,,,,,,Haemophilus influenzae
+54584899,SAMEA120919248,,,,,,,,,,,,,,,Haemophilus influenzae
+54584888,SAMEA120919157,,,,,,,,,,,,,,,Haemophilus influenzae
+54584844,SAMEA120919269,,,,,,,,,,,,,,,Haemophilus influenzae
+54584823,SAMEA120919155,,,,,,,,,,,,,,,Haemophilus influenzae
+54584809,SAMEA120919232,,,,,,,,,,,,,,,Haemophilus influenzae
+54584795,SAMEA120919176,,,,,,,,,,,,,,,Haemophilus influenzae
+54584784,SAMEA120919290,,,,,,,,,,,,,,,Haemophilus influenzae
+54584763,SAMEA120919223,,,,,,,,,,,,,,,Haemophilus influenzae
+54584762,SAMEA120919142,,,,,,,,,,,,,,,Haemophilus influenzae
+54584760,SAMEA120919263,,,,,,,,,,,,,,,Haemophilus influenzae
+54584703,SAMEA120919261,,,,,,,,,,,,,,,Haemophilus influenzae
+54584699,SAMEA120919212,,,,,,,,,,,,,,,Haemophilus influenzae
+54584662,SAMEA120919242,,,,,,,,,,,,,,,Haemophilus influenzae
+54584640,SAMEA120919168,,,,,,,,,,,,,,,Haemophilus influenzae
+54584638,SAMEA120919189,,,,,,,,,,,,,,,Haemophilus influenzae
+54584570,SAMEA120919175,,,,,,,,,,,,,,,Haemophilus influenzae
+54584566,SAMEA120919147,,,,,,,,,,,,,,,Haemophilus influenzae
+54584541,SAMEA120919285,,,,,,,,,,,,,,,Haemophilus influenzae
+54584536,SAMEA120919179,,,,,,,,,,,,,,,Haemophilus influenzae
+54584531,SAMEA120919251,,,,,,,,,,,,,,,Haemophilus influenzae
+54584504,SAMEA120919260,,,,,,,,,,,,,,,Haemophilus influenzae
+54584497,SAMEA120919208,,,,,,,,,,,,,,,Haemophilus influenzae
+54584486,SAMEA120919161,,,,,,,,,,,,,,,Haemophilus influenzae
+54584474,SAMEA120919268,,,,,,,,,,,,,,,Haemophilus influenzae
+54584463,SAMEA120919310,,,,,,,,,,,,,,,Haemophilus influenzae
+54584438,SAMEA120919193,,,,,,,,,,,,,,,Haemophilus influenzae
+54584425,SAMEA120919282,,,,,,,,,,,,,,,Haemophilus influenzae
+54584417,SAMEA120919238,,,,,,,,,,,,,,,Haemophilus influenzae
+54584397,SAMEA120919295,,,,,,,,,,,,,,,Haemophilus influenzae
+54584393,SAMEA120919291,,,,,,,,,,,,,,,Haemophilus influenzae
+54584375,SAMEA120919158,,,,,,,,,,,,,,,Haemophilus influenzae
+54584353,SAMEA120919143,,,,,,,,,,,,,,,Haemophilus influenzae
+54584343,SAMEA120919289,,,,,,,,,,,,,,,Haemophilus influenzae
+54584332,SAMEA120919296,,,,,,,,,,,,,,,Haemophilus influenzae
+54584258,SAMEA120919220,,,,,,,,,,,,,,,Haemophilus influenzae
+54584256,SAMEA120919174,,,,,,,,,,,,,,,Haemophilus influenzae
+54584245,SAMEA120919210,,,,,,,,,,,,,,,Haemophilus influenzae
+54584223,SAMEA120919164,,,,,,,,,,,,,,,Haemophilus influenzae
+54584218,SAMEA120919185,,,,,,,,,,,,,,,Haemophilus influenzae
+54584212,SAMEA120919315,,,,,,,,,,,,,,,Haemophilus influenzae
+54584208,SAMEA120919302,,,,,,,,,,,,,,,Haemophilus influenzae
+54584200,SAMEA120919194,,,,,,,,,,,,,,,Haemophilus influenzae
+54584152,SAMEA120919270,,,,,,,,,,,,,,,Haemophilus influenzae
+54584136,SAMEA120919182,,,,,,,,,,,,,,,Haemophilus influenzae
+54584133,SAMEA120919213,,,,,,,,,,,,,,,Haemophilus influenzae
+54584126,SAMEA120919292,,,,,,,,,,,,,,,Haemophilus influenzae
+54584119,SAMEA120919257,,,,,,,,,,,,,,,Haemophilus influenzae
+54584112,SAMEA120919205,,,,,,,,,,,,,,,Haemophilus influenzae
+54584105,SAMEA120919181,,,,,,,,,,,,,,,Haemophilus influenzae
+54584095,SAMEA120919247,,,,,,,,,,,,,,,Haemophilus influenzae
+54584076,SAMEA120919202,,,,,,,,,,,,,,,Haemophilus influenzae
+54584054,SAMEA120919186,,,,,,,,,,,,,,,Haemophilus influenzae
+54584046,SAMEA120919294,,,,,,,,,,,,,,,Haemophilus influenzae
+54584038,SAMEA120919276,,,,,,,,,,,,,,,Haemophilus influenzae
+54584029,SAMEA120919169,,,,,,,,,,,,,,,Haemophilus influenzae
+54584015,SAMEA120919233,,,,,,,,,,,,,,,Haemophilus influenzae
+54584004,SAMEA120919190,,,,,,,,,,,,,,,Haemophilus influenzae
+54583984,SAMEA120919201,,,,,,,,,,,,,,,Haemophilus influenzae
+54583981,SAMEA120919206,,,,,,,,,,,,,,,Haemophilus influenzae
+54583977,SAMEA120919303,,,,,,,,,,,,,,,Haemophilus influenzae
+54583976,SAMEA120919138,,,,,,,,,,,,,,,Haemophilus influenzae
+54583934,SAMEA120919307,,,,,,,,,,,,,,,Haemophilus influenzae
+54583931,SAMEA120919144,,,,,,,,,,,,,,,Haemophilus influenzae
+54583909,SAMEA120919159,,,,,,,,,,,,,,,Haemophilus influenzae
+54583882,SAMEA120919271,,,,,,,,,,,,,,,Haemophilus influenzae
+54583868,SAMEA120919241,,,,,,,,,,,,,,,Haemophilus influenzae
+54583860,SAMEA120919141,,,,,,,,,,,,,,,Haemophilus influenzae
+54583837,SAMEA120919280,,,,,,,,,,,,,,,Haemophilus influenzae
+54583814,SAMEA120919259,,,,,,,,,,,,,,,Haemophilus influenzae
+54583808,SAMEA120919173,,,,,,,,,,,,,,,Haemophilus influenzae
+54549126,SAMN54549126,,,blood,Homo sapiens,2026,USA,,,,,GCA_054439795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/439/795/GCA_054439795.1_PDT003049265.1,Haemophilus influenzae
+54549125,SAMN54549125,,,blood,Homo sapiens,2026,USA,,,,,GCA_054439775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/439/775/GCA_054439775.1_PDT003049266.1,Haemophilus influenzae
+54549124,SAMN54549124,,,blood,Homo sapiens,2026,USA,,,,,,,,,Haemophilus influenzae
+54549123,SAMN54549123,,,blood,Homo sapiens,2026,USA,,,,,,,,,Haemophilus influenzae
+54549122,SAMN54549122,,,Not Provided,Homo sapiens,2026,USA,,,,,GCA_054439755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/439/755/GCA_054439755.1_PDT003049269.1,Haemophilus influenzae
+54493389,SAMN54493389,,missing,phlegm-42,Human-46,2024-12-11,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493388,SAMN54493388,,missing,phlegm-41,Human-45,2024-05-10,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493387,SAMN54493387,,missing,phlegm-40,Human-44,2024-05-09,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493386,SAMN54493386,,missing,phlegm-39,Human-43,2024-05-08,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493385,SAMN54493385,,missing,phlegm-38,Human-42,2024-05-04,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493384,SAMN54493384,,missing,phlegm-37,Human-41,2024-05-04,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493383,SAMN54493383,,missing,phlegm-36,Human-40,2024-05-04,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493382,SAMN54493382,,missing,phlegm-35,Human-39,2024-05-04,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493381,SAMN54493381,,missing,phlegm-34,Human-38,2024-05-02,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493380,SAMN54493380,,missing,phlegm-33,Human-37,2024-04-30,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493379,SAMN54493379,,missing,phlegm-32,Human-36,2024-04-30,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493378,SAMN54493378,,missing,phlegm-31,Human-35,2024-04-28,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493377,SAMN54493377,,missing,phlegm-30,Human-34,2024-04-27,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493376,SAMN54493376,,missing,Eye swab-4,Human-33,2024-04-27,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493375,SAMN54493375,,missing,phlegm-29,Human-32,2024-04-26,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493374,SAMN54493374,,missing,phlegm-28,Human-31,2024-04-26,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493373,SAMN54493373,,missing,phlegm-27,Human-30,2024-04-26,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493372,SAMN54493372,,missing,phlegm-26,Human-29,2024-04-22,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493371,SAMN54493371,,missing,phlegm-25,Human-28,2024-04-22,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493370,SAMN54493370,,missing,phlegm-24,Human-27,2024-04-22,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493369,SAMN54493369,,missing,phlegm-23,Human-26,2022-12-29,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493368,SAMN54493368,,missing,phlegm-22,Human-25,2022-11-06,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493367,SAMN54493367,,missing,phlegm-21,Human-24,2021-04-08,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493366,SAMN54493366,,missing,phlegm-20,Human-23,2021-04-29,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493365,SAMN54493365,,missing,phlegm-19,Human-22,2021-04-26,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493364,SAMN54493364,,missing,phlegm-18,Human-21,2021-04-12,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493363,SAMN54493363,,missing,phlegm-17,Human-20,2021-04-12,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493362,SAMN54493362,,missing,phlegm-16,Human-19,2021-03-03,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493361,SAMN54493361,,missing,phlegm-15,Human-18,2021-03-03,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493360,SAMN54493360,,missing,phlegm-14,Human-17,2021-02-27,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493359,SAMN54493359,,missing,phlegm-13,Human-16,2021-02-26,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493358,SAMN54493358,,missing,phlegm-12,Human-15,2021-02-01,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493357,SAMN54493357,,missing,phlegm-11,Human-14,2019-04-09,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493356,SAMN54493356,,missing,Eye swab-3,Human-13,2020-01-04,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493355,SAMN54493355,,missing,Eye swab-2,Human-12,2019-11-14,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493354,SAMN54493354,,missing,phlegm-10,Human-11,2019-10-29,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493353,SAMN54493353,,missing,phlegm-9,Human-10,2019-10-23,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493352,SAMN54493352,,missing,phlegm-8,Human-9,2019-04-28,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493351,SAMN54493351,,missing,phlegm-7,Human-8,2018-06-19,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493350,SAMN54493350,,missing,phlegm-6,Human-7,2019-04-18,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493349,SAMN54493349,,missing,phlegm-5,Human-6,2018-07-23,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493348,SAMN54493348,,missing,phlegm-4,Human-5,2019-03-09,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493347,SAMN54493347,,missing,phlegm-3,Human-4,2018-07-12,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493346,SAMN54493346,,missing,phlegm-2,Human-3,2018-07-07,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493345,SAMN54493345,,missing,phlegm-1,Human-2,2018-06-28,China:NanJing,,,,,,,,,Haemophilus influenzae
+54493344,SAMN54493344,,missing,Eye swab-1,Human-1,2018-06-26,China:NanJing,,,,,,,,,Haemophilus influenzae
+54467103,SAMN54467103,,,blood,Homo sapiens,2026,USA,,,,,GCA_054392285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/392/285/GCA_054392285.1_PDT003046542.1,Haemophilus influenzae
+54444709,SAMN54444709,,,blood,Homo sapiens,2026,USA,,,,,GCA_054374615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/374/615/GCA_054374615.1_PDT003046051.1,Haemophilus influenzae
+54443483,SAMN54443483,,,blood,Homo sapiens,2026,USA,,,,,GCA_054345715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/715/GCA_054345715.1_PDT003044536.1,Haemophilus influenzae
+54443482,SAMN54443482,,,blood,Homo sapiens,2026,USA,,,,,GCA_054345735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/345/735/GCA_054345735.1_PDT003044537.1,Haemophilus influenzae
+54441655,SAMEA115082866,,,,,,,,,,,,,,,Haemophilus influenzae
+54441645,SAMEA115082882,,,,,,,,,,,,,,,Haemophilus influenzae
+54441574,SAMEA115082840,,,,,,,,,,,,,,,Haemophilus influenzae
+54441463,SAMEA115082857,,,,,,,,,,,,,,,Haemophilus influenzae
+54441442,SAMEA115082856,,,,,,,,,,,,,,,Haemophilus influenzae
+54441424,SAMEA115082880,,,,,,,,,,,,,,,Haemophilus influenzae
+54441422,SAMEA115082891,,,,,,,,,,,,,,,Haemophilus influenzae
+54441421,SAMEA115082892,,,,,,,,,,,,,,,Haemophilus influenzae
+54441371,SAMEA115082832,,,,,,,,,,,,,,,Haemophilus influenzae
+54441289,SAMEA115082888,,,,,,,,,,,,,,,Haemophilus influenzae
+54441257,SAMEA115082915,,,,,,,,,,,,,,,Haemophilus influenzae
+54441244,SAMEA115082871,,,,,,,,,,,,,,,Haemophilus influenzae
+54441231,SAMEA115082864,,,,,,,,,,,,,,,Haemophilus influenzae
+54441220,SAMEA115082835,,,,,,,,,,,,,,,Haemophilus influenzae
+54441165,SAMEA115082900,,,,,,,,,,,,,,,Haemophilus influenzae
+54441146,SAMEA115082848,,,,,,,,,,,,,,,Haemophilus influenzae
+54441128,SAMEA115082833,,,,,,,,,,,,,,,Haemophilus influenzae
+54441114,SAMEA115082890,,,,,,,,,,,,,,,Haemophilus influenzae
+54440984,SAMEA115082841,,,,,,,,,,,,,,,Haemophilus influenzae
+54440981,SAMEA115082916,,,,,,,,,,,,,,,Haemophilus influenzae
+54440975,SAMEA115082873,,,,,,,,,,,,,,,Haemophilus influenzae
+54440933,SAMEA115082849,,,,,,,,,,,,,,,Haemophilus influenzae
+54440869,SAMEA115082907,,,,,,,,,,,,,,,Haemophilus influenzae
+54440818,SAMEA115082908,,,,,,,,,,,,,,,Haemophilus influenzae
+54440801,SAMEA115082899,,,,,,,,,,,,,,,Haemophilus influenzae
+54354615,SAMN54354615,,C1,,Homo sapiens,2025-04-27,"China: Kunming, Yunnan",,,,,,,,,Haemophilus influenzae
+54354614,SAMN54354614,,P1,,Homo sapiens,2024-11-22,"China: Kunming, Yunnan",,,,,,,,,Haemophilus influenzae
+54354613,SAMN54354613,,B1,,Homo sapiens,2024-11-22,"China: Kunming, Yunnan",,,,,,,,,Haemophilus influenzae
+54345894,SAMN54345894,,,blood,Homo sapiens,2025,USA,,,,,GCA_054221305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/305/GCA_054221305.1_PDT003040493.1,Haemophilus influenzae
+54345893,SAMN54345893,,,blood,Homo sapiens,2025,USA,,,,,GCA_054221285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/285/GCA_054221285.1_PDT003040494.1,Haemophilus influenzae
+54345892,SAMN54345892,,,blood,Homo sapiens,2025,USA,,,,,GCA_054221245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/245/GCA_054221245.1_PDT003040495.1,Haemophilus influenzae
+54345891,SAMN54345891,,,blood,Homo sapiens,2025,USA,,,,,GCA_054221265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/265/GCA_054221265.1_PDT003040496.1,Haemophilus influenzae
+54345890,SAMN54345890,,,blood,Homo sapiens,2025,USA,,,,,GCA_054221225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/225/GCA_054221225.1_PDT003040497.1,Haemophilus influenzae
+54223834,SAMN54223834,,,blood,Homo sapiens,2025,USA,,,,,GCA_054120195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/120/195/GCA_054120195.1_PDT003031512.1,Haemophilus influenzae
+54187604,SAMN54187604,,,blood,Homo sapiens,2025,USA,,,,,GCA_054202055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/202/055/GCA_054202055.1_PDT003029813.1,Haemophilus influenzae
+54187603,SAMN54187603,,,blood,Homo sapiens,2025,USA,,,,,GCA_054202075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/202/075/GCA_054202075.1_PDT003029814.1,Haemophilus influenzae
+54187602,SAMN54187602,,,blood,Homo sapiens,2025,USA,,,,,GCA_054202095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/202/095/GCA_054202095.1_PDT003029815.1,Haemophilus influenzae
+54144036,SAMN54144036,,,blood,Homo sapiens,2025,USA,,,,,GCA_053983075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/983/075/GCA_053983075.1_PDT003027374.1,Haemophilus influenzae
+43557259,SAMN43557259,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557258,SAMN43557258,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557257,SAMN43557257,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557256,SAMN43557256,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557255,SAMN43557255,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557254,SAMN43557254,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557253,SAMN43557253,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557252,SAMN43557252,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557251,SAMN43557251,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557250,SAMN43557250,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557249,SAMN43557249,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+43557248,SAMN43557248,,NTHi375,not applicable,Homo sapiens,not applicable,not applicable,,,,,,,,,Haemophilus influenzae
+53831103,SAMN53831103,,,blood,Homo sapiens,2025,USA,,,,,,,,,Haemophilus influenzae
+53831102,SAMN53831102,,,blood,Homo sapiens,2025,USA,,,,,GCA_053888975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/888/975/GCA_053888975.1_PDT003018141.1,Haemophilus influenzae
+53797876,SAMN53797876,,MDH-25-000145,blood,Homo sapiens,2025-11-16,USA,,,,,GCA_053880175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/880/175/GCA_053880175.1_PDT003017237.1,Haemophilus influenzae
+53797875,SAMN53797875,,MDH-25-000144,blood,Homo sapiens,2025-11-10,USA,,,,,GCA_053880155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/880/155/GCA_053880155.1_PDT003017238.1,Haemophilus influenzae
+53797874,SAMN53797874,,MDH-25-000143,blood,Homo sapiens,2025-09-30,USA,,,,,GCA_053880135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/880/135/GCA_053880135.1_PDT003017239.1,Haemophilus influenzae
+53797873,SAMN53797873,,MDH-25-000142,blood,Homo sapiens,2025-09-11,USA,,,,,GCA_053880115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/880/115/GCA_053880115.1_PDT003017240.1,Haemophilus influenzae
+53797872,SAMN53797872,,MDH-25-000141,blood,Homo sapiens,2025-08-14,USA,,,,,GCA_053880095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/880/095/GCA_053880095.1_PDT003017241.1,Haemophilus influenzae
+53797871,SAMN53797871,,MDH-25-000140,blood,Homo sapiens,2025-08-10,USA,,,,,GCA_053880075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/880/075/GCA_053880075.1_PDT003017242.1,Haemophilus influenzae
+53681803,SAMN53681803,,LACPHL-SPEC-2025-00903,,Homo sapiens,,,,,,,GCF_054065095.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/065/095/GCF_054065095.1_ASM5406509v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/065/095/GCA_054065095.1_ASM5406509v1,Haemophilus influenzae
+53677526,SAMN53677526,,,blood,Homo sapiens,2025,USA,,,,,GCA_053836905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/836/905/GCA_053836905.1_PDT003011119.1,Haemophilus influenzae
+53677525,SAMN53677525,,,blood,Homo sapiens,2025,USA,,,,,GCA_053836865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/836/865/GCA_053836865.1_PDT003011120.1,Haemophilus influenzae
+53677524,SAMN53677524,,,blood,Homo sapiens,2025,USA,,,,,GCA_053836245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/836/245/GCA_053836245.1_PDT003011121.1,Haemophilus influenzae
+53677523,SAMN53677523,,,blood,Homo sapiens,2025,USA,,,,,GCA_053836255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/836/255/GCA_053836255.1_PDT003011122.1,Haemophilus influenzae
+53529754,SAMN53529754,,,blood,Homo sapiens,2025,USA,,,,,GCA_053776875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/776/875/GCA_053776875.1_PDT003006321.1,Haemophilus influenzae
+53357417,SAMEA118539619,,HUGTiP-BQ14-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53357351,SAMEA118539618,,HUGTiP-BQ14-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53357293,SAMEA118539641,,HUGTiP-BQ45-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53357210,SAMEA118539608,,HM-BQ09-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356998,SAMEA118539598,,CCSPT-BQ05-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356950,SAMEA114653080,,,,,,,,,,,,,,,Haemophilus influenzae
+53356901,SAMEA118539633,,HUGTiP-BQ29-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356843,SAMEA118539643,,HUGTiP-BQ48-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356821,SAMEA118539631,,HUGTiP-BQ20-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356763,SAMEA118539626,,HUGTiP-BQ16-HI3,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356644,SAMEA118539634,,HUGTiP-BQ33-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356615,SAMEA118539625,,HUGTiP-BQ16-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356537,SAMEA118539635,,HUGTiP-BQ40-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356495,SAMEA118539616,,HUDJT-BQ17-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356391,SAMEA118539622,,HUGTiP-BQ15-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356307,SAMEA118539610,,HUB-BQ01-HI2,sputum,,,,,,,,GCA_054097005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/097/005/GCA_054097005.1_PDT003030823.1,Haemophilus influenzae
+53356146,SAMEA118539595,,CCSPT-BQ02-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356088,SAMEA118539640,,HUGTiP-BQ44-HI3,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356079,SAMEA118539613,,HUDJT-BQ02-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53356034,SAMEA118539623,,HUGTiP-BQ15-HI3,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355967,SAMEA118539620,,HUGTiP-BQ14-HI3,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355755,SAMEA118539617,,HUGTiP-BQ01-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355634,SAMEA118539621,,HUGTiP-BQ15-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355618,SAMEA118539609,,HM-BQ20-HI1,sputum,,,,,,,,GCA_054096905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/096/905/GCA_054096905.1_PDT003030822.1,Haemophilus influenzae
+53355612,SAMEA118539637,,HUGTiP-BQ42-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355586,SAMEA118539611,,HUB-BQ05-HI1,sputum,,,,,,,,GCA_054096965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/096/965/GCA_054096965.1_PDT003030824.1,Haemophilus influenzae
+53355565,SAMEA118539605,,HM-BQ01-HI3,sputum,,,,,,,,GCA_054096885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/096/885/GCA_054096885.1_PDT003030818.1,Haemophilus influenzae
+53355475,SAMEA118539594,,CCSPT-BQ01-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355460,SAMEA118539644,,HUGTiP-BQ48-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355269,SAMEA118539627,,HUGTiP-BQ17-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355241,SAMEA118539599,,CCSPT-BQ10-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355161,SAMEA114653008,,,,,,,,,,,,,,,Haemophilus influenzae
+53355129,SAMEA118539612,,HUB-BQ05-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355101,SAMEA118539606,,HM-BQ04-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355089,SAMEA118539624,,HUGTiP-BQ16-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355066,SAMEA118539600,,CCSPT-BQ10-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355044,SAMEA118539615,,HUDJT-BQ10-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53355017,SAMEA118539629,,HUGTiP-BQ19-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354992,SAMEA118539604,,HM-BQ01-HI2,sputum,,,,,,,,GCA_054097025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/097/025/GCA_054097025.1_PDT003030817.1,Haemophilus influenzae
+53354987,SAMEA118539632,,HUGTiP-BQ20-HI3,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354924,SAMEA118539597,,CCSPT-BQ04-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354911,SAMEA118539642,,HUGTiP-BQ46-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354871,SAMEA118539602,,CST-BQ12-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354790,SAMEA118539601,,CST-BQ04-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354767,SAMEA118539639,,HUGTiP-BQ44-HI2,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354658,SAMEA118539614,,HUDJT-BQ09-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354630,SAMEA118539638,,HUGTiP-BQ44-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354623,SAMEA118539596,,CCSPT-BQ04-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354610,SAMEA118539645,,HUGTiP-BQ49-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354609,SAMEA118539607,,HM-BQ09-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354595,SAMEA118539628,,HUGTiP-BQ18-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354492,SAMEA118539630,,HUGTiP-BQ20-HI1,sputum,,,,,,,,,,,,Haemophilus influenzae
+53354441,SAMEA118539603,,HM-BQ01-HI1,sputum,,,,,,,,GCA_054096925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/096/925/GCA_054096925.1_PDT003030816.1,Haemophilus influenzae
+53208681,SAMN53208681,,LACPHL-SPEC-2025-00877,,Homo sapiens,,,,,,,GCF_053707415.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/707/415/GCF_053707415.1_ASM5370741v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/707/415/GCA_053707415.1_ASM5370741v1,Haemophilus influenzae
+53208679,SAMN53208679,,LACPHL-SPEC-2025-00875,,Homo sapiens,,,,,,,GCF_053707475.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/707/475/GCF_053707475.1_ASM5370747v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/707/475/GCA_053707475.1_ASM5370747v1,Haemophilus influenzae
+53293270,SAMN53293270,,,blood,Homo sapiens,2025,USA,,,,,GCA_053538195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/538/195/GCA_053538195.1_PDT002987940.1,Haemophilus influenzae
+53292708,SAMN53292708,,,blood,Homo sapiens,2025,USA,,,,,GCA_053527725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/527/725/GCA_053527725.1_PDT002987932.1,Haemophilus influenzae
+53292707,SAMN53292707,,,blood,Homo sapiens,2025,USA,,,,,GCA_053526975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/526/975/GCA_053526975.1_PDT002987933.1,Haemophilus influenzae
+53201691,SAMN53201691,,,blood,Homo sapiens,2025,USA,,,,,GCA_053456225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/456/225/GCA_053456225.1_PDT002983119.1,Haemophilus influenzae
+53201689,SAMN53201689,,,blood,Homo sapiens,2025,USA,,,,,GCA_053456325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/456/325/GCA_053456325.1_PDT002983121.1,Haemophilus influenzae
+52889264,SAMN52889264,,,vaginal,Homo sapiens,2023,USA,,,,,,,,,Haemophilus influenzae
+53160756,SAMEA120502120,,,human gastric aspirate,,,,,,,,GCA_977037365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/037/365/GCA_977037365.1_AGN035GA.1,Haemophilus influenzae
+53160281,SAMEA120501339,,,human gastric aspirate,,,,,,,,GCA_977046755.1,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/046/755/GCA_977046755.1_AGN015GA.5,Haemophilus influenzae
+53160038,SAMEA120501112,,,human gastric aspirate,,,,,,,,GCA_977044145.1,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/044/145/GCA_977044145.1_AGN011GA.2,Haemophilus influenzae
+53159603,SAMEA120501862,,,human gastric aspirate,,,,,,,,GCA_977052995.1,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/052/995/GCA_977052995.1_AGN028GA.1,Haemophilus influenzae
+53159600,SAMEA120501429,,,human gastric aspirate,,,,,,,,GCA_977049375.1,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/049/375/GCA_977049375.1_AGN018GA.10,Haemophilus influenzae
+53158383,SAMEA120502384,,,human duodenal aspirate,,,,,,,,GCA_977037985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/037/985/GCA_977037985.1_AGN040DU.21,Haemophilus influenzae
+48121701,SAMN48121701,,LACPHL-SPEC-2025-00402,,Homo sapiens,,,,,,,GCF_053374695.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/374/695/GCF_053374695.1_ASM5337469v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/374/695/GCA_053374695.1_ASM5337469v1,Haemophilus influenzae
+53067595,SAMEA120475666,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53067555,SAMEA120475665,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+53067396,SAMEA120475664,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53041795,SAMEA120471081,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53041411,SAMEA120471079,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53041114,SAMEA120471082,,,ear,,,,,,,,,,,,Haemophilus influenzae
+53040543,SAMEA120471083,,,unknown,,,,,,,,,,,,Haemophilus influenzae
+53040297,SAMEA120471074,,,bronchial secretions,,,,,,,,,,,,Haemophilus influenzae
+53039588,SAMEA120471077,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53039453,SAMEA120471080,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53039225,SAMEA120471078,,,ear,,,,,,,,,,,,Haemophilus influenzae
+53039069,SAMEA120471084,,,bronchial secretions,,,,,,,,,,,,Haemophilus influenzae
+53039062,SAMEA120471073,,,blood,,,,,,,,,,,,Haemophilus influenzae
+53038839,SAMEA120471075,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+53038444,SAMEA120471076,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+53033282,SAMN53033282,,,blood,Homo sapiens,2025,USA,,,,,GCA_053288005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/288/005/GCA_053288005.1_PDT002969641.1,Haemophilus influenzae
+53032887,SAMN53032887,,,blood,Homo sapiens,2025,USA,,,,,GCA_053287305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/287/305/GCA_053287305.1_PDT002969555.1,Haemophilus influenzae
+53017685,SAMEA120373340,,,,,,,,,,,,,,,Haemophilus influenzae
+52995784,SAMEA120431229,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995733,SAMEA120431297,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995716,SAMEA120431214,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52995706,SAMEA120431309,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995468,SAMEA120431248,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995446,SAMEA120431254,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52995418,SAMEA120431253,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52995413,SAMEA120431258,,,ear,,,,,,,,,,,,Haemophilus influenzae
+52995406,SAMEA120431314,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52995374,SAMEA120431329,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52995371,SAMEA120431202,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995233,SAMEA120431296,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995208,SAMEA120431271,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995185,SAMEA120431333,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52995161,SAMEA120431220,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995135,SAMEA120431294,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995134,SAMEA120431319,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52995121,SAMEA120431230,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994973,SAMEA120431268,,,ear,,,,,,,,,,,,Haemophilus influenzae
+52994958,SAMEA120431216,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52994913,SAMEA120431211,,,eye,,,,,,,,,,,,Haemophilus influenzae
+52994811,SAMEA120431307,,,bronchial secretions,,,,,,,,,,,,Haemophilus influenzae
+52994760,SAMEA120431302,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994658,SAMEA120431330,,,ear,,,,,,,,,,,,Haemophilus influenzae
+52994623,SAMEA120431272,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994582,SAMEA120431223,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994574,SAMEA120431263,,,bronchial secretions,,,,,,,,,,,,Haemophilus influenzae
+52994567,SAMEA120431221,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994537,SAMEA120431275,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994528,SAMEA120431267,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994512,SAMEA120431310,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994485,SAMEA120431274,,,CSF,,,,,,,,,,,,Haemophilus influenzae
+52994409,SAMEA120431265,,,ear,,,,,,,,,,,,Haemophilus influenzae
+52994398,SAMEA120431235,,,CSF,,,,,,,,,,,,Haemophilus influenzae
+52994388,SAMEA120431249,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994385,SAMEA120431252,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52994305,SAMEA120431331,,,bronchial secretions,,,,,,,,,,,,Haemophilus influenzae
+52994226,SAMEA120431308,,,sputum,,,,,,,,,,,,Haemophilus influenzae
+52994159,SAMEA120431243,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52994137,SAMEA120431209,,,ear,,,,,,,,,,,,Haemophilus influenzae
+52994088,SAMEA120431305,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52993998,SAMEA120431224,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52993974,SAMEA120431269,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52993915,SAMEA120431227,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52993872,SAMEA120431245,,,blood,,,,,,,,,,,,Haemophilus influenzae
+52993762,SAMEA120431218,,,bronchial secretions,,,,,,,,,,,,Haemophilus influenzae

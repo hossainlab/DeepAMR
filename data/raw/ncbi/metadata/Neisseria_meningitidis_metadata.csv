@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54804774,SAMN54804774,,,,Homo sapiens,,,,,,,,,,,Neisseria meningitidis
+54804772,SAMN54804772,,,,Homo sapiens,,,,,,,,,,,Neisseria meningitidis
+54804771,SAMN54804771,,,,Homo sapiens,,,,,,,,,,,Neisseria meningitidis
+54804770,SAMN54804770,,,,Homo sapiens,,,,,,,,,,,Neisseria meningitidis
+54765985,SAMN54765985,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054583635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/635/GCA_054583635.1_PDT003061644.1,Neisseria meningitidis
+54764333,SAMN54764333,,,CSF,Homo sapiens,2026,USA,,,,,GCA_054587315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/315/GCA_054587315.1_PDT003061277.1,Neisseria meningitidis
+54764332,SAMN54764332,,,Not Provided,Homo sapiens,2026,USA,,,,,GCA_054590595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/590/595/GCA_054590595.1_PDT003061278.1,Neisseria meningitidis
+54680648,SAMN54680648,,LACPHL-SPEC-2026-00030,,Homo sapiens,,,,,,,GCA_054505405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/405/GCA_054505405.1_PDT003054871.1,Neisseria meningitidis
+54616826,SAMN54616826,,,CSF,Homo sapiens,2026,USA,,,,,GCA_054495225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/225/GCA_054495225.1_PDT003054479.1,Neisseria meningitidis
+54616194,SAMN54616194,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054494985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/985/GCA_054494985.1_PDT003054442.1,Neisseria meningitidis
+54616193,SAMN54616193,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054495005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/495/005/GCA_054495005.1_PDT003054443.1,Neisseria meningitidis
+54592857,SAMN54592857,,,Homo Sapiens clinical,Homo sapiens,2025-12-22,USA: Florida,,,,,GCA_054487385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/385/GCA_054487385.1_PDT003053522.1,Neisseria meningitidis
+54549121,SAMN54549121,,,blood,Homo sapiens,2026,USA,,,,,,,,,Neisseria meningitidis
+54529579,SAMN54529579,,,,Homo sapiens,,,,,,,GCA_054416395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/395/GCA_054416395.1_PDT003048780.1,Neisseria meningitidis
+53367170,SAMN53367170,,,urethra,Homo sapiens,missing,missing,,,,,,,,,Neisseria meningitidis
+54497636,SAMN54497636,,,Homo Sapiens clinical,Homo sapiens,2025-12-17,USA: Florida,,,,,GCA_054403775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/403/775/GCA_054403775.1_PDT003047928.1,Neisseria meningitidis
+54448141,SAMN54448141,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054349175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/175/GCA_054349175.1_PDT003044787.1,Neisseria meningitidis
+53856212,SAMN53856212,,Nmen331,sputum,Homo sapiens,2021-09-14,Spain:Lleida,,,,,GCA_054412355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/355/GCA_054412355.1_PDT003048591.1,Neisseria meningitidis
+53856211,SAMN53856211,,Nmen325,sputum,Homo sapiens,2021-07-07,Spain:Manresa,,,,,,,,,Neisseria meningitidis
+53856210,SAMN53856210,,Nmen306,BAS,Homo sapiens,2021-01-15,Spain:Granollers,,,,,GCA_054412335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/335/GCA_054412335.1_PDT003048594.1,Neisseria meningitidis
+53856209,SAMN53856209,,Nmen286,blood,Homo sapiens,2014-07-01,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856208,SAMN53856208,,Nmen278,CSF,Homo sapiens,2015-11-08,Spain:Esplugues de Llobregat,,,,,GCA_054412305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/305/GCA_054412305.1_PDT003048596.1,Neisseria meningitidis
+53856207,SAMN53856207,,Nmen274,CSF,Homo sapiens,2018-07-26,Spain:Esplugues de Llobregat,,,,,GCA_054412295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/295/GCA_054412295.1_PDT003048597.1,Neisseria meningitidis
+53856206,SAMN53856206,,Nmen268,blood,Homo sapiens,2020-03-11,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856205,SAMN53856205,,Nmen267,blood,Homo sapiens,2020-03-17,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856204,SAMN53856204,,Nmen262,CSF,Homo sapiens,2013-02-11,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856203,SAMN53856203,,Nmen244,blood,Homo sapiens,2011-03-30,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856202,SAMN53856202,,Nmen239,blood,Homo sapiens,2018-10-09,Spain:Esplugues de Llobregat,,,,,GCA_054412275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/275/GCA_054412275.1_PDT003048602.1,Neisseria meningitidis
+53856201,SAMN53856201,,Nmen235,CSF,Homo sapiens,2014-01-08,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856200,SAMN53856200,,Nmen232,CSF,Homo sapiens,2013-08-06,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856199,SAMN53856199,,Nmen229,blood,Homo sapiens,2013-03-12,Spain:Esplugues de Llobregat,,,,,GCA_054414655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/655/GCA_054414655.1_PDT003048496.1,Neisseria meningitidis
+53856198,SAMN53856198,,Nmen228,CSF,Homo sapiens,2018-01-10,Spain:Esplugues de Llobregat,,,,,GCA_054414635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/635/GCA_054414635.1_PDT003048497.1,Neisseria meningitidis
+53856197,SAMN53856197,,Nmen227,blood,Homo sapiens,2017-05-31,Spain:Esplugues de Llobregat,,,,,GCA_054414615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/615/GCA_054414615.1_PDT003048498.1,Neisseria meningitidis
+53856196,SAMN53856196,,Nmen226,blood,Homo sapiens,2017-03-31,Spain:Esplugues de Llobregat,,,,,GCA_054414585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/585/GCA_054414585.1_PDT003048499.1,Neisseria meningitidis
+53856195,SAMN53856195,,Nmen224,blood,Homo sapiens,2018-05-14,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856194,SAMN53856194,,Nmen220,blood,Homo sapiens,2018-07-17,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856193,SAMN53856193,,Nmen215,blood,Homo sapiens,2018-01-13,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856192,SAMN53856192,,Nmen212,blood,Homo sapiens,2017-03-31,Spain:Esplugues de Llobregat,,,,,GCA_054414515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/515/GCA_054414515.1_PDT003048503.1,Neisseria meningitidis
+53856191,SAMN53856191,,Nmen211,blood,Homo sapiens,2018-03-29,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856190,SAMN53856190,,Nmen204,CSF,Homo sapiens,2016-12-29,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856189,SAMN53856189,,Nmen197,CSF,Homo sapiens,2018-07-23,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856188,SAMN53856188,,Nmen194,blood,Homo sapiens,2017-01-12,Spain:Badalona,,,,,GCA_054414575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/575/GCA_054414575.1_PDT003048508.1,Neisseria meningitidis
+53856187,SAMN53856187,,Nmen189,blood,Homo sapiens,2016-07-05,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856186,SAMN53856186,,Nmen184,blood,Homo sapiens,2014-02-12,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856185,SAMN53856185,,Nmen182,blood,Homo sapiens,2015-07-14,Spain:Esplugues de Llobregat,,,,,GCA_054414545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/545/GCA_054414545.1_PDT003048511.1,Neisseria meningitidis
+53856184,SAMN53856184,,Nmen181,blood,Homo sapiens,2014-07-30,Spain:Esplugues de Llobregat,,,,,GCA_054414495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/495/GCA_054414495.1_PDT003048512.1,Neisseria meningitidis
+53856183,SAMN53856183,,Nmen180,blood,Homo sapiens,2016-12-28,Spain:Esplugues de Llobregat,,,,,GCA_054414475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/475/GCA_054414475.1_PDT003048513.1,Neisseria meningitidis
+53856182,SAMN53856182,,Nmen178,blood,Homo sapiens,2016-10-27,Spain:Esplugues de Llobregat,,,,,GCA_054414435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/435/GCA_054414435.1_PDT003048514.1,Neisseria meningitidis
+53856181,SAMN53856181,,Nmen173,blood,Homo sapiens,2020-05-07,Spain:Tarragona,,,,,,,,,Neisseria meningitidis
+53856180,SAMN53856180,,Nmen168,sputum,Homo sapiens,2020-03-14,Spain:Lleida,,,,,,,,,Neisseria meningitidis
+53856179,SAMN53856179,,Nmen166,blood,Homo sapiens,2020-03-04,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856178,SAMN53856178,,Nmen165,blood,Homo sapiens,2020-02-29,Spain:Barcelona,,,,,GCA_054414415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/415/GCA_054414415.1_PDT003048519.1,Neisseria meningitidis
+53856177,SAMN53856177,,Nmen164,blood,Homo sapiens,2020-03-30,Spain:Esplugues de Llobregat,,,,,GCA_054414395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/395/GCA_054414395.1_PDT003048520.1,Neisseria meningitidis
+53856176,SAMN53856176,,Nmen158,sputum,Homo sapiens,2020-02-17,Spain:Lleida,,,,,,,,,Neisseria meningitidis
+53856175,SAMN53856175,,Nmen148,blood,Homo sapiens,2019-12-26,Spain:Esplugues de Llobregat,,,,,GCA_054414375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/375/GCA_054414375.1_PDT003048522.1,Neisseria meningitidis
+53856174,SAMN53856174,,Nmen141,blood,Homo sapiens,2020-01-03,Spain:Sant Cugat del Valles,,,,,GCA_054414355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/355/GCA_054414355.1_PDT003048523.1,Neisseria meningitidis
+53856173,SAMN53856173,,Nmen139,blood,Homo sapiens,2020-01-06,Spain:Tarragona,,,,,,,,,Neisseria meningitidis
+53856172,SAMN53856172,,Nmen132,blood,Homo sapiens,2019-10-14,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856171,SAMN53856171,,Nmen121,blood,Homo sapiens,2019-04-11,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856170,SAMN53856170,,Nmen12,blood,Homo sapiens,2019-01-18,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856169,SAMN53856169,,Nmen101,Blood and CSF,Homo sapiens,2019-10-13,Spain:Barcelona,,,,,GCA_054414335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/335/GCA_054414335.1_PDT003048529.1,Neisseria meningitidis
+53856168,SAMN53856168,,H15-RESP-020,sputum,Homo sapiens,2023-09-21,Spain:Manresa,,,,,GCA_054414315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/315/GCA_054414315.1_PDT003048530.1,Neisseria meningitidis
+53856167,SAMN53856167,,H15-EMI-077,Blood and CSF,Homo sapiens,2025-04-28,Spain:Barcelona,,,,,GCA_054414295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/295/GCA_054414295.1_PDT003048531.1,Neisseria meningitidis
+53856166,SAMN53856166,,H15-EMI-062,Unknown,Homo sapiens,2024-11-12,Spain:Sant Cugat del Valles,,,,,,,,,Neisseria meningitidis
+53856165,SAMN53856165,,H15-EMI-056,blood,Homo sapiens,2024-04-30,Spain:Esplugues de Llobregat,,,,,GCA_054414275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/275/GCA_054414275.1_PDT003048533.1,Neisseria meningitidis
+53856164,SAMN53856164,,H15-EMI-041,blood,Homo sapiens,2023-07-26,Spain:Sant Cugat del Valles,,,,,,,,,Neisseria meningitidis
+53856163,SAMN53856163,,H15-EMI-040,blood,Homo sapiens,2023-06-07,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856162,SAMN53856162,,H15-EMI-031,Unknown,Homo sapiens,2020-02-21,Spain:Malaga,,,,,,,,,Neisseria meningitidis
+53856161,SAMN53856161,,H15-EMI-026,blood,Homo sapiens,2023-04-06,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856160,SAMN53856160,,H15-EMI-024,blood,Homo sapiens,2023-04-06,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856159,SAMN53856159,,H15-EMI-021,blood,Homo sapiens,2023-02-27,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856158,SAMN53856158,,H15-EMI-016,blood,Homo sapiens,2022-05-20,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856157,SAMN53856157,,H15-EMI-005,blood,Homo sapiens,2022-09-05,Spain:Barcelona,,,,,GCA_054414235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/235/GCA_054414235.1_PDT003048542.1,Neisseria meningitidis
+53856156,SAMN53856156,,H14-RESP-044,Orohparyngeal swab,Homo sapiens,2023-05-24,Spain:Madrid,,,,,GCA_054414215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/215/GCA_054414215.1_PDT003048543.1,Neisseria meningitidis
+53856155,SAMN53856155,,H14-EMI-012,blood,Homo sapiens,2016-12-20,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856154,SAMN53856154,,H14-EMI-010,blood,Homo sapiens,2019-02-14,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856153,SAMN53856153,,H14-EMI-009,CSF,Homo sapiens,2018-12-31,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856152,SAMN53856152,,H14-EMI-008,blood,Homo sapiens,2016-11-25,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856151,SAMN53856151,,H14-EMI-002,CSF,Homo sapiens,2011-02-15,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856150,SAMN53856150,,H12-EMI-005,blood,Homo sapiens,2019-02-23,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856149,SAMN53856149,,H12-EMI-003,blood,Homo sapiens,2019-07-15,Spain:Madrid,,,,,GCA_054413495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/495/GCA_054413495.1_PDT003048551.1,Neisseria meningitidis
+53856148,SAMN53856148,,H12-EMI-002,CSF,Homo sapiens,2019-07-08,Spain:Madrid,,,,,GCA_054413505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/505/GCA_054413505.1_PDT003048552.1,Neisseria meningitidis
+53856147,SAMN53856147,,H12-EMI-001,blood,Homo sapiens,2020-02-20,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53856146,SAMN53856146,,H10-RESP-050,sputum,Homo sapiens,2025-01-25,Spain:Santander,,,,,,,,,Neisseria meningitidis
+53856145,SAMN53856145,,H10-RESP-019,Orohparyngeal swab,Homo sapiens,2023-03-29,Spain:Santander,,,,,,,,,Neisseria meningitidis
+53856144,SAMN53856144,,H10-GEN-004,Urethral swab,Homo sapiens,2023-03-07,Spain:Santander,,,,,GCA_054413475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/475/GCA_054413475.1_PDT003048556.1,Neisseria meningitidis
+53856143,SAMN53856143,,H10-EMI-018,Blood and CSF,Homo sapiens,2023-08-07,Spain:Santander,,,,,GCA_054413455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/455/GCA_054413455.1_PDT003048557.1,Neisseria meningitidis
+53856142,SAMN53856142,,H10-EMI-013,blood,Homo sapiens,2018-05-06,Spain:Santander,,,,,GCA_054413425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/425/GCA_054413425.1_PDT003048558.1,Neisseria meningitidis
+53856141,SAMN53856141,,H10-EMI-012,blood,Homo sapiens,2018-05-05,Spain:Santander,,,,,,,,,Neisseria meningitidis
+53856140,SAMN53856140,,H10-EMI-006,blood,Homo sapiens,2013-01-10,Spain:Santander,,,,,,,,,Neisseria meningitidis
+53856139,SAMN53856139,,H10-EMI-004,blood,Homo sapiens,2012-06-27,Spain:Santander,,,,,,,,,Neisseria meningitidis
+53856138,SAMN53856138,,H09-EMI-014,CSF,Homo sapiens,2011-11-21,Spain:Santiago de Compostela,,,,,GCA_054413365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/365/GCA_054413365.1_PDT003048563.1,Neisseria meningitidis
+53856137,SAMN53856137,,H09-EMI-012,CSF,Homo sapiens,2012-05-28,Spain:Santiago de Compostela,,,,,GCA_054413355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/355/GCA_054413355.1_PDT003048564.1,Neisseria meningitidis
+53856136,SAMN53856136,,H08-EMI-016,blood,Homo sapiens,2020-02-07,Spain:Palma,,,,,GCA_054413395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/395/GCA_054413395.1_PDT003048565.1,Neisseria meningitidis
+53856135,SAMN53856135,,H08-EMI-011,blood,Homo sapiens,2019-06-09,Spain:Palma,,,,,GCA_054413325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/325/GCA_054413325.1_PDT003048566.1,Neisseria meningitidis
+53856134,SAMN53856134,,H08-EMI-005,blood,Homo sapiens,2018-10-11,Spain:Palma,,,,,,,,,Neisseria meningitidis
+53856133,SAMN53856133,,H08-EMI-001,CSF,Homo sapiens,2017-07-19,Spain:Palma,,,,,,,,,Neisseria meningitidis
+53856132,SAMN53856132,,H07-RESP-038,Orohparyngeal swab,Homo sapiens,2024-06-18,Spain:Badalona,,,,,GCA_054413315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/315/GCA_054413315.1_PDT003048569.1,Neisseria meningitidis
+53856131,SAMN53856131,,H07-RESP-016,Orohparyngeal swab,Homo sapiens,2021-10-20,Spain:Badalona,,,,,GCA_054413295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/295/GCA_054413295.1_PDT003048570.1,Neisseria meningitidis
+53856130,SAMN53856130,,H06-EMI-002,blood,Homo sapiens,2023-12-10,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53856129,SAMN53856129,,H03-EMI-001,blood,Homo sapiens,2018-12-08,Spain:Lleida,,,,,,,,,Neisseria meningitidis
+53856128,SAMN53856128,,H02-EMI-007,Blood and CSF,Homo sapiens,2016-07-12,Spain:L'Hospitalet de Llobregat,,,,,GCA_054413255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/255/GCA_054413255.1_PDT003048574.1,Neisseria meningitidis
+53856127,SAMN53856127,,H02-EMI-006,blood,Homo sapiens,2015-12-13,Spain:L'Hospitalet de Llobregat,,,,,GCA_054413235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/235/GCA_054413235.1_PDT003048575.1,Neisseria meningitidis
+53856126,SAMN53856126,,H02-EMI-002,blood,Homo sapiens,2016-10-23,Spain:L'Hospitalet de Llobregat,,,,,,,,,Neisseria meningitidis
+53856125,SAMN53856125,,H01-RESP-346,Orohparyngeal swab,Homo sapiens,2025-06-25,Spain:Barcelona,,,,,GCA_054412395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/395/GCA_054412395.1_PDT003048577.1,Neisseria meningitidis
+53856124,SAMN53856124,,H01-RESP-338,Orohparyngeal swab,Homo sapiens,2025-06-10,Spain:Barcelona,,,,,GCA_054413215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/215/GCA_054413215.1_PDT003048578.1,Neisseria meningitidis
+53856123,SAMN53856123,,H01-RESP-308,Orohparyngeal swab,Homo sapiens,2025-04-16,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856122,SAMN53856122,,H01-RESP-286,Orohparyngeal swab,Homo sapiens,2025-02-25,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856121,SAMN53856121,,H01-RESP-199,Orohparyngeal swab,Homo sapiens,2024-10-21,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856120,SAMN53856120,,H01-RESP-195,Orohparyngeal swab,Homo sapiens,2024-10-11,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856119,SAMN53856119,,H01-RESP-191,Orohparyngeal swab,Homo sapiens,2024-10-03,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856118,SAMN53856118,,H01-RESP-188,Orohparyngeal swab,Homo sapiens,2024-10-02,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856117,SAMN53856117,,H01-RESP-184,Orohparyngeal swab,Homo sapiens,2024-09-19,Spain:Barcelona,,,,,GCA_054412375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/375/GCA_054412375.1_PDT003048586.1,Neisseria meningitidis
+53856116,SAMN53856116,,H01-RESP-181,Orohparyngeal swab,Homo sapiens,2024-09-23,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856115,SAMN53856115,,H01-RESP-174,Orohparyngeal swab,Homo sapiens,2024-08-30,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856114,SAMN53856114,,H01-RESP-168,Orohparyngeal swab,Homo sapiens,2024-08-26,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856113,SAMN53856113,,H01-RESP-158,Orohparyngeal swab,Homo sapiens,2024-08-05,Spain:Barcelona,,,,,GCA_054413195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/195/GCA_054413195.1_PDT003048590.1,Neisseria meningitidis
+53856112,SAMN53856112,,H01-RESP-144,Orohparyngeal swab,Homo sapiens,2024-07-01,Spain:Barcelona,,,,,GCA_054413175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/175/GCA_054413175.1_PDT003048593.1,Neisseria meningitidis
+53856111,SAMN53856111,,H01-RESP-137,Orohparyngeal swab,Homo sapiens,2024-06-20,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856110,SAMN53856110,,H01-RESP-128,Orohparyngeal swab,Homo sapiens,2024-06-05,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856109,SAMN53856109,,H01-RESP-127,Orohparyngeal swab,Homo sapiens,2024-05-31,Spain:Barcelona,,,,,GCA_054414445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/445/GCA_054414445.1_PDT003048516.1,Neisseria meningitidis
+53856108,SAMN53856108,,H01-RESP-126,Orohparyngeal swab,Homo sapiens,2024-05-29,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856107,SAMN53856107,,H01-RESP-116,Orohparyngeal swab,Homo sapiens,2024-05-14,Spain:Barcelona,,,,,GCA_054414255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/255/GCA_054414255.1_PDT003048538.1,Neisseria meningitidis
+53856106,SAMN53856106,,H01-RESP-109,Orohparyngeal swab,Homo sapiens,2024-04-10,Spain:Barcelona,,,,,GCA_054414195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/195/GCA_054414195.1_PDT003048549.1,Neisseria meningitidis
+53856105,SAMN53856105,,H01-RESP-105,Orohparyngeal swab,Homo sapiens,2024-03-27,Spain:Barcelona,,,,,GCA_054413415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/415/GCA_054413415.1_PDT003048560.1,Neisseria meningitidis
+53856104,SAMN53856104,,H01-RESP-100,Orohparyngeal swab,Homo sapiens,2024-03-12,Spain:Barcelona,,,,,GCA_054413245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/245/GCA_054413245.1_PDT003048571.1,Neisseria meningitidis
+53856103,SAMN53856103,,H01-RESP-067,Orohparyngeal swab,Homo sapiens,2023-11-17,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53856102,SAMN53856102,,H01-RESP-065,Orohparyngeal swab,Homo sapiens,2023-11-14,Spain:Barcelona,,,,,GCA_054413155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/155/GCA_054413155.1_PDT003048605.1,Neisseria meningitidis
+53856101,SAMN53856101,,H01-RESP-064,Orohparyngeal swab,Homo sapiens,2023-11-14,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825823,SAMN53825823,,H01-RESP-033,Orohparyngeal swab,Homo sapiens,2023-09-29,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825822,SAMN53825822,,H01-RESP-028,Orohparyngeal swab,Homo sapiens,2023-09-20,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825821,SAMN53825821,,H01-RESP-026,Orohparyngeal swab,Homo sapiens,2023-09-18,Spain:Barcelona,,,,,GCA_054415215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/215/GCA_054415215.1_PDT003048436.1,Neisseria meningitidis
+53825820,SAMN53825820,,H01-RESP-023,Orohparyngeal swab,Homo sapiens,2023-09-13,Spain:Barcelona,,,,,GCA_054415235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/235/GCA_054415235.1_PDT003048435.1,Neisseria meningitidis
+53825819,SAMN53825819,,H01-RESP-018,Orohparyngeal swab,Homo sapiens,2023-09-04,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825818,SAMN53825818,,H01-RESP-016,Orohparyngeal swab,Homo sapiens,2023-07-24,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825817,SAMN53825817,,H01-RESP-006,Orohparyngeal swab,Homo sapiens,2023-06-16,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825816,SAMN53825816,,H01-GEN-004,Rectal swab,Homo sapiens,2023-09-27,Spain:Barcelona,,,,,GCA_054415075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/075/GCA_054415075.1_PDT003048447.1,Neisseria meningitidis
+53825815,SAMN53825815,,H01-GEN-003,Rectal swab,Homo sapiens,2023-09-21,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825814,SAMN53825814,,H01-GEN-001,Rectal swab,Homo sapiens,2023-05-30,Spain:Barcelona,,,,,GCA_054415255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/255/GCA_054415255.1_PDT003048429.1,Neisseria meningitidis
+53825813,SAMN53825813,,H01-EMI-009,blood,Homo sapiens,2025-04-09,Spain:Barcelona,,,,,GCA_054415295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/295/GCA_054415295.1_PDT003048428.1,Neisseria meningitidis
+53825812,SAMN53825812,,EPD011,Orohparyngeal swab,Homo sapiens,2022-10-03,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825811,SAMN53825811,,DE070,Orohparyngeal swab,Homo sapiens,2021-05-31,Spain:Barcelona,,,,,GCA_054412625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/625/GCA_054412625.1_PDT003048445.1,Neisseria meningitidis
+53825810,SAMN53825810,,DE026,Orohparyngeal swab,Homo sapiens,2021-05-13,Spain:Barcelona,,,,,GCA_054415105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/105/GCA_054415105.1_PDT003048444.1,Neisseria meningitidis
+53825809,SAMN53825809,,Nmen89,blood,Homo sapiens,2019-07-30,Spain:Tarragona,,,,,GCA_054415135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/135/GCA_054415135.1_PDT003048443.1,Neisseria meningitidis
+53825808,SAMN53825808,,Nmen67,blood,Homo sapiens,2019-01-05,Spain:Tarragona,,,,,GCA_054415175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/175/GCA_054415175.1_PDT003048442.1,Neisseria meningitidis
+53825807,SAMN53825807,,Nmen63,blood,Homo sapiens,2019-05-20,Spain:Lleida,,,,,GCA_054411815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/411/815/GCA_054411815.1_PDT003048448.1,Neisseria meningitidis
+53825806,SAMN53825806,,Nmen6,blood,Homo sapiens,2018-10-05,Spain:Badalona,,,,,GCA_054415095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/095/GCA_054415095.1_PDT003048450.1,Neisseria meningitidis
+53825805,SAMN53825805,,Nmen58,blood,Homo sapiens,2018-05-18,Spain:L'Hospitalet de Llobregat,,,,,GCA_054415055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/055/GCA_054415055.1_PDT003048451.1,Neisseria meningitidis
+53825804,SAMN53825804,,Nmen56,blood,Homo sapiens,2019-01-28,Spain:L'Hospitalet de Llobregat,,,,,,,,,Neisseria meningitidis
+53825803,SAMN53825803,,Nmen55,blood,Homo sapiens,2019-01-26,Spain:L'Hospitalet de Llobregat,,,,,,,,,Neisseria meningitidis
+53825802,SAMN53825802,,Nmen48,CSF,Homo sapiens,2019-03-13,Spain:Mollet del Valles,,,,,GCA_054415035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/035/GCA_054415035.1_PDT003048454.1,Neisseria meningitidis
+53825801,SAMN53825801,,Nmen47,blood,Homo sapiens,2019-02-21,Spain:Barcelona,,,,,GCA_054415015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/015/GCA_054415015.1_PDT003048455.1,Neisseria meningitidis
+53825800,SAMN53825800,,Nmen346,blood,Homo sapiens,2022-01-05,Spain:Esplugues de Llobregat,,,,,GCA_054414995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/995/GCA_054414995.1_PDT003048456.1,Neisseria meningitidis
+53825799,SAMN53825799,,Nmen344,blood,Homo sapiens,2021-12-22,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53825798,SAMN53825798,,Nmen3,blood,Homo sapiens,2019-01-16,Spain:Badalona,,,,,GCA_054412535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/535/GCA_054412535.1_PDT003048458.1,Neisseria meningitidis
+53825797,SAMN53825797,,Nmen22,Urethral swab,Homo sapiens,2018-04-10,Spain:Barcelona,,,,,GCA_054414975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/975/GCA_054414975.1_PDT003048459.1,Neisseria meningitidis
+53825796,SAMN53825796,,Nmen162,blood,Homo sapiens,2020-02-26,Spain:Esplugues de Llobregat,,,,,GCA_054414955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/955/GCA_054414955.1_PDT003048461.1,Neisseria meningitidis
+53825795,SAMN53825795,,Nmen161,blood,Homo sapiens,2020-02-27,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53825794,SAMN53825794,,Nmen160,Joint fluid,Homo sapiens,2020-02-25,Spain:Esplugues de Llobregat,,,,,GCA_054414935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/935/GCA_054414935.1_PDT003048463.1,Neisseria meningitidis
+53825793,SAMN53825793,,Nmen157,blood,Homo sapiens,2020-02-17,Spain:Esplugues de Llobregat,,,,,GCA_054414915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/915/GCA_054414915.1_PDT003048464.1,Neisseria meningitidis
+53825792,SAMN53825792,,Nmen152,blood,Homo sapiens,2020-01-19,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53825791,SAMN53825791,,Nmen150,blood,Homo sapiens,2020-01-14,Spain:Esplugues de Llobregat,,,,,GCA_054412495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/495/GCA_054412495.1_PDT003048466.1,Neisseria meningitidis
+53825790,SAMN53825790,,Nmen146,blood,Homo sapiens,2020-01-07,Spain:Esplugues de Llobregat,,,,,GCA_054414875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/875/GCA_054414875.1_PDT003048467.1,Neisseria meningitidis
+53825789,SAMN53825789,,Nmen124,blood,Homo sapiens,2019-11-06,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53825788,SAMN53825788,,Nmen123,blood,Homo sapiens,2019-01-08,Spain:Esplugues de Llobregat,,,,,GCA_054414885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/885/GCA_054414885.1_PDT003048469.1,Neisseria meningitidis
+53825787,SAMN53825787,,Nmen120,blood,Homo sapiens,2019-06-03,Spain:Esplugues de Llobregat,,,,,GCA_054414855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/855/GCA_054414855.1_PDT003048470.1,Neisseria meningitidis
+53825786,SAMN53825786,,Nmen118,blood,Homo sapiens,2019-09-25,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53825785,SAMN53825785,,Nmen109,blood,Homo sapiens,2019-08-25,Spain:Blanes,,,,,,,,,Neisseria meningitidis
+53825784,SAMN53825784,,Nmen108,blood,Homo sapiens,2019-06-03,Spain:Blanes,,,,,,,,,Neisseria meningitidis
+53825783,SAMN53825783,,H15-EMI-075,blood,Homo sapiens,2025-01-29,Spain:Esplugues de Llobregat,,,,,GCA_054414815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/815/GCA_054414815.1_PDT003048475.1,Neisseria meningitidis
+53825782,SAMN53825782,,H15-EMI-072,blood,Homo sapiens,2025-01-27,Spain:Esplugues de Llobregat,,,,,,,,,Neisseria meningitidis
+53825781,SAMN53825781,,H15-EMI-063,blood,Homo sapiens,2025-01-07,Spain:Barcelona,,,,,GCA_054414825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/825/GCA_054414825.1_PDT003048477.1,Neisseria meningitidis
+53825780,SAMN53825780,,H15-EMI-052,blood,Homo sapiens,2024-01-24,Spain:Esplugues de Llobregat,,,,,GCA_054414795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/795/GCA_054414795.1_PDT003048478.1,Neisseria meningitidis
+53825779,SAMN53825779,,H14-RESP-052,Orohparyngeal swab,Homo sapiens,2023-12-15,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53825778,SAMN53825778,,H14-RESP-045,Orohparyngeal swab,Homo sapiens,2024-04-12,Spain:Madrid,,,,,GCA_054414755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/755/GCA_054414755.1_PDT003048480.1,Neisseria meningitidis
+53825777,SAMN53825777,,H14-RESP-032,Orohparyngeal swab,Homo sapiens,2024-04-08,Spain:Madrid,,,,,GCA_054414775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/775/GCA_054414775.1_PDT003048481.1,Neisseria meningitidis
+53825776,SAMN53825776,,H14-GEN-003,Rectal swab,Homo sapiens,2024-03-12,Spain:Madrid,,,,,GCA_054414735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/735/GCA_054414735.1_PDT003048483.1,Neisseria meningitidis
+53825775,SAMN53825775,,H14-GEN-002,Rectal swab,Homo sapiens,2024-04-15,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53825774,SAMN53825774,,H14-GEN-001,urine,Homo sapiens,2024-04-29,Spain:Madrid,,,,,,,,,Neisseria meningitidis
+53825773,SAMN53825773,,H11-EMI-006,blood,Homo sapiens,2024-01-11,Spain:Cordoba,,,,,,,,,Neisseria meningitidis
+53825772,SAMN53825772,,H07-RESP-034,Orohparyngeal swab,Homo sapiens,2024-01-08,Spain:Badalona,,,,,,,,,Neisseria meningitidis
+53825771,SAMN53825771,,H03-RESP-026,sputum,Homo sapiens,2023-11-20,Spain:Lleida,,,,,GCA_054414695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/695/GCA_054414695.1_PDT003048488.1,Neisseria meningitidis
+53825770,SAMN53825770,,H02-EMI-012,blood,Homo sapiens,2025-02-08,Spain:L'Hospitalet de Llobregat,,,,,,,,,Neisseria meningitidis
+53825769,SAMN53825769,,H01-RESP-241,Orohparyngeal swab,Homo sapiens,2024-12-27,Spain:Barcelona,,,,,GCA_054412435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/435/GCA_054412435.1_PDT003048490.1,Neisseria meningitidis
+53825768,SAMN53825768,,H01-RESP-231,Orohparyngeal swab,Homo sapiens,2024-12-04,Spain:Barcelona,,,,,GCA_054414715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/715/GCA_054414715.1_PDT003048491.1,Neisseria meningitidis
+53825767,SAMN53825767,,H01-RESP-218,Orohparyngeal swab,Homo sapiens,2024-11-19,Spain:Barcelona,,,,,GCA_054414675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/414/675/GCA_054414675.1_PDT003048492.1,Neisseria meningitidis
+53825766,SAMN53825766,,H01-RESP-153,Orohparyngeal swab,Homo sapiens,2024-07-26,Spain:Barcelona,,,,,GCA_054415155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/155/GCA_054415155.1_PDT003048441.1,Neisseria meningitidis
+53825765,SAMN53825765,,H01-RESP-060,Orohparyngeal swab,Homo sapiens,2023-11-07,Spain:Barcelona,,,,,GCA_054412595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/595/GCA_054412595.1_PDT003048440.1,Neisseria meningitidis
+53825764,SAMN53825764,,H01-RESP-059,Orohparyngeal swab,Homo sapiens,2023-11-03,Spain:Barcelona,,,,,GCA_054415195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/195/GCA_054415195.1_PDT003048439.1,Neisseria meningitidis
+53825763,SAMN53825763,,H01-RESP-054,Orohparyngeal swab,Homo sapiens,2023-10-27,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+53825762,SAMN53825762,,H01-RESP-052,Orohparyngeal swab,Homo sapiens,2023-10-26,Spain:Barcelona,,,,,GCA_054412555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/555/GCA_054412555.1_PDT003048449.1,Neisseria meningitidis
+53825761,SAMN53825761,,H01-RESP-048,Orohparyngeal swab,Homo sapiens,2023-10-23,Spain:Barcelona,,,,,GCA_054412515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/515/GCA_054412515.1_PDT003048460.1,Neisseria meningitidis
+53825760,SAMN53825760,,H01-RESP-045,Orohparyngeal swab,Homo sapiens,2023-10-18,Spain:Barcelona,,,,,GCA_054412475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/475/GCA_054412475.1_PDT003048471.1,Neisseria meningitidis
+53825759,SAMN53825759,,H01-RESP-038,Orohparyngeal swab,Homo sapiens,2023-10-01,Spain:Barcelona,,,,,GCA_054412455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/455/GCA_054412455.1_PDT003048482.1,Neisseria meningitidis
+53825758,SAMN53825758,,H01-RESP-037,Orohparyngeal swab,Homo sapiens,2023-10-01,Spain:Barcelona,,,,,GCA_054412415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/415/GCA_054412415.1_PDT003048493.1,Neisseria meningitidis
+53825757,SAMN53825757,,H01-EMI-003,Marcapasos,Homo sapiens,2024-05-13,Spain:Barcelona,,,,,,,,,Neisseria meningitidis
+48751767,SAMN48751767,,H15-EMI-061,blood,Homo sapiens,2024-10-21,Spain:Manresa,,,,,GCA_054411825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/411/825/GCA_054411825.1_PDT003048425.1,Neisseria meningitidis
+48751766,SAMN48751766,,H15-RESP-032,Oropharyngeal swab,Homo sapiens,2024-03-08,Spain:Manresa,,,,,GCA_054415275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/415/275/GCA_054415275.1_PDT003048426.1,Neisseria meningitidis
+48751765,SAMN48751765,,H15-GEN-003,Urethral swab,Homo sapiens,2024-02-28,Spain:Manresa,,,,,GCA_054412615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/615/GCA_054412615.1_PDT003048427.1,Neisseria meningitidis
+44420700,SAMN44420700,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420699,SAMN44420699,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420698,SAMN44420698,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420697,SAMN44420697,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420696,SAMN44420696,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420695,SAMN44420695,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420694,SAMN44420694,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420693,SAMN44420693,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420692,SAMN44420692,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420691,SAMN44420691,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420690,SAMN44420690,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420689,SAMN44420689,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420688,SAMN44420688,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420687,SAMN44420687,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420686,SAMN44420686,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420685,SAMN44420685,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420684,SAMN44420684,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420683,SAMN44420683,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420682,SAMN44420682,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420681,SAMN44420681,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+44420680,SAMN44420680,,MC58,N/A,H. sapiens,N/A,N/A,,,,,,,,,Neisseria meningitidis
+41900545,SAMN41900545,,NMFJ202408,blood,Homo sapiens,2024-02-06,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900544,SAMN41900544,,NMFJ202407,blood,Homo sapiens,2024-01-26,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900543,SAMN41900543,,NMFJ202406,throat swab,Homo sapiens,2024-01-22,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900542,SAMN41900542,,NMFJ202405,throat swab,Homo sapiens,2024-01-18,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900541,SAMN41900541,,NMFJ202404,throat swab,Homo sapiens,2024-01-18,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900540,SAMN41900540,,NMFJ202403,throat swab,Homo sapiens,2024-01-18,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900539,SAMN41900539,,NMFJ202402,throat swab,Homo sapiens,2024-01-18,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900538,SAMN41900538,,NMFJ202401,blood,Homo sapiens,2024-01-16,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900537,SAMN41900537,,NMFJ202301,throat swab,Homo sapiens,2023-06-14,China: Fujian,,,,,,,,,Neisseria meningitidis
+41900536,SAMN41900536,,NMFJ202205,blood,Homo sapiens,2022-01-15,China: Fujian,,,,,,,,,Neisseria meningitidis
+54369153,SAMN54369153,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054233065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/233/065/GCA_054233065.1_PDT003041688.1,Neisseria meningitidis
+54369152,SAMN54369152,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054233025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/233/025/GCA_054233025.1_PDT003041689.1,Neisseria meningitidis
+54369151,SAMN54369151,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054233005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/233/005/GCA_054233005.1_PDT003041690.1,Neisseria meningitidis
+54369150,SAMN54369150,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054232965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/232/965/GCA_054232965.1_PDT003041691.1,Neisseria meningitidis
+54369149,SAMN54369149,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054232985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/232/985/GCA_054232985.1_PDT003041692.1,Neisseria meningitidis
+54342668,SAMN54342668,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054219885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/885/GCA_054219885.1_PDT003040425.1,Neisseria meningitidis
+54342667,SAMN54342667,,,patient,Homo sapiens,2025,"USA: NY, New York City",,,,,GCA_054219905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/905/GCA_054219905.1_PDT003040426.1,Neisseria meningitidis
+38502791,SAMN38502791,,2021_P47_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/415/GCA_047571415.1_PDT002612756.1,Neisseria meningitidis
+38502790,SAMN38502790,,2021_P46_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/355/GCA_047571355.1_PDT002612757.1,Neisseria meningitidis
+38502789,SAMN38502789,,2021_P45_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/375/GCA_047571375.1_PDT002612758.1,Neisseria meningitidis
+38502788,SAMN38502788,,2021_P44_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/395/GCA_047571395.1_PDT002612759.1,Neisseria meningitidis
+38502787,SAMN38502787,,2021_P43_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/315/GCA_047571315.1_PDT002612761.1,Neisseria meningitidis
+38502786,SAMN38502786,,2021_P42_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/295/GCA_047571295.1_PDT002612762.1,Neisseria meningitidis
+38502785,SAMN38502785,,2021_P41_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/255/GCA_047571255.1_PDT002612763.1,Neisseria meningitidis
+38502784,SAMN38502784,,2021_P40_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/235/GCA_047571235.1_PDT002612764.1,Neisseria meningitidis
+38502783,SAMN38502783,,2021_P39_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/265/GCA_047571265.1_PDT002612765.1,Neisseria meningitidis
+38502782,SAMN38502782,,2021_P38_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/215/GCA_047571215.1_PDT002612766.1,Neisseria meningitidis
+38502781,SAMN38502781,,2021_P37_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/175/GCA_047571175.1_PDT002612767.1,Neisseria meningitidis
+38502780,SAMN38502780,,2021_P36_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/465/GCA_047571465.1_PDT002612768.1,Neisseria meningitidis
+38502779,SAMN38502779,,2021_P35_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/195/GCA_047571195.1_PDT002612769.1,Neisseria meningitidis
+38502778,SAMN38502778,,2021_P34_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/155/GCA_047571155.1_PDT002612770.1,Neisseria meningitidis
+38502777,SAMN38502777,,2021_P33_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/135/GCA_047571135.1_PDT002612772.1,Neisseria meningitidis
+38502776,SAMN38502776,,2021_P32_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/055/GCA_047571055.1_PDT002612773.1,Neisseria meningitidis
+38502775,SAMN38502775,,2021_P31_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/095/GCA_047571095.1_PDT002612774.1,Neisseria meningitidis
+38502774,SAMN38502774,,2021_P30_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/075/GCA_047571075.1_PDT002612775.1,Neisseria meningitidis
+38502773,SAMN38502773,,2021_P29_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/035/GCA_047571035.1_PDT002612776.1,Neisseria meningitidis
+38502772,SAMN38502772,,2021_P28_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047571015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/571/015/GCA_047571015.1_PDT002612777.1,Neisseria meningitidis
+38502771,SAMN38502771,,2021_P27_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/975/GCA_047570975.1_PDT002612778.1,Neisseria meningitidis
+38502770,SAMN38502770,,2021_P26_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/995/GCA_047570995.1_PDT002612779.1,Neisseria meningitidis
+38502769,SAMN38502769,,2021_P25_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/915/GCA_047570915.1_PDT002612780.1,Neisseria meningitidis
+38502768,SAMN38502768,,2021_P24_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/935/GCA_047570935.1_PDT002612781.1,Neisseria meningitidis
+38502767,SAMN38502767,,2021_P23_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/895/GCA_047570895.1_PDT002612783.1,Neisseria meningitidis
+38502766,SAMN38502766,,2021_P22_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/955/GCA_047570955.1_PDT002612784.1,Neisseria meningitidis
+38502765,SAMN38502765,,2021_P21_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/855/GCA_047570855.1_PDT002612785.1,Neisseria meningitidis
+38502764,SAMN38502764,,2021_P20_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/815/GCA_047570815.1_PDT002612786.1,Neisseria meningitidis
+38502763,SAMN38502763,,2021_P19_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/795/GCA_047570795.1_PDT002612787.1,Neisseria meningitidis
+38502762,SAMN38502762,,2021_P18_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/835/GCA_047570835.1_PDT002612788.1,Neisseria meningitidis
+38502761,SAMN38502761,,2021_P17_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/775/GCA_047570775.1_PDT002612789.1,Neisseria meningitidis
+38502760,SAMN38502760,,2021_P16_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/755/GCA_047570755.1_PDT002612790.1,Neisseria meningitidis
+38502759,SAMN38502759,,2021_P15_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/735/GCA_047570735.1_PDT002612791.1,Neisseria meningitidis
+38502758,SAMN38502758,,2021_P14_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/675/GCA_047570675.1_PDT002612792.1,Neisseria meningitidis
+38502757,SAMN38502757,,2021_P13_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/695/GCA_047570695.1_PDT002612794.1,Neisseria meningitidis
+38502756,SAMN38502756,,2021_P12_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/715/GCA_047570715.1_PDT002612795.1,Neisseria meningitidis
+38502755,SAMN38502755,,2021_P11_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/615/GCA_047570615.1_PDT002612796.1,Neisseria meningitidis
+38502754,SAMN38502754,,2021_P10_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047659205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/659/205/GCA_047659205.1_PDT002612797.1,Neisseria meningitidis
+38502753,SAMN38502753,,2021_P09_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/635/GCA_047570635.1_PDT002612798.1,Neisseria meningitidis
+38502752,SAMN38502752,,2021_P08_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/575/GCA_047570575.1_PDT002612799.1,Neisseria meningitidis
+38502751,SAMN38502751,,2021_P07_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/595/GCA_047570595.1_PDT002612800.1,Neisseria meningitidis
+38502750,SAMN38502750,,2021_P06_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047659135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/659/135/GCA_047659135.1_PDT002612801.1,Neisseria meningitidis
+38502749,SAMN38502749,,2021_P05_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047659185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/659/185/GCA_047659185.1_PDT002612802.1,Neisseria meningitidis
+38502748,SAMN38502748,,2021_P04_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/555/GCA_047570555.1_PDT002612803.1,Neisseria meningitidis
+38502747,SAMN38502747,,2021_P03_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047659125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/659/125/GCA_047659125.1_PDT002612805.1,Neisseria meningitidis
+38502746,SAMN38502746,,2021_P02_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047659035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/659/035/GCA_047659035.1_PDT002612806.1,Neisseria meningitidis
+38502745,SAMN38502745,,2021_P01_NM,throat,Homo sapiens,2021,Australia: Sydney,,,,,GCA_047570415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/047/570/415/GCA_047570415.1_PDT002612807.1,Neisseria meningitidis
+54222298,SAMN54222298,,332101,missing,Homo sapiens,2021,China: Zhejiang,,,,,,,,,Neisseria meningitidis
+54222297,SAMN54222297,,312107,missing,Homo sapiens,2021,China: Shanghai,,,,,,,,,Neisseria meningitidis
+54222296,SAMN54222296,,651801,missing,Homo sapiens,2018,China: Xinjiang,,,,,GCF_054225925.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/225/925/GCF_054225925.1_ASM5422592v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/225/925/GCA_054225925.1_ASM5422592v1,Neisseria meningitidis
+54222295,SAMN54222295,,441706,missing,Homo sapiens,2017,China: Guangdong,,,,,,,,,Neisseria meningitidis
+54222294,SAMN54222294,,421302,missing,Homo sapiens,2013,China: Hubei,,,,,,,,,Neisseria meningitidis
+54222293,SAMN54222293,,342303,missing,Homo sapiens,2023,China: Anhui,,,,,,,,,Neisseria meningitidis
+54222292,SAMN54222292,,442111,missing,Homo sapiens,2021,China: Guangdong,,,,,GCF_054225705.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/225/705/GCF_054225705.1_ASM5422570v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/225/705/GCA_054225705.1_ASM5422570v1,Neisseria meningitidis
+54222291,SAMN54222291,,651809,missing,Homo sapiens,2018,China: Xinjiang,,,,,,,,,Neisseria meningitidis
+54222290,SAMN54222290,,131703,missing,Homo sapiens,2017,China: Hebei,,,,,GCF_054225865.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/225/865/GCF_054225865.1_ASM5422586v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/225/865/GCA_054225865.1_ASM5422586v1,Neisseria meningitidis
+54222289,SAMN54222289,,341217,missing,Homo sapiens,2012,China: Anhui,,,,,GCF_054225885.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/225/885/GCF_054225885.1_ASM5422588v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/225/885/GCA_054225885.1_ASM5422588v1,Neisseria meningitidis
+54222288,SAMN54222288,,450524,missing,Homo sapiens,2005,China: Guangxi,,,,,GCF_054225895.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/225/895/GCF_054225895.1_ASM5422589v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/225/895/GCA_054225895.1_ASM5422589v1,Neisseria meningitidis
+54222287,SAMN54222287,,450523,missing,Homo sapiens,2005,China: Guangxi,,,,,GCF_054225745.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/225/745/GCF_054225745.1_ASM5422574v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/225/745/GCA_054225745.1_ASM5422574v1,Neisseria meningitidis
+54290066,SAMEA120850145,,,Eye secretion,,,,,,,,GCA_054215835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/215/835/GCA_054215835.1_PDT003038649.1,Neisseria meningitidis
+54288286,SAMEA120850146,,,Throat secretion,,,,,,,,GCA_054215895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/215/895/GCA_054215895.1_PDT003038571.1,Neisseria meningitidis
+54202085,SAMN54202085,,,blood,Homo sapiens,2025,USA,,,,,GCA_054086185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/086/185/GCA_054086185.1_PDT003030181.1,Neisseria meningitidis
+54118477,SAMN54118477,,,blood,Homo sapiens,2024,Canada: Winnipeg,,,,,,,,,Neisseria meningitidis
+54118417,SAMN54118417,,,blood,Homo sapiens,2024,Canada: Winnipeg,,,,,GCA_054151975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/151/975/GCA_054151975.1_PDT003035782.1,Neisseria meningitidis
+53887675,SAMN53887675,,LACPHL-SPEC-2025-00922,,Homo sapiens,,,,,,,GCA_054111825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/111/825/GCA_054111825.1_ASM5411182v1,Neisseria meningitidis
+53879419,SAMEA120802039,,,Urethral secretions,,,,,,,,,,,,Neisseria meningitidis
+53832036,SAMN53832036,,,Not Provided,Homo sapiens,2025,USA,,,,,GCA_053887535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/887/535/GCA_053887535.1_PDT003018425.1,Neisseria meningitidis
+53796834,SAMN53796834,,,Homo Sapiens clinical,Homo sapiens,2025-11-20,USA: Florida,,,,,GCA_053882075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/882/075/GCA_053882075.1_PDT003017636.1,Neisseria meningitidis
+53796820,SAMN53796820,,,blood,Homo sapiens,2025,USA,,,,,GCA_053879655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/879/655/GCA_053879655.1_PDT003017110.1,Neisseria meningitidis
+53796819,SAMN53796819,,,blood,Homo sapiens,2025,USA,,,,,GCA_053879635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/879/635/GCA_053879635.1_PDT003017111.1,Neisseria meningitidis
+53795468,SAMN53795468,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/255/GCA_054026255.1_PDT003027614.1,Neisseria meningitidis
+53795467,SAMN53795467,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795466,SAMN53795466,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/535/GCA_053984535.1_PDT003027600.1,Neisseria meningitidis
+53795465,SAMN53795465,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795464,SAMN53795464,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795463,SAMN53795463,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/815/GCA_053984815.1_PDT003027601.1,Neisseria meningitidis
+53795462,SAMN53795462,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/395/GCA_054026395.1_PDT003027602.1,Neisseria meningitidis
+53795461,SAMN53795461,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/335/GCA_054026335.1_PDT003027603.1,Neisseria meningitidis
+53795460,SAMN53795460,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795459,SAMN53795459,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795458,SAMN53795458,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053983975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/983/975/GCA_053983975.1_PDT003027617.1,Neisseria meningitidis
+53795457,SAMN53795457,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/775/GCA_053984775.1_PDT003027618.1,Neisseria meningitidis
+53795456,SAMN53795456,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795455,SAMN53795455,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795454,SAMN53795454,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795453,SAMN53795453,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795452,SAMN53795452,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/175/GCA_054026175.1_PDT003027623.1,Neisseria meningitidis
+53795451,SAMN53795451,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/755/GCA_053984755.1_PDT003027624.1,Neisseria meningitidis
+53795450,SAMN53795450,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795449,SAMN53795449,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795448,SAMN53795448,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/475/GCA_053984475.1_PDT003027628.1,Neisseria meningitidis
+53795447,SAMN53795447,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795446,SAMN53795446,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795445,SAMN53795445,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795444,SAMN53795444,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795443,SAMN53795443,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795442,SAMN53795442,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795441,SAMN53795441,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053983895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/983/895/GCA_053983895.1_PDT003027635.1,Neisseria meningitidis
+53795440,SAMN53795440,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/075/GCA_054026075.1_PDT003027636.1,Neisseria meningitidis
+53795439,SAMN53795439,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795438,SAMN53795438,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053983935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/983/935/GCA_053983935.1_PDT003027604.1,Neisseria meningitidis
+53795437,SAMN53795437,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795436,SAMN53795436,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795435,SAMN53795435,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/785/GCA_053984785.1_PDT003027611.1,Neisseria meningitidis
+53795434,SAMN53795434,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795433,SAMN53795433,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795432,SAMN53795432,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/215/GCA_054026215.1_PDT003027616.1,Neisseria meningitidis
+53795431,SAMN53795431,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795430,SAMN53795430,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795429,SAMN53795429,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795428,SAMN53795428,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795427,SAMN53795427,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795426,SAMN53795426,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/935/GCA_054022935.1_PDT003027500.1,Neisseria meningitidis
+53795425,SAMN53795425,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/595/GCA_053984595.1_PDT003027501.1,Neisseria meningitidis
+53795424,SAMN53795424,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/055/GCA_053984055.1_PDT003027502.1,Neisseria meningitidis
+53795423,SAMN53795423,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795422,SAMN53795422,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795421,SAMN53795421,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795420,SAMN53795420,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795419,SAMN53795419,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795418,SAMN53795418,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/435/GCA_054022435.1_PDT003027509.1,Neisseria meningitidis
+53795417,SAMN53795417,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795416,SAMN53795416,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795415,SAMN53795415,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795414,SAMN53795414,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795413,SAMN53795413,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795412,SAMN53795412,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/895/GCA_053984895.1_PDT003027515.1,Neisseria meningitidis
+53795411,SAMN53795411,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/555/GCA_053984555.1_PDT003027516.1,Neisseria meningitidis
+53795410,SAMN53795410,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/575/GCA_053984575.1_PDT003027517.1,Neisseria meningitidis
+53795409,SAMN53795409,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/875/GCA_053984875.1_PDT003027519.1,Neisseria meningitidis
+53795408,SAMN53795408,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795407,SAMN53795407,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795406,SAMN53795406,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795405,SAMN53795405,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/035/GCA_053984035.1_PDT003027523.1,Neisseria meningitidis
+53795404,SAMN53795404,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795403,SAMN53795403,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/355/GCA_054022355.1_PDT003027525.1,Neisseria meningitidis
+53795402,SAMN53795402,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795401,SAMN53795401,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795400,SAMN53795400,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795399,SAMN53795399,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795398,SAMN53795398,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795397,SAMN53795397,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795396,SAMN53795396,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/495/GCA_053984495.1_PDT003027533.1,Neisseria meningitidis
+53795395,SAMN53795395,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795394,SAMN53795394,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795393,SAMN53795393,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795392,SAMN53795392,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795391,SAMN53795391,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/855/GCA_053984855.1_PDT003027538.1,Neisseria meningitidis
+53795390,SAMN53795390,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795389,SAMN53795389,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795388,SAMN53795388,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795387,SAMN53795387,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053985335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/985/335/GCA_053985335.1_PDT003027543.1,Neisseria meningitidis
+53795386,SAMN53795386,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795385,SAMN53795385,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795384,SAMN53795384,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/375/GCA_054022375.1_PDT003027546.1,Neisseria meningitidis
+53795383,SAMN53795383,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795382,SAMN53795382,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/515/GCA_053984515.1_PDT003027548.1,Neisseria meningitidis
+53795381,SAMN53795381,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053985315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/985/315/GCA_053985315.1_PDT003027549.1,Neisseria meningitidis
+53795380,SAMN53795380,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/315/GCA_054022315.1_PDT003027550.1,Neisseria meningitidis
+53795379,SAMN53795379,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053985275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/985/275/GCA_053985275.1_PDT003027552.1,Neisseria meningitidis
+53795378,SAMN53795378,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053983995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/983/995/GCA_053983995.1_PDT003027553.1,Neisseria meningitidis
+53795377,SAMN53795377,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795376,SAMN53795376,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795375,SAMN53795375,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795374,SAMN53795374,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/215/GCA_054022215.1_PDT003027557.1,Neisseria meningitidis
+53795373,SAMN53795373,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795372,SAMN53795372,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/835/GCA_053984835.1_PDT003027559.1,Neisseria meningitidis
+53795371,SAMN53795371,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795370,SAMN53795370,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/235/GCA_054022235.1_PDT003027561.1,Neisseria meningitidis
+53795369,SAMN53795369,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795368,SAMN53795368,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795367,SAMN53795367,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795366,SAMN53795366,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795365,SAMN53795365,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/055/GCA_054022055.1_PDT003027567.1,Neisseria meningitidis
+53795364,SAMN53795364,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795363,SAMN53795363,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795362,SAMN53795362,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795361,SAMN53795361,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795360,SAMN53795360,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795359,SAMN53795359,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/255/GCA_054023255.1_PDT003027435.1,Neisseria meningitidis
+53795358,SAMN53795358,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795357,SAMN53795357,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795356,SAMN53795356,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795355,SAMN53795355,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795354,SAMN53795354,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/935/GCA_054023935.1_PDT003027411.1,Neisseria meningitidis
+53795353,SAMN53795353,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795352,SAMN53795352,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795351,SAMN53795351,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795350,SAMN53795350,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795349,SAMN53795349,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795348,SAMN53795348,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795347,SAMN53795347,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/875/GCA_054023875.1_PDT003027419.1,Neisseria meningitidis
+53795346,SAMN53795346,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795345,SAMN53795345,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/885/GCA_054023885.1_PDT003027421.1,Neisseria meningitidis
+53795344,SAMN53795344,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795343,SAMN53795343,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795342,SAMN53795342,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795341,SAMN53795341,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/795/GCA_054023795.1_PDT003027425.1,Neisseria meningitidis
+53795340,SAMN53795340,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795339,SAMN53795339,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/295/GCA_054023295.1_PDT003027428.1,Neisseria meningitidis
+53795338,SAMN53795338,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795337,SAMN53795337,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795336,SAMN53795336,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_053984635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/984/635/GCA_053984635.1_PDT003027431.1,Neisseria meningitidis
+53795335,SAMN53795335,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054086855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/086/855/GCA_054086855.1_PDT003027432.1,Neisseria meningitidis
+53795334,SAMN53795334,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795333,SAMN53795333,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795332,SAMN53795332,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795331,SAMN53795331,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795330,SAMN53795330,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795329,SAMN53795329,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/195/GCA_054023195.1_PDT003027440.1,Neisseria meningitidis
+53795328,SAMN53795328,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795327,SAMN53795327,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795326,SAMN53795326,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795325,SAMN53795325,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795324,SAMN53795324,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/165/GCA_054023165.1_PDT003027445.1,Neisseria meningitidis
+53795323,SAMN53795323,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795322,SAMN53795322,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/105/GCA_054023105.1_PDT003027447.1,Neisseria meningitidis
+53795321,SAMN53795321,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/095/GCA_054023095.1_PDT003027448.1,Neisseria meningitidis
+53795320,SAMN53795320,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/995/GCA_054022995.1_PDT003027449.1,Neisseria meningitidis
+53795319,SAMN53795319,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054086825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/086/825/GCA_054086825.1_PDT003027451.1,Neisseria meningitidis
+53795318,SAMN53795318,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/495/GCA_054022495.1_PDT003027452.1,Neisseria meningitidis
+53795317,SAMN53795317,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795316,SAMN53795316,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795315,SAMN53795315,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795314,SAMN53795314,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795313,SAMN53795313,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795312,SAMN53795312,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795311,SAMN53795311,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/455/GCA_054022455.1_PDT003027459.1,Neisseria meningitidis
+53795310,SAMN53795310,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795309,SAMN53795309,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795308,SAMN53795308,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795307,SAMN53795307,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795306,SAMN53795306,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795305,SAMN53795305,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/425/GCA_054026425.1_PDT003027596.1,Neisseria meningitidis
+53795304,SAMN53795304,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795303,SAMN53795303,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795302,SAMN53795302,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795301,SAMN53795301,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/295/GCA_054026295.1_PDT003027607.1,Neisseria meningitidis
+53795300,SAMN53795300,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795299,SAMN53795299,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/085/GCA_054022085.1_PDT003027578.1,Neisseria meningitidis
+53795298,SAMN53795298,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/075/GCA_054022075.1_PDT003027577.1,Neisseria meningitidis
+53795297,SAMN53795297,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/315/GCA_054023315.1_PDT003027579.1,Neisseria meningitidis
+53795296,SAMN53795296,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795295,SAMN53795295,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054021925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/021/925/GCA_054021925.1_PDT003027582.1,Neisseria meningitidis
+53795294,SAMN53795294,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795293,SAMN53795293,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054021935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/021/935/GCA_054021935.1_PDT003027584.1,Neisseria meningitidis
+53795292,SAMN53795292,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/555/GCA_054026555.1_PDT003027588.1,Neisseria meningitidis
+53795291,SAMN53795291,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054021945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/021/945/GCA_054021945.1_PDT003027583.1,Neisseria meningitidis
+53795290,SAMN53795290,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/575/GCA_054026575.1_PDT003027587.1,Neisseria meningitidis
+53795289,SAMN53795289,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795288,SAMN53795288,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/435/GCA_054026435.1_PDT003027590.1,Neisseria meningitidis
+53795287,SAMN53795287,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795286,SAMN53795286,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795285,SAMN53795285,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054026515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/026/515/GCA_054026515.1_PDT003027591.1,Neisseria meningitidis
+53795284,SAMN53795284,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795283,SAMN53795283,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795282,SAMN53795282,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/555/GCA_054023555.1_PDT003027485.1,Neisseria meningitidis
+53795281,SAMN53795281,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795280,SAMN53795280,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/035/GCA_054023035.1_PDT003027475.1,Neisseria meningitidis
+53795279,SAMN53795279,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/955/GCA_054022955.1_PDT003027484.1,Neisseria meningitidis
+53795278,SAMN53795278,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054022175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/022/175/GCA_054022175.1_PDT003027562.1,Neisseria meningitidis
+53795277,SAMN53795277,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,,,,,Neisseria meningitidis
+53795276,SAMN53795276,,,nasopharyngeal swab,Homo sapiens,not collected,Netherlands,,,,,GCA_054023535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/023/535/GCA_054023535.1_PDT003027494.1,Neisseria meningitidis

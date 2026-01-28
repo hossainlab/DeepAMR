@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54871118,SAMN54871118,,missing,sputum,Homo sapiens,2025-10-31,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871117,SAMN54871117,,missing,sputum,Homo sapiens,2025-10-10,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871116,SAMN54871116,,missing,sputum,Homo sapiens,2025-11-14,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871115,SAMN54871115,,missing,sputum,Homo sapiens,2025-11-25,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871114,SAMN54871114,,missing,sputum,Homo sapiens,2025-11-05,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871113,SAMN54871113,,missing,sputum,Homo sapiens,2025-10-31,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871112,SAMN54871112,,missing,sputum,Homo sapiens,2025-10-21,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871111,SAMN54871111,,missing,sputum,Homo sapiens,2025-12-19,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871110,SAMN54871110,,missing,sputum,Homo sapiens,2025-11-14,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871109,SAMN54871109,,missing,sputum,Homo sapiens,2025-11-28,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871108,SAMN54871108,,missing,Abscess,Homo sapiens,2025-10-24,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871107,SAMN54871107,,missing,sputum,Homo sapiens,2025-10-30,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871106,SAMN54871106,,missing,Pleural fluid,Homo sapiens,2025-11-25,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871105,SAMN54871105,,missing,Not Provided,Homo sapiens,2025-09-25,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871104,SAMN54871104,,missing,sputum,Homo sapiens,2026-01-02,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871103,SAMN54871103,,missing,sputum,Homo sapiens,2025-12-30,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871102,SAMN54871102,,missing,sputum,Homo sapiens,2025-12-30,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871101,SAMN54871101,,missing,sputum,Homo sapiens,2025-12-27,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871100,SAMN54871100,,missing,sputum,Homo sapiens,2025-12-23,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871099,SAMN54871099,,missing,sputum,Homo sapiens,2025-12-19,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871098,SAMN54871098,,missing,sputum,Homo sapiens,2025-12-18,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871097,SAMN54871097,,missing,sputum,Homo sapiens,2025-12-16,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871096,SAMN54871096,,missing,sputum,Homo sapiens,2025-12-15,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871095,SAMN54871095,,missing,sputum,Homo sapiens,2025-12-12,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871094,SAMN54871094,,missing,wound,Homo sapiens,2025-12-17,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871093,SAMN54871093,,missing,sputum,Homo sapiens,2025-12-16,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871092,SAMN54871092,,missing,sputum,Homo sapiens,2025-12-13,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871091,SAMN54871091,,missing,sputum,Homo sapiens,2025-12-15,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871090,SAMN54871090,,missing,sputum,Homo sapiens,2025-12-11,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871089,SAMN54871089,,missing,lymph node,Homo sapiens,2025-12-11,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871088,SAMN54871088,,missing,sputum,Homo sapiens,2025-12-11,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871087,SAMN54871087,,missing,sputum,Homo sapiens,2025-12-08,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871086,SAMN54871086,,missing,sputum,Homo sapiens,2025-12-06,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871085,SAMN54871085,,missing,sputum,Homo sapiens,2025-12-02,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871084,SAMN54871084,,missing,sputum,Homo sapiens,2025-12-02,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871083,SAMN54871083,,missing,bronchoalveolar lavage,Homo sapiens,2025-11-19,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871082,SAMN54871082,,missing,sputum,Homo sapiens,2025-12-02,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871081,SAMN54871081,,missing,sputum,Homo sapiens,2025-11-30,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871080,SAMN54871080,,missing,sputum,Homo sapiens,2025-11-29,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871079,SAMN54871079,,missing,sputum,Homo sapiens,2025-11-25,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871078,SAMN54871078,,missing,sputum,Homo sapiens,2025-11-12,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871077,SAMN54871077,,missing,sputum,Homo sapiens,2025-11-10,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871076,SAMN54871076,,missing,sputum,Homo sapiens,2025-11-05,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54871075,SAMN54871075,,missing,sputum,Homo sapiens,2025-12-07,USA:TX,,,,,,,,,Mycobacterium tuberculosis
+54810193,SAMN54810193,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810192,SAMN54810192,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810191,SAMN54810191,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810190,SAMN54810190,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810189,SAMN54810189,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810188,SAMN54810188,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810187,SAMN54810187,,,pleulal biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810186,SAMN54810186,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810185,SAMN54810185,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810184,SAMN54810184,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810183,SAMN54810183,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810182,SAMN54810182,,,pleulal biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810181,SAMN54810181,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810180,SAMN54810180,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810179,SAMN54810179,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810178,SAMN54810178,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810177,SAMN54810177,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810176,SAMN54810176,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810175,SAMN54810175,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810174,SAMN54810174,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810173,SAMN54810173,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810172,SAMN54810172,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810171,SAMN54810171,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810170,SAMN54810170,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810169,SAMN54810169,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810168,SAMN54810168,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810167,SAMN54810167,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810166,SAMN54810166,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810165,SAMN54810165,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810164,SAMN54810164,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810163,SAMN54810163,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810162,SAMN54810162,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810161,SAMN54810161,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810160,SAMN54810160,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810159,SAMN54810159,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810158,SAMN54810158,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810157,SAMN54810157,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810156,SAMN54810156,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810155,SAMN54810155,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810154,SAMN54810154,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810153,SAMN54810153,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810152,SAMN54810152,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810151,SAMN54810151,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810150,SAMN54810150,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810149,SAMN54810149,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810148,SAMN54810148,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810147,SAMN54810147,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810146,SAMN54810146,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810145,SAMN54810145,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810144,SAMN54810144,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810143,SAMN54810143,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810142,SAMN54810142,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810141,SAMN54810141,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810140,SAMN54810140,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810139,SAMN54810139,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810138,SAMN54810138,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810137,SAMN54810137,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810136,SAMN54810136,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810135,SAMN54810135,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810134,SAMN54810134,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810133,SAMN54810133,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810132,SAMN54810132,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810131,SAMN54810131,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810130,SAMN54810130,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810129,SAMN54810129,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810128,SAMN54810128,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810127,SAMN54810127,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810126,SAMN54810126,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810125,SAMN54810125,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810124,SAMN54810124,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810123,SAMN54810123,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810122,SAMN54810122,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810121,SAMN54810121,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810120,SAMN54810120,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810119,SAMN54810119,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810118,SAMN54810118,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810117,SAMN54810117,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810116,SAMN54810116,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810115,SAMN54810115,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810114,SAMN54810114,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810113,SAMN54810113,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810112,SAMN54810112,,,blood,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810111,SAMN54810111,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810110,SAMN54810110,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810109,SAMN54810109,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810108,SAMN54810108,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810107,SAMN54810107,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810106,SAMN54810106,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810105,SAMN54810105,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810104,SAMN54810104,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810103,SAMN54810103,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810102,SAMN54810102,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810101,SAMN54810101,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810100,SAMN54810100,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810099,SAMN54810099,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810098,SAMN54810098,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810097,SAMN54810097,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810096,SAMN54810096,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810095,SAMN54810095,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810094,SAMN54810094,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810093,SAMN54810093,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810092,SAMN54810092,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810091,SAMN54810091,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810090,SAMN54810090,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810089,SAMN54810089,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810088,SAMN54810088,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810087,SAMN54810087,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810086,SAMN54810086,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810085,SAMN54810085,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810084,SAMN54810084,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810083,SAMN54810083,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810082,SAMN54810082,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810081,SAMN54810081,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810080,SAMN54810080,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810079,SAMN54810079,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810078,SAMN54810078,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810077,SAMN54810077,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810076,SAMN54810076,,,tracheal aspirate,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810075,SAMN54810075,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810074,SAMN54810074,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810073,SAMN54810073,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810072,SAMN54810072,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810071,SAMN54810071,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810070,SAMN54810070,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810069,SAMN54810069,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810068,SAMN54810068,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810067,SAMN54810067,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810066,SAMN54810066,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810065,SAMN54810065,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810064,SAMN54810064,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810063,SAMN54810063,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810062,SAMN54810062,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810061,SAMN54810061,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810060,SAMN54810060,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810059,SAMN54810059,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810058,SAMN54810058,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810057,SAMN54810057,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810056,SAMN54810056,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810055,SAMN54810055,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810054,SAMN54810054,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810053,SAMN54810053,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810052,SAMN54810052,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810051,SAMN54810051,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810050,SAMN54810050,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810049,SAMN54810049,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810048,SAMN54810048,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810047,SAMN54810047,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810046,SAMN54810046,,,gastric aspirate,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810045,SAMN54810045,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810044,SAMN54810044,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810043,SAMN54810043,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810042,SAMN54810042,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810041,SAMN54810041,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810040,SAMN54810040,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810039,SAMN54810039,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810038,SAMN54810038,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810037,SAMN54810037,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810036,SAMN54810036,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810035,SAMN54810035,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810034,SAMN54810034,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810033,SAMN54810033,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810032,SAMN54810032,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810031,SAMN54810031,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810030,SAMN54810030,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810029,SAMN54810029,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810028,SAMN54810028,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810027,SAMN54810027,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810026,SAMN54810026,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810025,SAMN54810025,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810024,SAMN54810024,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810023,SAMN54810023,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810022,SAMN54810022,,,tracheal aspirate,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810021,SAMN54810021,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810020,SAMN54810020,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810019,SAMN54810019,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810018,SAMN54810018,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810017,SAMN54810017,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810016,SAMN54810016,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810015,SAMN54810015,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810014,SAMN54810014,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810013,SAMN54810013,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810012,SAMN54810012,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810011,SAMN54810011,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810010,SAMN54810010,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810009,SAMN54810009,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810008,SAMN54810008,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810007,SAMN54810007,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810006,SAMN54810006,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810005,SAMN54810005,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810004,SAMN54810004,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810003,SAMN54810003,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810002,SAMN54810002,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810001,SAMN54810001,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54810000,SAMN54810000,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809999,SAMN54809999,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809998,SAMN54809998,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809997,SAMN54809997,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809996,SAMN54809996,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809995,SAMN54809995,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809994,SAMN54809994,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809993,SAMN54809993,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809992,SAMN54809992,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809991,SAMN54809991,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809990,SAMN54809990,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809989,SAMN54809989,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809988,SAMN54809988,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809987,SAMN54809987,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809986,SAMN54809986,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809985,SAMN54809985,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809984,SAMN54809984,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809983,SAMN54809983,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809982,SAMN54809982,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809981,SAMN54809981,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809980,SAMN54809980,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809979,SAMN54809979,,,blood,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809978,SAMN54809978,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809977,SAMN54809977,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809976,SAMN54809976,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809975,SAMN54809975,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809974,SAMN54809974,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809973,SAMN54809973,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809972,SAMN54809972,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809971,SAMN54809971,,,blood,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809970,SAMN54809970,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809969,SAMN54809969,,,pleural biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809968,SAMN54809968,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809967,SAMN54809967,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809966,SAMN54809966,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809965,SAMN54809965,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809964,SAMN54809964,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809963,SAMN54809963,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809962,SAMN54809962,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809961,SAMN54809961,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809960,SAMN54809960,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809959,SAMN54809959,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809958,SAMN54809958,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809957,SAMN54809957,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809956,SAMN54809956,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809955,SAMN54809955,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809954,SAMN54809954,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809953,SAMN54809953,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809952,SAMN54809952,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809951,SAMN54809951,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809950,SAMN54809950,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809949,SAMN54809949,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809948,SAMN54809948,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809947,SAMN54809947,,,pleulal biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809946,SAMN54809946,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809945,SAMN54809945,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809944,SAMN54809944,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809943,SAMN54809943,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809942,SAMN54809942,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809941,SAMN54809941,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809940,SAMN54809940,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809939,SAMN54809939,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809938,SAMN54809938,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809937,SAMN54809937,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809936,SAMN54809936,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809935,SAMN54809935,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809934,SAMN54809934,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809933,SAMN54809933,,,gastric aspirate,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809932,SAMN54809932,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809931,SAMN54809931,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809930,SAMN54809930,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809929,SAMN54809929,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809928,SAMN54809928,,,abscess,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809927,SAMN54809927,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809926,SAMN54809926,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809925,SAMN54809925,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809924,SAMN54809924,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809923,SAMN54809923,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809922,SAMN54809922,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809921,SAMN54809921,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809920,SAMN54809920,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809919,SAMN54809919,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809918,SAMN54809918,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809917,SAMN54809917,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809916,SAMN54809916,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809915,SAMN54809915,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809914,SAMN54809914,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809913,SAMN54809913,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809912,SAMN54809912,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809911,SAMN54809911,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809910,SAMN54809910,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809909,SAMN54809909,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809908,SAMN54809908,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809907,SAMN54809907,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809906,SAMN54809906,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809905,SAMN54809905,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809904,SAMN54809904,,,pleural biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809903,SAMN54809903,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809902,SAMN54809902,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809901,SAMN54809901,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809900,SAMN54809900,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809899,SAMN54809899,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809898,SAMN54809898,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809897,SAMN54809897,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809896,SAMN54809896,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809895,SAMN54809895,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809894,SAMN54809894,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809893,SAMN54809893,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809892,SAMN54809892,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809891,SAMN54809891,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809890,SAMN54809890,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809889,SAMN54809889,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809888,SAMN54809888,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809887,SAMN54809887,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809886,SAMN54809886,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809885,SAMN54809885,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809884,SAMN54809884,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809883,SAMN54809883,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809882,SAMN54809882,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809881,SAMN54809881,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809880,SAMN54809880,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809879,SAMN54809879,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809878,SAMN54809878,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809877,SAMN54809877,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809876,SAMN54809876,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809875,SAMN54809875,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809874,SAMN54809874,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809873,SAMN54809873,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809872,SAMN54809872,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809871,SAMN54809871,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809870,SAMN54809870,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809869,SAMN54809869,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809868,SAMN54809868,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809867,SAMN54809867,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809866,SAMN54809866,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809865,SAMN54809865,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809864,SAMN54809864,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809863,SAMN54809863,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809862,SAMN54809862,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809861,SAMN54809861,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809860,SAMN54809860,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809859,SAMN54809859,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809858,SAMN54809858,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809857,SAMN54809857,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809856,SAMN54809856,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809855,SAMN54809855,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809854,SAMN54809854,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809853,SAMN54809853,,,pleural biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809852,SAMN54809852,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809851,SAMN54809851,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809850,SAMN54809850,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809849,SAMN54809849,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809848,SAMN54809848,,,pleural biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809847,SAMN54809847,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809846,SAMN54809846,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809845,SAMN54809845,,,blood,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809844,SAMN54809844,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809843,SAMN54809843,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809842,SAMN54809842,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809841,SAMN54809841,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809840,SAMN54809840,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809839,SAMN54809839,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809838,SAMN54809838,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809837,SAMN54809837,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809836,SAMN54809836,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809835,SAMN54809835,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809834,SAMN54809834,,,bronchial lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809833,SAMN54809833,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809832,SAMN54809832,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809831,SAMN54809831,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809830,SAMN54809830,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809829,SAMN54809829,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809828,SAMN54809828,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809827,SAMN54809827,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809826,SAMN54809826,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809825,SAMN54809825,,,pleural biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809824,SAMN54809824,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809823,SAMN54809823,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809822,SAMN54809822,,,pleural biopsy,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809821,SAMN54809821,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809820,SAMN54809820,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809819,SAMN54809819,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809818,SAMN54809818,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809817,SAMN54809817,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809816,SAMN54809816,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809815,SAMN54809815,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809814,SAMN54809814,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809813,SAMN54809813,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809812,SAMN54809812,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809811,SAMN54809811,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809810,SAMN54809810,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809809,SAMN54809809,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809808,SAMN54809808,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809807,SAMN54809807,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809806,SAMN54809806,,,lymph node,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809805,SAMN54809805,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809804,SAMN54809804,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809803,SAMN54809803,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809802,SAMN54809802,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809801,SAMN54809801,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809800,SAMN54809800,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809799,SAMN54809799,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809798,SAMN54809798,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809797,SAMN54809797,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809796,SAMN54809796,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809795,SAMN54809795,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809794,SAMN54809794,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809793,SAMN54809793,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809792,SAMN54809792,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809791,SAMN54809791,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809790,SAMN54809790,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809789,SAMN54809789,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809788,SAMN54809788,,,cerebrospinal fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809787,SAMN54809787,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809786,SAMN54809786,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809785,SAMN54809785,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809784,SAMN54809784,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809783,SAMN54809783,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809782,SAMN54809782,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809781,SAMN54809781,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809780,SAMN54809780,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809779,SAMN54809779,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809778,SAMN54809778,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809777,SAMN54809777,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809776,SAMN54809776,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809775,SAMN54809775,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809774,SAMN54809774,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809773,SAMN54809773,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809772,SAMN54809772,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809771,SAMN54809771,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809770,SAMN54809770,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809769,SAMN54809769,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809768,SAMN54809768,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809767,SAMN54809767,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809766,SAMN54809766,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809765,SAMN54809765,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809764,SAMN54809764,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809763,SAMN54809763,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809762,SAMN54809762,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809761,SAMN54809761,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809760,SAMN54809760,,,gastric aspirate,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809759,SAMN54809759,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809758,SAMN54809758,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809757,SAMN54809757,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809756,SAMN54809756,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809755,SAMN54809755,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809754,SAMN54809754,,,bronchoalveolar lavage,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809753,SAMN54809753,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809752,SAMN54809752,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809751,SAMN54809751,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809750,SAMN54809750,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809749,SAMN54809749,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809748,SAMN54809748,,,pleural fluid,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809747,SAMN54809747,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809746,SAMN54809746,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809745,SAMN54809745,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809744,SAMN54809744,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809743,SAMN54809743,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809742,SAMN54809742,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809741,SAMN54809741,,,missing,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809740,SAMN54809740,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809739,SAMN54809739,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis
+54809738,SAMN54809738,,,sputum,Homo sapiens,2024,Argentina,,,,,,,,,Mycobacterium tuberculosis

@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54804773,SAMN54804773,,,,Homo sapiens,,,,,,,,,,,Neisseria gonorrhoeae
+54804767,SAMN54804767,,,,Homo sapiens,,,,,,,,,,,Neisseria gonorrhoeae
+54801242,SAMN54801242,,GCWGS-34190,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801241,SAMN54801241,,GCWGS-34189,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801240,SAMN54801240,,GCWGS-34187,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801239,SAMN54801239,,GCWGS-34186,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801238,SAMN54801238,,GCWGS-34185,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801237,SAMN54801237,,GCWGS-34184,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801236,SAMN54801236,,GCWGS-34183,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801235,SAMN54801235,,GCWGS-34181,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801234,SAMN54801234,,GCWGS-34180,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801233,SAMN54801233,,GCWGS-34179,pathogen.cl,Homo sapiens,2025-12,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801232,SAMN54801232,,GCWGS-34178,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801231,SAMN54801231,,GCWGS-34177,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801230,SAMN54801230,,GCWGS-34176,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801229,SAMN54801229,,GCWGS-34175,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801228,SAMN54801228,,GCWGS-34174,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801227,SAMN54801227,,GCWGS-34173,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801226,SAMN54801226,,GCWGS-34172,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801225,SAMN54801225,,GCWGS-34171,pathogen.cl,Homo sapiens,2025-11,USA:8,,,,,,,,,Neisseria gonorrhoeae
+54801224,SAMN54801224,,GCWGS-34170,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801223,SAMN54801223,,GCWGS-34169,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801222,SAMN54801222,,GCWGS-34168,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801221,SAMN54801221,,GCWGS-34167,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801220,SAMN54801220,,GCWGS-34166,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801219,SAMN54801219,,GCWGS-34165,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801218,SAMN54801218,,GCWGS-34164,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801217,SAMN54801217,,GCWGS-34163,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801216,SAMN54801216,,GCWGS-34162,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801215,SAMN54801215,,GCWGS-34161,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801214,SAMN54801214,,GCWGS-34160,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801213,SAMN54801213,,GCWGS-34159,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801212,SAMN54801212,,GCWGS-34158,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801211,SAMN54801211,,GCWGS-34157,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801210,SAMN54801210,,GCWGS-34156,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801209,SAMN54801209,,GCWGS-34155,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801208,SAMN54801208,,GCWGS-34154,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801207,SAMN54801207,,GCWGS-34153,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801206,SAMN54801206,,GCWGS-34152,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54801205,SAMN54801205,,GCWGS-34151,pathogen.cl,Homo sapiens,2025-11,USA:9,,,,,,,,,Neisseria gonorrhoeae
+54762842,SAMEA120959320,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762840,SAMEA120959355,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762713,SAMEA120959312,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762686,SAMEA120959330,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762648,SAMEA120959305,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762633,SAMEA120959345,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762500,SAMEA120959360,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762482,SAMEA120959328,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762431,SAMEA120959349,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762409,SAMEA120959310,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762396,SAMEA120959313,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762393,SAMEA120959336,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762360,SAMEA120959334,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762349,SAMEA120959308,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762272,SAMEA120959317,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762246,SAMEA120959341,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762245,SAMEA120959343,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762163,SAMEA120959347,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762156,SAMEA120959344,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762132,SAMEA120959324,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54762034,SAMEA120959359,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761997,SAMEA120959307,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761989,SAMEA120959318,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761733,SAMEA120959321,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761721,SAMEA120959350,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761694,SAMEA120959357,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761690,SAMEA120959335,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761674,SAMEA120959316,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761673,SAMEA120959301,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761667,SAMEA120959319,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761612,SAMEA120959351,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761570,SAMEA120959325,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761568,SAMEA120959356,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761558,SAMEA120959353,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761529,SAMEA120959342,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761528,SAMEA120959323,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761499,SAMEA120959333,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761472,SAMEA120959338,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761431,SAMEA120959331,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761416,SAMEA120959302,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761401,SAMEA120959303,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761342,SAMEA120959348,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761300,SAMEA120959306,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761278,SAMEA120959352,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761245,SAMEA120959329,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761213,SAMEA120959340,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761203,SAMEA120959326,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54761084,SAMEA120959358,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760995,SAMEA120959327,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760982,SAMEA120959314,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760975,SAMEA120959309,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760938,SAMEA120959346,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760935,SAMEA120959300,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760841,SAMEA120959322,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760813,SAMEA120959304,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760751,SAMEA120959339,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+54760730,SAMEA120959315,,,,,,,,,,,,,,,Neisseria gonorrhoeae
+51802487,SAMN51802487,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802486,SAMN51802486,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802485,SAMN51802485,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802484,SAMN51802484,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802483,SAMN51802483,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802482,SAMN51802482,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802481,SAMN51802481,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802480,SAMN51802480,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802479,SAMN51802479,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802478,SAMN51802478,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802477,SAMN51802477,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802476,SAMN51802476,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802475,SAMN51802475,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802474,SAMN51802474,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802473,SAMN51802473,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802472,SAMN51802472,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802471,SAMN51802471,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802470,SAMN51802470,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802469,SAMN51802469,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802468,SAMN51802468,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802467,SAMN51802467,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802466,SAMN51802466,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802465,SAMN51802465,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802464,SAMN51802464,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802463,SAMN51802463,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802462,SAMN51802462,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802461,SAMN51802461,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802460,SAMN51802460,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802459,SAMN51802459,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802458,SAMN51802458,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802457,SAMN51802457,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802456,SAMN51802456,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802455,SAMN51802455,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802454,SAMN51802454,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802453,SAMN51802453,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802452,SAMN51802452,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802451,SAMN51802451,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802450,SAMN51802450,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802449,SAMN51802449,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802448,SAMN51802448,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802447,SAMN51802447,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802446,SAMN51802446,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802445,SAMN51802445,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802444,SAMN51802444,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802443,SAMN51802443,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802442,SAMN51802442,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802441,SAMN51802441,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802440,SAMN51802440,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802439,SAMN51802439,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802438,SAMN51802438,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802437,SAMN51802437,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802436,SAMN51802436,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802435,SAMN51802435,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802434,SAMN51802434,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802433,SAMN51802433,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802432,SAMN51802432,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802431,SAMN51802431,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802430,SAMN51802430,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802429,SAMN51802429,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802428,SAMN51802428,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802427,SAMN51802427,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802426,SAMN51802426,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802425,SAMN51802425,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802424,SAMN51802424,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802423,SAMN51802423,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802422,SAMN51802422,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802421,SAMN51802421,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802420,SAMN51802420,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802419,SAMN51802419,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802418,SAMN51802418,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802417,SAMN51802417,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802416,SAMN51802416,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802415,SAMN51802415,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802414,SAMN51802414,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802413,SAMN51802413,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802412,SAMN51802412,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802411,SAMN51802411,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802410,SAMN51802410,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802409,SAMN51802409,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802408,SAMN51802408,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802407,SAMN51802407,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802406,SAMN51802406,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802405,SAMN51802405,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802404,SAMN51802404,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802403,SAMN51802403,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802402,SAMN51802402,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802401,SAMN51802401,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802400,SAMN51802400,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802399,SAMN51802399,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802398,SAMN51802398,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802397,SAMN51802397,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802396,SAMN51802396,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802395,SAMN51802395,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802394,SAMN51802394,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802393,SAMN51802393,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802392,SAMN51802392,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802391,SAMN51802391,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802390,SAMN51802390,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802389,SAMN51802389,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802388,SAMN51802388,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802387,SAMN51802387,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802386,SAMN51802386,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802385,SAMN51802385,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802384,SAMN51802384,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802383,SAMN51802383,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802382,SAMN51802382,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802381,SAMN51802381,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802380,SAMN51802380,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802379,SAMN51802379,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802378,SAMN51802378,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802377,SAMN51802377,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802376,SAMN51802376,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802375,SAMN51802375,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802374,SAMN51802374,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802373,SAMN51802373,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802372,SAMN51802372,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802371,SAMN51802371,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802370,SAMN51802370,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802369,SAMN51802369,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802368,SAMN51802368,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802367,SAMN51802367,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802366,SAMN51802366,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802365,SAMN51802365,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802364,SAMN51802364,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802363,SAMN51802363,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802362,SAMN51802362,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802361,SAMN51802361,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802360,SAMN51802360,,,"clinical sample, undisclosed",Homo sapiens,2024,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802359,SAMN51802359,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802358,SAMN51802358,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802357,SAMN51802357,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802356,SAMN51802356,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802355,SAMN51802355,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802354,SAMN51802354,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802353,SAMN51802353,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802352,SAMN51802352,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802351,SAMN51802351,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802350,SAMN51802350,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802349,SAMN51802349,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802348,SAMN51802348,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802347,SAMN51802347,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802346,SAMN51802346,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802345,SAMN51802345,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802344,SAMN51802344,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802343,SAMN51802343,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802342,SAMN51802342,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802341,SAMN51802341,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802340,SAMN51802340,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802339,SAMN51802339,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802338,SAMN51802338,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802337,SAMN51802337,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802336,SAMN51802336,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802335,SAMN51802335,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802334,SAMN51802334,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802333,SAMN51802333,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802332,SAMN51802332,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802331,SAMN51802331,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802330,SAMN51802330,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802329,SAMN51802329,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802328,SAMN51802328,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802327,SAMN51802327,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802326,SAMN51802326,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802325,SAMN51802325,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802324,SAMN51802324,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802323,SAMN51802323,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802322,SAMN51802322,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802321,SAMN51802321,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802320,SAMN51802320,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802319,SAMN51802319,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802318,SAMN51802318,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802317,SAMN51802317,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802316,SAMN51802316,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802315,SAMN51802315,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802314,SAMN51802314,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802313,SAMN51802313,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802312,SAMN51802312,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802311,SAMN51802311,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802310,SAMN51802310,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802309,SAMN51802309,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802308,SAMN51802308,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802307,SAMN51802307,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802306,SAMN51802306,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802305,SAMN51802305,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802304,SAMN51802304,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802303,SAMN51802303,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802302,SAMN51802302,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802301,SAMN51802301,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802300,SAMN51802300,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802299,SAMN51802299,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802298,SAMN51802298,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802297,SAMN51802297,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802296,SAMN51802296,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802295,SAMN51802295,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802294,SAMN51802294,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802293,SAMN51802293,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802292,SAMN51802292,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802291,SAMN51802291,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802290,SAMN51802290,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802289,SAMN51802289,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802288,SAMN51802288,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802287,SAMN51802287,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802286,SAMN51802286,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802285,SAMN51802285,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802284,SAMN51802284,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802283,SAMN51802283,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802282,SAMN51802282,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802281,SAMN51802281,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802280,SAMN51802280,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802279,SAMN51802279,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802278,SAMN51802278,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802277,SAMN51802277,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802276,SAMN51802276,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802275,SAMN51802275,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802274,SAMN51802274,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802273,SAMN51802273,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802272,SAMN51802272,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802271,SAMN51802271,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802270,SAMN51802270,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802269,SAMN51802269,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802268,SAMN51802268,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802267,SAMN51802267,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802266,SAMN51802266,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802265,SAMN51802265,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802264,SAMN51802264,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802263,SAMN51802263,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802262,SAMN51802262,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802261,SAMN51802261,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802260,SAMN51802260,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802259,SAMN51802259,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802258,SAMN51802258,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802257,SAMN51802257,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802256,SAMN51802256,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802255,SAMN51802255,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802254,SAMN51802254,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802253,SAMN51802253,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802252,SAMN51802252,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802251,SAMN51802251,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802250,SAMN51802250,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802249,SAMN51802249,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802248,SAMN51802248,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802247,SAMN51802247,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802246,SAMN51802246,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802245,SAMN51802245,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802244,SAMN51802244,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802243,SAMN51802243,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802242,SAMN51802242,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802241,SAMN51802241,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802240,SAMN51802240,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802239,SAMN51802239,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802238,SAMN51802238,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802237,SAMN51802237,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802236,SAMN51802236,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802235,SAMN51802235,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802234,SAMN51802234,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802233,SAMN51802233,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802232,SAMN51802232,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802231,SAMN51802231,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802230,SAMN51802230,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802229,SAMN51802229,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802228,SAMN51802228,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802227,SAMN51802227,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802226,SAMN51802226,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802225,SAMN51802225,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802224,SAMN51802224,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802223,SAMN51802223,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802222,SAMN51802222,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802221,SAMN51802221,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802220,SAMN51802220,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802219,SAMN51802219,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802218,SAMN51802218,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802217,SAMN51802217,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802216,SAMN51802216,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802215,SAMN51802215,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802214,SAMN51802214,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802213,SAMN51802213,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802212,SAMN51802212,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802211,SAMN51802211,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802210,SAMN51802210,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802209,SAMN51802209,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802208,SAMN51802208,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802207,SAMN51802207,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802206,SAMN51802206,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802205,SAMN51802205,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802204,SAMN51802204,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802203,SAMN51802203,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802202,SAMN51802202,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802201,SAMN51802201,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802200,SAMN51802200,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802199,SAMN51802199,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802198,SAMN51802198,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802197,SAMN51802197,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802196,SAMN51802196,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802195,SAMN51802195,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802194,SAMN51802194,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802193,SAMN51802193,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802192,SAMN51802192,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802191,SAMN51802191,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802190,SAMN51802190,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802189,SAMN51802189,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802188,SAMN51802188,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802187,SAMN51802187,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802186,SAMN51802186,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802185,SAMN51802185,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802184,SAMN51802184,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802183,SAMN51802183,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802182,SAMN51802182,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802181,SAMN51802181,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802180,SAMN51802180,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802179,SAMN51802179,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802178,SAMN51802178,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802177,SAMN51802177,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802176,SAMN51802176,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802175,SAMN51802175,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802174,SAMN51802174,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802173,SAMN51802173,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802172,SAMN51802172,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802171,SAMN51802171,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802170,SAMN51802170,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802169,SAMN51802169,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802168,SAMN51802168,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802167,SAMN51802167,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802166,SAMN51802166,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802165,SAMN51802165,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802164,SAMN51802164,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802163,SAMN51802163,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802162,SAMN51802162,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802161,SAMN51802161,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802160,SAMN51802160,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802159,SAMN51802159,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802158,SAMN51802158,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802157,SAMN51802157,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802156,SAMN51802156,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802155,SAMN51802155,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802154,SAMN51802154,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802153,SAMN51802153,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802152,SAMN51802152,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802151,SAMN51802151,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802150,SAMN51802150,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802149,SAMN51802149,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802148,SAMN51802148,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802147,SAMN51802147,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802146,SAMN51802146,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802145,SAMN51802145,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802144,SAMN51802144,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802143,SAMN51802143,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802142,SAMN51802142,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802141,SAMN51802141,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802140,SAMN51802140,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802139,SAMN51802139,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802138,SAMN51802138,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802137,SAMN51802137,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802136,SAMN51802136,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802135,SAMN51802135,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802134,SAMN51802134,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802133,SAMN51802133,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802132,SAMN51802132,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802131,SAMN51802131,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802130,SAMN51802130,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802129,SAMN51802129,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802128,SAMN51802128,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802127,SAMN51802127,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802126,SAMN51802126,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802125,SAMN51802125,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802124,SAMN51802124,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802123,SAMN51802123,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802122,SAMN51802122,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802121,SAMN51802121,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802120,SAMN51802120,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802119,SAMN51802119,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802118,SAMN51802118,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802117,SAMN51802117,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802116,SAMN51802116,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802115,SAMN51802115,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802114,SAMN51802114,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802113,SAMN51802113,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802112,SAMN51802112,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802111,SAMN51802111,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802110,SAMN51802110,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802109,SAMN51802109,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802108,SAMN51802108,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802107,SAMN51802107,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802106,SAMN51802106,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802105,SAMN51802105,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802104,SAMN51802104,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802103,SAMN51802103,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802098,SAMN51802098,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802097,SAMN51802097,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802096,SAMN51802096,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802095,SAMN51802095,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802094,SAMN51802094,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802093,SAMN51802093,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802092,SAMN51802092,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802091,SAMN51802091,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802090,SAMN51802090,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802089,SAMN51802089,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802088,SAMN51802088,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802087,SAMN51802087,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802086,SAMN51802086,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802085,SAMN51802085,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802084,SAMN51802084,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802083,SAMN51802083,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802082,SAMN51802082,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae
+51802081,SAMN51802081,,,"clinical sample, undisclosed",Homo sapiens,2023,Australia,,,,,,,,,Neisseria gonorrhoeae

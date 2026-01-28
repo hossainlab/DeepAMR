@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54875958,SAMN54875958,,FSIS22619828,raw intact chicken,,2026,USA:WA,,,,,,,,,Campylobacter jejuni
+54875909,SAMN54875909,,FSIS22619821,raw intact chicken,,2026,USA:MO,,,,,,,,,Campylobacter jejuni
+54875862,SAMN54875862,,FSIS22619819,raw intact chicken,,2026,USA:MN,,,,,,,,,Campylobacter jejuni
+54875743,SAMN54875743,,FSIS22619770,chicken - young chicken carcass rinse (post-chill),,2025,USA:OK,,,,,,,,,Campylobacter jejuni
+54875678,SAMN54875678,,FSIS22619781,raw intact chicken,,2025,USA:NC,,,,,,,,,Campylobacter jejuni
+54875668,SAMN54875668,,FSIS22619820,chicken - young chicken carcass rinse (post-chill),,2026,USA:MS,,,,,,,,,Campylobacter jejuni
+54875667,SAMN54875667,,FSIS22619823,raw intact chicken,,2026,USA:MS,,,,,,,,,Campylobacter jejuni
+54875660,SAMN54875660,,FSIS22619774,chicken - young chicken carcass rinse (post-chill),,2025,USA:AL,,,,,,,,,Campylobacter jejuni
+54875656,SAMN54875656,,FSIS22619772,chicken - young chicken carcass rinse (post-chill),,2025,USA:TX,,,,,,,,,Campylobacter jejuni
+54875464,SAMN54875464,,FSIS22619769,raw intact chicken,,2025,USA:AL,,,,,,,,,Campylobacter jejuni
+54875463,SAMN54875463,,FSIS22619818,chicken - young chicken carcass rinse (post-chill),,2026,USA:CA,,,,,,,,,Campylobacter jejuni
+54875460,SAMN54875460,,FSIS22619764,chicken - young chicken carcass rinse (post-chill),,2025,USA:GA,,,,,,,,,Campylobacter jejuni
+54875411,SAMN54875411,,FSIS22619779,chicken - young chicken carcass rinse (post-chill),,2025,USA:AR,,,,,,,,,Campylobacter jejuni
+54875370,SAMN54875370,,FSIS22619831,chicken - young chicken carcass rinse (post-chill),,2026,USA:TX,,,,,,,,,Campylobacter jejuni
+54875368,SAMN54875368,,FSIS22619832,chicken - young chicken carcass rinse (post-chill),,2026,USA:MS,,,,,,,,,Campylobacter jejuni
+54875366,SAMN54875366,,FSIS22619826,chicken - young chicken carcass rinse (post-chill),,2026,USA:LA,,,,,,,,,Campylobacter jejuni
+54872867,SAMN54872867,,PNUSAC061849,stool,,2026-01-05,USA,,,,,,,,,Campylobacter jejuni
+54872813,SAMN54872813,,PNUSAC061851,stool,,2026-01-07,USA,,,,,,,,,Campylobacter jejuni
+54872812,SAMN54872812,,PNUSAC061850,stool,,2026-01-07,USA,,,,,,,,,Campylobacter jejuni
+54871281,SAMN54871281,,FSIS12642652,Animal-Cattle-Heifer (cecal),,2026,USA:OK,,,,,,,,,Campylobacter jejuni
+54871278,SAMN54871278,,FSIS12642544,raw intact chicken,,2026,USA:CA,,,,,,,,,Campylobacter jejuni
+54871277,SAMN54871277,,FSIS12642549,raw intact chicken,,2026,USA:GA,,,,,,,,,Campylobacter jejuni
+54871153,SAMN54871153,,FSIS12642651,Animal-Cattle-Beef Cow (cecal),,2026,USA:WI,,,,,,,,,Campylobacter jejuni
+54871152,SAMN54871152,,FSIS12642645,Animal-Cattle-Steer (cecal),,2026,USA:IA,,,,,,,,,Campylobacter jejuni
+54871146,SAMN54871146,,FSIS12642550,Nonintact Chicken,,2026,USA:GA,,,,,,,,,Campylobacter jejuni
+54871139,SAMN54871139,,FSIS12642533,Animal-Cattle-Dairy Cow (cecal),,2025,USA:PA,,,,,,,,,Campylobacter jejuni
+54871126,SAMN54871126,,FSIS12642529,Animal-Chicken-Young Chicken (cecal),,2025,USA:MS,,,,,,,,,Campylobacter jejuni
+54871063,SAMN54871063,,FSIS12642531,Animal-Cattle-Heifer (cecal),,2025,USA:NE,,,,,,,,,Campylobacter jejuni
+54871021,SAMN54871021,,FSIS12642548,raw intact chicken,,2026,USA:IL,,,,,,,,,Campylobacter jejuni
+54871009,SAMN54871009,,FSIS12642530,Animal-Cattle-Heifer (cecal),,2025,USA:OH,,,,,,,,,Campylobacter jejuni
+54870985,SAMN54870985,,FSIS12642525,Animal-Cattle-Beef Cow (cecal),,2025,USA:GA,,,,,,,,,Campylobacter jejuni
+54870969,SAMN54870969,,FSIS12642522,Animal-Cattle-Beef Cow (cecal),,2025,USA:IN,,,,,,,,,Campylobacter jejuni
+54870968,SAMN54870968,,FSIS12642523,Animal-Cattle-Heifer (cecal),,2025,USA:TX,,,,,,,,,Campylobacter jejuni
+54870731,SAMN54870731,,FSIS12642519,Animal-Cattle-Steer (cecal),,2025,USA:TX,,,,,,,,,Campylobacter jejuni
+54870730,SAMN54870730,,FSIS12642442,Animal-Cattle-Dairy Cow (cecal),,2025,USA:WA,,,,,,,,,Campylobacter jejuni
+54870727,SAMN54870727,,FSIS12541997,Animal-Chicken-Young Chicken (cecal),,2025,USA:CA,,,,,,,,,Campylobacter jejuni
+54870726,SAMN54870726,,FSIS12541885,Animal-Cattle-Heifer (cecal),,2025,USA:TX,,,,,,,,,Campylobacter jejuni
+54870724,SAMN54870724,,FSIS12541254,Animal-Cattle-Steer (cecal),,2025,USA:IL,,,,,,,,,Campylobacter jejuni
+54870547,SAMN54870547,,PNUSAC061841,missing,,2025,USA,,,,,,,,,Campylobacter jejuni
+54870428,SAMN54870428,,PNUSAC061846,missing,,2025,USA,,,,,,,,,Campylobacter jejuni
+54870293,SAMN54870293,,PNUSAC061845,missing,,2025,USA,,,,,,,,,Campylobacter jejuni
+54870021,SAMN54870021,,PNUSAC061838,missing,,2026,USA,,,,,,,,,Campylobacter jejuni
+54869980,SAMN54869980,,PNUSAC061847,missing,,2025,USA,,,,,,,,,Campylobacter jejuni
+54869962,SAMN54869962,,PNUSAC061839,missing,,2026,USA,,,,,,,,,Campylobacter jejuni
+54803283,SAMN54803283,,01896501,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Campylobacter jejuni
+54803279,SAMN54803279,,01896504,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Campylobacter jejuni
+54803058,SAMN54803058,,01896503,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Campylobacter jejuni
+54803743,SAMN54803743,,PNUSAC061837,stool,,2025,USA,,,,,GCA_054657035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/657/035/GCA_054657035.1_PDT003064319.1,Campylobacter jejuni
+54803742,SAMN54803742,,PNUSAC061835,stool,,2025,USA,,,,,GCA_054657055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/657/055/GCA_054657055.1_PDT003064318.1,Campylobacter jejuni
+54803681,SAMN54803681,,PNUSAC061836,stool,,2025,USA,,,,,GCA_054657165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/657/165/GCA_054657165.1_PDT003064316.1,Campylobacter jejuni
+54768366,SAMN54768366,,01895247,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054622955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/622/955/GCA_054622955.1_PDT003062318.1,Campylobacter jejuni
+54768332,SAMN54768332,,01895245,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/155/GCA_054623155.1_PDT003062314.1,Campylobacter jejuni
+54768331,SAMN54768331,,01895243,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/015/GCA_054623015.1_PDT003062316.1,Campylobacter jejuni
+54768318,SAMN54768318,,01895233,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/115/GCA_054623115.1_PDT003062313.1,Campylobacter jejuni
+54768316,SAMN54768316,,01895240,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/175/GCA_054623175.1_PDT003062312.1,Campylobacter jejuni
+54768157,SAMN54768157,,01894089,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/595/GCA_054623595.1_PDT003062308.1,Campylobacter jejuni
+54768154,SAMN54768154,,01895077,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/215/GCA_054623215.1_PDT003062311.1,Campylobacter jejuni
+54768152,SAMN54768152,,01894086,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/615/GCA_054623615.1_PDT003062310.1,Campylobacter jejuni
+54768150,SAMN54768150,,01894091,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/575/GCA_054623575.1_PDT003062309.1,Campylobacter jejuni
+54768149,SAMN54768149,,01895236,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/675/GCA_054623675.1_PDT003062306.1,Campylobacter jejuni
+54768147,SAMN54768147,,01894088,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/735/GCA_054623735.1_PDT003062305.1,Campylobacter jejuni
+54768143,SAMN54768143,,01895238,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/955/GCA_054623955.1_PDT003062299.1,Campylobacter jejuni
+54768142,SAMN54768142,,01895246,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/895/GCA_054623895.1_PDT003062301.1,Campylobacter jejuni
+54768139,SAMN54768139,,01895239,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/775/GCA_054623775.1_PDT003062303.1,Campylobacter jejuni
+54768138,SAMN54768138,,01895241,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054623835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/623/835/GCA_054623835.1_PDT003062302.1,Campylobacter jejuni
+54769896,SAMN54769896,,PNUSAC061834,missing,,2026,USA,,,,,GCA_054598105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/598/105/GCA_054598105.1_PDT003062228.1,Campylobacter jejuni
+54769191,SAMN54769191,,PNUSAC061832,stool,,2025,USA,,,,,GCA_054593935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/593/935/GCA_054593935.1_PDT003062150.1,Campylobacter jejuni
+54768330,SAMN54768330,,PNUSAC061831,missing,,2026,USA,,,,,GCA_054591155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/591/155/GCA_054591155.1_PDT003061972.1,Campylobacter jejuni
+54765948,SAMN54765948,,PNUSAC061823,missing,,2026,USA,,,,,GCA_054583695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/695/GCA_054583695.1_PDT003061634.1,Campylobacter jejuni
+54765947,SAMN54765947,,PNUSAC061822,stool,,2026,USA,,,,,GCA_054583715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/715/GCA_054583715.1_PDT003061632.1,Campylobacter jejuni
+54765946,SAMN54765946,,PNUSAC061825,missing,,2026,USA,,,,,GCA_054583725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/725/GCA_054583725.1_PDT003061633.1,Campylobacter jejuni
+54765903,SAMN54765903,,PNUSAC061821,missing,,2026,USA,,,,,GCA_054583755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/755/GCA_054583755.1_PDT003061629.1,Campylobacter jejuni
+54765901,SAMN54765901,,PNUSAC061824,stool,,2026,USA,,,,,GCA_054583775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/775/GCA_054583775.1_PDT003061628.1,Campylobacter jejuni
+54765618,SAMN54765618,,PNUSAC061817,stool,,2026-01-04,USA,,,,,GCA_054583975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/975/GCA_054583975.1_PDT003061600.1,Campylobacter jejuni
+54765617,SAMN54765617,,PNUSAC061818,stool,,2026-01-01,USA,,,,,GCA_054583895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/895/GCA_054583895.1_PDT003061603.1,Campylobacter jejuni
+54765616,SAMN54765616,,PNUSAC061819,stool,,2026-01-04,USA,,,,,GCA_054583955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/955/GCA_054583955.1_PDT003061598.1,Campylobacter jejuni
+54764823,SAMN54764823,,PNUSAC061808,missing,,2025,USA,,,,,GCA_054587235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/235/GCA_054587235.1_PDT003061287.1,Campylobacter jejuni
+54764822,SAMN54764822,,PNUSAC061807,missing,,2025,USA,,,,,GCA_054587195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/195/GCA_054587195.1_PDT003061289.1,Campylobacter jejuni
+54764821,SAMN54764821,,PNUSAC061809,missing,,2026,USA,,,,,GCA_054587255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/587/255/GCA_054587255.1_PDT003061285.1,Campylobacter jejuni
+54763560,SAMN54763560,,PNUSAC061813,missing,,2026,USA,,,,,GCA_054582835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/835/GCA_054582835.1_PDT003061157.1,Campylobacter jejuni
+54763557,SAMN54763557,,PNUSAC061806,missing,,2026,USA,,,,,GCA_054582855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/855/GCA_054582855.1_PDT003061155.1,Campylobacter jejuni
+54763551,SAMN54763551,,PNUSAC061815,missing,,2026,USA,,,,,GCA_054582935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/935/GCA_054582935.1_PDT003061153.1,Campylobacter jejuni
+54763550,SAMN54763550,,PNUSAC061816,missing,,2026,USA,,,,,GCA_054582955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/955/GCA_054582955.1_PDT003061152.1,Campylobacter jejuni
+54763436,SAMN54763436,,PNUSAC061812,missing,,2026,USA,,,,,GCA_054582895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/895/GCA_054582895.1_PDT003061147.1,Campylobacter jejuni
+54763435,SAMN54763435,,PNUSAC061804,missing,,2025,USA,,,,,GCA_054582865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/865/GCA_054582865.1_PDT003061148.1,Campylobacter jejuni
+54763434,SAMN54763434,,PNUSAC061805,missing,,2026,USA,,,,,GCA_054582905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/905/GCA_054582905.1_PDT003061145.1,Campylobacter jejuni
+54763432,SAMN54763432,,PNUSAC061814,missing,,2026,USA,,,,,GCA_054582995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/995/GCA_054582995.1_PDT003061146.1,Campylobacter jejuni
+54755744,SAMN54755744,,FSIS22619761,chicken - young chicken carcass rinse (post-chill),,2025,USA:AL,,,,,GCA_054562815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/562/815/GCA_054562815.1_PDT003060109.1,Campylobacter jejuni
+54755690,SAMN54755690,,FSIS22619756,chicken - young chicken carcass rinse (post-chill),,2025,USA:GA,,,,,GCA_054562835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/562/835/GCA_054562835.1_PDT003060101.1,Campylobacter jejuni
+54755688,SAMN54755688,,FSIS22619759,chicken - young chicken carcass rinse (post-chill),,2025,USA:AL,,,,,GCA_054562855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/562/855/GCA_054562855.1_PDT003060093.1,Campylobacter jejuni
+54755687,SAMN54755687,,FSIS22619755,raw intact chicken,,2025,USA:TX,,,,,GCA_054562915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/562/915/GCA_054562915.1_PDT003060089.1,Campylobacter jejuni
+54754799,SAMN54754799,,PNUSAC061810,stool,,2025,USA,,,,,GCA_054562935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/562/935/GCA_054562935.1_PDT003060068.1,Campylobacter jejuni
+54754798,SAMN54754798,,PNUSAC061811,stool,,2025,USA,,,,,GCA_054562775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/562/775/GCA_054562775.1_PDT003060069.1,Campylobacter jejuni
+54753340,SAMN54753340,,PNUSAC061793,missing,,2025,USA,,,,,GCA_054556545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/545/GCA_054556545.1_PDT003059668.1,Campylobacter jejuni
+54753339,SAMN54753339,,PNUSAC061794,missing,,2025,USA,,,,,GCA_054556505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/505/GCA_054556505.1_PDT003059669.1,Campylobacter jejuni
+54753338,SAMN54753338,,PNUSAC061795,missing,,2025,USA,,,,,GCA_054556575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/575/GCA_054556575.1_PDT003059664.1,Campylobacter jejuni
+54753337,SAMN54753337,,PNUSAC061796,missing,,2025,USA,,,,,GCA_054556605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/605/GCA_054556605.1_PDT003059662.1,Campylobacter jejuni
+54753114,SAMN54753114,,PNUSAC061800,missing,,2025,USA,,,,,GCA_054556725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/725/GCA_054556725.1_PDT003059658.1,Campylobacter jejuni
+54753113,SAMN54753113,,PNUSAC061802,missing,,2026,USA,,,,,GCA_054556625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/625/GCA_054556625.1_PDT003059660.1,Campylobacter jejuni
+54753112,SAMN54753112,,PNUSAC061803,missing,,2025,USA,,,,,GCA_054556645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/645/GCA_054556645.1_PDT003059659.1,Campylobacter jejuni
+54753071,SAMN54753071,,PNUSAC061798,missing,,2026,USA,,,,,GCA_054556755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/755/GCA_054556755.1_PDT003059654.1,Campylobacter jejuni
+54753049,SAMN54753049,,PNUSAC061799,missing,,2026,USA,,,,,GCA_054556835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/835/GCA_054556835.1_PDT003059652.1,Campylobacter jejuni
+54736618,SAMN54736618,,01893624,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/855/GCA_054552855.1_PDT003059099.1,Campylobacter jejuni
+54736617,SAMN54736617,,01893623,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/835/GCA_054552835.1_PDT003059098.1,Campylobacter jejuni
+54736616,SAMN54736616,,01893618,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/875/GCA_054552875.1_PDT003059095.1,Campylobacter jejuni
+54736615,SAMN54736615,,01893620,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/935/GCA_054552935.1_PDT003059091.1,Campylobacter jejuni
+54736614,SAMN54736614,,01893622,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/815/GCA_054552815.1_PDT003059096.1,Campylobacter jejuni
+54736613,SAMN54736613,,01893616,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Campylobacter jejuni
+54736611,SAMN54736611,,01893615,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054552895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/895/GCA_054552895.1_PDT003059094.1,Campylobacter jejuni
+54736610,SAMN54736610,,01884801,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054552915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/915/GCA_054552915.1_PDT003059092.1,Campylobacter jejuni
+54736609,SAMN54736609,,01887612,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/955/GCA_054552955.1_PDT003059089.1,Campylobacter jejuni
+54736607,SAMN54736607,,01893619,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054553015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/553/015/GCA_054553015.1_PDT003059087.1,Campylobacter jejuni
+38572382,SAMN38572382,,885,post pick,,2020-08-17,missing,,,,,,,,,Campylobacter jejuni
+38572381,SAMN38572381,,901,prechill cabinet,,2020-08-17,missing,,,,,,,,,Campylobacter jejuni
+38572380,SAMN38572380,,777,Mechanically deboned meat,,2020-08-17,missing,,,,,,,,,Campylobacter jejuni
+38572379,SAMN38572379,,153,prechill cabinet,,2020-08-16,missing,,,,,,,,,Campylobacter jejuni
+38572378,SAMN38572378,,273,Mechanically deboned meat,,2020-08-16,missing,,,,,,,,,Campylobacter jejuni
+38572377,SAMN38572377,,264,Mechanically deboned meat,,2020-08-16,missing,,,,,,,,,Campylobacter jejuni
+38572376,SAMN38572376,,135,prechill cabinet,,2020-08-16,missing,,,,,,,,,Campylobacter jejuni
+38572375,SAMN38572375,,123,prechill cabinet,,2020-08-16,missing,,,,,,,,,Campylobacter jejuni
+38571232,SAMN38571232,,,Pre-chill area,,2019-08-15,"USA: Sebastopol, Mississippi",,,,,,,,,Campylobacter jejuni
+54693070,SAMEA120862774,,,,,,,,,,,,,,,Campylobacter jejuni
+54712459,SAMN54712459,,PNUSAC061792,missing,,2026,USA,,,,,GCA_054551635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/551/635/GCA_054551635.1_PDT003055411.1,Campylobacter jejuni
+54712458,SAMN54712458,,PNUSAC061789,missing,,2026,USA,,,,,GCA_054551595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/551/595/GCA_054551595.1_PDT003055413.1,Campylobacter jejuni
+54712457,SAMN54712457,,PNUSAC061791,missing,,2026,USA,,,,,GCA_054551615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/551/615/GCA_054551615.1_PDT003055412.1,Campylobacter jejuni
+54706374,SAMN54706374,,PNUSAC061788,missing,,2026,USA,,,,,GCA_054553475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/553/475/GCA_054553475.1_PDT003055155.1,Campylobacter jejuni
+54706347,SAMN54706347,,PNUSAC061787,missing,,2025,USA,,,,,GCA_054553535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/553/535/GCA_054553535.1_PDT003055151.1,Campylobacter jejuni
+54705241,SAMN54705241,,PNUSAC061786,stool,,2025-12-31,USA,,,,,GCA_054507815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/815/GCA_054507815.1_PDT003055071.1,Campylobacter jejuni
+54705239,SAMN54705239,,PNUSAC061785,stool,,2026-01-02,USA,,,,,GCA_054507785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/785/GCA_054507785.1_PDT003055077.1,Campylobacter jejuni
+54705238,SAMN54705238,,PNUSAC061783,stool,,2025-12-22,USA,,,,,GCA_054507835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/835/GCA_054507835.1_PDT003055068.1,Campylobacter jejuni
+54705237,SAMN54705237,,PNUSAC061784,stool,,2025-12-23,USA,,,,,GCA_054507775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/775/GCA_054507775.1_PDT003055072.1,Campylobacter jejuni
+54691042,SAMN54691042,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54691041,SAMN54691041,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54691040,SAMN54691040,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54691039,SAMN54691039,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54691038,SAMN54691038,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54691037,SAMN54691037,,NA,feces,Cattle,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691036,SAMN54691036,,NA,feces,Cattle,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691035,SAMN54691035,,NA,feces,Cattle,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691034,SAMN54691034,,NA,feces,Cattle,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691033,SAMN54691033,,NA,feces,Sheep,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691032,SAMN54691032,,NA,feces,Sheep,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691031,SAMN54691031,,NA,feces,Sheep,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691030,SAMN54691030,,NA,feces,Sheep,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691029,SAMN54691029,,NA,feces,Sheep,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691028,SAMN54691028,,NA,feces,Sheep,2021,Italy,,,,,,,,,Campylobacter jejuni
+54691027,SAMN54691027,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691026,SAMN54691026,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54691025,SAMN54691025,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691024,SAMN54691024,,NA,feces,Sheep,2019,Italy,,,,,,,,,Campylobacter jejuni
+54691023,SAMN54691023,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691022,SAMN54691022,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691021,SAMN54691021,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691020,SAMN54691020,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691019,SAMN54691019,,NA,feces,Sheep,2019,Italy,,,,,,,,,Campylobacter jejuni
+54691018,SAMN54691018,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691017,SAMN54691017,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691016,SAMN54691016,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691015,SAMN54691015,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691014,SAMN54691014,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691013,SAMN54691013,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691012,SAMN54691012,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691011,SAMN54691011,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691010,SAMN54691010,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691009,SAMN54691009,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691008,SAMN54691008,,NA,feces,Sheep,2019,Italy,,,,,,,,,Campylobacter jejuni
+54691007,SAMN54691007,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691006,SAMN54691006,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691005,SAMN54691005,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691004,SAMN54691004,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691003,SAMN54691003,,NA,Carcass,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691002,SAMN54691002,,NA,feces,Cattle,2020,Italy,,,,,,,,,Campylobacter jejuni
+54691001,SAMN54691001,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54691000,SAMN54691000,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690999,SAMN54690999,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690998,SAMN54690998,,NA,Carcass,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690997,SAMN54690997,,NA,Carcass,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690996,SAMN54690996,,NA,Carcass,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690995,SAMN54690995,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690994,SAMN54690994,,NA,feces,Sheep,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690993,SAMN54690993,,NA,feces,Cattle,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690992,SAMN54690992,,NA,feces,Cattle,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690991,SAMN54690991,,NA,feces,Cattle,2020,Italy,,,,,,,,,Campylobacter jejuni
+54690990,SAMN54690990,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690989,SAMN54690989,,NA,Carcass,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690988,SAMN54690988,,NA,Carcass,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690987,SAMN54690987,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690986,SAMN54690986,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690985,SAMN54690985,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690984,SAMN54690984,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690983,SAMN54690983,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690982,SAMN54690982,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690981,SAMN54690981,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690980,SAMN54690980,,NA,feces,Sheep,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690979,SAMN54690979,,NA,Carcass,Sheep,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690978,SAMN54690978,,NA,Carcass,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690977,SAMN54690977,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690976,SAMN54690976,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690975,SAMN54690975,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690974,SAMN54690974,,NA,feces,Sheep,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690973,SAMN54690973,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690972,SAMN54690972,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690971,SAMN54690971,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690970,SAMN54690970,,NA,Raw milk,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690969,SAMN54690969,,NA,feces,Cattle,2019,Italy,,,,,,,,,Campylobacter jejuni
+54690968,SAMN54690968,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690967,SAMN54690967,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690966,SAMN54690966,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690965,SAMN54690965,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690964,SAMN54690964,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690963,SAMN54690963,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690962,SAMN54690962,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690961,SAMN54690961,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690960,SAMN54690960,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690959,SAMN54690959,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690958,SAMN54690958,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690957,SAMN54690957,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690956,SAMN54690956,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690955,SAMN54690955,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690954,SAMN54690954,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690953,SAMN54690953,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690952,SAMN54690952,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690951,SAMN54690951,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690950,SAMN54690950,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690949,SAMN54690949,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690948,SAMN54690948,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690947,SAMN54690947,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690946,SAMN54690946,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690945,SAMN54690945,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690944,SAMN54690944,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690943,SAMN54690943,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690942,SAMN54690942,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690941,SAMN54690941,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690940,SAMN54690940,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690939,SAMN54690939,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690938,SAMN54690938,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690937,SAMN54690937,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690936,SAMN54690936,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690935,SAMN54690935,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690934,SAMN54690934,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690933,SAMN54690933,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690932,SAMN54690932,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690931,SAMN54690931,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690930,SAMN54690930,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690929,SAMN54690929,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690928,SAMN54690928,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690927,SAMN54690927,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690926,SAMN54690926,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690925,SAMN54690925,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690924,SAMN54690924,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690923,SAMN54690923,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690922,SAMN54690922,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690921,SAMN54690921,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690920,SAMN54690920,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690919,SAMN54690919,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690918,SAMN54690918,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690917,SAMN54690917,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690916,SAMN54690916,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690915,SAMN54690915,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690914,SAMN54690914,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690913,SAMN54690913,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690912,SAMN54690912,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690911,SAMN54690911,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690910,SAMN54690910,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690909,SAMN54690909,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690908,SAMN54690908,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690907,SAMN54690907,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690906,SAMN54690906,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690905,SAMN54690905,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690904,SAMN54690904,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690903,SAMN54690903,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690902,SAMN54690902,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690901,SAMN54690901,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690900,SAMN54690900,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690899,SAMN54690899,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690898,SAMN54690898,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690897,SAMN54690897,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690896,SAMN54690896,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690895,SAMN54690895,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690894,SAMN54690894,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690893,SAMN54690893,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690892,SAMN54690892,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690891,SAMN54690891,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690890,SAMN54690890,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690889,SAMN54690889,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690888,SAMN54690888,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690887,SAMN54690887,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690886,SAMN54690886,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690885,SAMN54690885,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690884,SAMN54690884,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690883,SAMN54690883,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690882,SAMN54690882,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690881,SAMN54690881,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690880,SAMN54690880,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690879,SAMN54690879,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690878,SAMN54690878,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690877,SAMN54690877,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690876,SAMN54690876,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690875,SAMN54690875,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690874,SAMN54690874,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690873,SAMN54690873,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690872,SAMN54690872,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690871,SAMN54690871,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690870,SAMN54690870,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690869,SAMN54690869,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690868,SAMN54690868,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690867,SAMN54690867,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690866,SAMN54690866,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690865,SAMN54690865,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690864,SAMN54690864,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690863,SAMN54690863,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690862,SAMN54690862,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690861,SAMN54690861,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690860,SAMN54690860,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690859,SAMN54690859,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690858,SAMN54690858,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690857,SAMN54690857,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690856,SAMN54690856,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690855,SAMN54690855,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690854,SAMN54690854,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690853,SAMN54690853,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690852,SAMN54690852,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690851,SAMN54690851,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690850,SAMN54690850,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690849,SAMN54690849,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690848,SAMN54690848,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690847,SAMN54690847,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690846,SAMN54690846,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690845,SAMN54690845,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690844,SAMN54690844,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690843,SAMN54690843,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690842,SAMN54690842,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690841,SAMN54690841,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690840,SAMN54690840,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690839,SAMN54690839,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690838,SAMN54690838,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690837,SAMN54690837,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690836,SAMN54690836,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690835,SAMN54690835,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690834,SAMN54690834,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690833,SAMN54690833,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690832,SAMN54690832,,NA,feces,Sheep,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690831,SAMN54690831,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690830,SAMN54690830,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690829,SAMN54690829,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690828,SAMN54690828,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690827,SAMN54690827,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690826,SAMN54690826,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690825,SAMN54690825,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690824,SAMN54690824,,NA,Raw milk,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690823,SAMN54690823,,NA,Raw milk,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690822,SAMN54690822,,NA,Raw milk,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690821,SAMN54690821,,NA,Raw milk,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690820,SAMN54690820,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690819,SAMN54690819,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690818,SAMN54690818,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690817,SAMN54690817,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690816,SAMN54690816,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690815,SAMN54690815,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690814,SAMN54690814,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690813,SAMN54690813,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690812,SAMN54690812,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690811,SAMN54690811,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690810,SAMN54690810,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690809,SAMN54690809,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690808,SAMN54690808,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690807,SAMN54690807,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690806,SAMN54690806,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690805,SAMN54690805,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690804,SAMN54690804,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690803,SAMN54690803,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690802,SAMN54690802,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690801,SAMN54690801,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690800,SAMN54690800,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690799,SAMN54690799,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690798,SAMN54690798,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690797,SAMN54690797,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690796,SAMN54690796,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690795,SAMN54690795,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690794,SAMN54690794,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690793,SAMN54690793,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690792,SAMN54690792,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690791,SAMN54690791,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690790,SAMN54690790,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690789,SAMN54690789,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690788,SAMN54690788,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690787,SAMN54690787,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690786,SAMN54690786,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690785,SAMN54690785,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690784,SAMN54690784,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690783,SAMN54690783,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690782,SAMN54690782,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690781,SAMN54690781,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690780,SAMN54690780,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690779,SAMN54690779,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690778,SAMN54690778,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690777,SAMN54690777,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690776,SAMN54690776,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690775,SAMN54690775,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690774,SAMN54690774,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690773,SAMN54690773,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690772,SAMN54690772,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690771,SAMN54690771,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690770,SAMN54690770,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690769,SAMN54690769,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690768,SAMN54690768,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690767,SAMN54690767,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690766,SAMN54690766,,NA,Raw milk,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690765,SAMN54690765,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690764,SAMN54690764,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690763,SAMN54690763,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690762,SAMN54690762,,NA,cheese,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690761,SAMN54690761,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690760,SAMN54690760,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690759,SAMN54690759,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690758,SAMN54690758,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690757,SAMN54690757,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690756,SAMN54690756,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690755,SAMN54690755,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690754,SAMN54690754,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690753,SAMN54690753,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690752,SAMN54690752,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690751,SAMN54690751,,NA,feces,Cattle,unknown,Italy,,,,,,,,,Campylobacter jejuni
+54690750,SAMN54690750,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690749,SAMN54690749,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690748,SAMN54690748,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690747,SAMN54690747,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690746,SAMN54690746,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690745,SAMN54690745,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690744,SAMN54690744,,NA,feces,Cattle,2018,Italy,,,,,,,,,Campylobacter jejuni
+54690743,SAMN54690743,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690742,SAMN54690742,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690741,SAMN54690741,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690740,SAMN54690740,,NA,feces,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690739,SAMN54690739,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690738,SAMN54690738,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690737,SAMN54690737,,NA,feces,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690736,SAMN54690736,,NA,feces,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690735,SAMN54690735,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690734,SAMN54690734,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690733,SAMN54690733,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690732,SAMN54690732,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690731,SAMN54690731,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690730,SAMN54690730,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690729,SAMN54690729,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690728,SAMN54690728,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690727,SAMN54690727,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690726,SAMN54690726,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690725,SAMN54690725,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690724,SAMN54690724,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690723,SAMN54690723,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690722,SAMN54690722,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690721,SAMN54690721,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690720,SAMN54690720,,NA,Raw milk,Cattle,2016,Italy,,,,,,,,,Campylobacter jejuni
+54690719,SAMN54690719,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690718,SAMN54690718,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690717,SAMN54690717,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690716,SAMN54690716,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690715,SAMN54690715,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690714,SAMN54690714,,NA,feces,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690713,SAMN54690713,,NA,Carcass,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690712,SAMN54690712,,NA,Carcass,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690711,SAMN54690711,,NA,Carcass,Sheep,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690710,SAMN54690710,,NA,feces,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690709,SAMN54690709,,NA,Raw milk,Cattle,2017,Italy,,,,,,,,,Campylobacter jejuni
+54690708,SAMN54690708,,NA,feces,Cattle,2015,Italy,,,,,,,,,Campylobacter jejuni
+54681075,SAMN54681075,,01888942,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054506425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/506/425/GCA_054506425.1_PDT003054978.1,Campylobacter jejuni
+54681074,SAMN54681074,,01888943,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054506405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/506/405/GCA_054506405.1_PDT003054977.1,Campylobacter jejuni
+54681073,SAMN54681073,,01888940,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054505805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/805/GCA_054505805.1_PDT003054975.1,Campylobacter jejuni
+54681072,SAMN54681072,,01888938,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054505845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/845/GCA_054505845.1_PDT003054976.1,Campylobacter jejuni
+54680852,SAMN54680852,,01888944,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054505885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/885/GCA_054505885.1_PDT003054972.1,Campylobacter jejuni
+54680851,SAMN54680851,,01888939,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054505905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/905/GCA_054505905.1_PDT003054971.1,Campylobacter jejuni
+54680849,SAMN54680849,,01888937,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054505825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/825/GCA_054505825.1_PDT003054974.1,Campylobacter jejuni
+54680848,SAMN54680848,,01888941,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054505865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/865/GCA_054505865.1_PDT003054973.1,Campylobacter jejuni
+54684497,SAMN54684497,,PNUSAC061732,stool,,2025,USA,,,,,GCA_054505645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/645/GCA_054505645.1_PDT003054852.1,Campylobacter jejuni
+54684496,SAMN54684496,,PNUSAC061733,stool,,2025,USA,,,,,GCA_054505625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/625/GCA_054505625.1_PDT003054854.1,Campylobacter jejuni
+54684494,SAMN54684494,,PNUSAC061735,stool,,2026,USA,,,,,GCA_054505725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/725/GCA_054505725.1_PDT003054845.1,Campylobacter jejuni
+54684492,SAMN54684492,,PNUSAC061734,stool,,2025,USA,,,,,GCA_054504395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/504/395/GCA_054504395.1_PDT003054844.1,Campylobacter jejuni
+54680448,SAMN54680448,,PNUSAC061722,missing,,2025,USA,,,,,GCA_054503645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/645/GCA_054503645.1_PDT003054774.1,Campylobacter jejuni
+54680447,SAMN54680447,,PNUSAC061721,missing,,2025,USA,,,,,GCA_054503605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/605/GCA_054503605.1_PDT003054775.1,Campylobacter jejuni
+54680411,SAMN54680411,,PNUSAC061728,missing,,2025,USA,,,,,GCA_054503625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/625/GCA_054503625.1_PDT003054773.1,Campylobacter jejuni
+54680409,SAMN54680409,,PNUSAC061726,missing,,2025,USA,,,,,GCA_054503785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/785/GCA_054503785.1_PDT003054765.1,Campylobacter jejuni
+54680408,SAMN54680408,,PNUSAC061725,missing,,2025,USA,,,,,GCA_054503685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/685/GCA_054503685.1_PDT003054771.1,Campylobacter jejuni
+54680407,SAMN54680407,,PNUSAC061731,missing,,2026,USA,,,,,GCA_054503805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/805/GCA_054503805.1_PDT003054766.1,Campylobacter jejuni
+54680406,SAMN54680406,,PNUSAC061723,missing,,2025,USA,,,,,GCA_054503745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/745/GCA_054503745.1_PDT003054769.1,Campylobacter jejuni
+54680404,SAMN54680404,,PNUSAC061729,missing,,2025,USA,,,,,GCA_054503665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/665/GCA_054503665.1_PDT003054772.1,Campylobacter jejuni
+54680402,SAMN54680402,,PNUSAC061724,missing,,2025,USA,,,,,GCA_054503765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/765/GCA_054503765.1_PDT003054763.1,Campylobacter jejuni
+54680010,SAMN54680010,,26B00202,Milk: Raw bovine,,2026-01-06,USA:NY,,,,,GCA_054503405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/503/405/GCA_054503405.1_PDT003054738.1,Campylobacter jejuni
+54616752,SAMN54616752,,01889190,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054500945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/500/945/GCA_054500945.1_PDT003054536.1,Campylobacter jejuni
+54616830,SAMN54616830,,PNUSAC061718,missing,,2025,USA,,,,,GCA_054494885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/885/GCA_054494885.1_PDT003054473.1,Campylobacter jejuni
+54616828,SAMN54616828,,PNUSAC061717,missing,,2026,USA,,,,,GCA_054494925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/925/GCA_054494925.1_PDT003054477.1,Campylobacter jejuni
+54616827,SAMN54616827,,PNUSAC061716,missing,,2026,USA,,,,,GCA_054494905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/905/GCA_054494905.1_PDT003054471.1,Campylobacter jejuni
+54616180,SAMN54616180,,PNUSAC061607,missing,,2025,USA,,,,,GCA_054494945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/945/GCA_054494945.1_PDT003054454.1,Campylobacter jejuni
+54613051,SAMN54613051,,PNUSAC061715,missing,,2025,USA,,,,,GCA_054494605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/494/605/GCA_054494605.1_PDT003054349.1,Campylobacter jejuni
+54279118,SAMN54279118,,PNUSAC061257,missing,,2025,USA,,,,,GCA_054492375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/375/GCA_054492375.1_PDT003054232.1,Campylobacter jejuni
+54279117,SAMN54279117,,PNUSAC061256,missing,,2025,USA,,,,,GCA_054492435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/435/GCA_054492435.1_PDT003054188.1,Campylobacter jejuni
+54266047,SAMN54266047,,PNUSAC061234,missing,,2025,USA,,,,,GCA_054493375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/375/GCA_054493375.1_PDT003054235.1,Campylobacter jejuni
+54263008,SAMN54263008,,PNUSAC061233,missing,,2025,USA,,,,,GCA_054492475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/475/GCA_054492475.1_PDT003054185.1,Campylobacter jejuni
+54201174,SAMN54201174,,PNUSAC061192,missing,,2025,USA,,,,,GCA_054492395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/492/395/GCA_054492395.1_PDT003054213.1,Campylobacter jejuni
+54201172,SAMN54201172,,PNUSAC061191,missing,,2025,USA,,,,,GCA_054493475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/475/GCA_054493475.1_PDT003054191.1,Campylobacter jejuni

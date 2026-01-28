@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54869218,SAMEA121013105,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54867851,SAMEA121013101,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54867356,SAMEA121013106,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54864580,SAMEA121013100,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54864180,SAMEA121013107,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54864175,SAMEA121013102,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54862153,SAMEA121013104,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54857032,SAMEA121013110,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54856805,SAMEA121013109,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54856443,SAMEA121013108,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54856103,SAMEA121013111,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54855011,SAMEA121013103,Streptococcus pneumoniae,,Blood,,,,,,,,,,,,Streptococcus pneumoniae
+54572409,SAMN54572409,,D39 rpsL WT,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572408,SAMN54572408,,D39 7A 37-CE,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572407,SAMN54572407,,D39 + 6B,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572406,SAMN54572406,,D39 6B 37-CE,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572405,SAMN54572405,,D39 + 6A,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572404,SAMN54572404,,D39 33B 37-CE,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572403,SAMN54572403,,D39 + 19C,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572402,SAMN54572402,,D39 + [19C-f],,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572401,SAMN54572401,,D39 + [19C-f] + [6B 37-CE],,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572400,SAMN54572400,,D39 + [19C-f] + [6A 37-CE],,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572399,SAMN54572399,,D39 + [19C-f] + [19C 37-CE],,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572398,SAMN54572398,,D39 19C 37-CE,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572397,SAMN54572397,,D39 17A 37-CE,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572396,SAMN54572396,,6B WT,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572395,SAMN54572395,,6A WT,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54572394,SAMN54572394,,19C WT,,Homo sapiens,2025,"USA: Birmingham, Alabama",,,,,,,,,Streptococcus pneumoniae
+54747231,SAMEA116304095,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54746823,SAMEA116304227,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54746466,SAMEA116304048,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54745696,SAMEA116304340,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54744544,SAMEA116304537,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54529576,SAMN54529576,,,,Homo sapiens,,,,,,,GCA_054416335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/335/GCA_054416335.1_PDT003048783.1,Streptococcus pneumoniae
+54529575,SAMN54529575,,,,Homo sapiens,,,,,,,GCA_054416345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/345/GCA_054416345.1_PDT003048784.1,Streptococcus pneumoniae
+54529571,SAMN54529571,,,,Homo sapiens,,,,,,,GCA_054416475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/475/GCA_054416475.1_PDT003048775.1,Streptococcus pneumoniae
+54529568,SAMN54529568,,,,Homo sapiens,,,,,,,GCA_054416455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/455/GCA_054416455.1_PDT003048778.1,Streptococcus pneumoniae
+54529567,SAMN54529567,,,,Homo sapiens,,,,,,,GCA_054416435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/435/GCA_054416435.1_PDT003048779.1,Streptococcus pneumoniae
+54529565,SAMN54529565,,,,Homo sapiens,,,,,,,GCA_054416315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/416/315/GCA_054416315.1_PDT003048786.1,Streptococcus pneumoniae
+54680646,SAMN54680646,,LACPHL-SPEC-2026-00028,,Homo sapiens,,,,,,,GCA_054505385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/385/GCA_054505385.1_PDT003054873.1,Streptococcus pneumoniae
+54680643,SAMN54680643,,LACPHL-SPEC-2026-00025,,Homo sapiens,,,,,,,GCA_054505565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/565/GCA_054505565.1_PDT003054861.1,Streptococcus pneumoniae
+54680642,SAMN54680642,,LACPHL-SPEC-2026-00024,,Homo sapiens,,,,,,,GCA_054505545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/545/GCA_054505545.1_PDT003054862.1,Streptococcus pneumoniae
+54609264,SAMEA115840572,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608823,SAMEA115840623,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608695,SAMEA115840600,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608669,SAMEA115840514,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608552,SAMEA115840502,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608545,SAMEA115840538,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608465,SAMEA115840576,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608464,SAMEA115921612,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608337,SAMEA115840615,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608246,SAMEA115840589,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608079,SAMEA115840614,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54608001,SAMEA115840494,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607952,SAMEA115840622,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607693,SAMEA115840499,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607515,SAMEA115840510,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607487,SAMEA115840483,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607455,SAMEA115840566,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607446,SAMEA115840553,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607290,SAMEA115840552,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54607219,SAMEA115840507,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54606965,SAMEA115840596,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54606637,SAMEA115840575,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54606576,SAMEA115840619,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54557252,SAMEA115091409,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54557197,SAMEA115092522,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54369231,SAMN54369231,,LACPHL-SPEC-2025-00966,,Homo sapiens,,,,,,,GCA_054392345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/392/345/GCA_054392345.1_ASM5439234v1,Streptococcus pneumoniae
+54369230,SAMN54369230,,LACPHL-SPEC-2025-00965,,Homo sapiens,,,,,,,GCA_054392305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/392/305/GCA_054392305.1_ASM5439230v1,Streptococcus pneumoniae
+54369229,SAMN54369229,,LACPHL-SPEC-2025-00964,,Homo sapiens,,,,,,,GCA_054392325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/392/325/GCA_054392325.1_ASM5439232v1,Streptococcus pneumoniae
+54480084,SAMEA120905247,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54318083,SAMN54318083,,LACPHL-SPEC-2025-00963,,Homo sapiens,,,,,,,GCA_054457995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/457/995/GCA_054457995.1_ASM5445799v1,Streptococcus pneumoniae
+54318082,SAMN54318082,,LACPHL-SPEC-2025-00962,,Homo sapiens,,,,,,,GCA_054458015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/015/GCA_054458015.1_ASM5445801v1,Streptococcus pneumoniae
+54318079,SAMN54318079,,LACPHL-SPEC-2025-00959,,Homo sapiens,,,,,,,GCA_054458075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/075/GCA_054458075.1_ASM5445807v1,Streptococcus pneumoniae
+54318075,SAMN54318075,,LACPHL-SPEC-2025-00955,,Homo sapiens,,,,,,,GCA_054458155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/155/GCA_054458155.1_ASM5445815v1,Streptococcus pneumoniae
+54318073,SAMN54318073,,LACPHL-SPEC-2025-00953,,Homo sapiens,,,,,,,GCA_054458215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/458/215/GCA_054458215.1_ASM5445821v1,Streptococcus pneumoniae
+54441653,SAMEA115082815,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441626,SAMEA115082820,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441569,SAMEA115082823,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441444,SAMEA115082824,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441407,SAMEA115082816,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441370,SAMEA115082812,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441239,SAMEA115082809,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441221,SAMEA115082817,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441174,SAMEA115082818,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441151,SAMEA115082814,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441143,SAMEA115082821,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441141,SAMEA115082819,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441112,SAMEA115082829,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441100,SAMEA115082831,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441088,SAMEA115082822,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441069,SAMEA115082810,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441039,SAMEA115082830,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54441029,SAMEA115082825,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54440972,SAMEA115082808,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54440930,SAMEA115082813,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54440819,SAMEA115082811,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54396812,SAMEA117489048,,HUB-SP14455,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54396427,SAMEA117489053,,HUB-SP14629,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54396364,SAMEA117489079,,HUB-SP15153,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54396273,SAMEA117489084,,HUB-SP15283,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54396218,SAMEA117489051,,HUB-SP14494,Bronchial Aspirate (BAS),,,,,,,,,,,,Streptococcus pneumoniae
+54396202,SAMEA117489090,,HUB-SP15465,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54396104,SAMEA117489059,,HUB-SP14710,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54395970,SAMEA117489072,,HUB-SP15016,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54395389,SAMEA117489049,,HUB-SP14461,Bronchial Aspirate (BAS),,,,,,,,,,,,Streptococcus pneumoniae
+54395018,SAMEA117489058,,HUB-SP14704,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54394980,SAMEA117489071,,HUB-SP15004,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54394918,SAMEA117489091,,HUB-SP15484,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54394512,SAMEA117489073,,HUB-SP15036,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54394475,SAMEA117489057,,HUB-SP14699,Bronchial Aspirate (BAS),,,,,,,,,,,,Streptococcus pneumoniae
+54394444,SAMEA117489045,,HUB-SP14318,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54394195,SAMEA117489076,,HUB-SP15135,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54393970,SAMEA117489063,,HUB-SP14863,Bronchial Aspirate (BAS),,,,,,,,,,,,Streptococcus pneumoniae
+54393862,SAMEA117489080,,HUB-SP15164,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54393708,SAMEA117489086,,HUB-SP15371,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54393575,SAMEA117489096,,HUB-SP15578,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54393570,SAMEA117489065,,HUB-SP14868,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54393263,SAMEA117489081,,HUB-SP15184,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54393260,SAMEA117489075,,HUB-SP15078,Bronchial Aspirate (BAS),,,,,,,,,,,,Streptococcus pneumoniae
+54393184,SAMEA117489078,,HUB-SP15150,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54393073,SAMEA117489060,,HUB-SP14717,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392949,SAMEA117489093,,HUB-SP15555,Aqueous humor,,,,,,,,,,,,Streptococcus pneumoniae
+54392759,SAMEA117489067,,HUB-SP14874,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392744,SAMEA117489074,,HUB-SP15045,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392663,SAMEA117489054,,HUB-SP14672,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392609,SAMEA117489077,,HUB-SP15149,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392543,SAMEA117489070,,HUB-SP14994,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392533,SAMEA117489085,,HUB-SP15332,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392529,SAMEA117489044,,HUB-SP14308,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392470,SAMEA117489089,,HUB-SP15460,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392210,SAMEA117489050,,HUB-SP14492,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54392090,SAMEA117489043,,HUB-SP036785,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392031,SAMEA117489066,,HUB-SP14869,Ear exudate or pus,,,,,,,,,,,,Streptococcus pneumoniae
+54391855,SAMEA117489095,,HUB-SP15568,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54391823,SAMEA117489087,,HUB-SP15378,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391750,SAMEA117489094,,HUB-SP15560,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54391748,SAMEA117489068,,HUB-SP14970,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54391570,SAMEA117489092,,HUB-SP15488,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54391399,SAMEA117489064,,HUB-SP14867,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54390995,SAMEA117489062,,HUB-SP14854,Bronchial Aspirate (BAS),,,,,,,,,,,,Streptococcus pneumoniae
+54390945,SAMEA117489082,,HUB-SP15218,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390873,SAMEA117489088,,HUB-SP15379,tracheal aspirate,,,,,,,,,,,,Streptococcus pneumoniae
+54390473,SAMEA117489055,,HUB-SP14685,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54390443,SAMEA117489047,,HUB-SP14328,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54390418,SAMEA117489069,,HUB-SP14975,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54390398,SAMEA116109168,,HUB-SP04097,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390261,SAMEA117489052,,HUB-SP14561,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390236,SAMEA117489061,,HUB-SP14726,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54390225,SAMEA117489056,,HUB-SP14690,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54390121,SAMEA117489046,,HUB-SP14324,sputum,,,,,,,,,,,,Streptococcus pneumoniae
+54389959,SAMEA117489083,,HUB-SP15279,blood,,,,,,,,,,,,Streptococcus pneumoniae
+35554670,SAMN35554670,,tz09011,sputum,Homo sapiens,2009,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554669,SAMN35554669,,sy19037,sputum,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554668,SAMN35554668,,sy19035,sputum,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554667,SAMN35554667,,sy17011,sputum,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554666,SAMN35554666,,sy17007,sputum,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554665,SAMN35554665,,sy16029,sputum,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554664,SAMN35554664,,sy16013,sputum,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554663,SAMN35554663,,sy15031,sputum,Homo sapiens,2015,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554662,SAMN35554662,,sy15005,sputum,Homo sapiens,2015,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554661,SAMN35554661,,sy15003,sputum,Homo sapiens,2015,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554660,SAMN35554660,,sy14019,sputum,Homo sapiens,2014,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554659,SAMN35554659,,sy14018,sputum,Homo sapiens,2014,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554658,SAMN35554658,,qz22027,sputum,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554657,SAMN35554657,,qz22024,sputum,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554656,SAMN35554656,,qz22022,sputum,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554655,SAMN35554655,,qz22014,sputum,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554654,SAMN35554654,,qz22006,sputum,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554653,SAMN35554653,,qz22004,sputum,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554652,SAMN35554652,,qz21031,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554651,SAMN35554651,,qz21028,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554650,SAMN35554650,,qz21024,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554649,SAMN35554649,,qz21018,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554648,SAMN35554648,,qz21017,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554647,SAMN35554647,,qz21012,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554646,SAMN35554646,,qz21010,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554645,SAMN35554645,,qz21004,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554644,SAMN35554644,,qz21003,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554643,SAMN35554643,,qz20045,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554642,SAMN35554642,,qz20043,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554641,SAMN35554641,,qz20041,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554640,SAMN35554640,,qz20024,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554639,SAMN35554639,,qz20016,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554638,SAMN35554638,,qz20012,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554637,SAMN35554637,,qz20011,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554636,SAMN35554636,,qz10017,pus,Homo sapiens,2010,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554635,SAMN35554635,,qz09009,sputum,Homo sapiens,2009,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554634,SAMN35554634,,jx10012,oropharynx,Homo sapiens,2010,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554633,SAMN35554633,,jx10011,urine,Homo sapiens,2010,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554632,SAMN35554632,,jx10005,sputum,Homo sapiens,2010,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554631,SAMN35554631,,jx09002,missing,Homo sapiens,2009,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554630,SAMN35554630,,jh21048,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554629,SAMN35554629,,jh21030,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554628,SAMN35554628,,jh20031,sputum,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554627,SAMN35554627,,hz21006,sputum,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554626,SAMN35554626,,hz17005,sputum,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554625,SAMN35554625,,hz17003,sputum,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554624,SAMN35554624,,hz11001,sputum,Homo sapiens,2011,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554623,SAMN35554623,,dy20008,fester,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554622,SAMN35554622,,dy19018,throat swabs,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554621,SAMN35554621,,dy19008,sputum,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554620,SAMN35554620,,dy18006,throat swabs,Homo sapiens,2018,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554619,SAMN35554619,,qz22005,blood,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554618,SAMN35554618,,qz20034,blood,Homo sapiens,2022,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554617,SAMN35554617,,qz20023,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554616,SAMN35554616,,qz20021,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554615,SAMN35554615,,dy21004,blood,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554614,SAMN35554614,,dy21002,blood,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554613,SAMN35554613,,dy20009,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554612,SAMN35554612,,dy20006,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554611,SAMN35554611,,dy20004,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554610,SAMN35554610,,dy20002,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554609,SAMN35554609,,dy19016,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554608,SAMN35554608,,dy19013,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554607,SAMN35554607,,dy19012,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554606,SAMN35554606,,dy19011,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554605,SAMN35554605,,dy19010,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554604,SAMN35554604,,dy19001,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554603,SAMN35554603,,dy18001,blood,Homo sapiens,2018,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554602,SAMN35554602,,dy17020,blood,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554601,SAMN35554601,,dy17017,blood,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554600,SAMN35554600,,sx21001,blood,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554599,SAMN35554599,,hz21001,blood,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554598,SAMN35554598,,hz20009,BALF,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554597,SAMN35554597,,hz20001,blood,Homo sapiens,2020,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554596,SAMN35554596,,hz19016,BLAF,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554595,SAMN35554595,,hz19011,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554594,SAMN35554594,,hz19009,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554593,SAMN35554593,,hz19007,CSF,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554592,SAMN35554592,,hz19001,BALF,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554591,SAMN35554591,,sy19026,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554590,SAMN35554590,,sy19023,BALF,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554589,SAMN35554589,,sy19020,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554588,SAMN35554588,,sy19009,blood,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554587,SAMN35554587,,sy19004,BALF,Homo sapiens,2019,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554586,SAMN35554586,,hz18001,CSF,Homo sapiens,2018,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554585,SAMN35554585,,sy18014,blood,Homo sapiens,2018,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554584,SAMN35554584,,sy18003,blood,Homo sapiens,2018,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554583,SAMN35554583,,hz17014,blood,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554582,SAMN35554582,,hz16011,CSF,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554581,SAMN35554581,,hz16003,blood,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554580,SAMN35554580,,sy15008,blood,Homo sapiens,2015,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554579,SAMN35554579,,sy14054,blood,Homo sapiens,2014,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554578,SAMN35554578,,sy13020,blood,Homo sapiens,2013,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554577,SAMN35554577,,hz11016,CSF,Homo sapiens,2011,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554576,SAMN35554576,,qz10005,blood,Homo sapiens,2010,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+35554575,SAMN35554575,,jx10013,blood,Homo sapiens,2010,China:Zhejiang,,,,,,,,,Streptococcus pneumoniae
+54396853,SAMEA116109172,,HUB-SP04577,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54396834,SAMEA116109189,,HUB-SP09113,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54396605,SAMEA116109187,,HUB-SP08331,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54395863,SAMEA116109169,,HUB-SP04301,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54395822,SAMEA116109164,,HUB-SP02976,Pleural fluid,,,,,,,,,,,,Streptococcus pneumoniae
+54395719,SAMEA116109192,,HUB-SP09710,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54395546,SAMEA116109162,,HUB-SP02919,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54395067,SAMEA116109171,,HUB-SP04366,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54394948,SAMEA116109163,,HUB-SP02956,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54394886,SAMEA116109195,,HUB-SP10996,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54394796,SAMEA116109200,,HUB-SP12809,Pleural fluid,,,,,,,,,,,,Streptococcus pneumoniae
+54394693,SAMEA116109165,,HUB-SP03292,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54394057,SAMEA116109177,,HUB-SP06244,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54393850,SAMEA116109199,,HUB-SP12638,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54393623,SAMEA116109194,,HUB-SP10591,Pleural fluid,,,,,,,,,,,,Streptococcus pneumoniae
+54393526,SAMEA116109174,,HUB-SP04958,Pleural fluid,,,,,,,,,,,,Streptococcus pneumoniae
+54393309,SAMEA116109180,,HUB-SP06493,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54393042,SAMEA116109173,,HUB-SP04818,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392943,SAMEA116109167,,HUB-SP04002,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392873,SAMEA116109183,,HUB-SP07075,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392421,SAMEA116109186,,HUB-SP08293,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392328,SAMEA116109166,,HUB-SP03930,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54392085,SAMEA116109179,,HUB-SP06329,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391877,SAMEA116109181,,HUB-SP06524,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391869,SAMEA116109190,,HUB-SP09162,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391767,SAMEA116109178,,HUB-SP06321,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391745,SAMEA116109193,,HUB-SP09716,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391712,SAMEA116109198,,HUB-SP11323,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391614,SAMEA116109182,,HUB-SP06701,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54391469,SAMEA116109184,,HUB-SP07264,Pleural fluid,,,,,,,,,,,,Streptococcus pneumoniae
+54391349,SAMEA116109196,,HUB-SP11165,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390774,SAMEA116109185,,HUB-SP07761,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390730,SAMEA116109197,,HUB-SP11235,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390709,SAMEA116109191,,HUB-SP09603,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390623,SAMEA116109170,,HUB-SP04361,Pleural fluid,,,,,,,,,,,,Streptococcus pneumoniae
+54390581,SAMEA116109176,,HUB-SP05477,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390202,SAMEA116109175,,HUB-SP04987,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54390197,SAMEA116109188,,HUB-SP08820,blood,,,,,,,,,,,,Streptococcus pneumoniae
+54379884,SAMEA120856772,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54379037,SAMEA120856773,,,,,,,,,,,,,,,Streptococcus pneumoniae
+52405018,SAMN52405018,,23F,,Homo sapiens,2023-07,China: ShenZhen,,,,,,,,,Streptococcus pneumoniae
+52405017,SAMN52405017,,02,,Homo sapiens,2023-07,China: ShenZhen,,,,,,,,,Streptococcus pneumoniae
+52405016,SAMN52405016,,01,,Homo sapiens,2023-03,China: ShenZhen,,,,,,,,,Streptococcus pneumoniae
+51588227,SAMN51588227,,LACPHL-SPEC-2025-00776,,Homo sapiens,,,,,,,GCA_054301545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/301/545/GCA_054301545.1_ASM5430154v1,Streptococcus pneumoniae
+51588224,SAMN51588224,,LACPHL-SPEC-2025-00773,,Homo sapiens,,,,,,,GCA_054301605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/301/605/GCA_054301605.1_ASM5430160v1,Streptococcus pneumoniae
+54293542,SAMEA115840486,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293533,SAMEA115840517,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293508,SAMEA115840541,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293503,SAMEA115840539,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293463,SAMEA115840556,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293374,SAMEA115840597,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293352,SAMEA115840526,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293327,SAMEA115840509,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293218,SAMEA115840594,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293215,SAMEA115840562,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293200,SAMEA115840505,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293167,SAMEA115840555,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293077,SAMEA115840546,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293029,SAMEA115840585,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54293006,SAMEA115840487,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292986,SAMEA115840561,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292907,SAMEA115840528,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292853,SAMEA115840480,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292781,SAMEA115840598,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292733,SAMEA115840492,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292587,SAMEA115840560,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292552,SAMEA115840550,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292421,SAMEA115840496,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292296,SAMEA115840490,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292280,SAMEA115840516,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292201,SAMEA115840515,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292186,SAMEA115840573,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292141,SAMEA115840534,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292124,SAMEA115840549,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292024,SAMEA115840482,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54292022,SAMEA115840591,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291960,SAMEA115840579,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291953,SAMEA115840531,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291876,SAMEA115840565,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291859,SAMEA115840571,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291753,SAMEA115840564,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291725,SAMEA115840533,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291682,SAMEA115840484,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291613,SAMEA115840525,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291486,SAMEA115840588,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291456,SAMEA115840511,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291439,SAMEA115840506,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291429,SAMEA115840540,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291415,SAMEA115840489,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291354,SAMEA115840551,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291296,SAMEA115840491,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291290,SAMEA115840521,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291286,SAMEA115840495,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291260,SAMEA115840558,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291157,SAMEA115840593,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291083,SAMEA115840488,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291055,SAMEA115840583,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54291033,SAMEA115840520,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290956,SAMEA115840508,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290871,SAMEA115840542,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290731,SAMEA115840617,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290694,SAMEA115840497,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290685,SAMEA115840584,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290644,SAMEA115840504,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290641,SAMEA115840557,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290582,SAMEA115840554,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290507,SAMEA115840581,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290490,SAMEA115840610,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290419,SAMEA115840578,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290317,SAMEA115840498,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290274,SAMEA115840547,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290212,SAMEA115840590,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290175,SAMEA115840616,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54290070,SAMEA115840621,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289919,SAMEA115840545,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289866,SAMEA115840587,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289848,SAMEA115840493,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289790,SAMEA115840592,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289703,SAMEA115840524,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289515,SAMEA115840574,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289477,SAMEA115840522,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289447,SAMEA115840595,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289445,SAMEA115840527,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289379,SAMEA115840519,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289329,SAMEA115840618,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289295,SAMEA115840481,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289290,SAMEA115840485,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289253,SAMEA115840577,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289183,SAMEA115840569,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289138,SAMEA115840599,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289057,SAMEA115840567,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289039,SAMEA115840530,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54289009,SAMEA115840609,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288954,SAMEA115840568,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288866,SAMEA115840605,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288857,SAMEA115840536,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288767,SAMEA115840586,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288752,SAMEA115840535,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288700,SAMEA115840548,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288531,SAMEA115840513,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288404,SAMEA115840503,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288391,SAMEA115840612,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288376,SAMEA115840602,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288375,SAMEA115840601,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288364,SAMEA115840544,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288266,SAMEA115840580,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288257,SAMEA116304643,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288252,SAMEA115840532,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288220,SAMEA115840529,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288167,SAMEA115840613,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54288109,SAMEA115840608,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287989,SAMEA115840518,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287926,SAMEA115840570,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287612,SAMEA115840620,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287597,SAMEA115840523,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287555,SAMEA115840607,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287467,SAMEA115840501,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287410,SAMEA115840563,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287318,SAMEA115840582,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287223,SAMEA115840512,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287189,SAMEA115840559,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287075,SAMEA115840606,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287036,SAMEA115840543,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287022,SAMEA115840604,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54287016,SAMEA115840603,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54286968,SAMEA115840611,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54286913,SAMEA115840500,,,,,,,,,,,,,,,Streptococcus pneumoniae
+54286899,SAMEA120832024,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54204585,SAMN54204585,,LACPHL-SPEC-2025-00934,,Homo sapiens,,,,,,,GCA_054087615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/615/GCA_054087615.1_PDT003030314.1,Streptococcus pneumoniae
+54204583,SAMN54204583,,LACPHL-SPEC-2025-00932,,Homo sapiens,,,,,,,GCA_054087785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/785/GCA_054087785.1_PDT003030297.1,Streptococcus pneumoniae
+54204582,SAMN54204582,,LACPHL-SPEC-2025-00931,,Homo sapiens,,,,,,,GCA_054087825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/825/GCA_054087825.1_PDT003030298.1,Streptococcus pneumoniae
+54204581,SAMN54204581,,LACPHL-SPEC-2025-00930,,Homo sapiens,,,,,,,GCA_054087765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/765/GCA_054087765.1_PDT003030299.1,Streptococcus pneumoniae
+54204580,SAMN54204580,,LACPHL-SPEC-2025-00929,,Homo sapiens,,,,,,,GCA_054087745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/745/GCA_054087745.1_PDT003030300.1,Streptococcus pneumoniae
+54204579,SAMN54204579,,LACPHL-SPEC-2025-00928,,Homo sapiens,,,,,,,GCA_054087385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/385/GCA_054087385.1_PDT003030301.1,Streptococcus pneumoniae
+54204577,SAMN54204577,,LACPHL-SPEC-2025-00926,,Homo sapiens,,,,,,,GCA_054087365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/365/GCA_054087365.1_PDT003030303.1,Streptococcus pneumoniae
+54204574,SAMN54204574,,LACPHL-SPEC-2025-00923,,Homo sapiens,,,,,,,GCA_054087305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/305/GCA_054087305.1_PDT003030317.1,Streptococcus pneumoniae
+54276763,SAMEA120832096,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276762,SAMEA120832180,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276761,SAMEA120832056,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276760,SAMEA120832154,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276759,SAMEA120832147,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276758,SAMEA120832196,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276757,SAMEA120832068,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276756,SAMEA120831992,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276755,SAMEA120832051,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276754,SAMEA120832043,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276753,SAMEA120831996,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276752,SAMEA120832202,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276751,SAMEA120832256,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276750,SAMEA120832219,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276749,SAMEA120832126,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276748,SAMEA120832059,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276746,SAMEA120831998,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276745,SAMEA120832113,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276744,SAMEA120832264,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276743,SAMEA120832032,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276742,SAMEA120832011,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276741,SAMEA120832085,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276739,SAMEA120832228,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276738,SAMEA120832062,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276737,SAMEA120832185,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276736,SAMEA120832207,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276734,SAMEA120832234,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276733,SAMEA120832046,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276732,SAMEA120832080,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276731,SAMEA120832135,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276730,SAMEA120832167,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276729,SAMEA120832236,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276728,SAMEA120832018,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276727,SAMEA120832120,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276726,SAMEA120832095,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276722,SAMEA120832090,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276721,SAMEA120832071,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276720,SAMEA120832150,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276719,SAMEA120832073,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276718,SAMEA120832245,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276717,SAMEA120832212,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276716,SAMEA120832009,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276715,SAMEA120832133,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276714,SAMEA120832197,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276713,SAMEA120832101,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276712,SAMEA120832265,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276711,SAMEA120832048,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276710,SAMEA120832218,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276709,SAMEA120832125,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276708,SAMEA120832038,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276706,SAMEA120832177,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276705,SAMEA120832115,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276704,SAMEA120832035,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276703,SAMEA120832254,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276702,SAMEA120832262,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276700,SAMEA120832224,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276699,SAMEA120832057,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276698,SAMEA120832145,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276697,SAMEA120832194,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276696,SAMEA120832166,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276695,SAMEA120832066,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276694,SAMEA120832092,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276693,SAMEA120832159,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276692,SAMEA120832184,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276691,SAMEA120832223,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276689,SAMEA120832001,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276688,SAMEA120832108,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276687,SAMEA120832175,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276686,SAMEA120832075,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276685,SAMEA120832249,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276684,SAMEA120832029,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276682,SAMEA120832040,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276681,SAMEA120832172,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276680,SAMEA120832233,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276679,SAMEA120832004,,,human,,,,,,,,,,,,Streptococcus pneumoniae
+54276678,SAMEA120832230,,,human,,,,,,,,,,,,Streptococcus pneumoniae

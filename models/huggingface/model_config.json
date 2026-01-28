@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-01-26T10:59:02.501284",
+  "esm2_models": {
+    "8M": "facebook/esm2_t6_8M_UR50D",
+    "35M": "facebook/esm2_t12_35M_UR50D",
+    "150M": "facebook/esm2_t30_150M_UR50D",
+    "650M": "facebook/esm2_t33_650M_UR50D",
+    "3B": "facebook/esm2_t36_3B_UR50D"
+  },
+  "dnabert2_model": "zhihan1996/DNABERT-2-117M",
+  "selected_esm2_size": "35M",
+  "feature_extraction": {
+    "esm2_available": false,
+    "dnabert2_available": false,
+    "device": "mps"
+  },
+  "data_info": {
+    "organism_classes": [
+      "Acinetobacter baumannii",
+      "Enterococcus faecalis",
+      "Enterococcus faecium",
+      "Escherichia coli",
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa",
+      "Salmonella enterica",
+      "Staphylococcus aureus"
+    ],
+    "drug_classes": [
+      "aminoglycoside",
+      "beta-lactam",
+      "fosfomycin",
+      "glycopeptide",
+      "macrolide",
+      "phenicol",
+      "quinolone",
+      "rifampicin",
+      "sulfonamide",
+      "tetracycline",
+      "trimethoprim"
+    ]
+  }
+}

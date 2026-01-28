@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54875673,SAMN54875673,,FSIS22619849,RTE Product,,2026,USA:WI,,,,,GCA_054694315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/694/315/GCA_054694315.1_PDT003066867.1,Listeria monocytogenes
+54873434,SAMN54873434,,FSIS12642703,"Product-RTE-Fully Cooked, Salad/Spread/Pate-Pork",,2026,USA:FL,,,,,GCA_054690515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/690/515/GCA_054690515.1_PDT003066774.1,Listeria monocytogenes
+54873433,SAMN54873433,,FSIS12642704,"Product-RTE-Fully Cooked, Salad/Spread/Pate-Pork",,2026,USA:FL,,,,,GCA_054690595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/690/595/GCA_054690595.1_PDT003066772.1,Listeria monocytogenes
+54873432,SAMN54873432,,FSIS12642701,"Product-RTE-Fully Cooked, Salad/Spread/Pate-Pork",,2026,USA:FL,,,,,GCA_054690545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/690/545/GCA_054690545.1_PDT003066773.1,Listeria monocytogenes
+54873424,SAMN54873424,,FSIS12642700,"Product-RTE-Fully Cooked, Salad/Spread/Pate-Pork",,2026,USA:FL,,,,,GCA_054690675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/690/675/GCA_054690675.1_PDT003066767.1,Listeria monocytogenes
+54873423,SAMN54873423,,FSIS12642702,"Product-RTE-Fully Cooked, Salad/Spread/Pate-Pork",,2026,USA:FL,,,,,GCA_054690645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/690/645/GCA_054690645.1_PDT003066770.1,Listeria monocytogenes
+54873404,SAMN54873404,,FSIS12642699,RTE Product,,2026,USA:NJ,,,,,GCA_054687395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/687/395/GCA_054687395.1_PDT003066754.1,Listeria monocytogenes
+54872888,SAMN54872888,,PNUSAL025961,missing,,2026,USA,,,,,GCA_054685175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/685/175/GCA_054685175.1_PDT003066746.1,Listeria monocytogenes
+54860898,SAMEA121025532,Listeria monocytogenes,,,,,,,,,,,,,,Listeria monocytogenes
+54855798,SAMEA121025533,Listeria monocytogenes,,,,,,,,,,,,,,Listeria monocytogenes
+54803060,SAMN54803060,,01895248,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054667075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/667/075/GCA_054667075.1_PDT003064452.1,Listeria monocytogenes
+54803059,SAMN54803059,,01895062,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054667035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/667/035/GCA_054667035.1_PDT003064453.1,Listeria monocytogenes
+54802956,SAMN54802956,,PNUSAL025960,missing,,2026,USA,,,,,GCA_054652495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/495/GCA_054652495.1_PDT003064168.1,Listeria monocytogenes
+54802805,SAMN54802805,,PNUSAL025940,missing,,2026,USA,,,,,GCA_054652475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/652/475/GCA_054652475.1_PDT003064108.1,Listeria monocytogenes
+54799972,SAMN54799972,,PNUSAL025954,missing,,2026,USA,,,,,GCA_054646245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/646/245/GCA_054646245.1_PDT003063513.1,Listeria monocytogenes
+54799125,SAMN54799125,,PNUSAL025953,blood,,2026,USA,,,,,GCA_054643915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/643/915/GCA_054643915.1_PDT003063182.1,Listeria monocytogenes
+54798876,SAMN54798876,,133,pork kebab in marinade,,2023-06-08,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798875,SAMN54798875,,127,chicken fillet,,2023-05-30,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798874,SAMN54798874,,126,schnitzel,,2023-05-30,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798873,SAMN54798873,,111,chicken breast fillet,,2023-05-02,Russia: Vologda,,,,,,,,,Listeria monocytogenes
+54798871,SAMN54798871,,97,meatballs,,2023-04-20,Russia: Veliky Ustyug,,,,,,,,,Listeria monocytogenes
+54798870,SAMN54798870,,95,kebab,,2023-04-19,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798869,SAMN54798869,,92,blood serum,Homo sapiens,2023-04-19,Russia: Vologda,,,,,,,,,Listeria monocytogenes
+54798868,SAMN54798868,,88,ready-to-eat fish rolls,,2023-04-13,Russia: Vologda,,,,,,,,,Listeria monocytogenes
+54798867,SAMN54798867,,84,beef cutlet,,2023-04-12,Russia: Sokol,,,,,,,,,Listeria monocytogenes
+54798866,SAMN54798866,,65,homemade minced meat,,2023-04-04,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798865,SAMN54798865,,37,food processing surface,,2023-02-27,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798864,SAMN54798864,,36,raw milk,,2023-02-24,Russia: Vologda,,,,,,,,,Listeria monocytogenes
+54798863,SAMN54798863,,35,raw skim milk,,2023-02-24,Russia: Vologda,,,,,,,,,Listeria monocytogenes
+54798862,SAMN54798862,,27,pork kebab in marinade,,2023-02-03,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798861,SAMN54798861,,26,preserved pink salmon in oil,,2023-01-03,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798860,SAMN54798860,,25,pork kebab in marinade,,2023-02-02,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798859,SAMN54798859,,24,pork meat,,2023-01-03,Russia: Cherepovets,,,,,,,,,Listeria monocytogenes
+54798858,SAMN54798858,,22,raw cream,,2023-02-01,Russia: Vologda,,,,,,,,,Listeria monocytogenes
+54798853,SAMN54798853,,27982,cod fillet,,2023-10-03,Russia: Leningrad Region,,,,,,,,,Listeria monocytogenes
+54798852,SAMN54798852,,155972,chilled trout fillet,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798851,SAMN54798851,,141929,frozen pork tenderloin,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798850,SAMN54798850,,154809,frozen cod fillet,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798849,SAMN54798849,,141735,cold-smoked salmon fillet,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798848,SAMN54798848,,141732,salmon soup set,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798846,SAMN54798846,,136589,frozen beef tenderloin,,2023-07,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798845,SAMN54798845,,148543,ready-to-eat salad without sauce,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798844,SAMN54798844,,27480,chicken thigh fillet,,2023-09-22,Russia: Leningrad Region,,,,,,,,,Listeria monocytogenes
+54798843,SAMN54798843,,155451,hot-smoked catfish fillet,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798841,SAMN54798841,,423,autopsy material from a stillborn baby: brain,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798840,SAMN54798840,,422,autopsy material from a stillborn baby: liver,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798839,SAMN54798839,,421,autopsy material from a stillborn baby: spleen,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798838,SAMN54798838,,419,autopsy material from a stillborn baby: lung,Homo sapiens,2023-08-29,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798837,SAMN54798837,,418,autopsy material from a stillborn baby: blood,Homo sapiens,2023-08-28,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798836,SAMN54798836,,417,autopsy material from a pregnant woman: blood,Homo sapiens,2023-08-26,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798835,SAMN54798835,,416,autopsy material from a pregnant woman: spleen,Homo sapiens,2023-08-25,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798834,SAMN54798834,,415,autopsy material from a pregnant woman: large intestine,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798833,SAMN54798833,,414,autopsy material from a pregnant woman:small intestine,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798832,SAMN54798832,,413,autopsy material from a pregnant woman: liver,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798831,SAMN54798831,,412,autopsy material from a pregnant woman: kidney,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798830,SAMN54798830,,411,autopsy material from a pregnant woman: lung,Homo sapiens,2023-08-27,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798829,SAMN54798829,,153399,frozen beef tenderloin,,2023-08-06,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798828,SAMN54798828,,153390,frozen beef tenderloin,,2023-08-05,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798827,SAMN54798827,,155363,gutted broiler chicken carcass,,2023-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798826,SAMN54798826,,138261,frozen boneless pollock fillet,,2023-07,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798825,SAMN54798825,,23204,boneless broiler chicken meat,,2023-08-24,Russia: Leningrad Region,,,,,,,,,Listeria monocytogenes
+54798824,SAMN54798824,,160,blood,Homo sapiens,2023-08-29,Russia: Pskov,,,,,,,,,Listeria monocytogenes
+54798822,SAMN54798822,,List_95_4,pork,,2023-10-03,Viet Nam: Nha Trang,,,,,,,,,Listeria monocytogenes
+54798821,SAMN54798821,,List_95_2,pork,,2023-10-02,Viet Nam: Nha Trang,,,,,,,,,Listeria monocytogenes
+54798820,SAMN54798820,,List_95_1,pork,,2023-10-01,Viet Nam: Nha Trang,,,,,,,,,Listeria monocytogenes
+54798818,SAMN54798818,,List_88_2,pork,,2023-10,Viet Nam: Nha Trang,,,,,,,,,Listeria monocytogenes
+54798817,SAMN54798817,,List_88_1,pork,,2023-10-11,Viet Nam: Nha Trang,,,,,,,,,Listeria monocytogenes
+54798816,SAMN54798816,,26007,perch fillet,,2023-09-05,Russia: Leningrad Region,,,,,,,,,Listeria monocytogenes
+54798815,SAMN54798815,,152086,frozen cod fillet,,2022-09,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798814,SAMN54798814,,145408,frozen chicken breast fillet,,2022-09,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798813,SAMN54798813,,131951,frozen salmon dumplings,,2022-09,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798812,SAMN54798812,,119569,vacuum-packed chilled trout fillet,,2022-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798811,SAMN54798811,,118786,frozen beef,,2022-08,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798809,SAMN54798809,,205028,frozen broiler chicken thigh fillet,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798808,SAMN54798808,,204930,frozen chicken thigh fillet,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798807,SAMN54798807,,203289,minced beef,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798806,SAMN54798806,,203288,boneless chicken thigh,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798805,SAMN54798805,,203149,frozen beef,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798803,SAMN54798803,,202359,broiler chicken meat,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798802,SAMN54798802,,198241,frozen pink salmon fillet,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798799,SAMN54798799,,191717,boneless poultry meat,,2022-12,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798797,SAMN54798797,,48324,swab of employee's hands,,2023-04,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798796,SAMN54798796,,48319,swab of tray for fish,,2023-04,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798795,SAMN54798795,,48318,swab of production table,,2023-04,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54798794,SAMN54798794,,48317,swab of conveying belt,,2023-04,Russia: Saint-Petersburg,,,,,,,,,Listeria monocytogenes
+54472080,SAMN54472080,,LMSR23,raw salmon,,2024-04-30,China:Qingdao,,,,,GCF_054557905.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/905/GCF_054557905.1_ASM5455790v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/905/GCA_054557905.1_ASM5455790v1,Listeria monocytogenes
+54472079,SAMN54472079,,LMSR20,raw salmon,,2024-04-29,China:Qingdao,,,,,GCF_054557825.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/825/GCF_054557825.1_ASM5455782v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/825/GCA_054557825.1_ASM5455782v1,Listeria monocytogenes
+54472078,SAMN54472078,,LMSR19,raw salmon,,2024-04-28,China:Qingdao,,,,,GCF_054558145.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/145/GCF_054558145.1_ASM5455814v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/145/GCA_054558145.1_ASM5455814v1,Listeria monocytogenes
+54472077,SAMN54472077,,LMSR18,raw salmon,,2024-04-27,China:Qingdao,,,,,GCF_054558045.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/045/GCF_054558045.1_ASM5455804v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/045/GCA_054558045.1_ASM5455804v1,Listeria monocytogenes
+54472076,SAMN54472076,,LMSR17,raw salmon,,2024-04-26,China:Qingdao,,,,,GCF_054558085.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/085/GCF_054558085.1_ASM5455808v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/085/GCA_054558085.1_ASM5455808v1,Listeria monocytogenes
+54472075,SAMN54472075,,LMSR16,raw salmon,,2024-04-25,China:Qingdao,,,,,GCF_054557945.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/945/GCF_054557945.1_ASM5455794v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/945/GCA_054557945.1_ASM5455794v1,Listeria monocytogenes
+54472074,SAMN54472074,,LMSR15,raw salmon,,2024-04-24,China:Qingdao,,,,,GCF_054558125.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/125/GCF_054558125.1_ASM5455812v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/125/GCA_054558125.1_ASM5455812v1,Listeria monocytogenes
+54472073,SAMN54472073,,LMSR14,raw salmon,,2024-04-23,China:Qingdao,,,,,GCF_054558065.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/065/GCF_054558065.1_ASM5455806v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/065/GCA_054558065.1_ASM5455806v1,Listeria monocytogenes
+54472072,SAMN54472072,,LMSR13,raw salmon,,2024-04-22,China:Qingdao,,,,,GCF_054557885.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/885/GCF_054557885.1_ASM5455788v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/885/GCA_054557885.1_ASM5455788v1,Listeria monocytogenes
+54472071,SAMN54472071,,LMSR11,raw salmon,,2024-04-21,China:Qingdao,,,,,GCF_054557925.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/925/GCF_054557925.1_ASM5455792v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/925/GCA_054557925.1_ASM5455792v1,Listeria monocytogenes
+54472070,SAMN54472070,,LMSR10,raw salmon,,2024-04-20,China:Qingdao,,,,,GCF_054558105.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/105/GCF_054558105.1_ASM5455810v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/105/GCA_054558105.1_ASM5455810v1,Listeria monocytogenes
+54472069,SAMN54472069,,LMSR08,raw salmon,,2024-04-18,China:Qingdao,,,,,GCF_054557865.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/865/GCF_054557865.1_ASM5455786v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/865/GCA_054557865.1_ASM5455786v1,Listeria monocytogenes
+54472068,SAMN54472068,,LMSR07,raw salmon,,2024-04-15,China:Qingdao,,,,,GCF_054557965.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/965/GCF_054557965.1_ASM5455796v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/965/GCA_054557965.1_ASM5455796v1,Listeria monocytogenes
+54472067,SAMN54472067,,LMSR06,raw salmon,,2024-04-13,China:Qingdao,,,,,GCF_054558025.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/025/GCF_054558025.1_ASM5455802v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/025/GCA_054558025.1_ASM5455802v1,Listeria monocytogenes
+54472066,SAMN54472066,,LMSR05,raw salmon,,2024-04-09,China:Qingdao,,,,,GCF_054557985.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/985/GCF_054557985.1_ASM5455798v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/985/GCA_054557985.1_ASM5455798v1,Listeria monocytogenes
+54472065,SAMN54472065,,LMSR04,raw salmon,,2024-04-08,China:Qingdao,,,,,GCF_054558005.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/005/GCF_054558005.1_ASM5455800v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/005/GCA_054558005.1_ASM5455800v1,Listeria monocytogenes
+54472064,SAMN54472064,,LMSR03,raw salmon,,2024-04-07,China:Qingdao,,,,,GCF_054557805.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/805/GCF_054557805.1_ASM5455780v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/805/GCA_054557805.1_ASM5455780v1,Listeria monocytogenes
+54472063,SAMN54472063,,LMSR01,raw salmon,,2024-04-05,China:Qingdao,,,,,GCF_054557785.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/557/785/GCF_054557785.1_ASM5455778v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/557/785/GCA_054557785.1_ASM5455778v1,Listeria monocytogenes
+54456614,SAMN54456614,,LMSR21,raw salmon,,2024-05-17,China:Qingdao,,,,,GCF_054558265.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/265/GCF_054558265.1_ASM5455826v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/265/GCA_054558265.1_ASM5455826v1,Listeria monocytogenes
+54455899,SAMN54455899,,LMSR22,raw salmon,,2024-05-15,China:Qingdao,,,,,GCF_054558285.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/285/GCF_054558285.1_ASM5455828v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/285/GCA_054558285.1_ASM5455828v1,Listeria monocytogenes
+54453864,SAMN54453864,,LMSR12,raw salmon,,2024-05-08,China:Qingdao,,,,,GCF_054558165.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/165/GCF_054558165.1_ASM5455816v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/165/GCA_054558165.1_ASM5455816v1,Listeria monocytogenes
+54453711,SAMN54453711,,LMSR09,raw salmon,,2024-05-07,China:Qingdao,,,,,GCF_054558175.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/175/GCF_054558175.1_ASM5455817v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/175/GCA_054558175.1_ASM5455817v1,Listeria monocytogenes
+54453558,SAMN54453558,,LMSR02,raw salmon,,2024-05-05,China:Qingdao,,,,,GCF_054558205.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/558/205/GCF_054558205.1_ASM5455820v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/558/205/GCA_054558205.1_ASM5455820v1,Listeria monocytogenes
+54769723,SAMD01797760,,SC14,spicy cod roe,,2021-10-20,"Japan:Aichi, Nisshin",,,,,,,,,Listeria monocytogenes
+54768370,SAMN54768370,,PNUSAL025952,missing,,2026,USA,,,,,GCA_054592845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/592/845/GCA_054592845.1_PDT003061991.1,Listeria monocytogenes
+54765372,SAMN54765372,,PNUSAL025949,missing,,2026,USA,,,,,GCA_054583995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/583/995/GCA_054583995.1_PDT003061595.1,Listeria monocytogenes
+54765230,SAMN54765230,,FDA92-669-500-FNW2387,smoked sockeye salmon,,1993-08-25,USA:WA,,,,,GCA_054584055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/055/GCA_054584055.1_PDT003061589.1,Listeria monocytogenes
+54765229,SAMN54765229,,PNUSAL025951,sponge,,2026-01-06,USA:MN,,,,,GCA_054584035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/035/GCA_054584035.1_PDT003061593.1,Listeria monocytogenes
+54765227,SAMN54765227,,FDA92-669-498-FNW2386,environmental swab seafood processor,,1993-08-25,USA:WA,,,,,GCA_054584015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/015/GCA_054584015.1_PDT003061590.1,Listeria monocytogenes
+54765174,SAMN54765174,,PNUSAL025948,missing,,2025,USA,,,,,GCA_054584095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/095/GCA_054584095.1_PDT003061586.1,Listeria monocytogenes
+54765173,SAMN54765173,,FDA92-669-499-FNW2390,smoked sockeye salmon,,1993-08-25,USA:WA,,,,,GCA_054584295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/295/GCA_054584295.1_PDT003061566.1,Listeria monocytogenes
+54765172,SAMN54765172,,PNUSAL025950,missing,,2026,USA,,,,,GCA_054584075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/075/GCA_054584075.1_PDT003061588.1,Listeria monocytogenes
+54765169,SAMN54765169,,FDA92-576-619-FNW2389,imitation lobster,,1993-08-25,USA:WA,,,,,GCA_054584315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/584/315/GCA_054584315.1_PDT003061560.1,Listeria monocytogenes
+54765168,SAMN54765168,,FDA92-669-072-FNW2388,coleslaw,,1993-08-25,USA:CA,,,,,GCA_054668645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/668/645/GCA_054668645.1_PDT003066046.1,Listeria monocytogenes
+54763548,SAMN54763548,,PNUSAL025946,missing,,2025,USA,,,,,GCA_054582975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/582/975/GCA_054582975.1_PDT003061150.1,Listeria monocytogenes
+54763142,SAMN54763142,,PNUSAL025945,missing,,2026,USA,,,,,GCA_054576625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/625/GCA_054576625.1_PDT003061048.1,Listeria monocytogenes
+54762466,SAMN54762466,,PNUSAL025941,missing,,2025,USA,,,,,GCA_054576765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/765/GCA_054576765.1_PDT003061045.1,Listeria monocytogenes
+54762461,SAMN54762461,,PNUSAL025944,missing,,2025,USA,,,,,GCA_054576725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/725/GCA_054576725.1_PDT003061044.1,Listeria monocytogenes
+54762457,SAMN54762457,,PNUSAL025943,missing,,2025,USA,,,,,GCA_054576715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/715/GCA_054576715.1_PDT003061041.1,Listeria monocytogenes
+54760686,SAMN54760686,,PNUSAL025942,missing,,2026,USA,,,,,GCA_054576845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/576/845/GCA_054576845.1_PDT003061037.1,Listeria monocytogenes
+54754375,SAMN54754375,,01894083,food,NA,2026-01,United Kingdom: United Kingdom,,,,,GCA_054573915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/915/GCA_054573915.1_PDT003060469.1,Listeria monocytogenes
+54754374,SAMN54754374,,01894085,food,NA,2026-01,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54754369,SAMN54754369,,01894084,food,NA,2026-01,United Kingdom: United Kingdom,,,,,GCA_054573955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/955/GCA_054573955.1_PDT003060467.1,Listeria monocytogenes
+54754368,SAMN54754368,,01894082,food,NA,2026-01,United Kingdom: United Kingdom,,,,,GCA_054573935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/573/935/GCA_054573935.1_PDT003060466.1,Listeria monocytogenes
+54754367,SAMN54754367,,01888170,food,NA,2026-01,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54754366,SAMN54754366,,01893612,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54757300,SAMD01797755,,MP01,ground pork,,2020-08-17,"Japan:Aichi, Nisshin",,,,,,,,,Listeria monocytogenes
+54750457,SAMN54750457,,HPB222,na,n/a,na,Canada,,,,,,,,,Listeria monocytogenes
+54736606,SAMN54736606,,01893614,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054552995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/552/995/GCA_054552995.1_PDT003059086.1,Listeria monocytogenes
+54736605,SAMN54736605,,01893611,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54721600,SAMN54721600,,PNUSAL025938,missing,,2025,USA,,,,,GCA_054544015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/544/015/GCA_054544015.1_PDT003056007.1,Listeria monocytogenes
+54721599,SAMN54721599,,PNUSAL025939,missing,,2026,USA,,,,,GCA_054543995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/543/995/GCA_054543995.1_PDT003056008.1,Listeria monocytogenes
+54703312,SAMEA120939984,,,,,,,,,,,,,,,Listeria monocytogenes
+54703278,SAMEA120939983,,,,,,,,,,,,,,,Listeria monocytogenes
+54703213,SAMEA120939982,,,,,,,,,,,,,,,Listeria monocytogenes
+54710722,SAMN54710722,,PNUSAL025937,missing,,2026,USA,,,,,GCA_054509305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/305/GCA_054509305.1_PDT003055238.1,Listeria monocytogenes
+54710120,SAMN54710120,,PNUSAL025935,missing,,2025,USA,,,,,GCA_054509025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/509/025/GCA_054509025.1_PDT003055228.1,Listeria monocytogenes
+54710099,SAMN54710099,,PNUSAL025936,missing,,2025,USA,,,,,GCA_054508385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/508/385/GCA_054508385.1_PDT003055226.1,Listeria monocytogenes
+54691119,SAMN54691119,,PNUSAL025934,missing,,2026,USA,,,,,GCA_054506815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/506/815/GCA_054506815.1_PDT003054995.1,Listeria monocytogenes
+54691110,SAMN54691110,,PNUSAL025933,missing,,2025,USA,,,,,GCA_054506775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/506/775/GCA_054506775.1_PDT003054994.1,Listeria monocytogenes
+54691043,SAMN54691043,,PNUSAL025729,missing,,2025,USA,,,,,GCA_054506795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/506/795/GCA_054506795.1_PDT003054993.1,Listeria monocytogenes
+54684471,SAMN54684471,,PNUSAL025932,CSF,,2025,USA,,,,,GCA_054505985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/505/985/GCA_054505985.1_PDT003054833.1,Listeria monocytogenes
+54684470,SAMN54684470,,PNUSAL025931,blood,,2025,USA,,,,,GCA_054506085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/506/085/GCA_054506085.1_PDT003054828.1,Listeria monocytogenes
+54616759,SAMN54616759,,01889163,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054501005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/005/GCA_054501005.1_PDT003054534.1,Listeria monocytogenes
+54616756,SAMN54616756,,01889162,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054501025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/025/GCA_054501025.1_PDT003054532.1,Listeria monocytogenes
+54616755,SAMN54616755,,01889161,environmental,NA,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54616753,SAMN54616753,,01885602,environmental,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054500965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/500/965/GCA_054500965.1_PDT003054535.1,Listeria monocytogenes
+54609529,SAMN54609529,,PNUSAL025930,missing,,2025,USA,,,,,GCA_054493515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/515/GCA_054493515.1_PDT003054171.1,Listeria monocytogenes
+54262930,SAMN54262930,,PNUSAL025858,missing,,2025,USA,,,,,GCA_054493415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/415/GCA_054493415.1_PDT003054220.1,Listeria monocytogenes
+9211583,SAMN09211583,,SENASICA_Li_U90,,,2017-07-31,USA,,,,,,,,,Listeria monocytogenes
+9211582,SAMN09211582,,SENASICA_Li_U95,,,2017-07-31,USA,,,,,,,,,Listeria monocytogenes
+9211581,SAMN09211581,,SENASICA_Li_U89,,,2017-07-26,USA,,,,,,,,,Listeria monocytogenes
+9211580,SAMN09211580,,SENASICA_Li_U91,,,2017-07-31,USA,,,,,,,,,Listeria monocytogenes
+9211495,SAMN09211495,,SENASICA_Li_U97,,,2017-07-31,USA,,,,,,,,,Listeria monocytogenes
+9211369,SAMN09211369,,SENASICA_Li_U96,,,2017-07-31,USA,,,,,,,,,Listeria monocytogenes
+9211287,SAMN09211287,,SENASICA_Li_U88,,,2017-07-21,USA,,,,,,,,,Listeria monocytogenes
+9211276,SAMN09211276,,SENASICA_Li_U87,,,2017-07-05,USA,,,,,,,,,Listeria monocytogenes
+54595820,SAMN54595820,,PNUSAL025929,missing,,2026,USA,,,,,GCA_054490835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/490/835/GCA_054490835.1_PDT003054086.1,Listeria monocytogenes
+54575752,SAMN54575752,,01887153,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54575743,SAMN54575743,,01888171,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54575742,SAMN54575742,,01887152,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054486005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/486/005/GCA_054486005.1_PDT003053230.1,Listeria monocytogenes
+54577214,SAMN54577214,,PNUSAL025928,missing,,2025,USA,,,,,GCA_054479235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/479/235/GCA_054479235.1_PDT003053170.1,Listeria monocytogenes
+54576572,SAMN54576572,,PNUSAL025927,missing,,2026,USA,,,,,GCA_054478535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/478/535/GCA_054478535.1_PDT003053151.1,Listeria monocytogenes
+54575160,SAMN54575160,,PNUSAL025926,missing,,2025,USA,,,,,GCA_054477495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/477/495/GCA_054477495.1_PDT003052954.1,Listeria monocytogenes
+54575032,SAMN54575032,,PNUSAL025904,missing,,2025,USA,,,,,GCA_054477535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/477/535/GCA_054477535.1_PDT003052910.1,Listeria monocytogenes
+54572649,SAMN54572649,,PNUSAL025925,Ground Chicken Raw Pet Food,,2025-12,USA:CT,,,,,GCA_054476875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/875/GCA_054476875.1_PDT003052857.1,Listeria monocytogenes
+54553831,SAMN54553831,,PNUSAL025923,blood,,2025,USA,,,,,GCA_054444085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/444/085/GCA_054444085.1_PDT003050015.1,Listeria monocytogenes
+54553730,SAMN54553730,,PNUSAL025922,blood,,2025,USA,,,,,GCA_054444105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/444/105/GCA_054444105.1_PDT003049996.1,Listeria monocytogenes
+54553727,SAMN54553727,,PNUSAL025924,blood,,2025,USA,,,,,GCA_054444145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/444/145/GCA_054444145.1_PDT003049990.1,Listeria monocytogenes
+54553723,SAMN54553723,,PNUSAL025919,missing,,2025,USA,,,,,GCA_054444165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/444/165/GCA_054444165.1_PDT003049985.1,Listeria monocytogenes
+54553615,SAMN54553615,,PNUSAL025920,blood,,2025,USA,,,,,GCA_054444185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/444/185/GCA_054444185.1_PDT003049979.1,Listeria monocytogenes
+54553614,SAMN54553614,,PNUSAL025921,CSF,,2025,USA,,,,,GCA_054444205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/444/205/GCA_054444205.1_PDT003049976.1,Listeria monocytogenes
+54553482,SAMN54553482,,EHS2500069202-01-02,Wastewater influent,,2025-12-03,USA:NY,,,,,GCA_054442195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/442/195/GCA_054442195.1_PDT003049887.1,Listeria monocytogenes
+54553387,SAMN54553387,,PNUSAL025917,missing,,2025,USA,,,,,GCA_054442275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/442/275/GCA_054442275.1_PDT003049851.1,Listeria monocytogenes
+54551797,SAMN54551797,,PNUSAL025918,missing,,2026,USA,,,,,GCA_054441735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/735/GCA_054441735.1_PDT003049577.1,Listeria monocytogenes
+54549658,SAMN54549658,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549657,SAMN54549657,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549656,SAMN54549656,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549655,SAMN54549655,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549654,SAMN54549654,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549653,SAMN54549653,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549652,SAMN54549652,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549651,SAMN54549651,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549650,SAMN54549650,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549649,SAMN54549649,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549648,SAMN54549648,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549647,SAMN54549647,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549646,SAMN54549646,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549645,SAMN54549645,,not applicable,Food processing environment,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549644,SAMN54549644,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549643,SAMN54549643,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549642,SAMN54549642,,not applicable,food,,2022,Germany,,,,,,,,,Listeria monocytogenes
+54549641,SAMN54549641,,not applicable,food,,2021,Germany,,,,,,,,,Listeria monocytogenes
+54549640,SAMN54549640,,not applicable,Food processing environment,,2021,Germany,,,,,,,,,Listeria monocytogenes
+54549639,SAMN54549639,,not applicable,Food processing environment,,2021,Germany,,,,,,,,,Listeria monocytogenes
+54549638,SAMN54549638,,not applicable,Food processing environment,,2021,Germany,,,,,,,,,Listeria monocytogenes
+54549637,SAMN54549637,,not applicable,food,,2021,Germany,,,,,,,,,Listeria monocytogenes
+54549636,SAMN54549636,,not applicable,food,,2021,Germany,,,,,,,,,Listeria monocytogenes
+54549635,SAMN54549635,,not applicable,food,,2020,Germany,,,,,,,,,Listeria monocytogenes
+54549066,SAMN54549066,,PNUSAL025907,missing,,2025,USA,,,,,GCA_054440135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/135/GCA_054440135.1_PDT003049259.1,Listeria monocytogenes
+54549065,SAMN54549065,,PNUSAL025906,missing,,2025,USA,,,,,GCA_054440075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/075/GCA_054440075.1_PDT003049261.1,Listeria monocytogenes
+54548242,SAMN54548242,,PNUSAL025905,missing,,2025,USA,,,,,GCA_054472555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/472/555/GCA_054472555.1_PDT003050064.1,Listeria monocytogenes
+54548240,SAMN54548240,,NJDA-WGS-518,Raw Salmon,,2025-12,USA:NJ,,,,,GCA_054472635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/472/635/GCA_054472635.1_PDT003050062.1,Listeria monocytogenes
+54548239,SAMN54548239,,NJDA-WGS-517,Raw Chicken,,2025-12,USA:NJ,,,,,GCA_054472615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/472/615/GCA_054472615.1_PDT003050063.1,Listeria monocytogenes
+54528729,SAMN54528729,,26MDFML002005G,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/855/GCA_054412855.1_PDT003048665.1,Listeria monocytogenes
+54528728,SAMN54528728,,26MDFML002005F,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/835/GCA_054412835.1_PDT003048666.1,Listeria monocytogenes
+54528727,SAMN54528727,,26MDFML002005E,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/815/GCA_054412815.1_PDT003048667.1,Listeria monocytogenes
+54528726,SAMN54528726,,26MDFML002005D,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/795/GCA_054412795.1_PDT003048668.1,Listeria monocytogenes
+54528700,SAMN54528700,,26MDFML002005C,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054413015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/413/015/GCA_054413015.1_PDT003048649.1,Listeria monocytogenes
+54528699,SAMN54528699,,26MDFML002005B,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/995/GCA_054412995.1_PDT003048650.1,Listeria monocytogenes
+54528697,SAMN54528697,,26MDFML002003F,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/975/GCA_054412975.1_PDT003048651.1,Listeria monocytogenes
+54528696,SAMN54528696,,26MDFML002003E,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/955/GCA_054412955.1_PDT003048652.1,Listeria monocytogenes
+54528695,SAMN54528695,,26MDFML002003D,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/935/GCA_054412935.1_PDT003048653.1,Listeria monocytogenes
+54528694,SAMN54528694,,26MDFML002003C,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/915/GCA_054412915.1_PDT003048654.1,Listeria monocytogenes
+54528693,SAMN54528693,,26MDFML002003B,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/895/GCA_054412895.1_PDT003048655.1,Listeria monocytogenes
+54528692,SAMN54528692,,26MDFML002003A,Environmental sponge,,2025-12-02,USA:MD,,,,,GCA_054412875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/412/875/GCA_054412875.1_PDT003048656.1,Listeria monocytogenes
+54526014,SAMN54526014,,PNUSAL025903,missing,,2025,USA,,,,,GCA_054410895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/410/895/GCA_054410895.1_PDT003048411.1,Listeria monocytogenes
+54525673,SAMN54525673,,PNUSAL025902,missing,,2025,USA,,,,,GCA_054410415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/410/415/GCA_054410415.1_PDT003048401.1,Listeria monocytogenes
+54501326,SAMN54501326,,FDA1317936-S003-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/155/GCA_054507155.1_PDT003048049.1,Listeria monocytogenes
+54501324,SAMN54501324,,FDA1317936-S004-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/115/GCA_054507115.1_PDT003048052.1,Listeria monocytogenes
+54501323,SAMN54501323,,FDA1317936-S001-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/095/GCA_054507095.1_PDT003048051.1,Listeria monocytogenes
+54501321,SAMN54501321,,FDA1317936-S002-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/035/GCA_054507035.1_PDT003048050.1,Listeria monocytogenes
+54501318,SAMN54501318,,FDA1317936-S007-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/135/GCA_054507135.1_PDT003048046.1,Listeria monocytogenes
+54501315,SAMN54501315,,FDA1317936-S008-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/055/GCA_054507055.1_PDT003048048.1,Listeria monocytogenes
+54501314,SAMN54501314,,FDA1317936-S010-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/075/GCA_054507075.1_PDT003048047.1,Listeria monocytogenes
+54501308,SAMN54501308,,FDA1317936-S005-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/215/GCA_054507215.1_PDT003048044.1,Listeria monocytogenes
+54501307,SAMN54501307,,FDA1317936-S006-006,pet food treat of dried cod,,2025-11-24,Iceland,,,,,GCA_054507175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/507/175/GCA_054507175.1_PDT003048045.1,Listeria monocytogenes
+54498188,SAMN54498188,,01884754,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054408225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/225/GCA_054408225.1_PDT003047971.1,Listeria monocytogenes
+54498165,SAMN54498165,,01884756,food,NA,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54498162,SAMN54498162,,01884753,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054408285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/285/GCA_054408285.1_PDT003047967.1,Listeria monocytogenes
+54498161,SAMN54498161,,01884757,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54498113,SAMN54498113,,01884755,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54496725,SAMN54496725,,PNUSAL025725,missing,,2025,USA,,,,,GCA_054397245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/397/245/GCA_054397245.1_PDT003047897.1,Listeria monocytogenes
+54495430,SAMN54495430,,PNUSAL025901,Tissue,,2025-12-22,USA,,,,,GCA_054394685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/394/685/GCA_054394685.1_PDT003047763.1,Listeria monocytogenes
+54494338,SAMN54494338,,PNUSAL025900,missing,,2025,USA,,,,,GCA_054394185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/394/185/GCA_054394185.1_PDT003047759.1,Listeria monocytogenes
+54494243,SAMN54494243,,1325815A,sponge,,2025,USA:MO,,,,,GCA_054403915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/403/915/GCA_054403915.1_PDT003047748.1,Listeria monocytogenes
+54494162,SAMN54494162,,1325811C,swab,,2025,USA:MO,,,,,GCA_054401795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/401/795/GCA_054401795.1_PDT003047720.1,Listeria monocytogenes
+54494156,SAMN54494156,,1325815B,sponge,,2025,USA:MO,,,,,GCA_054403935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/403/935/GCA_054403935.1_PDT003047729.1,Listeria monocytogenes
+54494034,SAMN54494034,,1325811A,swab,,2025,USA:MO,,,,,GCA_054403995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/403/995/GCA_054403995.1_PDT003047714.1,Listeria monocytogenes
+54494033,SAMN54494033,,1325811D,swab,,2025,USA:MO,,,,,GCA_054401825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/401/825/GCA_054401825.1_PDT003047713.1,Listeria monocytogenes
+54494013,SAMN54494013,,1325815C,sponge,,2025,USA:MO,,,,,GCA_054401875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/401/875/GCA_054401875.1_PDT003047699.1,Listeria monocytogenes
+54493540,SAMN54493540,,PNUSAL025899,missing,,2025,USA,,,,,GCA_054394035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/394/035/GCA_054394035.1_PDT003047628.1,Listeria monocytogenes
+54493392,SAMN54493392,,PNUSAL025897,missing,,2025,USA,,,,,GCA_054393155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/393/155/GCA_054393155.1_PDT003047611.1,Listeria monocytogenes
+54470254,SAMN54470254,,PNUSAL025894,missing,,2025,USA,,,,,GCA_054380095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/380/095/GCA_054380095.1_PDT003046814.1,Listeria monocytogenes
+54469738,SAMN54469738,,PNUSAL025893,missing,,2025,USA,,,,,GCA_054379615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/379/615/GCA_054379615.1_PDT003046775.1,Listeria monocytogenes
+54469737,SAMN54469737,,PNUSAL025892,missing,,2025,USA,,,,,GCA_054378415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/378/415/GCA_054378415.1_PDT003046776.1,Listeria monocytogenes
+54466244,SAMN54466244,,PNUSAL025891,missing,,2025,USA,,,,,GCA_054373535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/373/535/GCA_054373535.1_PDT003046172.1,Listeria monocytogenes
+54465905,SAMN54465905,,PNUSAL025890,missing,,2025,USA,,,,,GCA_054374115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/374/115/GCA_054374115.1_PDT003046127.1,Listeria monocytogenes
+54448187,SAMN54448187,,01874972,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054367685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/367/685/GCA_054367685.1_PDT003045239.1,Listeria monocytogenes
+54485651,SAMEA120369769,,L. monocytogenes mutant strain,lab,,,,,,,,,,,,Listeria monocytogenes
+54450605,SAMN54450605,,PNUSAL025886,food,,2025-12,USA:CA,,,,,GCA_054352435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/352/435/GCA_054352435.1_PDT003045200.1,Listeria monocytogenes
+54450604,SAMN54450604,,PNUSAL025887,food,,2025-12,USA:CA,,,,,GCA_054352455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/352/455/GCA_054352455.1_PDT003045199.1,Listeria monocytogenes
+54449646,SAMN54449646,,FDA1318721-S022-001,environmental swab sponge,,2025-12-04,USA:NV,,,,,GCA_054350195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/350/195/GCA_054350195.1_PDT003045189.1,Listeria monocytogenes
+54448139,SAMN54448139,,FSIS32514472,RTE Product,,2025,USA:MO,,,,,GCA_054349195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/349/195/GCA_054349195.1_PDT003044782.1,Listeria monocytogenes
+54447681,SAMN54447681,,FDA92-881-FNW2383,smoked mussels,,1993-01-23,USA,,,,,GCA_054348655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/348/655/GCA_054348655.1_PDT003044739.1,Listeria monocytogenes
+54416017,SAMN54416017,,01883591,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54415985,SAMN54415985,,01883594,food,NA,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54415984,SAMN54415984,,01883593,environmental,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054344915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/344/915/GCA_054344915.1_PDT003043259.1,Listeria monocytogenes
+54415514,SAMN54415514,,FSIS12542320,RTE Product,,2025,USA:FL,,,,,,,,,Listeria monocytogenes
+54415512,SAMN54415512,,FSIS22519745,RTE Product,,2025,USA:FL,,,,,,,,,Listeria monocytogenes
+54414516,SAMN54414516,,PNUSAL025885,missing,,2025,USA,,,,,GCA_054264715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/264/715/GCA_054264715.1_PDT003043103.1,Listeria monocytogenes
+54413295,SAMN54413295,,PNUSAL025884,missing,,missing,missing,,,,,GCA_054263335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/263/335/GCA_054263335.1_PDT003043089.1,Listeria monocytogenes
+53058430,SAMN53058430,,475-10-1,in vitro generated,,2024-10,Germany,,,,,,,,,Listeria monocytogenes
+53058429,SAMN53058429,,475-20-3,in vitro generated,,2023-12,Germany,,,,,,,,,Listeria monocytogenes
+53058428,SAMN53058428,,475 wild type,patient,,2018,Germany,,,,,,,,,Listeria monocytogenes
+53058427,SAMN53058427,,470-20-3,in vitro generated,,2023-12,Germany,,,,,,,,,Listeria monocytogenes
+53058426,SAMN53058426,,470 wild type,patient,,2014,Germany,,,,,,,,,Listeria monocytogenes
+53058425,SAMN53058425,,446-10-6,in vitro generated,,2024-10,Germany,,,,,,,,,Listeria monocytogenes
+53058424,SAMN53058424,,446-20-3,in vitro generated,,2024-04,Germany,,,,,,,,,Listeria monocytogenes
+53058423,SAMN53058423,,446 wild type,Sausage (Zwiebelmettwurst),,2020-02,Germany,,,,,,,,,Listeria monocytogenes
+53058422,SAMN53058422,,443-20-2,in vitro generated,,2024-04,Germany,,,,,,,,,Listeria monocytogenes
+53058421,SAMN53058421,,443 wild type,Sausage (Bauernbratwurst),,2019-12,Germany,,,,,,,,,Listeria monocytogenes
+53058420,SAMN53058420,,442-10-1,in vitro generated,,2024-10,Germany,,,,,,,,,Listeria monocytogenes
+53058419,SAMN53058419,,442-20-1,in vitro generated,,2024-04,Germany,,,,,,,,,Listeria monocytogenes
+53058418,SAMN53058418,,442 wild type,Sausage (Mettwurst) finely minced,,2019-11,Germany,,,,,,,,,Listeria monocytogenes
+54380894,SAMN54380894,,01882831,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054255915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/255/915/GCA_054255915.1_PDT003042996.1,Listeria monocytogenes
+54380873,SAMN54380873,,01882832,environmental,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054255075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/255/075/GCA_054255075.1_PDT003042989.1,Listeria monocytogenes
+54380865,SAMN54380865,,01882833,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054255235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/255/235/GCA_054255235.1_PDT003042980.1,Listeria monocytogenes
+54380847,SAMN54380847,,01882830,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+45776317,SAMN45776317,,not applicable,food-processing environment,,2016,Germany,,,,,,,,,Listeria monocytogenes
+45776316,SAMN45776316,,not applicable,animal,,2013,Germany,,,,,,,,,Listeria monocytogenes
+45776315,SAMN45776315,,not applicable,food-processing environment,,2016,Germany,,,,,,,,,Listeria monocytogenes
+45776314,SAMN45776314,,not applicable,feed,,2020,Germany,,,,,,,,,Listeria monocytogenes
+45776313,SAMN45776313,,not applicable,food,,2017,Germany,,,,,,,,,Listeria monocytogenes
+45775196,SAMN45775196,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775195,SAMN45775195,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775194,SAMN45775194,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775193,SAMN45775193,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775192,SAMN45775192,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775191,SAMN45775191,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775190,SAMN45775190,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775189,SAMN45775189,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+45775188,SAMN45775188,,not applicable,food,,missing,missing,,,,,,,,,Listeria monocytogenes
+54429569,SAMEA120465418,,,,,,,,,,,,,,,Listeria monocytogenes
+54428295,SAMEA120465416,,,,,,,,,,,,,,,Listeria monocytogenes
+54426557,SAMEA120465415,,,,,,,,,,,,,,,Listeria monocytogenes
+54426121,SAMEA120465417,,,,,,,,,,,,,,,Listeria monocytogenes
+54406367,SAMEA120815166,,,Garlic bread,,,,,,,,GCA_054346675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/675/GCA_054346675.1_PDT003044579.1,Listeria monocytogenes
+54406163,SAMEA120815146,,,Washing room. Drain 4,,,,,,,,GCA_054408955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/955/GCA_054408955.1_PDT003044559.1,Listeria monocytogenes
+54406080,SAMEA120815132,,,Garlic bread,,,,,,,,GCA_054347295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/295/GCA_054347295.1_PDT003044545.1,Listeria monocytogenes
+54406069,SAMEA120815127,,,Preparation zone II. Drain 2,,,,,,,,GCA_054347355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/355/GCA_054347355.1_PDT003044540.1,Listeria monocytogenes
+54406013,SAMEA120815142,,,Washing room. Drain 4,,,,,,,,GCA_054408975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/975/GCA_054408975.1_PDT003044555.1,Listeria monocytogenes
+54406007,SAMEA120815191,,,Washing room. Sink.,,,,,,,,GCA_054346935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/935/GCA_054346935.1_PDT003044603.1,Listeria monocytogenes
+54405998,SAMEA120815157,,,Preparation zone I. Ham fridge,,,,,,,,GCA_054408895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/895/GCA_054408895.1_PDT003044570.1,Listeria monocytogenes
+54405785,SAMEA120815175,,,Washing room sink - 15/01/04,,,,,,,,GCA_054347095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/095/GCA_054347095.1_PDT003044588.1,Listeria monocytogenes
+54405778,SAMEA120815134,,,Garlic bread,,,,,,,,GCA_054347275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/275/GCA_054347275.1_PDT003044547.1,Listeria monocytogenes
+54405764,SAMEA120815143,,,Preparation zone II. Drain 1,,,,,,,,GCA_054346775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/775/GCA_054346775.1_PDT003044556.1,Listeria monocytogenes
+54405645,SAMEA120815160,,,Garlic bread,,,,,,,,GCA_054346435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/435/GCA_054346435.1_PDT003044573.1,Listeria monocytogenes
+54405449,SAMEA120815188,,,Washing room. Drain 4,,,,,,,,GCA_054346575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/575/GCA_054346575.1_PDT003044600.1,Listeria monocytogenes
+54405406,SAMEA120815144,,,Preparation zone I. Cheese package,,,,,,,,GCA_054346495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/495/GCA_054346495.1_PDT003044557.1,Listeria monocytogenes
+54405374,SAMEA120815151,,,Preparation zone I. Cheese package B,,,,,,,,,,,,Listeria monocytogenes
+54405359,SAMEA120815165,,,Garlic bread,,,,,,,,GCA_054346335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/335/GCA_054346335.1_PDT003044578.1,Listeria monocytogenes
+54405067,SAMEA120815131,,,Preparation zone I. Sausage drainer,,,,,,,,GCA_054347315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/315/GCA_054347315.1_PDT003044544.1,Listeria monocytogenes
+54404933,SAMEA120815133,,,Garlic bread,,,,,,,,GCA_054347255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/255/GCA_054347255.1_PDT003044546.1,Listeria monocytogenes
+54404895,SAMEA120815129,,,Preparation zone I. Table cheese slicing machine.,,,,,,,,GCA_054347335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/335/GCA_054347335.1_PDT003044542.1,Listeria monocytogenes
+54404792,SAMEA120815193,,,Preparation zone I. Drain 3,,,,,,,,GCA_054408855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/855/GCA_054408855.1_PDT003044605.1,Listeria monocytogenes
+54404669,SAMEA120815155,,,Preparation zone II. Floor,,,,,,,,GCA_054346455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/455/GCA_054346455.1_PDT003044568.1,Listeria monocytogenes
+54404638,SAMEA120815177,,,Garlic bread,,,,,,,,GCA_054347055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/055/GCA_054347055.1_PDT003044590.1,Listeria monocytogenes
+54404587,SAMEA120815164,,,Garlic bread,,,,,,,,GCA_054346355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/355/GCA_054346355.1_PDT003044577.1,Listeria monocytogenes
+54404432,SAMEA120815135,,,Garlic bread,,,,,,,,GCA_054346835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/835/GCA_054346835.1_PDT003044548.1,Listeria monocytogenes
+54404423,SAMEA120815184,,,cheese,,,,,,,,GCA_054346995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/995/GCA_054346995.1_PDT003044597.1,Listeria monocytogenes
+54404418,SAMEA120815158,,,Preparation zone I. Drain 3,,,,,,,,GCA_054347135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/135/GCA_054347135.1_PDT003044571.1,Listeria monocytogenes
+54404020,SAMEA120815187,,,Preparation zone I. Drain 3,,,,,,,,GCA_054346915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/915/GCA_054346915.1_PDT003044599.1,Listeria monocytogenes
+54403992,SAMEA120815159,,,Preparation zone I. Freezer,,,,,,,,GCA_054347115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/115/GCA_054347115.1_PDT003044572.1,Listeria monocytogenes
+54403680,SAMEA120815178,,,Garlic bread,,,,,,,,,,,,Listeria monocytogenes
+54403566,SAMEA120815171,,,Garlic bread,,,,,,,,GCA_054346255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/255/GCA_054346255.1_PDT003044584.1,Listeria monocytogenes
+54403509,SAMEA120815149,,,Preparation zone I. Drain 3,,,,,,,,GCA_054347175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/175/GCA_054347175.1_PDT003044562.1,Listeria monocytogenes
+54403425,SAMEA120815162,,,Preparation zone I. Table cheese slicing machine.,,,,,,,,GCA_054346395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/395/GCA_054346395.1_PDT003044575.1,Listeria monocytogenes
+54403382,SAMEA120815179,,,Garlic bread,,,,,,,,GCA_054347015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/015/GCA_054347015.1_PDT003044592.1,Listeria monocytogenes
+54403247,SAMEA120815136,,,Garlic bread,,,,,,,,,,,,Listeria monocytogenes
+54403162,SAMEA120815161,,,Preparation zone I. Drain 3,,,,,,,,GCA_054346415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/415/GCA_054346415.1_PDT003044574.1,Listeria monocytogenes
+54403021,SAMEA120815182,,,Garlic bread,,,,,,,,GCA_054347375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/375/GCA_054347375.1_PDT003044595.1,Listeria monocytogenes
+54402995,SAMEA120815145,,,Preparation zone I. Drain 3,,,,,,,,GCA_054346755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/755/GCA_054346755.1_PDT003044558.1,Listeria monocytogenes
+54402590,SAMEA120815167,,,Garlic bread,,,,,,,,GCA_054346655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/655/GCA_054346655.1_PDT003044580.1,Listeria monocytogenes
+54402383,SAMEA120815185,,,Washing room. Drain 4,,,,,,,,GCA_054346515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/515/GCA_054346515.1_PDT003044606.1,Listeria monocytogenes
+54402372,SAMEA120815128,,,Preparation zone I. Sausage drainer,,,,,,,,GCA_054409015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/409/015/GCA_054409015.1_PDT003044541.1,Listeria monocytogenes
+54402157,SAMEA120815154,,,Garlic bread,,,,,,,,GCA_054346695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/695/GCA_054346695.1_PDT003044567.1,Listeria monocytogenes
+54401975,SAMEA120815170,,,Garlic bread,,,,,,,,GCA_054346275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/275/GCA_054346275.1_PDT003044583.1,Listeria monocytogenes
+54401884,SAMEA120815190,,,Washing room. Drain 4,,,,,,,,GCA_054346535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/535/GCA_054346535.1_PDT003044602.1,Listeria monocytogenes
+54401829,SAMEA120815181,,,Garlic bread,,,,,,,,GCA_054346595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/595/GCA_054346595.1_PDT003044594.1,Listeria monocytogenes
+54401671,SAMEA120815138,,,Preparation zone II. Spreading butter machine,,,,,,,,GCA_054346815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/815/GCA_054346815.1_PDT003044551.1,Listeria monocytogenes
+54401635,SAMEA120815168,,,Garlic bread,,,,,,,,GCA_054346315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/315/GCA_054346315.1_PDT003044581.1,Listeria monocytogenes
+54401454,SAMEA120815173,,,Garlic bread,,,,,,,,GCA_054346615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/615/GCA_054346615.1_PDT003044586.1,Listeria monocytogenes
+54401398,SAMEA120815152,,,Preparation zone I. Ham fridge,,,,,,,,GCA_054346735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/735/GCA_054346735.1_PDT003044565.1,Listeria monocytogenes
+54401335,SAMEA120815147,,,Preparation zone I. Floor.,,,,,,,,GCA_054347195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/195/GCA_054347195.1_PDT003044560.1,Listeria monocytogenes
+54401166,SAMEA120815139,,,Preparation zone II. Trolley,,,,,,,,GCA_054346795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/795/GCA_054346795.1_PDT003044552.1,Listeria monocytogenes
+54401097,SAMEA120815176,,,Garlic bread,,,,,,,,GCA_054347075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/075/GCA_054347075.1_PDT003044589.1,Listeria monocytogenes
+54400729,SAMEA120815148,,,Preparation zone I. Table cheese slicing machine.,,,,,,,,GCA_054347155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/155/GCA_054347155.1_PDT003044561.1,Listeria monocytogenes
+54400710,SAMEA120815169,,,Preparation zone II. Spreading butter machine,,,,,,,,GCA_054346295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/295/GCA_054346295.1_PDT003044582.1,Listeria monocytogenes
+54400700,SAMEA120815186,,,Preparation zone I. Floor.,,,,,,,,GCA_054346955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/955/GCA_054346955.1_PDT003044598.1,Listeria monocytogenes
+54400615,SAMEA120815189,,,Washing room. Drain 4,,,,,,,,GCA_054346555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/555/GCA_054346555.1_PDT003044601.1,Listeria monocytogenes
+54400521,SAMEA120815156,,,Washing room. Sink.,,,,,,,,GCA_054408935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/935/GCA_054408935.1_PDT003044569.1,Listeria monocytogenes
+54400433,SAMEA120815141,,,Garlic bread,,,,,,,,GCA_054347235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/235/GCA_054347235.1_PDT003044554.1,Listeria monocytogenes
+54400415,SAMEA120815137,,,Preparation zone I. Table cheese slicing machine.,,,,,,,,GCA_054347215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/215/GCA_054347215.1_PDT003044550.1,Listeria monocytogenes
+54400344,SAMEA120815192,,,Preparation zone II. Drain 1,,,,,,,,GCA_054347395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/395/GCA_054347395.1_PDT003044604.1,Listeria monocytogenes
+54400260,SAMEA120815183,,,Washing room. Drain 4,,,,,,,,GCA_054346975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/975/GCA_054346975.1_PDT003044596.1,Listeria monocytogenes
+54400229,SAMEA120815174,,,Preparation zone II. Spreading butter machine,,,,,,,,GCA_054408905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/905/GCA_054408905.1_PDT003044587.1,Listeria monocytogenes
+54400005,SAMEA120815126,,,Preparation zone II. Drain 2,,,,,,,,GCA_054409025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/409/025/GCA_054409025.1_PDT003044539.1,Listeria monocytogenes
+54399974,SAMEA120815130,,,Garlic bread,,,,,,,,GCA_054346855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/855/GCA_054346855.1_PDT003044543.1,Listeria monocytogenes
+54399880,SAMEA120815172,,,Garlic bread,,,,,,,,GCA_054346635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/635/GCA_054346635.1_PDT003044585.1,Listeria monocytogenes
+54399855,SAMEA120815180,,,Garlic bread,,,,,,,,GCA_054347035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/347/035/GCA_054347035.1_PDT003044593.1,Listeria monocytogenes
+54399765,SAMEA120815163,,,Garlic bread,,,,,,,,GCA_054346375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/375/GCA_054346375.1_PDT003044576.1,Listeria monocytogenes
+54399715,SAMEA120815140,,,Preparation zone I. Drain 3,,,,,,,,GCA_054408985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/985/GCA_054408985.1_PDT003044553.1,Listeria monocytogenes
+54399607,SAMEA120815150,,,Preparation zone I. Ham fridge,,,,,,,,GCA_054346475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/475/GCA_054346475.1_PDT003044563.1,Listeria monocytogenes
+54399425,SAMEA120815153,,,Garlic bread,,,,,,,,GCA_054346715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/715/GCA_054346715.1_PDT003044566.1,Listeria monocytogenes
+54380576,SAMN54380576,,PNUSAL025883,missing,,2025,USA,,,,,GCA_054252435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/252/435/GCA_054252435.1_PDT003042167.1,Listeria monocytogenes
+54380574,SAMN54380574,,PNUSAL025882,blood,,2025,USA,,,,,GCA_054252415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/252/415/GCA_054252415.1_PDT003042169.1,Listeria monocytogenes
+53033350,SAMN53033350,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Oxy4,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033349,SAMN53033349,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Oxy2,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033348,SAMN53033348,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Cip5,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033347,SAMN53033347,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Cip4,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033346,SAMN53033346,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Cip3,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033345,SAMN53033345,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Cip2,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033344,SAMN53033344,,EGD-e,Listeria monocytogenes adaptive laboratory evolution Cip1,,2024-07-24,Spain,,,,,,,,,Listeria monocytogenes
+53033343,SAMN53033343,,EGD-e,Listeria monocytogenes WT,,2024-05-15,Spain,,,,,,,,,Listeria monocytogenes
+4487194,SAMN04487194,,BfR-Li-01619,missing,Homo sapiens,2011,Germany,,,,,,,,,Listeria monocytogenes
+4487193,SAMN04487193,,BfR-Li-01618,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487192,SAMN04487192,,BfR-Li-01617,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487191,SAMN04487191,,BfR-Li-01616,missing,Homo sapiens,2012,Germany,,,,,,,,,Listeria monocytogenes
+4487190,SAMN04487190,,BfR-Li-01615,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487189,SAMN04487189,,BfR-Li-01614,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487188,SAMN04487188,,BfR-Li-01611,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487187,SAMN04487187,,BfR-Li-01610,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487186,SAMN04487186,,BfR-Li-01608,missing,Homo sapiens,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487185,SAMN04487185,,BfR L1685,Fish product,missing,2011,Germany,,,,,,,,,Listeria monocytogenes
+4487184,SAMN04487184,,BfR L1673,Fish product,missing,2011,Germany,,,,,,,,,Listeria monocytogenes
+4487183,SAMN04487183,,BfR L1672,Fish product,missing,2011,Germany,,,,,,,,,Listeria monocytogenes
+4487182,SAMN04487182,,BfR L1600,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487181,SAMN04487181,,BfR L1598,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487180,SAMN04487180,,BfR L1599,Fish product,missing,2011,Germany,,,,,,,,,Listeria monocytogenes
+4487179,SAMN04487179,,BfR L1557,Fish product,missing,not collected,Germany,,,,,,,,,Listeria monocytogenes
+4487178,SAMN04487178,,BfR L1558,Fish product,missing,not collected,Germany,,,,,,,,,Listeria monocytogenes
+4487177,SAMN04487177,,BfR L1516,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487176,SAMN04487176,,BfR L1515,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487175,SAMN04487175,,BfR L1498,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487174,SAMN04487174,,BfR L1497,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487173,SAMN04487173,,BfR L1496,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487172,SAMN04487172,,BfR L1495,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487171,SAMN04487171,,BfR L1494,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487170,SAMN04487170,,BfR L1493,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487169,SAMN04487169,,BfR L1481,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487168,SAMN04487168,,BfR L1479,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487167,SAMN04487167,,BfR L1478,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487166,SAMN04487166,,BfR L1476,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487165,SAMN04487165,,BfR L1475,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+4487164,SAMN04487164,,BfR L1473,Fish product,missing,2010,Germany,,,,,,,,,Listeria monocytogenes
+54366114,SAMN54366114,,PNUSAL025881,blood,,2025,USA,,,,,GCA_054228715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/228/715/GCA_054228715.1_PDT003041443.1,Listeria monocytogenes
+54366113,SAMN54366113,,PNUSAL025880,blood,,2025,USA,,,,,GCA_054228735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/228/735/GCA_054228735.1_PDT003041442.1,Listeria monocytogenes
+54362945,SAMN54362945,,PNUSAL025879,missing,,2025,USA,,,,,GCA_054228055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/228/055/GCA_054228055.1_PDT003041357.1,Listeria monocytogenes
+43054966,SAMN43054966,,L2018363,food,,2022-05,China: Chongqing,,,,,,,,,Listeria monocytogenes
+54348289,SAMN54348289,,PNUSAL025878,missing,,2025,USA,,,,,GCA_054222025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/222/025/GCA_054222025.1_PDT003040520.1,Listeria monocytogenes
+54341745,SAMN54341745,,EHS2500069203-04-01,Wastewater influent,,2025-11-12,USA:NY,,,,,GCA_054219925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/925/GCA_054219925.1_PDT003040326.1,Listeria monocytogenes
+54340978,SAMN54340978,,EHS2500039259-01-00,Wastewater influent,,2025-11-18,USA:NY,,,,,GCA_054219945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/945/GCA_054219945.1_PDT003040241.1,Listeria monocytogenes
+54340977,SAMN54340977,,EHS2500055583-01-00,Wastewater influent,,2025-11-24,USA:NY,,,,,GCA_054219845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/845/GCA_054219845.1_PDT003040242.1,Listeria monocytogenes
+54340976,SAMN54340976,,EHS2500061796-01-00,Wastewater influent,,2025-11-10,USA:NY,,,,,GCA_054219865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/865/GCA_054219865.1_PDT003040243.1,Listeria monocytogenes
+54340824,SAMN54340824,,PNUSAL025877,missing,,2025,USA,,,,,GCA_054219965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/965/GCA_054219965.1_PDT003040207.1,Listeria monocytogenes
+54340620,SAMN54340620,,PNUSAL025875,missing,,2025,USA,,,,,GCA_054218355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/218/355/GCA_054218355.1_PDT003040128.1,Listeria monocytogenes
+54340567,SAMN54340567,,PNUSAL025874,missing,,2025,USA,,,,,GCA_054218335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/218/335/GCA_054218335.1_PDT003040135.1,Listeria monocytogenes
+54340566,SAMN54340566,,PNUSAL025876,missing,,2025,USA,,,,,GCA_054219045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/219/045/GCA_054219045.1_PDT003040072.1,Listeria monocytogenes
+54339612,SAMN54339612,,PNUSAL025726,missing,,2025,USA,,,,,GCA_054220925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/220/925/GCA_054220925.1_PDT003040068.1,Listeria monocytogenes
+54324156,SAMEA120852358,,,,,,,,,,,,,,,Listeria monocytogenes
+54322222,SAMN54322222,,FSIS12542245,environmental: non-food-contact surface,,2025,USA:NC,,,,,GCA_054215435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/215/435/GCA_054215435.1_PDT003039230.1,Listeria monocytogenes
+54322221,SAMN54322221,,FSIS12542243,Environmental: food-contact surface,,2025,USA:NC,,,,,GCA_054215495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/215/495/GCA_054215495.1_PDT003039227.1,Listeria monocytogenes
+54322219,SAMN54322219,,FSIS12542246,Environmental: food-contact surface,,2025,USA:NC,,,,,GCA_054215585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/215/585/GCA_054215585.1_PDT003039222.1,Listeria monocytogenes
+54322218,SAMN54322218,,FSIS12542244,environmental: non-food-contact surface,,2025,USA:NC,,,,,GCA_054215555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/215/555/GCA_054215555.1_PDT003039224.1,Listeria monocytogenes
+54318107,SAMN54318107,,,missing,Homo sapiens,2025-01,Uruguay,,,,,GCA_054408835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/408/835/GCA_054408835.1_PDT003044675.1,Listeria monocytogenes
+54318106,SAMN54318106,,,missing,Homo sapiens,2025-02,Uruguay,,,,,GCA_054346235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/235/GCA_054346235.1_PDT003044676.1,Listeria monocytogenes
+54318105,SAMN54318105,,,missing,Homo sapiens,2025-07,Uruguay,,,,,GCA_054346895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/895/GCA_054346895.1_PDT003044677.1,Listeria monocytogenes
+54318104,SAMN54318104,,,missing,Homo sapiens,2025-08,Uruguay,,,,,GCA_054346215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/215/GCA_054346215.1_PDT003044678.1,Listeria monocytogenes
+54318103,SAMN54318103,,,missing,Homo sapiens,2025-08,Uruguay,,,,,GCA_054346175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/175/GCA_054346175.1_PDT003044679.1,Listeria monocytogenes
+54318102,SAMN54318102,,,missing,Homo sapiens,2025-08,Uruguay,,,,,GCA_054346195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/346/195/GCA_054346195.1_PDT003044680.1,Listeria monocytogenes
+54318099,SAMN54318099,,PNUSAL025869,blood,,2025,USA,,,,,GCA_054207635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/207/635/GCA_054207635.1_PDT003038512.1,Listeria monocytogenes
+54318098,SAMN54318098,,PNUSAL025868,blood,,2025,USA,,,,,GCA_054207615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/207/615/GCA_054207615.1_PDT003038511.1,Listeria monocytogenes
+54318097,SAMN54318097,,PNUSAL025867,blood,,2025,USA,,,,,GCA_054207595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/207/595/GCA_054207595.1_PDT003038510.1,Listeria monocytogenes
+54304809,SAMN54304809,,01880240,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054198175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/198/175/GCA_054198175.1_PDT003037340.1,Listeria monocytogenes
+54304800,SAMN54304800,,01880402,environmental,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054198255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/198/255/GCA_054198255.1_PDT003037333.1,Listeria monocytogenes
+54304799,SAMN54304799,,01880403,environmental,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054197655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/197/655/GCA_054197655.1_PDT003037327.1,Listeria monocytogenes
+54304798,SAMN54304798,,01880401,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054198355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/198/355/GCA_054198355.1_PDT003037329.1,Listeria monocytogenes
+54304797,SAMN54304797,,01880400,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054198375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/198/375/GCA_054198375.1_PDT003037328.1,Listeria monocytogenes
+54304796,SAMN54304796,,01880394,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054198315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/198/315/GCA_054198315.1_PDT003037330.1,Listeria monocytogenes
+54304795,SAMN54304795,,01880398,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054198335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/198/335/GCA_054198335.1_PDT003037331.1,Listeria monocytogenes
+54304756,SAMN54304756,,01880396,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054197675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/197/675/GCA_054197675.1_PDT003037326.1,Listeria monocytogenes
+54304755,SAMN54304755,,01880399,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054197695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/197/695/GCA_054197695.1_PDT003037325.1,Listeria monocytogenes
+54304739,SAMN54304739,,01880395,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054197715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/197/715/GCA_054197715.1_PDT003037324.1,Listeria monocytogenes
+54304738,SAMN54304738,,01880404,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054197735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/197/735/GCA_054197735.1_PDT003037323.1,Listeria monocytogenes
+54304737,SAMN54304737,,01880397,food,NA,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54306643,SAMN54306643,,PNUSAL025851,blood,,2025,USA,,,,,GCA_054205035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/205/035/GCA_054205035.1_PDT003037305.1,Listeria monocytogenes
+54301227,SAMN54301227,,PNUSAL025866,missing,,2025,USA,,,,,GCA_054204135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/204/135/GCA_054204135.1_PDT003037147.1,Listeria monocytogenes
+54284420,SAMN54284420,,01878253,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054203775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/203/775/GCA_054203775.1_PDT003036672.1,Listeria monocytogenes
+54284415,SAMN54284415,,01878252,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054203795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/203/795/GCA_054203795.1_PDT003036671.1,Listeria monocytogenes
+54284412,SAMN54284412,,01878251,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054203815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/203/815/GCA_054203815.1_PDT003036670.1,Listeria monocytogenes
+54285694,SAMN54285694,,PNUSAL025865,missing,,2025,USA,,,,,,,,,Listeria monocytogenes
+54284425,SAMN54284425,,FDA1304871-S016-006,environmental swab spomge,,2025-12-01,USA:NJ,,,,,GCA_054202895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/202/895/GCA_054202895.1_PDT003036516.1,Listeria monocytogenes
+54284083,SAMN54284083,,PNUSAL025863,sponge,,2025-12-09,USA:MN,,,,,GCA_054203675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/203/675/GCA_054203675.1_PDT003036499.1,Listeria monocytogenes
+54284082,SAMN54284082,,PNUSAL025864,sponge,,2025-12-09,USA:MN,,,,,GCA_054203695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/203/695/GCA_054203695.1_PDT003036493.1,Listeria monocytogenes
+54267253,SAMN54267253,,01879003,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054136665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/136/665/GCA_054136665.1_PDT003035224.1,Listeria monocytogenes
+54266900,SAMN54266900,,01879004,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes
+54266852,SAMN54266852,,01879007,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054137045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/137/045/GCA_054137045.1_PDT003035197.1,Listeria monocytogenes
+22824406,SAMN22824406,,PNUSAL012043,missing,missing,2021-10,USA,,,,,GCA_020713865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/713/865/GCA_020713865.1_PDT001167064.1,Listeria monocytogenes
+54268496,SAMN54268496,,PNUSAL025862,missing,,2025,USA,,,,,GCA_054137325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/137/325/GCA_054137325.1_PDT003035094.1,Listeria monocytogenes
+54266171,SAMN54266171,,PNUSAL025860,missing,,2025,USA,,,,,GCA_054152975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/152/975/GCA_054152975.1_PDT003034410.1,Listeria monocytogenes
+54262936,SAMN54262936,,PNUSAL025859,missing,,2025,USA,,,,,GCA_054132765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/132/765/GCA_054132765.1_PDT003034256.1,Listeria monocytogenes
+54262740,SAMN54262740,,PNUSAL025857,missing,,2025,USA,,,,,GCA_054134825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/134/825/GCA_054134825.1_PDT003034128.1,Listeria monocytogenes
+54261801,SAMN54261801,,PNUSAL025856,missing,,2025,USA,,,,,GCA_054134035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/134/035/GCA_054134035.1_PDT003034086.1,Listeria monocytogenes
+54261693,SAMN54261693,,PNUSAL025855,missing,,2025,USA,,,,,GCA_054133985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/133/985/GCA_054133985.1_PDT003034083.1,Listeria monocytogenes
+54225967,SAMN54225967,,FSIS32514466,environmental: non-food-contact surface,,2025,USA:ID,,,,,GCA_054118655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/118/655/GCA_054118655.1_PDT003031781.1,Listeria monocytogenes
+54223887,SAMN54223887,,PNUSAL025846,missing,,2025,USA,,,,,GCA_054104725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/104/725/GCA_054104725.1_PDT003031526.1,Listeria monocytogenes
+54223548,SAMN54223548,,PNUSAL025845,blood,,2025,USA,,,,,GCA_054102335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/102/335/GCA_054102335.1_PDT003031361.1,Listeria monocytogenes
+54223462,SAMN54223462,,PNUSAL025844,blood,,2025,USA,,,,,GCA_054102295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/102/295/GCA_054102295.1_PDT003031331.1,Listeria monocytogenes
+54223354,SAMN54223354,,PNUSAL025843,missing,,2025,USA,,,,,GCA_054101615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/101/615/GCA_054101615.1_PDT003031303.1,Listeria monocytogenes
+54222254,SAMN54222254,,PNUSAL025842,missing,,2025,USA,,,,,GCA_054099385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/099/385/GCA_054099385.1_PDT003031089.1,Listeria monocytogenes
+54204090,SAMN54204090,,01876528,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054094485.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/094/485/GCA_054094485.1_PDT003030530.1,Listeria monocytogenes
+54152841,SAMN54152841,,FDA1318159-S001-001,romano cheese,,2025-12-09,USA,,,,,GCA_054204695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/204/695/GCA_054204695.1_PDT003028281.1,Listeria monocytogenes
+54152840,SAMN54152840,,FDA1318159-S002-001,romano cheese,,2025-12-09,USA,,,,,GCA_054204715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/204/715/GCA_054204715.1_PDT003028280.1,Listeria monocytogenes
+54206529,SAMN54206529,,PNUSAL025835,blood,,2025,USA,,,,,GCA_054088905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/088/905/GCA_054088905.1_PDT003030367.1,Listeria monocytogenes
+54201298,SAMN54201298,,PNUSAL025841,missing,,2025,USA,,,,,GCA_054086655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/086/655/GCA_054086655.1_PDT003030078.1,Listeria monocytogenes
+54200891,SAMN54200891,,PNUSAL025840,missing,,2025,USA,,,,,GCA_054087245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/245/GCA_054087245.1_PDT003030037.1,Listeria monocytogenes
+54200703,SAMN54200703,,PNUSAL025839,missing,,2025,USA,,,,,GCA_054087265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/265/GCA_054087265.1_PDT003030023.1,Listeria monocytogenes
+54200529,SAMN54200529,,PNUSAL025838,swab,,2025-12-02,USA:MI,,,,,GCA_054087185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/087/185/GCA_054087185.1_PDT003029997.1,Listeria monocytogenes
+54198239,SAMN54198239,,PNUSAL025837,missing,,2025,USA,,,,,GCA_054085445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/085/445/GCA_054085445.1_PDT003029944.1,Listeria monocytogenes
+54195196,SAMN54195196,,PNUSAL025836,missing,,2025,USA,,,,,GCA_054084355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/084/355/GCA_054084355.1_PDT003029854.1,Listeria monocytogenes
+54177243,SAMN54177243,,01876554,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054078155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/155/GCA_054078155.1_PDT003029494.1,Listeria monocytogenes
+54177242,SAMN54177242,,01876555,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054078195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/195/GCA_054078195.1_PDT003029491.1,Listeria monocytogenes
+54176967,SAMN54176967,,01876553,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_054078295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/295/GCA_054078295.1_PDT003029481.1,Listeria monocytogenes
+54179349,SAMN54179349,,PNUSAL025834,missing,,2025,USA,,,,,GCA_054072315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/072/315/GCA_054072315.1_PDT003029434.1,Listeria monocytogenes
+54177980,SAMN54177980,,PNUSAL025832,missing,,2025,USA,,,,,GCA_054072695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/072/695/GCA_054072695.1_PDT003029362.1,Listeria monocytogenes
+54177964,SAMN54177964,,PNUSAL025833,missing,,2025,USA,,,,,GCA_054072085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/072/085/GCA_054072085.1_PDT003029351.1,Listeria monocytogenes
+54177962,SAMN54177962,,PNUSAL025831,missing,,2025,USA,,,,,GCA_054078655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/655/GCA_054078655.1_PDT003029354.1,Listeria monocytogenes
+54165925,SAMEA120820344,,,,,,,,,,,,,,,Listeria monocytogenes
+54140095,SAMN54140095,,PNUSAL025825,missing,,2025,USA,,,,,GCA_053982135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/982/135/GCA_053982135.1_PDT003027213.1,Listeria monocytogenes
+54139198,SAMN54139198,,PNUSAL025824,missing,,2025,USA,,,,,GCA_053979475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/979/475/GCA_053979475.1_PDT003027142.1,Listeria monocytogenes
+54119129,SAMN54119129,,01875035,food,NA,2025-12,United Kingdom: United Kingdom,,,,,GCA_053978025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/978/025/GCA_053978025.1_PDT003026981.1,Listeria monocytogenes
+54119124,SAMN54119124,,01875036,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_053978015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/978/015/GCA_053978015.1_PDT003026980.1,Listeria monocytogenes
+54119093,SAMN54119093,,01875034,food,NA,2025-11,United Kingdom: United Kingdom,,,,,GCA_053978055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/978/055/GCA_053978055.1_PDT003026979.1,Listeria monocytogenes
+54119081,SAMN54119081,,01868360,food,NA,2025-11,United Kingdom: United Kingdom,,,,,,,,,Listeria monocytogenes

@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54870551,SAMN54870551,,2026EP-00014,BRONCHIAL ALVEOLAR LAVAGE,Homo sapiens,2025,USA,,,,,GCA_054687085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/687/085/GCA_054687085.1_PDT003066274.1,Citrobacter freundii
+54807604,SAMD00899884,,TB25-009W-60-9,,,2025,Viet Nam:Thai Binh,,,,,,,,,Citrobacter freundii
+54762434,SAMEA120264337,,,Isolated from sample of chilled mussel at retail,,,,,,,,,,,,Citrobacter freundii
+54760913,SAMEA120264335,,,Isolated from sample of frozen salmon at retail,,,,,,,,,,,,Citrobacter freundii
+54771996,SAMN54771996,,,Water from the Qiantang River was supplemented with domestic sewage and incubated for 28 days,,2025-06-17,China,,,,,,,,,Citrobacter freundii
+54771964,SAMN54771964,,,Water from the Qiantang River was supplemented with domestic sewage and incubated for two days,,2025-06-17,China,,,,,,,,,Citrobacter freundii
+54768132,SAMN54768132,,,urine,,2025-10-30,USA,,,,,GCA_054595255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/595/255/GCA_054595255.1_PDT003061951.1,Citrobacter freundii
+48146735,SAMN48146735,,,rectal swab,Homo sapiens,2024-03-10,Qatar:Doha,,,,,GCA_054402475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/402/475/GCA_054402475.1_PDT003047467.1,Citrobacter freundii
+54727717,SAMN54727717,,,Water from the Qiantang River was supplemented with domestic sewage and incubated for 28 days,,2025-06-17,China,,,,,,,,,Citrobacter freundii
+54727685,SAMN54727685,,,Water from the Qiantang River was supplemented with domestic sewage and incubated for two days,,2025-06-17,China,,,,,,,,,Citrobacter freundii
+54714053,SAMN54714053,,,Rectal swab of hawksbill turtle,Turtle,2024,United Arab Emirates,,,,,,,,,Citrobacter freundii
+54714052,SAMN54714052,,,Rectal swab of hawksbill turtle,Turtle,2024,United Arab Emirates,,,,,,,,,Citrobacter freundii
+54712199,SAMD01795437,,,drained fluid,Homo sapiens,2023,Japan:Nagano,,,,,,,,,Citrobacter freundii
+54712169,SAMD01795407,,,stool,Homo sapiens,2023,Japan:Nagano,,,,,,,,,Citrobacter freundii
+54712164,SAMD01795402,,,sputum,Homo sapiens,2023,Japan:Nagano,,,,,,,,,Citrobacter freundii
+54712116,SAMD01795354,,,venous blood,Homo sapiens,2023,Japan:Aichi,,,,,,,,,Citrobacter freundii
+54675556,SAMN54675556,,253A3,rectal swab,Homo sapiens,2020,France,,,,,GCA_054632635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/632/635/GCA_054632635.1_ASM5463263v1,Citrobacter freundii
+54676191,SAMN54676191,,,Rectal swab,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676171,SAMN54676171,,,Rectal swab,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676139,SAMN54676139,,,Rectal swab,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676136,SAMN54676136,,,Blood culture,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676135,SAMN54676135,,,Rectal swab,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676108,SAMN54676108,,,Rectal swab,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676075,SAMN54676075,,,Rectal swab,Homo sapiens,2023,France,,,,,,,,,Citrobacter freundii
+54676061,SAMN54676061,,,Rectal swab,Homo sapiens,2022,France,,,,,,,,,Citrobacter freundii
+54676019,SAMN54676019,,,Rectal swab,Homo sapiens,2022,France,,,,,,,,,Citrobacter freundii
+54676010,SAMN54676010,,,Rectal swab,Homo sapiens,2022,France,,,,,,,,,Citrobacter freundii
+54145115,SAMN54145115,,2025GN-00334,peritoneal fluid,Homo sapiens,2025,USA,,,,,,,,,Citrobacter freundii
+45903408,SAMN45903408,,Human 5,,Homo sapiens,2024-06,Ireland: Cork,,,,,,,,,Citrobacter freundii
+45903407,SAMN45903407,,Human 4,,Homo sapiens,2024-06,Ireland: Cork,,,,,,,,,Citrobacter freundii
+45903406,SAMN45903406,,Human 3,,Homo sapiens,2024-06,Ireland: Cork,,,,,,,,,Citrobacter freundii
+54592872,SAMN54592872,,2025EP-00536,urine,Homo sapiens,2025,USA,,,,,GCA_054487465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/487/465/GCA_054487465.1_PDT003053531.1,Citrobacter freundii
+54589724,SAMN54589724,,,Homo Sapiens clinical,Homo sapiens,2025-12-25,USA: Florida,,,,,GCA_054493675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/493/675/GCA_054493675.1_PDT003053337.1,Citrobacter freundii
+54570073,SAMN54570073,,,other,Homo sapiens,2025,USA,,,,,GCA_054476515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/476/515/GCA_054476515.1_PDT003052814.1,Citrobacter freundii
+45182382,SAMN45182382,,Human,,Homo sapiens,2024-06,Ireland: Cork,,,,,,,,,Citrobacter freundii
+54558996,SAMN54558996,,,Right Hand Tissue,,2026-01-02,USA,,,,,GCA_054470955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/470/955/GCA_054470955.1_PDT003050772.1,Citrobacter freundii
+54545473,SAMEA120912148,,uvzsr-PT_26_00001-B12-AR_25_00009097,swab,,,,,,,,,,,,Citrobacter freundii
+54496166,SAMN54496166,,,urine,Homo sapiens,2025,USA,,,,,,,,,Citrobacter freundii
+54484495,SAMEA120770218,,,human feces,,,,,,,,,,,,Citrobacter freundii
+54469163,SAMN54469163,,,Freshwater carbonate spring,,2022-10-22,USA: California,,,,,,,,,Citrobacter freundii
+54456515,SAMN54456515,,,feces,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/475/GCA_054368475.1_PDT003045273.1,Citrobacter freundii
+54456513,SAMN54456513,,,feces,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/445/GCA_054368445.1_PDT003045275.1,Citrobacter freundii
+54456510,SAMN54456510,,,rectum swab,Homo sapiens,2025-04,Slovenia,,,,,GCA_054368865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/865/GCA_054368865.1_PDT003045278.1,Citrobacter freundii
+54456505,SAMN54456505,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/845/GCA_054368845.1_PDT003045281.1,Citrobacter freundii
+54456494,SAMN54456494,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/365/GCA_054368365.1_PDT003045297.1,Citrobacter freundii
+54456493,SAMN54456493,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/705/GCA_054368705.1_PDT003045298.1,Citrobacter freundii
+54456476,SAMN54456476,,,rectum swab,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/625/GCA_054368625.1_PDT003045316.1,Citrobacter freundii
+54456475,SAMN54456475,,,urine,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/585/GCA_054368585.1_PDT003045317.1,Citrobacter freundii
+54443516,SAMN54443516,,2026HL-00994,rectal swab,Homo sapiens,2025,USA,,,,,GCA_054373035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/373/035/GCA_054373035.1_PDT003045642.1,Citrobacter freundii
+48191256,SAMN48191256,,BB1617,Sink,N/A,2022,Spain: Madrid,,,,,,,,,Citrobacter freundii
+47269733,SAMN47269733,,missing,,missing,2024-08-01,not collected,,,,,,,,,Citrobacter freundii
+54380890,SAMN54380890,,,Pleural fluid,Homo sapiens,2025,USA,,,,,GCA_054252995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/252/995/GCA_054252995.1_PDT003042235.1,Citrobacter freundii
+54380176,SAMN54380176,,not collected,respiratory tract,Homo sapiens,2025,USA,,,,,,,,,Citrobacter freundii
+31527714,SAMN31527714,,C_SY_38_CF,wastewater,,2022,China,,,,,,,,,Citrobacter freundii
+31527703,SAMN31527703,,C_SD_20_CF,wastewater,,2022,China,,,,,,,,,Citrobacter freundii
+31527675,SAMN31527675,,C_JX_28_CF,wastewater,,2022,China,,,,,,,,,Citrobacter freundii
+31527671,SAMN31527671,,C_JX_2_CF,wastewater,,2022,China,,,,,,,,,Citrobacter freundii
+54302593,SAMN54302593,,,urine,Homo sapiens,2025,USA,,,,,GCA_054204975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/204/975/GCA_054204975.1_PDT003037186.1,Citrobacter freundii
+54108133,SAMN54108133,,,Homo Sapiens clinical,Homo sapiens,2025-11-26,USA: Florida,,,,,GCA_053968765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/968/765/GCA_053968765.1_PDT003026525.1,Citrobacter freundii
+54273122,SAMN54273122,,BFESBL3,biofilm,,2024-10,Japan,,,,,,,,,Citrobacter freundii
+54290865,SAMEA120848127,,,human gut metagenome,,,,,,,,,,,,Citrobacter freundii
+54266509,SAMN54266509,,CB00508,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54266460,SAMN54266460,,CB00506,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54266439,SAMN54266439,,CB00505,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54266192,SAMN54266192,,2025EP-00501,urine,Homo sapiens,2025,USA,,,,,GCA_054151175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/151/175/GCA_054151175.1_PDT003034433.1,Citrobacter freundii
+54258663,SAMN54258663,,CB00504,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54258636,SAMN54258636,,CB00503,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54258628,SAMN54258628,,CB00498,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54258593,SAMN54258593,,CB00497,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54258538,SAMN54258538,,CB00495,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54258511,SAMN54258511,,CB00494,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54258398,SAMN54258398,,CB00485,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+53316530,SAMN53316530,,2025CK-01311,Rectal Swab,Homo sapiens,2025-11-05,USA,,,,,GCA_053635295.2,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/635/295/GCA_053635295.2_ASM5363529v2,Citrobacter freundii
+50440823,SAMN50440823,,KT1444,toilet drainpipe,,2023-04-25,Germany: Heidelberg,,,,,GCA_054189405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/405/GCA_054189405.1_ASM5418940v1,Citrobacter freundii
+50440822,SAMN50440822,,KT1625,toilet drainpipe,,2024-12-20,Germany: Heidelberg,,,,,GCA_054189425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/425/GCA_054189425.1_ASM5418942v1,Citrobacter freundii
+50440821,SAMN50440821,,KT1318,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054189445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/445/GCA_054189445.1_ASM5418944v1,Citrobacter freundii
+50440820,SAMN50440820,,KT1627,toilet drainpipe,,2024-12-20,Germany: Heidelberg,,,,,GCA_054189465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/465/GCA_054189465.1_ASM5418946v1,Citrobacter freundii
+50440819,SAMN50440819,,KT1624,toilet drainpipe,,2024-12-20,Germany: Heidelberg,,,,,GCA_054189485.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/485/GCA_054189485.1_ASM5418948v1,Citrobacter freundii
+50440818,SAMN50440818,,KT1445,shower drain,,2023-04-25,Germany: Heidelberg,,,,,GCA_054189505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/505/GCA_054189505.1_ASM5418950v1,Citrobacter freundii
+50440817,SAMN50440817,,KT1344,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/265/GCA_054185265.1_ASM5418526v1,Citrobacter freundii
+50440816,SAMN50440816,,KT1317,shower drain,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/285/GCA_054185285.1_ASM5418528v1,Citrobacter freundii
+50440815,SAMN50440815,,KT1315,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/315/GCA_054185315.1_ASM5418531v1,Citrobacter freundii
+50440814,SAMN50440814,,KT1621,toilet drainpipe,,2024-12-20,Germany: Heidelberg,,,,,GCA_054185305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/305/GCA_054185305.1_ASM5418530v1,Citrobacter freundii
+50440813,SAMN50440813,,KT1623,toilet drainpipe,,2024-12-20,Germany: Heidelberg,,,,,GCA_054185345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/345/GCA_054185345.1_ASM5418534v1,Citrobacter freundii
+50440812,SAMN50440812,,KT1622,toilet drainpipe,,2024-12-20,Germany: Heidelberg,,,,,GCA_054185365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/365/GCA_054185365.1_ASM5418536v1,Citrobacter freundii
+50440811,SAMN50440811,,KT1446,toilet drainpipe,,2023-04-25,Germany: Heidelberg,,,,,GCA_054185405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/405/GCA_054185405.1_ASM5418540v1,Citrobacter freundii
+50440810,SAMN50440810,,KT1346,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/385/GCA_054185385.1_ASM5418538v1,Citrobacter freundii
+50440809,SAMN50440809,,KT1324,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/425/GCA_054185425.1_ASM5418542v1,Citrobacter freundii
+50440808,SAMN50440808,,KT1069,toilet drainpipe,,2021-09-14,Germany: Heidelberg,,,,,GCA_054185445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/445/GCA_054185445.1_ASM5418544v1,Citrobacter freundii
+50440807,SAMN50440807,,KT1360,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054189525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/525/GCA_054189525.1_ASM5418952v1,Citrobacter freundii
+50440806,SAMN50440806,,KT1359,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/465/GCA_054185465.1_ASM5418546v1,Citrobacter freundii
+50440805,SAMN50440805,,KT1358,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/475/GCA_054185475.1_ASM5418547v1,Citrobacter freundii
+50440804,SAMN50440804,,KT1367,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/505/GCA_054185505.1_ASM5418550v1,Citrobacter freundii
+50440803,SAMN50440803,,KT1348,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/535/GCA_054185535.1_ASM5418553v1,Citrobacter freundii
+50440802,SAMN50440802,,KT1347,toilet drainpipe,,2023-02-14,Germany: Heidelberg,,,,,GCA_054185525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/525/GCA_054185525.1_ASM5418552v1,Citrobacter freundii
+50440801,SAMN50440801,,KT1320,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/565/GCA_054185565.1_ASM5418556v1,Citrobacter freundii
+50440800,SAMN50440800,,KT1319,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/585/GCA_054185585.1_ASM5418558v1,Citrobacter freundii
+50440799,SAMN50440799,,KT1108,shower drain,,2021-12-07,Germany: Heidelberg,,,,,GCA_054185595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/595/GCA_054185595.1_ASM5418559v1,Citrobacter freundii
+50440798,SAMN50440798,,KT1107,shower drain,,2021-12-07,Germany: Heidelberg,,,,,GCA_054185625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/625/GCA_054185625.1_ASM5418562v1,Citrobacter freundii
+50440797,SAMN50440797,,KT1100,toilet drainpipe,,2021-11-02,Germany: Heidelberg,,,,,GCA_054185655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/655/GCA_054185655.1_ASM5418565v1,Citrobacter freundii
+50440796,SAMN50440796,,KT1099,toilet drainpipe,,2021-11-02,Germany: Heidelberg,,,,,GCA_054185645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/645/GCA_054185645.1_ASM5418564v1,Citrobacter freundii
+50440795,SAMN50440795,,KT1094,toilet drainpipe,,2021-11-02,Germany: Heidelberg,,,,,GCA_054185685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/685/GCA_054185685.1_ASM5418568v1,Citrobacter freundii
+50440794,SAMN50440794,,KT1443,toilet drainpipe,,2023-04-25,Germany: Heidelberg,,,,,GCA_054185705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/705/GCA_054185705.1_ASM5418570v1,Citrobacter freundii
+50440793,SAMN50440793,,KT1441,toilet drainpipe,,2023-04-25,Germany: Heidelberg,,,,,GCA_054185715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/715/GCA_054185715.1_ASM5418571v1,Citrobacter freundii
+50440792,SAMN50440792,,KT1326,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/745/GCA_054185745.1_ASM5418574v1,Citrobacter freundii
+50440791,SAMN50440791,,KT1325,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/755/GCA_054185755.1_ASM5418575v1,Citrobacter freundii
+50440790,SAMN50440790,,KT1323,toilet drainpipe,,2023-02-15,Germany: Heidelberg,,,,,GCA_054185785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/785/GCA_054185785.1_ASM5418578v1,Citrobacter freundii
+50440789,SAMN50440789,,CL6,toilet drainpipe,,2024-01-18,Germany: Heidelberg,,,,,GCA_054185805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/805/GCA_054185805.1_ASM5418580v1,Citrobacter freundii
+50440788,SAMN50440788,,CL18,toilet drainpipe,,2024-02-07,Germany: Heidelberg,,,,,GCA_054185815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/815/GCA_054185815.1_ASM5418581v1,Citrobacter freundii
+50440787,SAMN50440787,,KT1073,toilet drainpipe,,2021-12-07,Germany: Heidelberg,,,,,GCA_054185845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/185/845/GCA_054185845.1_ASM5418584v1,Citrobacter freundii
+50440777,SAMN50440777,,KE9999,rectal swab,Homo sapiens,2020-10-02,Germany: Heidelberg,,,,,GCA_054186045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/045/GCA_054186045.1_ASM5418604v1,Citrobacter freundii
+50440776,SAMN50440776,,KE9998,rectal swab,Homo sapiens,2020-10-05,Germany: Heidelberg,,,,,GCA_054186065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/065/GCA_054186065.1_ASM5418606v1,Citrobacter freundii
+50440775,SAMN50440775,,KE9961,draining fluid,Homo sapiens,2020-08-26,Germany: Heidelberg,,,,,GCA_054186085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/085/GCA_054186085.1_ASM5418608v1,Citrobacter freundii
+50440774,SAMN50440774,,KE9957,rectal swab,Homo sapiens,2020-08-20,Germany: Heidelberg,,,,,GCA_054186145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/145/GCA_054186145.1_ASM5418614v1,Citrobacter freundii
+50440773,SAMN50440773,,KE9890,urine,Homo sapiens,2020-06-26,Germany: Heidelberg,,,,,GCA_054186105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/105/GCA_054186105.1_ASM5418610v1,Citrobacter freundii
+50440772,SAMN50440772,,KE9831,urine,Homo sapiens,2020-04-29,Germany: Heidelberg,,,,,GCA_054186115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/115/GCA_054186115.1_ASM5418611v1,Citrobacter freundii
+50440771,SAMN50440771,,KE9790,rectal swab,Homo sapiens,2020-03-21,Germany: Heidelberg,,,,,GCA_054186155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/155/GCA_054186155.1_ASM5418615v1,Citrobacter freundii
+50440770,SAMN50440770,,KE9784,intraoperative swab (pelvis),Homo sapiens,2020-03-13,Germany: Heidelberg,,,,,GCA_054186185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/185/GCA_054186185.1_ASM5418618v1,Citrobacter freundii
+50440769,SAMN50440769,,KE9775,rectal swab,Homo sapiens,2020-03-08,Germany: Heidelberg,,,,,GCA_054186215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/215/GCA_054186215.1_ASM5418621v1,Citrobacter freundii
+50440768,SAMN50440768,,KE9752,rectal swab,Homo sapiens,2020-02-12,Germany: Heidelberg,,,,,GCA_054186205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/186/205/GCA_054186205.1_ASM5418620v1,Citrobacter freundii
+50440767,SAMN50440767,,KE9724,rectal swab,Homo sapiens,2020-01-21,Germany: Heidelberg,,,,,GCA_054188285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/285/GCA_054188285.1_ASM5418828v1,Citrobacter freundii
+50440766,SAMN50440766,,KE9650,rectal swab,Homo sapiens,2020-01-06,Germany: Heidelberg,,,,,GCA_054188305.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/305/GCA_054188305.1_ASM5418830v1,Citrobacter freundii
+50440765,SAMN50440765,,KE9559,rectal swab,Homo sapiens,2019-10-14,Germany: Heidelberg,,,,,GCA_054188325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/325/GCA_054188325.1_ASM5418832v1,Citrobacter freundii
+50440764,SAMN50440764,,KE9554,bronchoalveolar lavage,Homo sapiens,2019-10-11,Germany: Heidelberg,,,,,GCA_054189745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/745/GCA_054189745.1_ASM5418974v1,Citrobacter freundii
+50440763,SAMN50440763,,KE9511,draining fluid,Homo sapiens,2019-09-03,Germany: Heidelberg,,,,,GCA_054189765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/765/GCA_054189765.1_ASM5418976v1,Citrobacter freundii
+50440762,SAMN50440762,,KE9378,rectal swab,Homo sapiens,2019-05-24,Germany: Heidelberg,,,,,GCA_054188345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/345/GCA_054188345.1_ASM5418834v1,Citrobacter freundii
+50440761,SAMN50440761,,KE9314,rectal swab,Homo sapiens,2019-03-15,Germany: Heidelberg,,,,,GCA_054189785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/785/GCA_054189785.1_ASM5418978v1,Citrobacter freundii
+50440760,SAMN50440760,,KE9068,rectal swab,Homo sapiens,2019-01-16,Germany: Heidelberg,,,,,GCA_054188365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/365/GCA_054188365.1_ASM5418836v1,Citrobacter freundii
+50440759,SAMN50440759,,KE11940,rectal swab,Homo sapiens,2024-11-22,Germany: Heidelberg,,,,,GCA_054189795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/795/GCA_054189795.1_ASM5418979v1,Citrobacter freundii
+50440758,SAMN50440758,,KE11922,rectal swab,Homo sapiens,2024-11-17,Germany: Heidelberg,,,,,GCA_054188375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/375/GCA_054188375.1_ASM5418837v1,Citrobacter freundii
+50440757,SAMN50440757,,KE11904,rectal swab,Homo sapiens,2024-11-05,Germany: Heidelberg,,,,,GCA_054189825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/825/GCA_054189825.1_ASM5418982v1,Citrobacter freundii
+50440756,SAMN50440756,,KE11898,wound swab,Homo sapiens,2024-10-29,Germany: Heidelberg,,,,,GCA_054189845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/845/GCA_054189845.1_ASM5418984v1,Citrobacter freundii
+50440755,SAMN50440755,,KE11863,wound swab (right foot),Homo sapiens,2024-10-14,Germany: Heidelberg,,,,,GCA_054190025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/025/GCA_054190025.1_ASM5419002v1,Citrobacter freundii
+50440754,SAMN50440754,,KE11857,rectal swab,Homo sapiens,2024-10-10,Germany: Heidelberg,,,,,GCA_054189865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/865/GCA_054189865.1_ASM5418986v1,Citrobacter freundii
+50440753,SAMN50440753,,KE11856,rectal swab,Homo sapiens,2024-10-08,Germany: Heidelberg,,,,,GCA_054189885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/885/GCA_054189885.1_ASM5418988v1,Citrobacter freundii
+50440752,SAMN50440752,,KE11841,rectal swab,Homo sapiens,2024-09-24,Germany: Heidelberg,,,,,GCA_054189905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/905/GCA_054189905.1_ASM5418990v1,Citrobacter freundii
+50440751,SAMN50440751,,KE11837,rectal swab,Homo sapiens,2024-09-24,Germany: Heidelberg,,,,,GCA_054221425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/425/GCA_054221425.1_ASM5422142v1,Citrobacter freundii
+50440750,SAMN50440750,,KE11835,rectal swab,Homo sapiens,2024-09-25,Germany: Heidelberg,,,,,GCA_054190045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/045/GCA_054190045.1_ASM5419004v1,Citrobacter freundii
+50440749,SAMN50440749,,KE11807,urine,Homo sapiens,2024-09-05,Germany: Heidelberg,,,,,GCA_054188405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/405/GCA_054188405.1_ASM5418840v1,Citrobacter freundii
+50440748,SAMN50440748,,KE11799,rectal swab,Homo sapiens,2024-09-03,Germany: Heidelberg,,,,,GCA_054189925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/925/GCA_054189925.1_ASM5418992v1,Citrobacter freundii
+50440747,SAMN50440747,,KE11789,rectal swab,Homo sapiens,2024-08-27,Germany: Heidelberg,,,,,GCA_054189945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/945/GCA_054189945.1_ASM5418994v1,Citrobacter freundii
+50440746,SAMN50440746,,KE11782,intraoperative swab (bile duct),Homo sapiens,2024-08-28,Germany: Heidelberg,,,,,GCA_054221395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/395/GCA_054221395.1_ASM5422139v1,Citrobacter freundii
+50440745,SAMN50440745,,KE11774,rectal swab,Homo sapiens,2024-08-26,Germany: Heidelberg,,,,,GCA_054189965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/965/GCA_054189965.1_ASM5418996v1,Citrobacter freundii
+50440744,SAMN50440744,,KE11771,urine,Homo sapiens,2024-08-23,Germany: Heidelberg,,,,,GCA_054188415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/415/GCA_054188415.1_ASM5418841v1,Citrobacter freundii
+50440743,SAMN50440743,,KE11761,rectal swab,Homo sapiens,2024-08-20,Germany: Heidelberg,,,,,GCA_054189985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/985/GCA_054189985.1_ASM5418998v1,Citrobacter freundii
+50440742,SAMN50440742,,KE11759,rectal swab,Homo sapiens,2024-08-15,Germany: Heidelberg,,,,,GCA_054190005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/005/GCA_054190005.1_ASM5419000v1,Citrobacter freundii
+50440741,SAMN50440741,,KE11728,rectal swab,Homo sapiens,2024-08-07,Germany: Heidelberg,,,,,GCA_054190065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/065/GCA_054190065.1_ASM5419006v1,Citrobacter freundii
+50440740,SAMN50440740,,KE11727,rectal swab,Homo sapiens,2024-08-07,Germany: Heidelberg,,,,,GCA_054190085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/085/GCA_054190085.1_ASM5419008v1,Citrobacter freundii
+50440739,SAMN50440739,,KE11719,rectal swab,Homo sapiens,2024-08-03,Germany: Heidelberg,,,,,GCA_054190105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/105/GCA_054190105.1_ASM5419010v1,Citrobacter freundii
+50440738,SAMN50440738,,KE11703,rectal swab,Homo sapiens,2024-07-22,Germany: Heidelberg,,,,,GCA_054190125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/125/GCA_054190125.1_ASM5419012v1,Citrobacter freundii
+50440737,SAMN50440737,,KE11689,wound swab abdomen,Homo sapiens,2024-08-04,Germany: Heidelberg,,,,,GCA_054190145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/145/GCA_054190145.1_ASM5419014v1,Citrobacter freundii
+50440736,SAMN50440736,,KE11648,rectal swab,Homo sapiens,2024-07-05,Germany: Heidelberg,,,,,GCA_054190165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/165/GCA_054190165.1_ASM5419016v1,Citrobacter freundii
+50440735,SAMN50440735,,KE11620,rectal swab,Homo sapiens,2024-06-21,Germany: Heidelberg,,,,,GCA_054190175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/175/GCA_054190175.1_ASM5419017v1,Citrobacter freundii
+50440734,SAMN50440734,,KE11609,rectal swab,Homo sapiens,2024-06-06,Germany: Heidelberg,,,,,GCA_054190205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/205/GCA_054190205.1_ASM5419020v1,Citrobacter freundii
+50440733,SAMN50440733,,KE11603,rectal swab,Homo sapiens,2024-05-28,Germany: Heidelberg,,,,,GCA_054190245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/245/GCA_054190245.1_ASM5419024v1,Citrobacter freundii
+50440732,SAMN50440732,,KE11582,rectal swab,Homo sapiens,2024-05-21,Germany: Heidelberg,,,,,GCA_054190225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/225/GCA_054190225.1_ASM5419022v1,Citrobacter freundii
+50440731,SAMN50440731,,KE11568,rectal swab,Homo sapiens,2024-05-13,Germany: Heidelberg,,,,,GCA_054190265.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/265/GCA_054190265.1_ASM5419026v1,Citrobacter freundii
+50440730,SAMN50440730,,KE11560,rectal swab,Homo sapiens,2024-05-07,Germany: Heidelberg,,,,,GCA_054190285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/285/GCA_054190285.1_ASM5419028v1,Citrobacter freundii
+50440729,SAMN50440729,,KE11553,urine,Homo sapiens,2024-04-28,Germany: Heidelberg,,,,,GCA_054190295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/295/GCA_054190295.1_ASM5419029v1,Citrobacter freundii
+50440728,SAMN50440728,,KE11546,rectal swab,Homo sapiens,2024-04-25,Germany: Heidelberg,,,,,GCA_054190325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/325/GCA_054190325.1_ASM5419032v1,Citrobacter freundii
+50440727,SAMN50440727,,KE11545,urine,Homo sapiens,2024-04-25,Germany: Heidelberg,,,,,GCA_054190375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/375/GCA_054190375.1_ASM5419037v1,Citrobacter freundii
+50440726,SAMN50440726,,KE11512,rectal swab,Homo sapiens,2024-03-26,Germany: Heidelberg,,,,,GCA_054221385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/221/385/GCA_054221385.1_ASM5422138v1,Citrobacter freundii
+50440725,SAMN50440725,,KE11474,rectal swab,Homo sapiens,2024-03-01,Germany: Heidelberg,,,,,GCA_054190345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/345/GCA_054190345.1_ASM5419034v1,Citrobacter freundii
+50440724,SAMN50440724,,KE11457,rectal swab,Homo sapiens,2024-02-14,Germany: Heidelberg,,,,,GCA_054190365.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/365/GCA_054190365.1_ASM5419036v1,Citrobacter freundii
+50440723,SAMN50440723,,KE11455,rectal swab,Homo sapiens,2024-02-16,Germany: Heidelberg,,,,,GCA_054190405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/405/GCA_054190405.1_ASM5419040v1,Citrobacter freundii
+50440722,SAMN50440722,,KE11415,rectal swab,Homo sapiens,2024-01-17,Germany: Heidelberg,,,,,GCA_054190435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/435/GCA_054190435.1_ASM5419043v1,Citrobacter freundii
+50440721,SAMN50440721,,KE11414,rectal swab,Homo sapiens,2024-01-16,Germany: Heidelberg,,,,,GCA_054190415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/415/GCA_054190415.1_ASM5419041v1,Citrobacter freundii
+50440720,SAMN50440720,,KE11391,rectal swab,Homo sapiens,2023-12-20,Germany: Heidelberg,,,,,GCA_054190485.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/485/GCA_054190485.1_ASM5419048v1,Citrobacter freundii
+50440719,SAMN50440719,,KE11389,rectal swab,Homo sapiens,2023-12-27,Germany: Heidelberg,,,,,GCA_054190495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/495/GCA_054190495.1_ASM5419049v1,Citrobacter freundii
+50440718,SAMN50440718,,KE11368,rectal swab,Homo sapiens,2023-11-27,Germany: Heidelberg,,,,,GCA_054190465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/465/GCA_054190465.1_ASM5419046v1,Citrobacter freundii
+50440717,SAMN50440717,,KE11351,rectal swab,Homo sapiens,2023-11-21,Germany: Heidelberg,,,,,GCA_054188435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/435/GCA_054188435.1_ASM5418843v1,Citrobacter freundii
+50440716,SAMN50440716,,KE11321,rectal swab,Homo sapiens,2023-10-30,Germany: Heidelberg,,,,,GCA_054190545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/545/GCA_054190545.1_ASM5419054v1,Citrobacter freundii
+50440715,SAMN50440715,,KE11320,rectal swab,Homo sapiens,2023-10-29,Germany: Heidelberg,,,,,GCA_054188465.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/465/GCA_054188465.1_ASM5418846v1,Citrobacter freundii
+50440714,SAMN50440714,,KE11297,rectal swab,Homo sapiens,2023-10-11,Germany: Heidelberg,,,,,GCA_054190525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/525/GCA_054190525.1_ASM5419052v1,Citrobacter freundii
+50440713,SAMN50440713,,KE11296,urine,Homo sapiens,2023-10-07,Germany: Heidelberg,,,,,GCA_054188485.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/485/GCA_054188485.1_ASM5418848v1,Citrobacter freundii
+50440712,SAMN50440712,,KE11280,rectal swab,Homo sapiens,2023-09-17,Germany: Heidelberg,,,,,GCA_054188505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/505/GCA_054188505.1_ASM5418850v1,Citrobacter freundii
+50440711,SAMN50440711,,KE11254,rectal swab,Homo sapiens,2023-08-29,Germany: Heidelberg,,,,,GCA_054190555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/555/GCA_054190555.1_ASM5419055v1,Citrobacter freundii
+50440710,SAMN50440710,,KE11244,urine,Homo sapiens,2023-08-20,Germany: Heidelberg,,,,,GCA_054188545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/545/GCA_054188545.1_ASM5418854v1,Citrobacter freundii
+50440709,SAMN50440709,,KE11242,rectal swab,Homo sapiens,2023-08-18,Germany: Heidelberg,,,,,GCA_054188535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/535/GCA_054188535.1_ASM5418853v1,Citrobacter freundii
+50440708,SAMN50440708,,KE11227,rectal swab,Homo sapiens,2023-08-08,Germany: Heidelberg,,,,,GCA_054190585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/585/GCA_054190585.1_ASM5419058v1,Citrobacter freundii
+50440707,SAMN50440707,,KE11224,rectal swab,Homo sapiens,2023-08-02,Germany: Heidelberg,,,,,GCA_054188525.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/525/GCA_054188525.1_ASM5418852v1,Citrobacter freundii
+50440706,SAMN50440706,,KE11218,rectal swab,Homo sapiens,2023-07-31,Germany: Heidelberg,,,,,GCA_054190595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/595/GCA_054190595.1_ASM5419059v1,Citrobacter freundii
+50440705,SAMN50440705,,KE11197,rectal swab,Homo sapiens,2023-07-14,Germany: Heidelberg,,,,,GCA_054188585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/585/GCA_054188585.1_ASM5418858v1,Citrobacter freundii
+50440704,SAMN50440704,,KE11195,rectal swab,Homo sapiens,2023-07-14,Germany: Heidelberg,,,,,GCA_054188605.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/605/GCA_054188605.1_ASM5418860v1,Citrobacter freundii
+50440703,SAMN50440703,,KE11166,rectal swab,Homo sapiens,2023-06-23,Germany: Heidelberg,,,,,GCA_054188625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/625/GCA_054188625.1_ASM5418862v1,Citrobacter freundii
+50440702,SAMN50440702,,KE11164,rectal swab,Homo sapiens,2023-06-18,Germany: Heidelberg,,,,,GCA_054188655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/655/GCA_054188655.1_ASM5418865v1,Citrobacter freundii
+50440701,SAMN50440701,,KE11157,rectal swab,Homo sapiens,2023-06-08,Germany: Heidelberg,,,,,GCA_054188645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/645/GCA_054188645.1_ASM5418864v1,Citrobacter freundii
+50440700,SAMN50440700,,KE11149,rectal swab,Homo sapiens,2023-05-23,Germany: Heidelberg,,,,,GCA_054190625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/625/GCA_054190625.1_ASM5419062v1,Citrobacter freundii
+50440699,SAMN50440699,,KE11116,rectal swab,Homo sapiens,2023-05-02,Germany: Heidelberg,,,,,GCA_054188685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/685/GCA_054188685.1_ASM5418868v1,Citrobacter freundii
+50440698,SAMN50440698,,KE11087,rectal swab,Homo sapiens,2023-04-11,Germany: Heidelberg,,,,,GCA_054188705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/705/GCA_054188705.1_ASM5418870v1,Citrobacter freundii
+50440697,SAMN50440697,,KE11079,rectal swab,Homo sapiens,2023-04-04,Germany: Heidelberg,,,,,GCA_054190645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/645/GCA_054190645.1_ASM5419064v1,Citrobacter freundii
+50440696,SAMN50440696,,KE11066,rectal swab,Homo sapiens,2023-03-20,Germany: Heidelberg,,,,,GCA_054190665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/665/GCA_054190665.1_ASM5419066v1,Citrobacter freundii
+50440695,SAMN50440695,,KE11060,rectal swab,Homo sapiens,2023-03-18,Germany: Heidelberg,,,,,GCA_054190685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/685/GCA_054190685.1_ASM5419068v1,Citrobacter freundii
+50440694,SAMN50440694,,KE11059,rectal swab,Homo sapiens,2023-03-15,Germany: Heidelberg,,,,,GCA_054190725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/725/GCA_054190725.1_ASM5419072v1,Citrobacter freundii
+50440693,SAMN50440693,,KE11038,rectal swab,Homo sapiens,2023-02-21,Germany: Heidelberg,,,,,GCA_054188715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/715/GCA_054188715.1_ASM5418871v1,Citrobacter freundii
+50440692,SAMN50440692,,KE11015,rectal swab,Homo sapiens,2023-02-03,Germany: Heidelberg,,,,,GCA_054188745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/745/GCA_054188745.1_ASM5418874v1,Citrobacter freundii
+50440691,SAMN50440691,,KE10995,rectal swab,Homo sapiens,2023-01-24,Germany: Heidelberg,,,,,GCA_054190705.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/705/GCA_054190705.1_ASM5419070v1,Citrobacter freundii
+50440690,SAMN50440690,,KE10994,rectal swab,Homo sapiens,2023-01-21,Germany: Heidelberg,,,,,GCA_054190745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/745/GCA_054190745.1_ASM5419074v1,Citrobacter freundii
+50440689,SAMN50440689,,KE10941,rectal swab,Homo sapiens,2022-12-16,Germany: Heidelberg,,,,,GCA_054190765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/765/GCA_054190765.1_ASM5419076v1,Citrobacter freundii
+50440688,SAMN50440688,,KE10937,rectal swab,Homo sapiens,2022-12-13,Germany: Heidelberg,,,,,GCA_054190785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/785/GCA_054190785.1_ASM5419078v1,Citrobacter freundii
+50440687,SAMN50440687,,KE10916,intraoperative swab (scrotum),Homo sapiens,2022-11-26,Germany: Heidelberg,,,,,GCA_054190795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/795/GCA_054190795.1_ASM5419079v1,Citrobacter freundii
+50440686,SAMN50440686,,KE10867,rectal swab,Homo sapiens,2022-10-13,Germany: Heidelberg,,,,,GCA_054190825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/825/GCA_054190825.1_ASM5419082v1,Citrobacter freundii
+50440685,SAMN50440685,,KE10821,rectal swab,Homo sapiens,2022-09-20,Germany: Heidelberg,,,,,GCA_054190845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/845/GCA_054190845.1_ASM5419084v1,Citrobacter freundii
+50440684,SAMN50440684,,KE10793,rectal swab,Homo sapiens,2022-09-05,Germany: Heidelberg,,,,,GCA_054190865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/865/GCA_054190865.1_ASM5419086v1,Citrobacter freundii
+50440683,SAMN50440683,,KE10782,rectal swab,Homo sapiens,2022-08-30,Germany: Heidelberg,,,,,GCA_054190885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/885/GCA_054190885.1_ASM5419088v1,Citrobacter freundii
+50440682,SAMN50440682,,KE10755,rectal swab,Homo sapiens,2022-08-09,Germany: Heidelberg,,,,,GCA_054190905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/905/GCA_054190905.1_ASM5419090v1,Citrobacter freundii
+50440681,SAMN50440681,,KE10750,rectal swab,Homo sapiens,2022-08-09,Germany: Heidelberg,,,,,GCA_054190915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/915/GCA_054190915.1_ASM5419091v1,Citrobacter freundii
+50440680,SAMN50440680,,KE10748,rectal swab,Homo sapiens,2022-08-10,Germany: Heidelberg,,,,,GCA_054190945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/945/GCA_054190945.1_ASM5419094v1,Citrobacter freundii
+50440679,SAMN50440679,,KE10742,rectal swab,Homo sapiens,2022-08-05,Germany: Heidelberg,,,,,GCA_054190965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/965/GCA_054190965.1_ASM5419096v1,Citrobacter freundii
+50440678,SAMN50440678,,KE10724,rectal swab,Homo sapiens,2022-08-01,Germany: Heidelberg,,,,,GCA_054190985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/190/985/GCA_054190985.1_ASM5419098v1,Citrobacter freundii
+50440677,SAMN50440677,,KE10692,rectal swab,Homo sapiens,2022-06-28,Germany: Heidelberg,,,,,GCA_054191005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/005/GCA_054191005.1_ASM5419100v1,Citrobacter freundii
+50440676,SAMN50440676,,KE10589,rectal swab,Homo sapiens,2022-03-02,Germany: Heidelberg,,,,,GCA_054191025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/025/GCA_054191025.1_ASM5419102v1,Citrobacter freundii
+50440675,SAMN50440675,,KE10581,rectal swab,Homo sapiens,2022-02-24,Germany: Heidelberg,,,,,GCA_054191045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/045/GCA_054191045.1_ASM5419104v1,Citrobacter freundii
+50440674,SAMN50440674,,KE10504,rectal swab,Homo sapiens,2021-12-11,Germany: Heidelberg,,,,,GCA_054191065.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/065/GCA_054191065.1_ASM5419106v1,Citrobacter freundii
+50440673,SAMN50440673,,KE10490,rectal swab,Homo sapiens,2021-12-01,Germany: Heidelberg,,,,,GCA_054191085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/085/GCA_054191085.1_ASM5419108v1,Citrobacter freundii
+50440672,SAMN50440672,,KE10459,rectal swab,Homo sapiens,2021-10-29,Germany: Heidelberg,,,,,GCA_054191105.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/105/GCA_054191105.1_ASM5419110v1,Citrobacter freundii
+50440671,SAMN50440671,,KE10451,urine,Homo sapiens,2021-10-21,Germany: Heidelberg,,,,,GCA_054191125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/125/GCA_054191125.1_ASM5419112v1,Citrobacter freundii
+50440670,SAMN50440670,,KE10444,rectal swab,Homo sapiens,2021-10-14,Germany: Heidelberg,,,,,GCA_054191145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/145/GCA_054191145.1_ASM5419114v1,Citrobacter freundii
+50440669,SAMN50440669,,KE10388,rectal swab,Homo sapiens,2021-08-31,Germany: Heidelberg,,,,,GCA_054191165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/165/GCA_054191165.1_ASM5419116v1,Citrobacter freundii
+50440668,SAMN50440668,,KE10314,urine,Homo sapiens,2021-07-04,Germany: Heidelberg,,,,,GCA_054191185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/185/GCA_054191185.1_ASM5419118v1,Citrobacter freundii
+50440667,SAMN50440667,,KE10303,rectal swab,Homo sapiens,2021-06-21,Germany: Heidelberg,,,,,GCA_054188765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/765/GCA_054188765.1_ASM5418876v1,Citrobacter freundii
+50440666,SAMN50440666,,KE10286,rectal swab,Homo sapiens,2021-06-08,Germany: Heidelberg,,,,,GCA_054188775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/775/GCA_054188775.1_ASM5418877v1,Citrobacter freundii
+50440665,SAMN50440665,,KE10263,rectal swab,Homo sapiens,2021-05-18,Germany: Heidelberg,,,,,GCA_054188805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/805/GCA_054188805.1_ASM5418880v1,Citrobacter freundii
+50440664,SAMN50440664,,KE10233,rectal swab,Homo sapiens,2021-04-21,Germany: Heidelberg,,,,,GCA_054188825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/825/GCA_054188825.1_ASM5418882v1,Citrobacter freundii
+50440663,SAMN50440663,,KE10217,rectal swab,Homo sapiens,2021-03-30,Germany: Heidelberg,,,,,GCA_054191205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/205/GCA_054191205.1_ASM5419120v1,Citrobacter freundii
+50440662,SAMN50440662,,KE10205,rectal swab,Homo sapiens,2021-03-14,Germany: Heidelberg,,,,,GCA_054188835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/835/GCA_054188835.1_ASM5418883v1,Citrobacter freundii
+50440661,SAMN50440661,,KE10204,rectal swab,Homo sapiens,2021-03-11,Germany: Heidelberg,,,,,GCA_054188865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/865/GCA_054188865.1_ASM5418886v1,Citrobacter freundii
+50440660,SAMN50440660,,KE10186,rectal swab,Homo sapiens,2021-02-22,Germany: Heidelberg,,,,,GCA_054188885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/885/GCA_054188885.1_ASM5418888v1,Citrobacter freundii
+50440659,SAMN50440659,,KE10167,skin swab (groin),Homo sapiens,2021-02-08,Germany: Heidelberg,,,,,GCA_054188895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/895/GCA_054188895.1_ASM5418889v1,Citrobacter freundii
+50440658,SAMN50440658,,KE10151,rectal swab,Homo sapiens,2021-01-19,Germany: Heidelberg,,,,,GCA_054188925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/925/GCA_054188925.1_ASM5418892v1,Citrobacter freundii
+50440657,SAMN50440657,,KE10138,urine,Homo sapiens,2021-01-14,Germany: Heidelberg,,,,,GCA_054191225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/191/225/GCA_054191225.1_ASM5419122v1,Citrobacter freundii
+50440656,SAMN50440656,,KE10115,rectal swab,Homo sapiens,2020-12-31,Germany: Heidelberg,,,,,GCA_054188945.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/945/GCA_054188945.1_ASM5418894v1,Citrobacter freundii
+50440655,SAMN50440655,,KE10099,rectal swab,Homo sapiens,2020-12-21,Germany: Heidelberg,,,,,GCA_054188955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/955/GCA_054188955.1_ASM5418895v1,Citrobacter freundii
+50440654,SAMN50440654,,KE10091,urine,Homo sapiens,2020-12-18,Germany: Heidelberg,,,,,GCA_054188985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/188/985/GCA_054188985.1_ASM5418898v1,Citrobacter freundii
+50440653,SAMN50440653,,KE10071,puncture fluid,Homo sapiens,2020-11-24,Germany: Heidelberg,,,,,GCA_054189005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/005/GCA_054189005.1_ASM5418900v1,Citrobacter freundii
+50440652,SAMN50440652,,KE10055,rectal swab,Homo sapiens,2020-11-07,Germany: Heidelberg,,,,,GCA_054189025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/025/GCA_054189025.1_ASM5418902v1,Citrobacter freundii
+50440651,SAMN50440651,,KE10044,rectal swab,Homo sapiens,2020-10-30,Germany: Heidelberg,,,,,GCA_054189045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/045/GCA_054189045.1_ASM5418904v1,Citrobacter freundii
+50440650,SAMN50440650,,KE10036,urine,Homo sapiens,2020-10-28,Germany: Heidelberg,,,,,GCA_054189055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/055/GCA_054189055.1_ASM5418905v1,Citrobacter freundii
+50440649,SAMN50440649,,KE10017,urine,Homo sapiens,2020-10-13,Germany: Heidelberg,,,,,GCA_054189085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/189/085/GCA_054189085.1_ASM5418908v1,Citrobacter freundii
+54173963,SAMN54173963,,CB00484,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173962,SAMN54173962,,CB00483,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173961,SAMN54173961,,CB00482,not collected,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173899,SAMN54173899,,CB00481,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173882,SAMN54173882,,CB00480,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173839,SAMN54173839,,CB00479,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173772,SAMN54173772,,CB00478,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54173710,SAMN54173710,,CB00477,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54172422,SAMN54172422,,,tracheal aspirate,Homo sapiens,2024,USA: Arizona,,,,,GCA_054059545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/059/545/GCA_054059545.1_PDT003028337.1,Citrobacter freundii
+54169963,SAMN54169963,,CB00502,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54169932,SAMN54169932,,CB00501,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54169908,SAMN54169908,,CB00500,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54169900,SAMN54169900,,CB00499,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+48972252,SAMN48972252,,,blood,Homo sapiens,2021-08-31,Ethiopia,,,,,,,,,Citrobacter freundii
+54165854,SAMEA120820563,,,human,,,,,,,,GCA_054151015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/151/015/GCA_054151015.1_PDT003035700.1,Citrobacter freundii
+54146308,SAMN54146308,,CB00493,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146307,SAMN54146307,,CB00492,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146296,SAMN54146296,,CB00491,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146239,SAMN54146239,,CB00490,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146133,SAMN54146133,,CB00489,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146132,SAMN54146132,,CB00488,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146100,SAMN54146100,,CB00487,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+54146048,SAMN54146048,,CB00476,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Citrobacter freundii
+44668356,SAMN44668356,,Human,,Homo sapiens,2024-06,Ireland: Cork,,,,,,,,,Citrobacter freundii
+54118492,SAMN54118492,,,blood,Homo sapiens,2024,Canada: Winnipeg,,,,,GCA_054151795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/151/795/GCA_054151795.1_PDT003035852.1,Citrobacter freundii
+54118489,SAMN54118489,,,blood,Homo sapiens,2024,Canada: Winnipeg,,,,,GCA_054150055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/150/055/GCA_054150055.1_PDT003035854.1,Citrobacter freundii
+54118488,SAMN54118488,,,blood,Homo sapiens,2024,Canada: Winnipeg,,,,,,,,,Citrobacter freundii
+53210721,SAMN53210721,,RHBSTW-00350,Hospital Sink Drain,,2017-10-01,"USA: Virginia, Charlottesville",,,,,GCA_054121415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/121/415/GCA_054121415.1_PDT003031157.1,Citrobacter freundii
+54085539,SAMEA114991063,,,,,,,,,,,,,,,Citrobacter freundii
+54081113,SAMEA114964893,,,,,,,,,,,,,,,Citrobacter freundii
+54076147,SAMEA114975142,,,,,,,,,,,,,,,Citrobacter freundii
+54060043,SAMEA114984298,,,,,,,,,,,,,,,Citrobacter freundii
+54057438,SAMEA115011358,,,,,,,,,,,,,,,Citrobacter freundii
+54052178,SAMEA115004593,,,,,,,,,,,,,,,Citrobacter freundii
+54048989,SAMEA114997828,,,,,,,,,,,,,,,Citrobacter freundii
+54040423,SAMEA114977533,,,,,,,,,,,,,,,Citrobacter freundii
+54031410,SAMEA114959507,,,,,,,,,,,,,,,Citrobacter freundii
+54023328,SAMEA114951416,,,,,,,,,,,,,,,Citrobacter freundii
+54018786,SAMEA114946888,,,,,,,,,,,,,,,Citrobacter freundii
+54008760,SAMEA114936862,,,,,,,,,,,,,,,Citrobacter freundii
+54001995,SAMEA114930097,,,,,,,,,,,,,,,Citrobacter freundii
+53995218,SAMEA114923284,,,,,,,,,,,,,,,Citrobacter freundii
+53990347,SAMEA114918413,,,,,,,,,,,,,,,Citrobacter freundii
+53981687,SAMEA114909722,,,,,,,,,,,,,,,Citrobacter freundii
+53974922,SAMEA114902957,,,,,,,,,,,,,,,Citrobacter freundii
+53968141,SAMEA114896189,,,,,,,,,,,,,,,Citrobacter freundii
+53961348,SAMEA114889424,,,,,,,,,,,,,,,Citrobacter freundii
+53947818,SAMEA114875862,,,,,,,,,,,,,,,Citrobacter freundii
+53941036,SAMEA114869095,,,,,,,,,,,,,,,Citrobacter freundii
+53916391,SAMN53916391,,,bronchoalveolar lavage,Homo sapiens,2025,USA,,,,,GCA_053935625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/935/625/GCA_053935625.1_PDT003022779.1,Citrobacter freundii
+53954583,SAMEA114882628,,,,,,,,,,,,,,,Citrobacter freundii
+53364870,SAMN53364870,,2SOB5mer,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364868,SAMN53364868,,2SOB2mer,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364867,SAMN53364867,,2SOA5cef,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364865,SAMN53364865,,2SOA1cef,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364862,SAMN53364862,,2SOA16merBa,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364860,SAMN53364860,,2SOA12merB,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364859,SAMN53364859,,2SOA11merB,mWWTP outflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364857,SAMN53364857,,2SIB8mer,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364856,SAMN53364856,,2SIB7mer,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364854,SAMN53364854,,2SIB4cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364853,SAMN53364853,,2SIB3mer,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364852,SAMN53364852,,2SIB3cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364851,SAMN53364851,,2SIB2mer,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364850,SAMN53364850,,2SIB1cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364849,SAMN53364849,,2SIA9cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364847,SAMN53364847,,2SIA5cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364846,SAMN53364846,,2SIA4mer,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364845,SAMN53364845,,2SIA4cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364842,SAMN53364842,,2SIA2mer,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364838,SAMN53364838,,2SIA12cef,mWWTP inflow,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364835,SAMN53364835,,2SHcefen6merA,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364833,SAMN53364833,,2SHcef8merB,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364832,SAMN53364832,,2SHcef7merA,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364829,SAMN53364829,,2SHcef3merA,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364828,SAMN53364828,,2SHcef2merB,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364826,SAMN53364826,,2SHcef10merA,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364824,SAMN53364824,,2SHB1mer,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364822,SAMN53364822,,2SHAen3merA,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364819,SAMN53364819,,2SHA7cef,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364818,SAMN53364818,,2SHA6merB,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364816,SAMN53364816,,2SHA3cef,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364815,SAMN53364815,,2SHA2cef,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364814,SAMN53364814,,2SHA1cef,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364810,SAMN53364810,,2SHA12cef,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364808,SAMN53364808,,2SHA10cef,hospital sewage,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364807,SAMN53364807,,2RUA6mer,river upstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364806,SAMN53364806,,2RUA5mer,river upstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364805,SAMN53364805,,2RUA4mer,river upstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364804,SAMN53364804,,2RUA1merA,river upstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364803,SAMN53364803,,2RUA10,river upstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364800,SAMN53364800,,2RDA1mer,river downstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364799,SAMN53364799,,2RDA1cef,river downstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53364798,SAMN53364798,,2RDA10mer,river downstream,,2021-04,Czechia,,,,,,,,,Citrobacter freundii
+53830958,SAMN53830958,,2025GN-00339,abdomen,Homo sapiens,2025,USA,,,,,GCA_053890255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/890/255/GCA_053890255.1_PDT003018117.1,Citrobacter freundii
+53796802,SAMN53796802,,,Rectal swab,Homo sapiens,2025,USA,,,,,GCA_053879805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/879/805/GCA_053879805.1_PDT003017103.1,Citrobacter freundii
+53076830,SAMN53076830,,not applicable,urine,Homo sapiens,2022-08,USA: Pennsylvania,,,,,GCA_053885025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/885/025/GCA_053885025.1_PDT003017876.1,Citrobacter freundii
+53076829,SAMN53076829,,not applicable,Human stool,Homo sapiens,2022-07,USA: Pennsylvania,,,,,GCA_053884205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/884/205/GCA_053884205.1_PDT003017877.1,Citrobacter freundii
+53076805,SAMN53076805,,not applicable,Human stool,Homo sapiens,2021-12,USA: Pennsylvania,,,,,GCA_053883885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/883/885/GCA_053883885.1_PDT003017902.1,Citrobacter freundii
+53076773,SAMN53076773,,not applicable,Pelvic fluid,Homo sapiens,2022-04,USA: Pennsylvania,,,,,GCA_053889775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/889/775/GCA_053889775.1_PDT003017869.1,Citrobacter freundii
+53076750,SAMN53076750,,not applicable,Human stool,Homo sapiens,2022-05,USA: Pennsylvania,,,,,,,,,Citrobacter freundii
+53076700,SAMN53076700,,not applicable,Human stool,Homo sapiens,2021-11,USA: Pennsylvania,,,,,GCA_053885225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/885/225/GCA_053885225.1_PDT003017861.1,Citrobacter freundii
+52858733,SAMN52858733,,UMB9556,,Homo sapiens,NA,NA,,,,,GCF_053219695.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/219/695/GCF_053219695.1_Short_Read_Assembly_1.0,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/219/695/GCA_053219695.1_Short_Read_Assembly_1.0,Citrobacter freundii
+50504906,SAMN50504906,,K1146,Unknown,Homo sapiens,2021,"China: Zhejiang, Wenzhou",,,,,GCF_053902525.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/902/525/GCF_053902525.1_ASM5390252v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/902/525/GCA_053902525.1_ASM5390252v1,Citrobacter freundii
+50504864,SAMN50504864,,K145,Unknown,Homo sapiens,2021,"China: Zhejiang, Wenzhou",,,,,GCF_053902505.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/902/505/GCF_053902505.1_ASM5390250v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/902/505/GCA_053902505.1_ASM5390250v1,Citrobacter freundii
+50504727,SAMN50504727,,K1144,Unknown,Homo sapiens,2022,"China: Zhejiang, Wenzhou",,,,,GCF_053902485.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/902/485/GCF_053902485.1_ASM5390248v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/902/485/GCA_053902485.1_ASM5390248v1,Citrobacter freundii
+50494605,SAMN50494605,,K1099,Unknown,Homo sapiens,2023,"China: Zhejiang, Taizhou",,,,,GCF_053902465.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/902/465/GCF_053902465.1_ASM5390246v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/902/465/GCA_053902465.1_ASM5390246v1,Citrobacter freundii
+50494447,SAMN50494447,,K1087,Unknown,Homo sapiens,2023,"China: Zhejiang, Taizhou",,,,,GCF_054254375.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/254/375/GCF_054254375.1_ASM5425437v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/254/375/GCA_054254375.1_ASM5425437v1,Citrobacter freundii
+53670733,SAMN53670733,,ARGA00744,surface,,2025-09-23,"Spain: A Coruna, Galicia",,,,,GCA_053835445.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/835/445/GCA_053835445.1_PDT003010699.1,Citrobacter freundii
+53670158,SAMN53670158,,2025GO-00557,Unknown,Homo sapiens,2025,USA,,,,,GCA_053833215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/215/GCA_053833215.1_PDT003010482.1,Citrobacter freundii
+53651628,SAMN53651628,,2024HW-00075,Healthcare facility,,2022,USA,,,,,GCA_053964815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/964/815/GCA_053964815.1_PDT003021416.1,Citrobacter freundii
+53651617,SAMN53651617,,2024HW-00064,Healthcare facility,,2022,USA,,,,,,,,,Citrobacter freundii
+53656122,SAMD01696895,,LR010,missing,Homo sapiens,2023,Japan:Tokyo,,,,,GCA_053894735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/894/735/GCA_053894735.1_PDT003018272.1,Citrobacter freundii
+53656111,SAMD01696884,,IR071-1,missing,Homo sapiens,2023,Japan:Fukuoka,,,,,GCA_053894835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/894/835/GCA_053894835.1_PDT003018261.1,Citrobacter freundii
+53656106,SAMD01696879,,IR066,missing,Homo sapiens,2022,Japan:Fukuoka,,,,,GCA_053892335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/892/335/GCA_053892335.1_PDT003018256.1,Citrobacter freundii
+53656091,SAMD01696864,,IR052,missing,Homo sapiens,2021,Japan:Fukuoka,,,,,GCA_053892515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/892/515/GCA_053892515.1_PDT003018241.1,Citrobacter freundii
+53655990,SAMD01696763,,AR390,missing,Homo sapiens,2023,Japan:Tokyo,,,,,,,,,Citrobacter freundii
+53646734,SAMN53646734,,,urine,Homo sapiens,2025,USA,,,,,GCA_053814745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/814/745/GCA_053814745.1_PDT003009826.1,Citrobacter freundii
+53618767,SAMEA119919063,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53617845,SAMEA119907003,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53614704,SAMEA119897500,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53613952,SAMEA119904852,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53612664,SAMEA119903540,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53612374,SAMEA119906868,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53607362,SAMEA119907518,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+53569463,SAMEA119888729,,,missing: third party data,,,,,,,,,,,,Citrobacter freundii
+47165778,SAMN47165778,,BTF71T1,urine,Homo sapiens,2024-10,"USA: Nashville,TN",,,,,,,,,Citrobacter freundii
+53523607,SAMEA120642988,,,,,,,,,,,,,,,Citrobacter freundii
+53523503,SAMEA120645820,,,,,,,,,,,,,,,Citrobacter freundii
+53519629,SAMEA120645309,,,,,,,,,,,,,,,Citrobacter freundii
+53518872,SAMEA120645310,,,,,,,,,,,,,,,Citrobacter freundii
+53518639,SAMEA120645360,,,,,,,,,,,,,,,Citrobacter freundii
+53523147,SAMEA120398623,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,GCA_053833935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/935/GCA_053833935.1_PDT003010585.1,Citrobacter freundii
+53522788,SAMEA120398515,,,Sink drain; patient room,,,,,,,,GCA_053833975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/975/GCA_053833975.1_PDT003010523.1,Citrobacter freundii
+53522680,SAMEA120398675,,,Blood (arterial),,,,,,,,,,,,Citrobacter freundii
+53522500,SAMEA120398655,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,GCA_053833875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/875/GCA_053833875.1_PDT003010604.1,Citrobacter freundii
+53522475,SAMEA120398567,,,Sink drain; patient room,,,,,,,,,,,,Citrobacter freundii
+53522267,SAMEA120398669,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,,,,,Citrobacter freundii
+53521738,SAMEA120398517,,,Sink drain; patient room,,,,,,,,,,,,Citrobacter freundii
+53521455,SAMEA120398667,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,,,,,Citrobacter freundii
+53521390,SAMEA120398636,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,,,,,Citrobacter freundii
+53521189,SAMEA120398693,,,uitstrijk (Screening keel/neus/oropharynx),,,,,,,,GCA_053833795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/795/GCA_053833795.1_PDT003010620.1,Citrobacter freundii
+53521060,SAMEA120398510,,,Sink drain; medication preparation room,,,,,,,,,,,,Citrobacter freundii
+53520670,SAMEA120398497,,,Sink drain; patient room,,,,,,,,GCA_053833995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/995/GCA_053833995.1_PDT003010513.1,Citrobacter freundii
+53520662,SAMEA120398686,,,Urine (catheter),,,,,,,,GCA_053833815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/833/815/GCA_053833815.1_PDT003010618.1,Citrobacter freundii
+53520563,SAMEA120398601,,,Sink drain; patient room,,,,,,,,GCA_053834295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/834/295/GCA_053834295.1_PDT003010569.1,Citrobacter freundii
+53519514,SAMEA120398569,,,Sink drain; patient room,,,,,,,,GCA_053827715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/827/715/GCA_053827715.1_PDT003010095.1,Citrobacter freundii
+53519489,SAMEA120398629,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,,,,,Citrobacter freundii
+53519388,SAMEA120398534,,,Sink drain; patient room,,,,,,,,GCA_053827775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/827/775/GCA_053827775.1_PDT003010082.1,Citrobacter freundii
+53519263,SAMEA120398594,,,Sink drain; patient room,,,,,,,,GCA_053834285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/834/285/GCA_053834285.1_PDT003010568.1,Citrobacter freundii
+53519162,SAMEA120398666,,,Pleural effusion,,,,,,,,,,,,Citrobacter freundii
+53519103,SAMEA120398563,,,Sink drain; patient room,,,,,,,,GCA_053827695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/827/695/GCA_053827695.1_PDT003010093.1,Citrobacter freundii
+53518906,SAMEA120398628,,,Screening swabs (oropharynx/nasopharynx/rectum),,,,,,,,,,,,Citrobacter freundii
+53518369,SAMEA120398548,,,Sink drain; patient room,,,,,,,,GCA_053834355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/834/355/GCA_053834355.1_PDT003010543.1,Citrobacter freundii
+53478788,SAMEA120616736,,,human gut metagenome,,,,,,,,GCA_977075195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/977/075/195/GCA_977075195.1_SRR24315790_bin_2861,Citrobacter freundii
+53394517,SAMN53394517,,not collected,Bronchial,Homo sapiens,2025-10-23,USA,,,,,,,,,Citrobacter freundii
+53373032,SAMN53373032,,,urine,Homo sapiens,2025,USA,,,,,GCA_053690535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/690/535/GCA_053690535.1_PDT002995518.1,Citrobacter freundii
+53363810,SAMN53363810,,WDS,,Homo sapiens,2024-09,China:yangzhou,,,,,GCF_054054585.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/054/585/GCF_054054585.1_ASM5405458v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/054/585/GCA_054054585.1_ASM5405458v1,Citrobacter freundii
+51335551,SAMN51335551,,16AR1712,Urine catheter,Homo sapiens,2016,New Zealand,,,,,GCF_053699675.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/699/675/GCF_053699675.1_ASM5369967v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/699/675/GCA_053699675.1_ASM5369967v1,Citrobacter freundii
+53350650,SAMN53350650,,Ec_TT3,Bovine feces collected from transport trailer,Bos taurus,2015,Canada: Alberta,,,,,,,,,Citrobacter freundii
+53339473,SAMN53339473,,PS-195,Primary sludge,,2021-10-28,"Spain: A Coruna, Galicia",,,,,,,,,Citrobacter freundii
+53323592,SAMN53323592,,A214_2,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323591,SAMN53323591,,A214_1,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323590,SAMN53323590,,B_2,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323589,SAMN53323589,,B_1,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323588,SAMN53323588,,P_2,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323587,SAMN53323587,,P_1,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323586,SAMN53323586,,CK_2,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53323585,SAMN53323585,,CK_1,,animal,2024-09-11,China,,,,,,,,,Citrobacter freundii
+53186095,SAMN53186095,,LACPHL-BACT-2025-00476,,Homo sapiens,,,,,,,GCF_053708695.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/708/695/GCF_053708695.1_ASM5370869v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/708/695/GCA_053708695.1_ASM5370869v1,Citrobacter freundii
+53316260,SAMN53316260,,,urine,Homo sapiens,2025,USA,,,,,,,,,Citrobacter freundii
+44474304,SAMN44474304,,enterobacterales,,Homo sapiens,2024-06,Ireland: Cork,,,,,GCA_054375295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/375/295/GCA_054375295.1_PDT003010152.1,Citrobacter freundii
+53287959,SAMEA114638542,,,blood,,,,,,,,,,,,Citrobacter freundii
+52012937,SAMN52012937,,,stool,,2019/2024,Ecuador,,,,,,,,,Citrobacter freundii
+53206829,SAMN53206829,,2025HL-00835,peritoneal fluid ascites,Homo sapiens,2025,USA,,,,,,,,,Citrobacter freundii
+53185577,SAMN53185577,,,sputum,Homo sapiens,2025-09-30,USA,,,,,GCA_053444585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/444/585/GCA_053444585.1_PDT002982578.1,Citrobacter freundii
+53183258,SAMN53183258,,,Environmental_drain,,2025,USA,,,,,GCA_053442375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/442/375/GCA_053442375.1_PDT002982095.1,Citrobacter freundii
+53183257,SAMN53183257,,,Environmental_drain,,2025,USA,,,,,GCA_053442325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/442/325/GCA_053442325.1_PDT002982096.1,Citrobacter freundii
+46230971,SAMN46230971,,NMI5903-19,rectal swab,Homo sapiens,2019,Poland: Lodz,,,,,GCF_053548335.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/335/GCF_053548335.1_ASM5354833v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/335/GCA_053548335.1_ASM5354833v1,Citrobacter freundii
+46230969,SAMN46230969,,NMI659-16,rectal swab,Homo sapiens,2016,Poland: Warszawa,,,,,GCF_053548375.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/375/GCF_053548375.1_ASM5354837v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/375/GCA_053548375.1_ASM5354837v1,Citrobacter freundii
+46230968,SAMN46230968,,NMI3937-17,rectal swab,Homo sapiens,2017,Poland: Warszawa,,,,,GCF_053548395.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/395/GCF_053548395.1_ASM5354839v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/395/GCA_053548395.1_ASM5354839v1,Citrobacter freundii
+46230967,SAMN46230967,,NMI3597-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/415/GCA_053548415.1_ASM5354841v1,Citrobacter freundii
+46230966,SAMN46230966,,NMI1627-18,rectal swab,Homo sapiens,2018,Poland: Olsztyn,,,,,GCF_053548435.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/435/GCF_053548435.1_ASM5354843v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/435/GCA_053548435.1_ASM5354843v1,Citrobacter freundii
+46230965,SAMN46230965,,NMI8401-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548455.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/455/GCF_053548455.1_ASM5354845v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/455/GCA_053548455.1_ASM5354845v1,Citrobacter freundii
+46230964,SAMN46230964,,NMI8318-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548475.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/475/GCF_053548475.1_ASM5354847v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/475/GCA_053548475.1_ASM5354847v1,Citrobacter freundii
+46230963,SAMN46230963,,NMI4520-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548495.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/495/GCF_053548495.1_ASM5354849v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/495/GCA_053548495.1_ASM5354849v1,Citrobacter freundii
+46230962,SAMN46230962,,NMI719-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548515.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/515/GCF_053548515.1_ASM5354851v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/515/GCA_053548515.1_ASM5354851v1,Citrobacter freundii
+46230961,SAMN46230961,,NMI718-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548535.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/535/GCF_053548535.1_ASM5354853v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/535/GCA_053548535.1_ASM5354853v1,Citrobacter freundii
+46230960,SAMN46230960,,NMI4081-18,rectal swab,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053548555.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/555/GCF_053548555.1_ASM5354855v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/555/GCA_053548555.1_ASM5354855v1,Citrobacter freundii
+46230959,SAMN46230959,,NMI4080-18,rectal swab,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053548575.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/575/GCF_053548575.1_ASM5354857v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/575/GCA_053548575.1_ASM5354857v1,Citrobacter freundii
+46230956,SAMN46230956,,NMI3319-19,wound,Homo sapiens,2019,Poland: Radom,,,,,GCF_053548635.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/635/GCF_053548635.1_ASM5354863v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/635/GCA_053548635.1_ASM5354863v1,Citrobacter freundii
+46230953,SAMN46230953,,NMI1378-18,rectal swab,Homo sapiens,2018,Poland: Plonsk,,,,,GCF_053548715.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/715/GCF_053548715.1_ASM5354871v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/715/GCA_053548715.1_ASM5354871v1,Citrobacter freundii
+46230952,SAMN46230952,,NMI3778-14,rectal swab,Homo sapiens,2014,Poland: Starachowice,,,,,GCF_053548695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/695/GCA_053548695.1_ASM5354869v1,Citrobacter freundii
+46230951,SAMN46230951,,NMI2618-16,urea,Homo sapiens,2016,Poland: Warszawa,,,,,GCF_053548755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/755/GCA_053548755.1_ASM5354875v1,Citrobacter freundii
+46230949,SAMN46230949,,NMI158-16,rectal swab,Homo sapiens,2016,Poland: Bydgoszcz,,,,,GCF_053548775.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/775/GCF_053548775.1_ASM5354877v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/775/GCA_053548775.1_ASM5354877v1,Citrobacter freundii
+46230948,SAMN46230948,,NMI3990-14,BAL,Homo sapiens,2014,Poland: Bydgoszcz,,,,,GCF_053548795.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/795/GCF_053548795.1_ASM5354879v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/795/GCA_053548795.1_ASM5354879v1,Citrobacter freundii
+46230947,SAMN46230947,,NMI4951-17,rectal swab,Homo sapiens,2017,Poland: Warszawa,,,,,GCF_053548815.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/815/GCF_053548815.1_ASM5354881v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/815/GCA_053548815.1_ASM5354881v1,Citrobacter freundii
+46230946,SAMN46230946,,NMI5763-17,rectal swab,Homo sapiens,2017,Poland: Warszawa,,,,,GCF_053548835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/835/GCA_053548835.1_ASM5354883v1,Citrobacter freundii
+46230945,SAMN46230945,,NMI3761-14,rectal swab,Homo sapiens,2014,Poland: Warszawa,,,,,GCF_053548855.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/855/GCF_053548855.1_ASM5354885v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/855/GCA_053548855.1_ASM5354885v1,Citrobacter freundii
+46230940,SAMN46230940,,NMI4788-19,urea,Homo sapiens,2019,Poland: Wroclaw,,,,,GCF_053548955.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/955/GCF_053548955.1_ASM5354895v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/955/GCA_053548955.1_ASM5354895v1,Citrobacter freundii
+46230939,SAMN46230939,,NMI3744-18,rectal swab,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053548975.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/975/GCF_053548975.1_ASM5354897v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/975/GCA_053548975.1_ASM5354897v1,Citrobacter freundii
+46230938,SAMN46230938,,NMI7594-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053548995.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/548/995/GCF_053548995.1_ASM5354899v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/548/995/GCA_053548995.1_ASM5354899v1,Citrobacter freundii
+46230937,SAMN46230937,,NMI6226-18,rectal swab,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053549015.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/015/GCF_053549015.1_ASM5354901v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/015/GCA_053549015.1_ASM5354901v1,Citrobacter freundii
+46230936,SAMN46230936,,NMI3728-19,rectal swab,Homo sapiens,2019,Poland: Poznan,,,,,GCF_053549035.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/035/GCF_053549035.1_ASM5354903v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/035/GCA_053549035.1_ASM5354903v1,Citrobacter freundii
+46230935,SAMN46230935,,NMI4962-19,urea,Homo sapiens,2019,Poland: Olsztyn,,,,,GCF_053549055.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/055/GCF_053549055.1_ASM5354905v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/055/GCA_053549055.1_ASM5354905v1,Citrobacter freundii
+46230934,SAMN46230934,,NMI8399-19,rectal swab,Homo sapiens,2019,Poland: Pionki,,,,,GCF_053549075.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/075/GCF_053549075.1_ASM5354907v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/075/GCA_053549075.1_ASM5354907v1,Citrobacter freundii
+46230933,SAMN46230933,,NMI6547-18,rectal swab,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053549095.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/095/GCF_053549095.1_ASM5354909v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/095/GCA_053549095.1_ASM5354909v1,Citrobacter freundii
+46230932,SAMN46230932,,NMI824-18,wound,Homo sapiens,2018,Poland: Morag,,,,,GCF_053549135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/135/GCA_053549135.1_ASM5354913v1,Citrobacter freundii
+46230931,SAMN46230931,,NMI3628-17,rectal swab,Homo sapiens,2017,Poland: Radom,,,,,GCF_053549115.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/115/GCF_053549115.1_ASM5354911v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/115/GCA_053549115.1_ASM5354911v1,Citrobacter freundii
+46230930,SAMN46230930,,NMI4898-18,urea,Homo sapiens,2018,Poland: Radom,,,,,GCF_053549155.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/155/GCF_053549155.1_ASM5354915v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/155/GCA_053549155.1_ASM5354915v1,Citrobacter freundii
+46230929,SAMN46230929,,NMI1806-18,sputum,Homo sapiens,2018,Poland: Radom,,,,,GCF_053549175.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/175/GCF_053549175.1_ASM5354917v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/175/GCA_053549175.1_ASM5354917v1,Citrobacter freundii
+46230928,SAMN46230928,,NMI7606-18,urea,Homo sapiens,2018,Poland: Krakow,,,,,GCF_053549195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/195/GCA_053549195.1_ASM5354919v1,Citrobacter freundii
+46230927,SAMN46230927,,NMI4416-18,wound,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053549215.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/215/GCF_053549215.1_ASM5354921v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/215/GCA_053549215.1_ASM5354921v1,Citrobacter freundii
+46230926,SAMN46230926,,NMI439-20,blood,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053549235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/235/GCA_053549235.1_ASM5354923v1,Citrobacter freundii
+46230925,SAMN46230925,,NMI2773-18,pus,Homo sapiens,2018,Poland: Warszawa,,,,,GCF_053549255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/255/GCA_053549255.1_ASM5354925v1,Citrobacter freundii
+46230924,SAMN46230924,,NMI3366-14,wound,Homo sapiens,2014,Poland: Warszawa,,,,,GCF_053549275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/275/GCA_053549275.1_ASM5354927v1,Citrobacter freundii
+46230923,SAMN46230923,,NMI4814-11,environmental sample,N/A,2011,Poland: Szczecin,,,,,GCF_053549315.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/315/GCF_053549315.1_ASM5354931v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/315/GCA_053549315.1_ASM5354931v1,Citrobacter freundii
+46230920,SAMN46230920,,NMI7595-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053549405.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/405/GCF_053549405.1_ASM5354940v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/405/GCA_053549405.1_ASM5354940v1,Citrobacter freundii
+46230919,SAMN46230919,,NMI9329-19,rectal swab,Homo sapiens,2019,Poland: Grudziadz,,,,,GCF_053549425.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/425/GCF_053549425.1_ASM5354942v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/425/GCA_053549425.1_ASM5354942v1,Citrobacter freundii
+46230918,SAMN46230918,,NMI5895-18,rectal swab,Homo sapiens,2018,Poland: Grudziadz,,,,,GCF_053549545.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/545/GCF_053549545.1_ASM5354954v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/545/GCA_053549545.1_ASM5354954v1,Citrobacter freundii
+46230917,SAMN46230917,,NMI2818-14,sputum,Homo sapiens,2014,Poland: Warszawa,,,,,GCF_053549525.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/525/GCF_053549525.1_ASM5354952v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/525/GCA_053549525.1_ASM5354952v1,Citrobacter freundii
+46230916,SAMN46230916,,NMI1464-15,urea,Homo sapiens,2015,Poland: Poznan,,,,,GCF_053549495.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/495/GCF_053549495.1_ASM5354949v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/495/GCA_053549495.1_ASM5354949v1,Citrobacter freundii
+46230915,SAMN46230915,,NMI3820-16,rectal swab,Homo sapiens,2016,Poland: Gdansk,,,,,GCF_053551455.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/455/GCF_053551455.1_ASM5355145v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/455/GCA_053551455.1_ASM5355145v1,Citrobacter freundii
+46230914,SAMN46230914,,NMI4585-15,rectal swab,Homo sapiens,2015,Poland: Gdansk,,,,,GCF_053549605.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/549/605/GCF_053549605.1_ASM5354960v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/549/605/GCA_053549605.1_ASM5354960v1,Citrobacter freundii
+46230913,SAMN46230913,,NMI5648-19,rectal swab,Homo sapiens,2019,Poland: Wroclaw,,,,,GCF_053551475.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/475/GCF_053551475.1_ASM5355147v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/475/GCA_053551475.1_ASM5355147v1,Citrobacter freundii
+46230912,SAMN46230912,,NMI3187-16,rectal swab,Homo sapiens,2016,Poland: Kielce,,,,,GCF_053551495.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/495/GCF_053551495.1_ASM5355149v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/495/GCA_053551495.1_ASM5355149v1,Citrobacter freundii
+46230911,SAMN46230911,,NMI6561-19,rectal swab,Homo sapiens,2019,Poland: Siemianowice Slaskie,,,,,GCF_053551515.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/515/GCF_053551515.1_ASM5355151v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/515/GCA_053551515.1_ASM5355151v1,Citrobacter freundii
+46230910,SAMN46230910,,NMI5370-18,wound,Homo sapiens,2018,Poland: Katowice,,,,,GCF_053551535.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/535/GCF_053551535.1_ASM5355153v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/535/GCA_053551535.1_ASM5355153v1,Citrobacter freundii
+46230909,SAMN46230909,,NMI5252-19,BAL,Homo sapiens,2019,Poland: Chorzow,,,,,GCF_053551555.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/555/GCF_053551555.1_ASM5355155v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/555/GCA_053551555.1_ASM5355155v1,Citrobacter freundii
+46230908,SAMN46230908,,NMI9435-18,rectal swab,Homo sapiens,2018,Poland: Siemianowice Slaskie,,,,,GCF_053551595.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/595/GCF_053551595.1_ASM5355159v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/595/GCA_053551595.1_ASM5355159v1,Citrobacter freundii
+46230907,SAMN46230907,,NMI7473-19,rectal swab,Homo sapiens,2019,Poland: Wroclaw,,,,,GCF_053551575.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/575/GCF_053551575.1_ASM5355157v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/575/GCA_053551575.1_ASM5355157v1,Citrobacter freundii
+46230906,SAMN46230906,,NMI1839-18,rectal swab,Homo sapiens,2018,Poland: Kielce,,,,,GCF_053551615.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/615/GCF_053551615.1_ASM5355161v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/615/GCA_053551615.1_ASM5355161v1,Citrobacter freundii
+46230899,SAMN46230899,,NMI5191-19,rectal swab,Homo sapiens,2019,Poland: Warszawa,,,,,GCF_053551755.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/755/GCF_053551755.1_ASM5355175v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/755/GCA_053551755.1_ASM5355175v1,Citrobacter freundii
+46230898,SAMN46230898,,NMI4051-18,rectal swab,Homo sapiens,2018,Poland: Poznan,,,,,GCF_053551775.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/775/GCF_053551775.1_ASM5355177v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/775/GCA_053551775.1_ASM5355177v1,Citrobacter freundii
+46230894,SAMN46230894,,NMI2979-13,rectal swab,Homo sapiens,2013,Poland: Gdansk,,,,,GCF_053551855.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/855/GCF_053551855.1_ASM5355185v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/855/GCA_053551855.1_ASM5355185v1,Citrobacter freundii
+46230893,SAMN46230893,,NMI542-17,rectal swab,Homo sapiens,2017,Poland: Lodz,,,,,GCF_053551875.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/875/GCF_053551875.1_ASM5355187v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/875/GCA_053551875.1_ASM5355187v1,Citrobacter freundii
+46230892,SAMN46230892,,NMI7195-19,rectal swab,Homo sapiens,2019,Poland: Lodz,,,,,GCF_053551895.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/895/GCF_053551895.1_ASM5355189v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/895/GCA_053551895.1_ASM5355189v1,Citrobacter freundii
+46230891,SAMN46230891,,NMI7650-19,urea,Homo sapiens,2019,Poland: Poddebice,,,,,GCF_053551915.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/915/GCF_053551915.1_ASM5355191v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/915/GCA_053551915.1_ASM5355191v1,Citrobacter freundii
+46230890,SAMN46230890,,NMI9139-18,urea,Homo sapiens,2018,Poland: Poddebice,,,,,GCF_053551935.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/935/GCF_053551935.1_ASM5355193v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/935/GCA_053551935.1_ASM5355193v1,Citrobacter freundii
+46230889,SAMN46230889,,NMI195-20,rectal swab,Homo sapiens,2019,Poland: Rzeszow,,,,,GCF_053551955.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/955/GCF_053551955.1_ASM5355195v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/955/GCA_053551955.1_ASM5355195v1,Citrobacter freundii
+46230888,SAMN46230888,,NMI194-20,rectal swab,Homo sapiens,2019,Poland: Rzeszow,,,,,GCF_053551975.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/975/GCF_053551975.1_ASM5355197v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/975/GCA_053551975.1_ASM5355197v1,Citrobacter freundii
+46230887,SAMN46230887,,NMI9753-19,rectal swab,Homo sapiens,2019,Poland: Elblag,,,,,GCF_053551995.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/551/995/GCF_053551995.1_ASM5355199v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/551/995/GCA_053551995.1_ASM5355199v1,Citrobacter freundii
+46230886,SAMN46230886,,NMI1350-19,rectal swab,Homo sapiens,2019,Poland: Wroclaw,,,,,GCF_053552015.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/015/GCF_053552015.1_ASM5355201v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/015/GCA_053552015.1_ASM5355201v1,Citrobacter freundii
+46230885,SAMN46230885,,NMI10170-19,rectal swab,Homo sapiens,2019,Poland: Wroclaw,,,,,GCF_053552065.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/065/GCF_053552065.1_ASM5355206v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/065/GCA_053552065.1_ASM5355206v1,Citrobacter freundii
+46230884,SAMN46230884,,NMI8791-19,rectal swab,Homo sapiens,2019,Poland: Wejherowo,,,,,GCF_053552035.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/035/GCF_053552035.1_ASM5355203v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/035/GCA_053552035.1_ASM5355203v1,Citrobacter freundii
+46230883,SAMN46230883,,NMI2174-19,rectal swab,Homo sapiens,2019,Poland: Wroclaw,,,,,GCF_053552055.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/055/GCF_053552055.1_ASM5355205v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/055/GCA_053552055.1_ASM5355205v1,Citrobacter freundii
+46230882,SAMN46230882,,NMI5699-16,wound,Homo sapiens,2016,Poland: Gdansk,,,,,GCF_053552095.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/095/GCF_053552095.1_ASM5355209v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/095/GCA_053552095.1_ASM5355209v1,Citrobacter freundii
+46230881,SAMN46230881,,NMI3325-18,rectal swab,Homo sapiens,2018,Poland: Wejherowo,,,,,GCF_053552115.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/115/GCF_053552115.1_ASM5355211v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/115/GCA_053552115.1_ASM5355211v1,Citrobacter freundii
+46230879,SAMN46230879,,NMI8032-17,rectal swab,Homo sapiens,2017,Poland: Krakow,,,,,GCF_053552155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/155/GCA_053552155.1_ASM5355215v1,Citrobacter freundii
+46230878,SAMN46230878,,NMI7167-19,rectal swab,Homo sapiens,2019,Poland: Piotrkow Trybunalski,,,,,GCF_053552175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/175/GCA_053552175.1_ASM5355217v1,Citrobacter freundii
+46230877,SAMN46230877,,NMI2980-13,rectal swab,Homo sapiens,2013,Poland: Gdansk,,,,,GCF_053552195.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/195/GCF_053552195.1_ASM5355219v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/195/GCA_053552195.1_ASM5355219v1,Citrobacter freundii
+46230876,SAMN46230876,,NMI7091-18,rectal swab,Homo sapiens,2018,Poland: Poznan,,,,,GCF_053552215.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/215/GCF_053552215.1_ASM5355221v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/215/GCA_053552215.1_ASM5355221v1,Citrobacter freundii
+46230875,SAMN46230875,,NMI2359-19,rectal swab,Homo sapiens,2019,Poland: Kielce,,,,,GCF_053552235.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/235/GCF_053552235.1_ASM5355223v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/235/GCA_053552235.1_ASM5355223v1,Citrobacter freundii
+46230874,SAMN46230874,,NMI2793-19,rectal swab,Homo sapiens,2019,Poland: Kielce,,,,,GCF_053552255.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/255/GCF_053552255.1_ASM5355225v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/255/GCA_053552255.1_ASM5355225v1,Citrobacter freundii
+46230873,SAMN46230873,,NMI615-19,rectal swab,Homo sapiens,2019,Poland: Checiny,,,,,GCF_053552295.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/295/GCF_053552295.1_ASM5355229v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/295/GCA_053552295.1_ASM5355229v1,Citrobacter freundii
+46230872,SAMN46230872,,NMI419-19,rectal swab,Homo sapiens,2019,Poland: Zabrze,,,,,GCF_053552275.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/275/GCF_053552275.1_ASM5355227v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/275/GCA_053552275.1_ASM5355227v1,Citrobacter freundii
+46230871,SAMN46230871,,NMI6473-17,rectal swab,Homo sapiens,2017,Poland: Kielce,,,,,GCF_053552315.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/315/GCF_053552315.1_ASM5355231v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/315/GCA_053552315.1_ASM5355231v1,Citrobacter freundii
+46230870,SAMN46230870,,NMI5534-18,rectal swab,Homo sapiens,2018,Poland: Brzeg,,,,,GCF_053552335.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/335/GCF_053552335.1_ASM5355233v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/335/GCA_053552335.1_ASM5355233v1,Citrobacter freundii
+46230869,SAMN46230869,,NMI5602-18,rectal swab,Homo sapiens,2018,Poland: Opole,,,,,GCF_053552355.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/355/GCF_053552355.1_ASM5355235v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/355/GCA_053552355.1_ASM5355235v1,Citrobacter freundii
+46230868,SAMN46230868,,NMI4635-18,rectal swab,Homo sapiens,2018,Poland: Wejherowo,,,,,GCF_053552375.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/375/GCF_053552375.1_ASM5355237v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/375/GCA_053552375.1_ASM5355237v1,Citrobacter freundii
+46230867,SAMN46230867,,NMI781-16,rectal swab,Homo sapiens,2016,Poland: Gdansk,,,,,GCF_053552395.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/552/395/GCF_053552395.1_ASM5355239v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/552/395/GCA_053552395.1_ASM5355239v1,Citrobacter freundii

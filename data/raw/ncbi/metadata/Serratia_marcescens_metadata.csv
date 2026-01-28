@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54751642,SAMN54751642,,,urine,Homo sapiens,2025,USA,,,,,GCA_054556965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/556/965/GCA_054556965.1_PDT003059585.1,Serratia marcescens
+54742305,SAMN54742305,,Unclassfied,Yangtze River,"None, free-living",2025-01-08,China: Wuhan,,,,,,,,,Serratia marcescens
+54742302,SAMN54742302,,Unclassfied,Maize leaf,"None, free-living",2025-01-07,China: Wuhan,,,,,,,,,Serratia marcescens
+54675615,SAMN54675615,,278H10,other,Homo sapiens,2021,France,,,,,GCA_054631455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/631/455/GCA_054631455.1_ASM5463145v1,Serratia marcescens
+54676094,SAMN54676094,,,urine,Homo sapiens,2023,France,,,,,,,,,Serratia marcescens
+53626886,SAMN53626886,,2025GN-00335,oral,Homo sapiens,2025,USA,,,,,,,,,Serratia marcescens
+54618838,SAMN54618838,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_054501185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/501/185/GCA_054501185.1_PDT003054519.1,Serratia marcescens
+54592579,SAMN54592579,,2026GN-00004,sputum,Homo sapiens,2026,USA,,,,,GCA_054488125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/488/125/GCA_054488125.1_PDT003053494.1,Serratia marcescens
+54567177,SAMN54567177,,Sm25P5,Seed,Triticum aestivum,2024-07-30,"Bangladesh: Gazipur, Gazipur Agricultural University",,,,,,,,,Serratia marcescens
+54564960,SAMN54564960,,SM_66,urine,Homo sapiens,2021-07,China: Anhui,,,,,GCA_054612115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/612/115/GCA_054612115.1_ASM5461211v1,Serratia marcescens
+54558146,SAMN54558146,,LHT.M14,Rainwater in an underground floodwater pumping station,,2025-02-16,Hong Kong: Happy Valley,,,,,GCA_054611735.1,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/611/735/GCA_054611735.1_ASM5461173v1,Serratia marcescens
+54529810,SAMN54529810,,SCHI0235.S.2B,Oral wash,Homo sapiens,2024-11-21,Australia: Sunshine Coast,,,,,,,,,Serratia marcescens
+54529809,SAMN54529809,,SCHI0202.M.1,Oral wash,Homo sapiens,2024-07-19,Australia: Sunshine Coast,,,,,,,,,Serratia marcescens
+54496156,SAMN54496156,,,Homo Sapiens clinical,Homo sapiens,2025-12-14,USA: Florida,,,,,GCA_054396245.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/396/245/GCA_054396245.1_PDT003047843.1,Serratia marcescens
+54465681,SAMN54465681,,,bone,Homo sapiens,2025-12-12,"USA: Santa Clara County, CA",,,,,GCA_054373875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/373/875/GCA_054373875.1_PDT003046142.1,Serratia marcescens
+54456495,SAMN54456495,,,tracheal aspirate,Homo sapiens,2025-03,Slovenia,,,,,GCA_054368745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/368/745/GCA_054368745.1_PDT003045295.1,Serratia marcescens
+45132842,SAMN45132842,,K13-1,fermented food,,2022,USA: Ohio,,,,,,,,,Serratia marcescens
+51434949,SAMN51434949,,2045447,hospital,Homo sapiens,2019-12-31,Guatemala,,,,,,,,,Serratia marcescens
+51434948,SAMN51434948,,1966487,hospital,Homo sapiens,2019-12-31,Guatemala,,,,,,,,,Serratia marcescens
+51434858,SAMN51434858,,SMA 15,hospital,Homo sapiens,2021-05-06,Brazil,,,,,,,,,Serratia marcescens
+51434857,SAMN51434857,,SMA 14,hospital,Homo sapiens,2021-05-06,Brazil,,,,,,,,,Serratia marcescens
+51434856,SAMN51434856,,SMA 13,hospital,Homo sapiens,2021-05-06,Brazil,,,,,,,,,Serratia marcescens
+51434855,SAMN51434855,,SMA 12,hospital,Homo sapiens,2021-05-06,Brazil,,,,,,,,,Serratia marcescens
+51434854,SAMN51434854,,SMA 11,hospital,Homo sapiens,2021-05-06,Brazil,,,,,,,,,Serratia marcescens
+51434853,SAMN51434853,,SMA 10,hospital,Homo sapiens,2021-05-06,Brazil,,,,,,,,,Serratia marcescens
+51434852,SAMN51434852,,SMA 9,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434851,SAMN51434851,,SMA 8,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434850,SAMN51434850,,SMA 7,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434849,SAMN51434849,,SMA 6,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434848,SAMN51434848,,SMA 5,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434847,SAMN51434847,,SMA 4,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434846,SAMN51434846,,SMA 3,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434845,SAMN51434845,,SMA 2,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+51434844,SAMN51434844,,SMA 1,hospital,Homo sapiens,2020-01-05,Brazil,,,,,,,,,Serratia marcescens
+48861527,SAMN48861527,,5,,,2023-08-08,missing,,,,,,,,,Serratia marcescens
+48861526,SAMN48861526,,4,,,2023-05-03,missing,,,,,,,,,Serratia marcescens
+48861525,SAMN48861525,,3,,,2023-03-07,missing,,,,,,,,,Serratia marcescens
+48861524,SAMN48861524,,2,,,2022-12-09,missing,,,,,,,,,Serratia marcescens
+48861523,SAMN48861523,,1,,,2023-03-07,missing,,,,,,,,,Serratia marcescens
+41037660,SAMN41037660,,marcescens,urine,Homo sapiens,2024-02-11,Pakistan,,,,,,,,,Serratia marcescens
+41037659,SAMN41037659,,marcescens,blood,Homo sapiens,2024-02-10,Pakistan,,,,,,,,,Serratia marcescens
+37346314,SAMN37346314,,Not Applicable,blood,Homo sapiens,2023-04-02,Pakistan: Karachi,,,,,,,,,Serratia marcescens
+37346313,SAMN37346313,,Not Applicable,blood,Homo sapiens,2023-04-01,Pakistan: Karachi,,,,,,,,,Serratia marcescens
+54304542,SAMN54304542,,2025EL-00303,ascites fluid,Homo sapiens,2025,USA,,,,,GCA_054174515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/174/515/GCA_054174515.1_PDT003037236.1,Serratia marcescens
+54304541,SAMN54304541,,2025EL-00302,Ascites fluid,Homo sapiens,2025,USA,,,,,GCA_054174475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/174/475/GCA_054174475.1_PDT003037237.1,Serratia marcescens
+54284051,SAMN54284051,,,Tissue,Homo sapiens,2025-11-20,USA,,,,,GCA_054203355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/203/355/GCA_054203355.1_PDT003036480.1,Serratia marcescens
+54266749,SAMN54266749,,SER01276,Tissue,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054147005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/147/005/GCA_054147005.1_PDT003034646.1,Serratia marcescens
+54266736,SAMN54266736,,SER01272,Tissue,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54266672,SAMN54266672,,SER01270,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054150615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/150/615/GCA_054150615.1_PDT003034687.1,Serratia marcescens
+54266621,SAMN54266621,,SER01263,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054145725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/145/725/GCA_054145725.1_PDT003034781.1,Serratia marcescens
+54266620,SAMN54266620,,SER01262,Peritoneal Fluid,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/695/GCA_054144695.1_PDT003034782.1,Serratia marcescens
+54266601,SAMN54266601,,SER01261,Tissue,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054148845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/148/845/GCA_054148845.1_PDT003034609.1,Serratia marcescens
+54266600,SAMN54266600,,SER01260,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054152905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/152/905/GCA_054152905.1_PDT003034589.1,Serratia marcescens
+54266488,SAMN54266488,,SER01254,CSF,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054148625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/148/625/GCA_054148625.1_PDT003034634.1,Serratia marcescens
+54266459,SAMN54266459,,SER01253,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054146325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/146/325/GCA_054146325.1_PDT003034702.1,Serratia marcescens
+54266458,SAMN54266458,,SER01252,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258712,SAMN54258712,,SER01251,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/425/GCA_054139425.1_PDT003033685.1,Serratia marcescens
+54258711,SAMN54258711,,SER01250,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/405/GCA_054139405.1_PDT003033686.1,Serratia marcescens
+54258710,SAMN54258710,,SER01249,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258687,SAMN54258687,,SER01248,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/765/GCA_054139765.1_PDT003033652.1,Serratia marcescens
+54258677,SAMN54258677,,SER01246,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258647,SAMN54258647,,SER01245,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258646,SAMN54258646,,SER01244,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054128905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/128/905/GCA_054128905.1_PDT003033789.1,Serratia marcescens
+54258633,SAMN54258633,,SER01243,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258632,SAMN54258632,,SER01242,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258599,SAMN54258599,,SER01227,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258588,SAMN54258588,,SER01226,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054128965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/128/965/GCA_054128965.1_PDT003033727.1,Serratia marcescens
+54258566,SAMN54258566,,SER01224,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054128845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/128/845/GCA_054128845.1_PDT003033814.1,Serratia marcescens
+54258565,SAMN54258565,,SER01223,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054141405.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/141/405/GCA_054141405.1_PDT003033815.1,Serratia marcescens
+54258564,SAMN54258564,,SER01222,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054129185.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/129/185/GCA_054129185.1_PDT003033816.1,Serratia marcescens
+54258537,SAMN54258537,,SER01221,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054128645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/128/645/GCA_054128645.1_PDT003033910.1,Serratia marcescens
+54258435,SAMN54258435,,SER01200,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054140285.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/140/285/GCA_054140285.1_PDT003033858.1,Serratia marcescens
+54258434,SAMN54258434,,SER01199,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054148745.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/148/745/GCA_054148745.1_PDT003033859.1,Serratia marcescens
+54258433,SAMN54258433,,SER01198,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54258411,SAMN54258411,,SER01197,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054140545.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/140/545/GCA_054140545.1_PDT003033919.1,Serratia marcescens
+54173994,SAMN54173994,,SER01196,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054065345.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/065/345/GCA_054065345.1_PDT003028930.1,Serratia marcescens
+54173993,SAMN54173993,,SER01195,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054063075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/063/075/GCA_054063075.1_PDT003028932.1,Serratia marcescens
+54173992,SAMN54173992,,SER01194,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054079115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/079/115/GCA_054079115.1_PDT003028933.1,Serratia marcescens
+54173991,SAMN54173991,,SER01193,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054079095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/079/095/GCA_054079095.1_PDT003028934.1,Serratia marcescens
+54173990,SAMN54173990,,SER01192,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054064535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/064/535/GCA_054064535.1_PDT003028935.1,Serratia marcescens
+54173953,SAMN54173953,,SER01191,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054064015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/064/015/GCA_054064015.1_PDT003029037.1,Serratia marcescens
+54173947,SAMN54173947,,SER01190,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054076995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/076/995/GCA_054076995.1_PDT003029167.1,Serratia marcescens
+54173909,SAMN54173909,,SER01187,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054068035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/068/035/GCA_054068035.1_PDT003028960.1,Serratia marcescens
+54173908,SAMN54173908,,SER01186,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054078955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/955/GCA_054078955.1_PDT003028961.1,Serratia marcescens
+54173897,SAMN54173897,,SER01185,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173896,SAMN54173896,,SER01184,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173895,SAMN54173895,,SER01183,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054078875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/875/GCA_054078875.1_PDT003028975.1,Serratia marcescens
+54173884,SAMN54173884,,SER01182,CSF,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054063925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/063/925/GCA_054063925.1_PDT003029048.1,Serratia marcescens
+54173881,SAMN54173881,,SER01181,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054064425.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/064/425/GCA_054064425.1_PDT003029052.1,Serratia marcescens
+54173872,SAMN54173872,,SER01180,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054068895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/068/895/GCA_054068895.1_PDT003029062.1,Serratia marcescens
+54173871,SAMN54173871,,SER01179,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054068875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/068/875/GCA_054068875.1_PDT003029063.1,Serratia marcescens
+54173870,SAMN54173870,,SER01178,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054064415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/064/415/GCA_054064415.1_PDT003029064.1,Serratia marcescens
+54173869,SAMN54173869,,SER01177,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054062145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/062/145/GCA_054062145.1_PDT003029065.1,Serratia marcescens
+54173868,SAMN54173868,,SER01176,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054077695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/077/695/GCA_054077695.1_PDT003029066.1,Serratia marcescens
+54173835,SAMN54173835,,SER01175,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054077215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/077/215/GCA_054077215.1_PDT003029131.1,Serratia marcescens
+54173834,SAMN54173834,,SER01174,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054077195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/077/195/GCA_054077195.1_PDT003029132.1,Serratia marcescens
+54173833,SAMN54173833,,SER01173,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054096255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/096/255/GCA_054096255.1_PDT003029198.1,Serratia marcescens
+54173813,SAMN54173813,,SER01172,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054070475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/070/475/GCA_054070475.1_PDT003029220.1,Serratia marcescens
+54173812,SAMN54173812,,SER01171,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173803,SAMN54173803,,SER01170,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054068335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/068/335/GCA_054068335.1_PDT003028915.1,Serratia marcescens
+54173802,SAMN54173802,,SER01169,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054065495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/065/495/GCA_054065495.1_PDT003028916.1,Serratia marcescens
+54173801,SAMN54173801,,SER01168,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054078895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/895/GCA_054078895.1_PDT003028979.1,Serratia marcescens
+54173763,SAMN54173763,,SER01167,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054067175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/067/175/GCA_054067175.1_PDT003029082.1,Serratia marcescens
+54173753,SAMN54173753,,SER01166,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173728,SAMN54173728,,SER01165,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173727,SAMN54173727,,SER01164,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173726,SAMN54173726,,SER01163,blood,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54173708,SAMN54173708,,SER01162,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054077455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/077/455/GCA_054077455.1_PDT003029101.1,Serratia marcescens
+54173707,SAMN54173707,,SER01161,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054071195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/071/195/GCA_054071195.1_PDT003028921.1,Serratia marcescens
+54173706,SAMN54173706,,SER01160,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054064495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/064/495/GCA_054064495.1_PDT003028967.1,Serratia marcescens
+54170105,SAMN54170105,,SER01267,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054080905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/080/905/GCA_054080905.1_PDT003028745.1,Serratia marcescens
+54170077,SAMN54170077,,SER01266,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054096275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/096/275/GCA_054096275.1_PDT003028837.1,Serratia marcescens
+54170025,SAMN54170025,,SER01265,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054065455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/065/455/GCA_054065455.1_PDT003028676.1,Serratia marcescens
+54169994,SAMN54169994,,SER01264,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054080675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/080/675/GCA_054080675.1_PDT003028770.1,Serratia marcescens
+54169990,SAMN54169990,,SER01241,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054062035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/062/035/GCA_054062035.1_PDT003028775.1,Serratia marcescens
+54169978,SAMN54169978,,SER01240,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054080475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/080/475/GCA_054080475.1_PDT003028787.1,Serratia marcescens
+54169977,SAMN54169977,,SER01239,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054080455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/080/455/GCA_054080455.1_PDT003028788.1,Serratia marcescens
+54169960,SAMN54169960,,SER01238,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054079615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/079/615/GCA_054079615.1_PDT003028870.1,Serratia marcescens
+54169929,SAMN54169929,,SER01237,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054081255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/081/255/GCA_054081255.1_PDT003028713.1,Serratia marcescens
+54169924,SAMN54169924,,SER01235,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054081215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/081/215/GCA_054081215.1_PDT003028717.1,Serratia marcescens
+54169923,SAMN54169923,,SER01234,nasal swab,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054081195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/081/195/GCA_054081195.1_PDT003028718.1,Serratia marcescens
+54169905,SAMN54169905,,SER01233,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054080335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/080/335/GCA_054080335.1_PDT003028799.1,Serratia marcescens
+54169899,SAMN54169899,,SER01232,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54169898,SAMN54169898,,SER01231,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054080235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/080/235/GCA_054080235.1_PDT003028807.1,Serratia marcescens
+54169897,SAMN54169897,,SER01230,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054066735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/066/735/GCA_054066735.1_PDT003028808.1,Serratia marcescens
+54169858,SAMN54169858,,SER01228,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054147125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/147/125/GCA_054147125.1_PDT003028692.1,Serratia marcescens
+54169856,SAMN54169856,,SER01219,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054071235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/071/235/GCA_054071235.1_PDT003028774.1,Serratia marcescens
+48972484,SAMN48972484,,,blood,Homo sapiens,2021-12-01,Malawi,,,,,GCA_054056295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/056/295/GCA_054056295.1_PDT003023644.2,Serratia marcescens
+48972297,SAMN48972297,,,blood,Homo sapiens,2021-11-19,Ethiopia,,,,,,,,,Serratia marcescens
+48972295,SAMN48972295,,,blood,Homo sapiens,2021-11-15,Ethiopia,,,,,GCA_053951795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/951/795/GCA_053951795.1_PDT003023374.1,Serratia marcescens
+48972290,SAMN48972290,,,blood,Homo sapiens,2021-10-31,Ethiopia,,,,,GCA_053951215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/951/215/GCA_053951215.1_PDT003023501.1,Serratia marcescens
+48972278,SAMN48972278,,,blood,Homo sapiens,2021-10-18,Ethiopia,,,,,,,,,Serratia marcescens
+48972273,SAMN48972273,,,blood,Homo sapiens,2021-10-18,Ethiopia,,,,,,,,,Serratia marcescens
+48972268,SAMN48972268,,,blood,Homo sapiens,2021-10-13,Ethiopia,,,,,,,,,Serratia marcescens
+48972265,SAMN48972265,,,blood,Homo sapiens,2021-06-11,Ethiopia,,,,,GCA_053951775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/951/775/GCA_053951775.1_PDT003023383.1,Serratia marcescens
+48972257,SAMN48972257,,,blood,Homo sapiens,2021-06-26,Ethiopia,,,,,,,,,Serratia marcescens
+48972253,SAMN48972253,,,blood,Homo sapiens,2021-08-31,Ethiopia,,,,,GCA_053951615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/951/615/GCA_053951615.1_PDT003023397.1,Serratia marcescens
+48972251,SAMN48972251,,,blood,Homo sapiens,2021-06-18,Ethiopia,,,,,GCA_053951595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/951/595/GCA_053951595.1_PDT003023399.1,Serratia marcescens
+48972245,SAMN48972245,,,blood,Homo sapiens,2021-06-17,Ethiopia,,,,,,,,,Serratia marcescens
+48972240,SAMN48972240,,,blood,Homo sapiens,2021-08-10,Ethiopia,,,,,,,,,Serratia marcescens
+48972239,SAMN48972239,,,blood,Homo sapiens,2021-08-08,Ethiopia,,,,,,,,,Serratia marcescens
+48972235,SAMN48972235,,,blood,Homo sapiens,2021-07-10,Ethiopia,,,,,,,,,Serratia marcescens
+48972232,SAMN48972232,,,blood,Homo sapiens,2021-09-30,Ethiopia,,,,,,,,,Serratia marcescens
+48972230,SAMN48972230,,,blood,Homo sapiens,2021-07-10,Ethiopia,,,,,,,,,Serratia marcescens
+48972227,SAMN48972227,,,blood,Homo sapiens,2021-07-01,Ethiopia,,,,,GCA_053953575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/953/575/GCA_053953575.1_PDT003023546.1,Serratia marcescens
+48972222,SAMN48972222,,,blood,Homo sapiens,2021-08-19,Ethiopia,,,,,,,,,Serratia marcescens
+48972220,SAMN48972220,,,blood,Homo sapiens,2021-07-24,Ethiopia,,,,,,,,,Serratia marcescens
+48972212,SAMN48972212,,,blood,Homo sapiens,2021-07-22,Ethiopia,,,,,,,,,Serratia marcescens
+48972207,SAMN48972207,,,blood,Homo sapiens,2021-06-30,Ethiopia,,,,,GCA_053950635.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/950/635/GCA_053950635.1_PDT003023711.1,Serratia marcescens
+48972200,SAMN48972200,,,blood,Homo sapiens,2021-06-18,Ethiopia,,,,,,,,,Serratia marcescens
+48972196,SAMN48972196,,,blood,Homo sapiens,2021-09-15,Ethiopia,,,,,,,,,Serratia marcescens
+48972188,SAMN48972188,,,blood,Homo sapiens,2021-08-26,Ethiopia,,,,,,,,,Serratia marcescens
+48972182,SAMN48972182,,,blood,Homo sapiens,2021-06-17,Ethiopia,,,,,GCA_054057125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/057/125/GCA_054057125.1_PDT003023428.2,Serratia marcescens
+48972178,SAMN48972178,,,blood,Homo sapiens,2021-06-14,Ethiopia,,,,,,,,,Serratia marcescens
+48972165,SAMN48972165,,,blood,Homo sapiens,2021-05-06,Ethiopia,,,,,GCA_054056995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/056/995/GCA_054056995.1_PDT003023446.2,Serratia marcescens
+48971937,SAMN48971937,,,blood,Homo sapiens,2021-02-12,Nigeria,,,,,GCA_054061235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/061/235/GCA_054061235.1_PDT003023070.2,Serratia marcescens
+48971898,SAMN48971898,,,blood,Homo sapiens,2021-07-18,South Africa,,,,,GCA_054058675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/058/675/GCA_054058675.1_PDT003023714.2,Serratia marcescens
+48971888,SAMN48971888,,,blood,Homo sapiens,2021-07-03,South Africa,,,,,,,,,Serratia marcescens
+48971878,SAMN48971878,,,blood,Homo sapiens,2021-06-11,South Africa,,,,,GCA_054060325.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/060/325/GCA_054060325.1_PDT003023743.2,Serratia marcescens
+48971849,SAMN48971849,,,blood,Homo sapiens,2021-04-22,South Africa,,,,,GCA_054071005.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/071/005/GCA_054071005.1_PDT003023396.2,Serratia marcescens
+48971828,SAMN48971828,,,blood,Homo sapiens,2021-03-17,South Africa,,,,,,,,,Serratia marcescens
+54146304,SAMN54146304,,SER01218,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146303,SAMN54146303,,SER01217,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146295,SAMN54146295,,SER01216,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146278,SAMN54146278,,SER01215,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_053995875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/995/875/GCA_053995875.1_PDT003027964.1,Serratia marcescens
+54146204,SAMN54146204,,SER01214,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146173,SAMN54146173,,SER01213,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146161,SAMN54146161,,SER01212,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054001835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/001/835/GCA_054001835.1_PDT003027995.1,Serratia marcescens
+54146145,SAMN54146145,,SER01211,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_053999475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/999/475/GCA_053999475.1_PDT003028073.1,Serratia marcescens
+54146144,SAMN54146144,,SER01210,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146143,SAMN54146143,,SER01209,blood,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146129,SAMN54146129,,SER01208,urine,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_053996955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/996/955/GCA_053996955.1_PDT003028091.1,Serratia marcescens
+54146128,SAMN54146128,,SER01207,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146127,SAMN54146127,,SER01206,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054000355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/000/355/GCA_054000355.1_PDT003028093.1,Serratia marcescens
+54146109,SAMN54146109,,SER01205,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146097,SAMN54146097,,SER01204,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146096,SAMN54146096,,SER01203,sputum,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146095,SAMN54146095,,SER01202,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146094,SAMN54146094,,SER01201,wound,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054001035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/001/035/GCA_054001035.1_PDT003028191.1,Serratia marcescens
+54146091,SAMN54146091,,SER01159,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146090,SAMN54146090,,SER01158,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146089,SAMN54146089,,SER01157,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053997275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/997/275/GCA_053997275.1_PDT003028007.1,Serratia marcescens
+54146088,SAMN54146088,,SER01156,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053997195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/997/195/GCA_053997195.1_PDT003028008.1,Serratia marcescens
+54146087,SAMN54146087,,SER01155,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146086,SAMN54146086,,SER01154,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053997835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/997/835/GCA_053997835.1_PDT003028010.1,Serratia marcescens
+54146085,SAMN54146085,,SER01153,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054001175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/001/175/GCA_054001175.1_PDT003028011.1,Serratia marcescens
+54146084,SAMN54146084,,SER01152,wound,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146061,SAMN54146061,,SER01151,urine,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146060,SAMN54146060,,SER01150,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_054000955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/000/955/GCA_054000955.1_PDT003028100.1,Serratia marcescens
+54146059,SAMN54146059,,SER01149,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053998755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/998/755/GCA_053998755.1_PDT003028101.1,Serratia marcescens
+54146058,SAMN54146058,,SER01148,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,,,,,Serratia marcescens
+54146057,SAMN54146057,,SER01147,blood,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053996875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/996/875/GCA_053996875.1_PDT003028103.1,Serratia marcescens
+54146045,SAMN54146045,,SER01146,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053998735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/998/735/GCA_053998735.1_PDT003028116.1,Serratia marcescens
+54145999,SAMN54145999,,SER01145,sputum,Homo sapiens,2024,"USA: Pittsburgh, PA",,,,,GCA_053996895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/996/895/GCA_053996895.1_PDT003028108.1,Serratia marcescens
+54145997,SAMN54145997,,SER00831,sputum,Homo sapiens,2023,"USA: Pittsburgh, PA",,,,,GCA_053999075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/999/075/GCA_053999075.1_PDT003027880.1,Serratia marcescens
+54145996,SAMN54145996,,SER00830,sputum,Homo sapiens,2023,"USA: Pittsburgh, PA",,,,,GCA_053998855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/998/855/GCA_053998855.1_PDT003027948.1,Serratia marcescens
+54138722,SAMN54138722,,,URINE_CATHETER (STRAIGHT),Homo sapiens,2025,USA,,,,,GCA_054058685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/058/685/GCA_054058685.1_PDT003026987.1,Serratia marcescens
+54117761,SAMN54117761,,not applicable,Wound drainage,Homo sapiens,2025-11-24,USA,,,,,GCA_053977995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/977/995/GCA_053977995.1_PDT003026884.1,Serratia marcescens
+52755116,SAMN52755116,,CAVP657,Bronch Lavage,Homo sapiens,2021-05-23,"USA: Charlottesville, Virginia",,,,,GCF_054165905.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/165/905/GCF_054165905.1_ASM5416590v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/165/905/GCA_054165905.1_ASM5416590v1,Serratia marcescens
+52755115,SAMN52755115,,CAVP656,sputum,Homo sapiens,2021-05-01,"USA: Charlottesville, Virginia",,,,,GCF_054165915.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/165/915/GCF_054165915.1_ASM5416591v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/165/915/GCA_054165915.1_ASM5416591v1,Serratia marcescens
+52755114,SAMN52755114,,CAVP655,sputum,Homo sapiens,2021-05-01,"USA: Charlottesville, Virginia",,,,,GCF_054165965.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/165/965/GCF_054165965.1_ASM5416596v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/165/965/GCA_054165965.1_ASM5416596v1,Serratia marcescens
+52755113,SAMN52755113,,CAVP653,Bronch Lavage,Homo sapiens,2021-05-23,"USA: Charlottesville, Virginia",,,,,GCF_054165945.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/165/945/GCF_054165945.1_ASM5416594v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/165/945/GCA_054165945.1_ASM5416594v1,Serratia marcescens
+52755112,SAMN52755112,,CAVP652,sputum,Homo sapiens,2021-04-24,"USA: Charlottesville, Virginia",,,,,GCF_054165955.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/165/955/GCF_054165955.1_ASM5416595v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/165/955/GCA_054165955.1_ASM5416595v1,Serratia marcescens
+52755111,SAMN52755111,,CAVP640,blood,Homo sapiens,2021-04-09,"USA: Charlottesville, Virginia",,,,,GCF_054166005.1,Complete Genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/166/005/GCF_054166005.1_ASM5416600v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/166/005/GCA_054166005.1_ASM5416600v1,Serratia marcescens
+50005936,SAMN50005936,,UEB92,BSI,Homo sapiens,2023,Colombia: Cali,,,,,,,,,Serratia marcescens
+54085127,SAMEA114964898,,,,,,,,,,,,,,,Serratia marcescens
+54081624,SAMEA114975147,,,,,,,,,,,,,,,Serratia marcescens
+54079687,SAMEA115004611,,,,,,,,,,,,,,,Serratia marcescens
+54073176,SAMEA114984301,,,,,,,,,,,,,,,Serratia marcescens
+54071024,SAMEA114991066,,,,,,,,,,,,,,,Serratia marcescens
+54069636,SAMEA115011361,,,,,,,,,,,,,,,Serratia marcescens
+54063644,SAMEA114975176,,,,,,,,,,,,,,,Serratia marcescens
+54057925,SAMEA114991081,,,,,,,,,,,,,,,Serratia marcescens
+54057702,SAMEA114984316,,,,,,,,,,,,,,,Serratia marcescens
+54057614,SAMEA115011376,,,,,,,,,,,,,,,Serratia marcescens
+54054800,SAMEA114964927,,,,,,,,,,,,,,,Serratia marcescens
+54052181,SAMEA115004596,,,,,,,,,,,,,,,Serratia marcescens
+54049007,SAMEA114997846,,,,,,,,,,,,,,,Serratia marcescens
+54048992,SAMEA114997831,,,,,,,,,,,,,,,Serratia marcescens
+54040441,SAMEA114977551,,,,,,,,,,,,,,,Serratia marcescens
+54040426,SAMEA114977536,,,,,,,,,,,,,,,Serratia marcescens
+54031446,SAMEA114959543,,,,,,,,,,,,,,,Serratia marcescens
+54031416,SAMEA114959513,,,,,,,,,,,,,,,Serratia marcescens
+54023362,SAMEA114951450,,,,,,,,,,,,,,,Serratia marcescens
+54023334,SAMEA114951422,,,,,,,,,,,,,,,Serratia marcescens
+54018824,SAMEA114946926,,,,,,,,,,,,,,,Serratia marcescens
+54018792,SAMEA114946894,,,,,,,,,,,,,,,Serratia marcescens
+54008778,SAMEA114936880,,,,,,,,,,,,,,,Serratia marcescens
+54008763,SAMEA114936865,,,,,,,,,,,,,,,Serratia marcescens
+54002013,SAMEA114930115,,,,,,,,,,,,,,,Serratia marcescens
+54001998,SAMEA114930100,,,,,,,,,,,,,,,Serratia marcescens
+53995236,SAMEA114923302,,,,,,,,,,,,,,,Serratia marcescens
+53995221,SAMEA114923287,,,,,,,,,,,,,,,Serratia marcescens
+53990385,SAMEA114918451,,,,,,,,,,,,,,,Serratia marcescens
+53990353,SAMEA114918419,,,,,,,,,,,,,,,Serratia marcescens
+53981705,SAMEA114909740,,,,,,,,,,,,,,,Serratia marcescens
+53981690,SAMEA114909725,,,,,,,,,,,,,,,Serratia marcescens
+53974940,SAMEA114902975,,,,,,,,,,,,,,,Serratia marcescens
+53974925,SAMEA114902960,,,,,,,,,,,,,,,Serratia marcescens
+53968159,SAMEA114896207,,,,,,,,,,,,,,,Serratia marcescens
+53968144,SAMEA114896192,,,,,,,,,,,,,,,Serratia marcescens
+53961366,SAMEA114889442,,,,,,,,,,,,,,,Serratia marcescens
+53961351,SAMEA114889427,,,,,,,,,,,,,,,Serratia marcescens
+53954601,SAMEA114882646,,,,,,,,,,,,,,,Serratia marcescens
+53947836,SAMEA114875880,,,,,,,,,,,,,,,Serratia marcescens
+53947821,SAMEA114875865,,,,,,,,,,,,,,,Serratia marcescens
+53941054,SAMEA114869113,,,,,,,,,,,,,,,Serratia marcescens
+53941039,SAMEA114869098,,,,,,,,,,,,,,,Serratia marcescens
+53954586,SAMEA114882631,,,,,,,,,,,,,,,Serratia marcescens
+53476057,SAMN53476057,,IBGESm25P5,Seed,Triticum aestivum,2024-07-30,"Bangladesh: Gazipur, Gazipur Agricultural University",,,,,,,,,Serratia marcescens
+53683578,SAMN53683578,,not applicable,,Homo sapiens,2025,USA,,,,,GCA_053838145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/838/145/GCA_053838145.1_PDT003011310.1,Serratia marcescens
+53651634,SAMN53651634,,2024HW-00081,Healthcare facility,,2022,USA,,,,,,,,,Serratia marcescens
+53636182,SAMN53636182,,,sputum,Homo sapiens,2025,USA,,,,,GCA_053813825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/813/825/GCA_053813825.1_PDT003008619.1,Serratia marcescens
+53546511,SAMN53546511,,,body fluid,Homo sapiens,2025,USA,,,,,GCA_053804025.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/804/025/GCA_053804025.1_PDT003007775.1,Serratia marcescens
+53619290,SAMEA119920613,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+53617092,SAMEA119904640,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+53613880,SAMEA119897392,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+53613118,SAMEA119907343,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+53570269,SAMEA119909626,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+53565688,SAMEA119908472,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+53559979,SAMEA119904348,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+45082426,SAMN45082426,,SM12,respiratory,Homo sapiens,2018,USA:New York City,,,,,,,,,Serratia marcescens
+45082423,SAMN45082423,,SM11,respiratory,Homo sapiens,2017,USA:New York City,,,,,,,,,Serratia marcescens
+45082422,SAMN45082422,,SM10,respiratory,Homo sapiens,2016,USA:New York City,,,,,,,,,Serratia marcescens
+45082404,SAMN45082404,,SM9,respiratory,Homo sapiens,2021,USA:New York City,,,,,,,,,Serratia marcescens
+45082403,SAMN45082403,,SM8,respiratory,Homo sapiens,2021,USA:New York City,,,,,,,,,Serratia marcescens
+45082393,SAMN45082393,,SM7,respiratory,Homo sapiens,2021,USA:New York City,,,,,,,,,Serratia marcescens
+45082392,SAMN45082392,,SM6,respiratory,Homo sapiens,2021,USA:New York City,,,,,,,,,Serratia marcescens
+45082387,SAMN45082387,,SM5,respiratory,Homo sapiens,2020,USA:New York City,,,,,,,,,Serratia marcescens
+45082381,SAMN45082381,,SM4,respiratory,Homo sapiens,2020,USA:New York City,,,,,,,,,Serratia marcescens
+45082380,SAMN45082380,,SM3,respiratory,Homo sapiens,2020,USA:New York City,,,,,,,,,Serratia marcescens
+45082378,SAMN45082378,,SM2,respiratory,Homo sapiens,2020,USA:New York City,,,,,,,,,Serratia marcescens
+45082370,SAMN45082370,,SM1,respiratory,Homo sapiens,2020,USA:New York City,,,,,,,,,Serratia marcescens
+43801163,SAMN43801163,,IL7,human in hospital,Homo sapiens,unknown,France,,,,,,,,,Serratia marcescens
+53417997,SAMN53417997,,LACPHL-BACT-2025-00509,,Homo sapiens,,,,,,,GCF_053818725.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/818/725/GCF_053818725.1_ASM5381872v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/818/725/GCA_053818725.1_ASM5381872v1,Serratia marcescens
+53417993,SAMN53417993,,LACPHL-BACT-2025-00505,,Homo sapiens,,,,,,,GCF_053818265.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/818/265/GCF_053818265.1_ASM5381826v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/818/265/GCA_053818265.1_ASM5381826v1,Serratia marcescens
+53481059,SAMEA120610812,,,,,,,,,,,,,,,Serratia marcescens
+53480306,SAMEA120610810,,,,,,,,,,,,,,,Serratia marcescens
+53479183,SAMEA120610811,,,,,,,,,,,,,,,Serratia marcescens
+53479056,SAMEA120610809,,,,,,,,,,,,,,,Serratia marcescens
+53479042,SAMEA120610814,,,,,,,,,,,,,,,Serratia marcescens
+53478263,SAMEA120610813,,,,,,,,,,,,,,,Serratia marcescens
+53389502,SAMN53389502,,,blood,Homo sapiens,2025,USA,,,,,GCA_053713355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/713/355/GCA_053713355.1_PDT002996807.1,Serratia marcescens
+53373031,SAMN53373031,,,urine,Homo sapiens,2025,USA,,,,,GCA_053690515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/690/515/GCA_053690515.1_PDT002995519.1,Serratia marcescens
+53328163,SAMN53328163,,SER4,hospital,Homo sapiens,2024-10-28,Lebanon,,,,,,,,,Serratia marcescens
+53286872,SAMN53286872,,,IPC,Homo sapiens,2024,United Kingdom: Norwich,,,,,,,,,Serratia marcescens
+53262010,SAMN53262010,,SA075A,rhizosphere,Indigofera argentea Burm.f.,2019-03-11,"Saudi Arabia: Jizan, KSA",,,,,,,,,Serratia marcescens
+53262009,SAMN53262009,,SA070,nodules,Indigofera argentea Burm.f.,2019-03-11,"Saudi Arabia: Jizan, KSA",,,,,,,,,Serratia marcescens
+53262006,SAMN53262006,,SA023,rhizosphere,Indigofera argentea Burm.f.,2019-03-11,"Saudi Arabia: Jizan, KSA",,,,,,,,,Serratia marcescens
+53261991,SAMN53261991,,IR057,nodules,Indigofera argentea Burm.f.,2019-03-11,"Saudi Arabia: Jizan, KSA",,,,,,,,,Serratia marcescens
+53261989,SAMN53261989,,IR027,nodules,Indigofera argentea Burm.f.,2019-03-11,"Saudi Arabia: Jizan, KSA",,,,,,,,,Serratia marcescens
+53344507,SAMEA114653717,,,blood,,,,,,,,GCA_053806775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/806/775/GCA_053806775.1_PDT003007868.1,Serratia marcescens
+53344372,SAMEA114653728,,,blood,,,,,,,,,,,,Serratia marcescens
+53343855,SAMEA114653703,,,blood,,,,,,,,GCA_053806845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/806/845/GCA_053806845.1_PDT003007857.1,Serratia marcescens
+53343675,SAMEA114653620,,,blood,,,,,,,,,,,,Serratia marcescens
+53343587,SAMEA114653755,,,blood,,,,,,,,GCA_053806585.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/806/585/GCA_053806585.1_PDT003007892.1,Serratia marcescens
+53343513,SAMEA114653699,,,blood,,,,,,,,GCA_053808655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/808/655/GCA_053808655.1_PDT003007853.1,Serratia marcescens
+53343091,SAMEA114653701,,,blood,,,,,,,,GCA_053806895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/806/895/GCA_053806895.1_PDT003007855.1,Serratia marcescens
+53342981,SAMEA114653638,,,blood,,,,,,,,GCA_053807015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/807/015/GCA_053807015.1_PDT003007839.1,Serratia marcescens
+53342627,SAMEA114653485,,,blood,,,,,,,,GCA_053807915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/807/915/GCA_053807915.1_PDT003007824.1,Serratia marcescens
+53342285,SAMEA114653487,,,blood,,,,,,,,GCA_053807905.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/807/905/GCA_053807905.1_PDT003007826.1,Serratia marcescens
+53342005,SAMEA114653648,,,blood,,,,,,,,GCA_053807805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/807/805/GCA_053807805.1_PDT003007843.1,Serratia marcescens
+53341740,SAMEA114653470,,,blood,,,,,,,,GCA_053808015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/808/015/GCA_053808015.1_PDT003007814.1,Serratia marcescens
+53341242,SAMEA114653764,,,blood,,,,,,,,GCA_053804935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/804/935/GCA_053804935.1_PDT003007899.1,Serratia marcescens
+53341220,SAMEA114653720,,,blood,,,,,,,,GCA_053807665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/807/665/GCA_053807665.1_PDT003007869.1,Serratia marcescens
+53340877,SAMEA114653637,,,blood,,,,,,,,GCA_053805035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/805/035/GCA_053805035.1_PDT003007838.1,Serratia marcescens
+53155753,SAMN53155753,,SBA-2,Deep Atlantic Gulf of Guinea,,2022-09-17,Nigeria: Atlantic Gulf of Guinea,,,,,,,,,Serratia marcescens
+53287936,SAMEA114638552,,,blood,,,,,,,,,,,,Serratia marcescens
+53210301,SAMN53210301,,,urine,Homo sapiens,2025,USA,,,,,GCA_053467145.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/467/145/GCA_053467145.1_PDT002983830.1,Serratia marcescens
+53203107,SAMN53203107,,,Homo Sapiens clinical,Homo sapiens,2025-10-16,USA: Florida,,,,,GCA_053468835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/468/835/GCA_053468835.1_PDT002984024.1,Serratia marcescens
+48937929,SAMN48937929,,1098,urine,Homo sapiens,2023,Colombia,,,,,GCF_053457545.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/457/545/GCF_053457545.1_ASM5345754v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/457/545/GCA_053457545.1_ASM5345754v1,Serratia marcescens
+53160426,SAMEA120513483,,,Neonatal blood,,,,,,,,GCA_054085255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/085/255/GCA_054085255.1_PDT003029868.1,Serratia marcescens
+50669817,SAMN50669817,,UF-269b,,,2023-07-12,USA: Maryland,,,,,GCF_053456785.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/456/785/GCF_053456785.1_ASM5345678v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/456/785/GCA_053456785.1_ASM5345678v1,Serratia marcescens
+50669816,SAMN50669816,,UF-269,,,2023-07-12,USA: Maryland,,,,,GCF_053456805.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/456/805/GCF_053456805.1_ASM5345680v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/456/805/GCA_053456805.1_ASM5345680v1,Serratia marcescens
+50669814,SAMN50669814,,UF-263,,,2023-07-26,USA: Maryland,,,,,GCF_053456825.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/456/825/GCF_053456825.1_ASM5345682v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/456/825/GCA_053456825.1_ASM5345682v1,Serratia marcescens
+50669779,SAMN50669779,,UF-166,,,2023-07-06,USA: Maryland,,,,,GCF_053456885.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/456/885/GCF_053456885.1_ASM5345688v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/456/885/GCA_053456885.1_ASM5345688v1,Serratia marcescens
+53077224,SAMN53077224,,AHBA25,,Homo sapiens,2024-10,Iraq: Mosul,,,,,GCF_053431515.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/431/515/GCF_053431515.1_ASM5343151v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/431/515/GCA_053431515.1_ASM5343151v1,Serratia marcescens
+53066523,SAMN53066523,,GEN-01,soil,,2024-06-06,China: Nanjing Tech University,,,,,GCF_053452985.1,Scaffold,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/452/985/GCF_053452985.1_ASM5345298v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/452/985/GCA_053452985.1_ASM5345298v1,Serratia marcescens
+43516390,SAMN43516390,,Serratia,sludge,,2019-11-20,Malaysia: Queensbay beach,,,,,,,,,Serratia marcescens
+38023110,SAMD00653941,,,River,,not applicable,Japan:Kanagawa,,,,,,,,,Serratia marcescens
+53039289,SAMEA120433479,,,missing,,,,,,,,,,,,Serratia marcescens
+53032359,SAMEA114532284,,,,,,,,,,,,,,,Serratia marcescens
+53032133,SAMEA114532209,,,,,,,,,,,,,,,Serratia marcescens
+53032014,SAMEA114532275,,,,,,,,,,,,,,,Serratia marcescens
+53031663,SAMEA114532252,,,,,,,,,,,,,,,Serratia marcescens
+53031654,SAMEA114532238,,,,,,,,,,,,,,,Serratia marcescens
+53030996,SAMEA114532236,,,,,,,,,,,,,,,Serratia marcescens
+53030429,SAMEA114532217,,,,,,,,,,,,,,,Serratia marcescens
+53029509,SAMEA114532258,,,,,,,,,,,,,,,Serratia marcescens
+53029093,SAMEA114532267,,,,,,,,,,,,,,,Serratia marcescens
+53028381,SAMEA114532237,,,,,,,,,,,,,,,Serratia marcescens
+53028348,SAMEA114532257,,,,,,,,,,,,,,,Serratia marcescens
+53027757,SAMEA114532219,,,,,,,,,,,,,,,Serratia marcescens
+53027197,SAMEA114532279,,,,,,,,,,,,,,,Serratia marcescens
+53027094,SAMEA114532240,,,,,,,,,,,,,,,Serratia marcescens
+53026998,SAMEA114532221,,,,,,,,,,,,,,,Serratia marcescens
+53026235,SAMEA114532255,,,,,,,,,,,,,,,Serratia marcescens
+53026222,SAMEA114532212,,,,,,,,,,,,,,,Serratia marcescens
+53025603,SAMEA114532264,,,,,,,,,,,,,,,Serratia marcescens
+53024008,SAMEA114532247,,,,,,,,,,,,,,,Serratia marcescens
+53023881,SAMEA114532220,,,,,,,,,,,,,,,Serratia marcescens
+53023715,SAMEA114532281,,,,,,,,,,,,,,,Serratia marcescens
+53023487,SAMEA114532259,,,,,,,,,,,,,,,Serratia marcescens
+52990265,SAMEA114532234,,,,,,,,,,,,,,,Serratia marcescens
+52989212,SAMEA114532283,,,,,,,,,,,,,,,Serratia marcescens
+52989078,SAMEA114532230,,,,,,,,,,,,,,,Serratia marcescens
+52989066,SAMEA114532227,,,,,,,,,,,,,,,Serratia marcescens
+52988920,SAMEA114532263,,,,,,,,,,,,,,,Serratia marcescens
+52988884,SAMEA114532290,,,,,,,,,,,,,,,Serratia marcescens
+52988060,SAMEA114532222,,,,,,,,,,,,,,,Serratia marcescens
+52988033,SAMEA114532271,,,,,,,,,,,,,,,Serratia marcescens
+52987696,SAMEA114532213,,,,,,,,,,,,,,,Serratia marcescens
+52987544,SAMEA114532225,,,,,,,,,,,,,,,Serratia marcescens
+52987312,SAMEA114532207,,,,,,,,,,,,,,,Serratia marcescens
+52986120,SAMEA114532231,,,,,,,,,,,,,,,Serratia marcescens
+52986081,SAMEA114532223,,,,,,,,,,,,,,,Serratia marcescens
+52986020,SAMEA114532278,,,,,,,,,,,,,,,Serratia marcescens
+52986007,SAMEA114532251,,,,,,,,,,,,,,,Serratia marcescens
+52985649,SAMEA114532233,,,,,,,,,,,,,,,Serratia marcescens
+52984951,SAMEA114532289,,,,,,,,,,,,,,,Serratia marcescens
+52984314,SAMEA114532270,,,,,,,,,,,,,,,Serratia marcescens
+52984133,SAMEA114532272,,,,,,,,,,,,,,,Serratia marcescens
+52983234,SAMEA114532218,,,,,,,,,,,,,,,Serratia marcescens
+52983211,SAMEA114532248,,,,,,,,,,,,,,,Serratia marcescens
+52983124,SAMEA114532285,,,,,,,,,,,,,,,Serratia marcescens
+52982739,SAMEA114532224,,,,,,,,,,,,,,,Serratia marcescens
+52982366,SAMEA114532269,,,,,,,,,,,,,,,Serratia marcescens
+52982267,SAMEA114532228,,,,,,,,,,,,,,,Serratia marcescens
+52981971,SAMEA114532232,,,,,,,,,,,,,,,Serratia marcescens
+52981624,SAMEA114532292,,,,,,,,,,,,,,,Serratia marcescens
+52980937,SAMEA114532276,,,,,,,,,,,,,,,Serratia marcescens
+52980860,SAMEA114532261,,,,,,,,,,,,,,,Serratia marcescens
+52980750,SAMEA114532294,,,,,,,,,,,,,,,Serratia marcescens
+52980657,SAMEA114532249,,,,,,,,,,,,,,,Serratia marcescens
+52980651,SAMEA114532245,,,,,,,,,,,,,,,Serratia marcescens
+52980520,SAMEA114532239,,,,,,,,,,,,,,,Serratia marcescens
+52980222,SAMEA114532210,,,,,,,,,,,,,,,Serratia marcescens
+52979934,SAMEA114532286,,,,,,,,,,,,,,,Serratia marcescens
+52979873,SAMEA114532229,,,,,,,,,,,,,,,Serratia marcescens
+52979836,SAMEA114532226,,,,,,,,,,,,,,,Serratia marcescens
+52979430,SAMEA114532282,,,,,,,,,,,,,,,Serratia marcescens
+52978968,SAMEA114532216,,,,,,,,,,,,,,,Serratia marcescens
+52978682,SAMEA114532211,,,,,,,,,,,,,,,Serratia marcescens
+52978615,SAMEA114532287,,,,,,,,,,,,,,,Serratia marcescens
+52978437,SAMEA114532280,,,,,,,,,,,,,,,Serratia marcescens
+52978316,SAMEA114532262,,,,,,,,,,,,,,,Serratia marcescens
+52978152,SAMEA114532253,,,,,,,,,,,,,,,Serratia marcescens
+52978049,SAMEA114532288,,,,,,,,,,,,,,,Serratia marcescens
+52977848,SAMEA114532254,,,,,,,,,,,,,,,Serratia marcescens
+52977796,SAMEA114532274,,,,,,,,,,,,,,,Serratia marcescens
+52977393,SAMEA114532265,,,,,,,,,,,,,,,Serratia marcescens
+52976362,SAMEA114532235,,,,,,,,,,,,,,,Serratia marcescens
+52975902,SAMEA114532208,,,,,,,,,,,,,,,Serratia marcescens
+52975446,SAMEA114532246,,,,,,,,,,,,,,,Serratia marcescens
+52974798,SAMEA114532277,,,,,,,,,,,,,,,Serratia marcescens
+52973803,SAMEA114532244,,,,,,,,,,,,,,,Serratia marcescens
+52973341,SAMEA114532273,,,,,,,,,,,,,,,Serratia marcescens
+52972988,SAMEA114532243,,,,,,,,,,,,,,,Serratia marcescens
+52972512,SAMEA114532260,,,,,,,,,,,,,,,Serratia marcescens
+52972428,SAMEA114532215,,,,,,,,,,,,,,,Serratia marcescens
+52971986,SAMEA114532242,,,,,,,,,,,,,,,Serratia marcescens
+52971661,SAMEA114532256,,,,,,,,,,,,,,,Serratia marcescens
+52970605,SAMEA114532250,,,,,,,,,,,,,,,Serratia marcescens
+52970210,SAMEA114532266,,,,,,,,,,,,,,,Serratia marcescens
+52969975,SAMEA114532268,,,,,,,,,,,,,,,Serratia marcescens
+52969721,SAMEA114532291,,,,,,,,,,,,,,,Serratia marcescens
+52969624,SAMEA114532214,,,,,,,,,,,,,,,Serratia marcescens
+52969416,SAMEA114532293,,,,,,,,,,,,,,,Serratia marcescens
+52969335,SAMEA114532241,,,,,,,,,,,,,,,Serratia marcescens
+52298182,SAMN52298182,,2025CK-01033,urine,Homo sapiens,2025-09-02,USA,,,,,GCA_052970895.2,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/052/970/895/GCA_052970895.2_ASM5297089v2,Serratia marcescens
+52938837,SAMN52938837,,TE10331,,not applicable,missing,"USA: Bloomington, Illinois",,,,,GCF_054062975.1,Contig,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/062/975/GCF_054062975.1_ASM5406297v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/062/975/GCA_054062975.1_ASM5406297v1,Serratia marcescens
+52938687,SAMN52938687,,2025HL-00786,blood,Homo sapiens,2025,USA,,,,,GCA_053229565.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/229/565/GCA_053229565.1_PDT002965344.1,Serratia marcescens
+52880349,SAMN52880349,,not applicable,not applicable,Homo sapiens,2022-02-11,Netherlands,,,,,,,,,Serratia marcescens
+52880177,SAMN52880177,,not applicable,not applicable,Homo sapiens,2021-02-12,Netherlands,,,,,,,,,Serratia marcescens
+52880103,SAMN52880103,,not applicable,not applicable,Homo sapiens,2019-09-24,Netherlands,,,,,,,,,Serratia marcescens
+52880096,SAMN52880096,,not applicable,not applicable,Homo sapiens,2019-07-20,Netherlands,,,,,,,,,Serratia marcescens
+52880095,SAMN52880095,,not applicable,not applicable,Homo sapiens,2019-07-06,Netherlands,,,,,,,,,Serratia marcescens
+52880094,SAMN52880094,,not applicable,not applicable,Homo sapiens,2019-07-05,Netherlands,,,,,,,,,Serratia marcescens
+52880088,SAMN52880088,,not applicable,not applicable,Homo sapiens,2019-04-27,Netherlands,,,,,,,,,Serratia marcescens
+52858960,SAMN52858960,,,not collected,Homo sapiens,not collected,USA: New York City,,,,,,,,,Serratia marcescens
+52858959,SAMN52858959,,,respiratory,Homo sapiens,2015,USA: New York City,,,,,,,,,Serratia marcescens
+52858958,SAMN52858958,,,respiratory,Homo sapiens,2015,USA: New York City,,,,,,,,,Serratia marcescens
+52858957,SAMN52858957,,,respiratory,Homo sapiens,2014,USA: New York City,,,,,,,,,Serratia marcescens
+52858956,SAMN52858956,,,respiratory,Homo sapiens,2014,USA: New York City,,,,,,,,,Serratia marcescens
+52858955,SAMN52858955,,,respiratory,Homo sapiens,2014,USA: New York City,,,,,,,,,Serratia marcescens
+52858954,SAMN52858954,,,blood,Homo sapiens,2013,USA: New York City,,,,,,,,,Serratia marcescens
+52858953,SAMN52858953,,,blood,Homo sapiens,2014,USA: New York City,,,,,,,,,Serratia marcescens
+52858952,SAMN52858952,,,blood,Homo sapiens,2014,USA: New York City,,,,,,,,,Serratia marcescens
+43566490,SAMN43566490,,S70-1,Rectal,Trichomys laurentius,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566489,SAMN43566489,,S67-2,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566488,SAMN43566488,,S67-1,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566487,SAMN43566487,,S66-2,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566486,SAMN43566486,,S66-1,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566485,SAMN43566485,,S61-3,Otological,Galea spixii,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566484,SAMN43566484,,S61-1,Rectal,Galea spixii,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566483,SAMN43566483,,S58-2,Otological,Trichomys laurentius,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566482,SAMN43566482,,S58-1,Otological,Trichomys laurentius,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566481,SAMN43566481,,S55-4,Otological,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566480,SAMN43566480,,S55-3,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566479,SAMN43566479,,S55-2,Otological,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566478,SAMN43566478,,S54-1,Rectal,Trichomys laurentius,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566477,SAMN43566477,,S52-1,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+43566476,SAMN43566476,,S51-1,Rectal,Monodelphis domestica,2021,Brazil: Catimbau National Park,,,,,,,,,Serratia marcescens
+52810806,SAMEA119819408,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52800640,SAMEA119816793,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52797770,SAMEA119835673,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52790717,SAMEA119817456,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52782445,SAMEA119818312,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52770210,SAMEA119815363,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52808680,SAMEA119814938,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52806644,SAMEA119818824,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52793012,SAMEA119818000,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52782163,SAMEA119812882,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52770446,SAMEA119832162,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52769630,SAMEA119816938,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52745716,SAMEA119818434,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52744520,SAMEA119810680,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52743115,SAMEA119811977,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52742157,SAMEA119806094,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52741732,SAMEA119873674,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52738753,SAMEA119808776,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52734105,SAMEA119810079,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52733935,SAMEA119809049,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52732697,SAMEA119811390,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52732614,SAMEA119776123,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52730526,SAMEA119774771,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52729555,SAMEA119810069,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52727983,SAMEA119817940,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52726762,SAMEA119807724,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52726054,SAMEA119812652,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52725358,SAMEA119808049,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52717102,SAMEA119775148,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52716608,SAMEA119817938,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52711109,SAMEA119821746,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52709408,SAMEA119816786,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52706090,SAMEA119808237,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52705896,SAMEA119775766,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52704867,SAMEA119807595,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52703480,SAMEA119808955,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52702717,SAMEA119771224,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52700019,SAMEA119801325,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52698146,SAMEA119773324,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52696732,SAMEA119819251,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52695347,SAMEA119812032,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52693979,SAMEA119771001,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52687766,SAMEA119811194,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52687322,SAMEA119803798,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52682994,SAMEA119821014,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52681842,SAMEA119788786,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52681700,SAMEA119813879,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52674209,SAMEA119806294,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52668685,SAMEA119771571,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+50818445,SAMN50818445,,,wastewater,Water,2023/2024,USA: Pittsburgh,,,,,GCA_052447615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/052/447/615/GCA_052447615.1_PDT002906332.1,Serratia marcescens
+52624363,SAMEA119775645,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52622563,SAMEA119772199,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52618937,SAMEA119770885,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52613907,SAMEA119774856,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52612325,SAMEA119774428,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52604700,SAMEA119772958,,,missing: third party data,,,,,,,,,,,,Serratia marcescens
+52603699,SAMEA119775114,,,missing: third party data,,,,,,,,,,,,Serratia marcescens

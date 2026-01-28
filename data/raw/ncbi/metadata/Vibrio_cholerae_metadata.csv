@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+54721205,SAMN54721205,,01893610,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054543655.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/543/655/GCA_054543655.1_PDT003056034.1,Vibrio cholerae
+54572002,SAMN54572002,,PNUSAV007518,missing,,2025,USA,,,,,GCA_054475385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/475/385/GCA_054475385.1_PDT003052764.1,Vibrio cholerae
+54553617,SAMN54553617,,01886499,human,Homo sapiens,2026-01,United Kingdom: United Kingdom,,,,,GCA_054471755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/471/755/GCA_054471755.1_PDT003050127.1,Vibrio cholerae
+54560773,SAMEA115094712,,,,,,,,,,,,,,,Vibrio cholerae
+54549064,SAMN54549064,,PNUSAV007517,missing,,2025,USA,,,,,GCA_054440115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/115/GCA_054440115.1_PDT003049260.1,Vibrio cholerae
+54540151,SAMN54540151,,BG0524,stool,Homo sapiens,2024,Bulgaria,,,,,GCA_054559575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/559/575/GCA_054559575.1_PDT003060010.1,Vibrio cholerae
+54469581,SAMN54469581,,PNUSAV007513,missing,,2025,USA,,,,,GCA_054380195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/380/195/GCA_054380195.1_PDT003046732.1,Vibrio cholerae
+46168015,SAMN46168015,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168014,SAMN46168014,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168013,SAMN46168013,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168012,SAMN46168012,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168011,SAMN46168011,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168010,SAMN46168010,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168009,SAMN46168009,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168008,SAMN46168008,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168007,SAMN46168007,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+46168006,SAMN46168006,,V2s,,V. cholerae,2023-06-17,India:Chandigarh,,,,,,,,,Vibrio cholerae
+45507705,SAMN45507705,,N16961,,Homo sapiens,not applicable,Bangladesh,,,,,,,,,Vibrio cholerae
+45507704,SAMN45507704,,N16961,,Homo sapiens,not applicable,Bangladesh,,,,,,,,,Vibrio cholerae
+45507703,SAMN45507703,,N16961,,Homo sapiens,not applicable,Bangladesh,,,,,,,,,Vibrio cholerae
+45507702,SAMN45507702,,N16961,,Homo sapiens,not applicable,Bangladesh,,,,,,,,,Vibrio cholerae
+45507701,SAMN45507701,,N16961,,Homo sapiens,not applicable,Bangladesh,,,,,,,,,Vibrio cholerae
+45507700,SAMN45507700,,N16961,,Homo sapiens,not applicable,Bangladesh,,,,,,,,,Vibrio cholerae
+45244055,SAMN45244055,,BFS948,,Homo sapiens,2021-06-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244054,SAMN45244054,,BFS947,,Homo sapiens,2021-06-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244053,SAMN45244053,,BFS938,,Homo sapiens,2021-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244052,SAMN45244052,,BFS904,,Homo sapiens,2021-02-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244051,SAMN45244051,,BFS902,,Homo sapiens,2020-10-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244050,SAMN45244050,,BFS901,,Homo sapiens,2020-02-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244049,SAMN45244049,,BFS898,,Homo sapiens,2020-10-24,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244048,SAMN45244048,,BFS892,,Homo sapiens,2020-09-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244047,SAMN45244047,,BFS890,,Homo sapiens,2020-10-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244046,SAMN45244046,,BFS889,,Homo sapiens,2020-10-20,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244045,SAMN45244045,,BFS888,,Homo sapiens,2020-09-24,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244044,SAMN45244044,,BFS887,,Homo sapiens,2020-09-23,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244043,SAMN45244043,,BFS886,,Homo sapiens,2020-01-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244042,SAMN45244042,,BFS885,,Homo sapiens,2021-06-13,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244041,SAMN45244041,,BFS883,,Homo sapiens,2021-06-10,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244040,SAMN45244040,,BFS882,,Homo sapiens,2021-06-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244039,SAMN45244039,,BFS881,,Homo sapiens,2021-06-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244038,SAMN45244038,,BFS880,,Homo sapiens,2021-03-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244037,SAMN45244037,,BFS877,,Homo sapiens,2021-01-09,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244036,SAMN45244036,,BFS873,,Homo sapiens,2021-05-23,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244035,SAMN45244035,,BFS872,,Homo sapiens,2021-05-08,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244034,SAMN45244034,,BFS870,,Homo sapiens,2021-05-02,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244033,SAMN45244033,,BFS869,,Homo sapiens,2021-04-19,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244032,SAMN45244032,,BFS868,,Homo sapiens,2021-03-27,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244031,SAMN45244031,,BFS867,,Homo sapiens,2021-02-09,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244030,SAMN45244030,,BFS866,,Homo sapiens,2021-02-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244029,SAMN45244029,,BFS865,,Homo sapiens,2021-01-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244028,SAMN45244028,,BFS864,,Homo sapiens,2020-11-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244027,SAMN45244027,,BFS863,,Homo sapiens,2020-11-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244026,SAMN45244026,,BFS862,,Homo sapiens,2020-11-01,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244025,SAMN45244025,,BFS861,,Homo sapiens,2020-03-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244024,SAMN45244024,,BFS860,,Homo sapiens,2020-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244023,SAMN45244023,,BFS859,,Homo sapiens,2020-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244022,SAMN45244022,,BFS858,,Homo sapiens,2020-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244021,SAMN45244021,,BFS857,,Homo sapiens,2021-09-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244020,SAMN45244020,,BFS856,,Homo sapiens,2021-08-24,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244019,SAMN45244019,,BFS855,,Homo sapiens,2021-08-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244018,SAMN45244018,,BFS854,,Homo sapiens,2021-06-25,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244017,SAMN45244017,,BFS853,,Homo sapiens,2021-06-25,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244016,SAMN45244016,,BFS852,,Homo sapiens,2020-12-20,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244015,SAMN45244015,,BFS851,,Homo sapiens,2020-12-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244014,SAMN45244014,,BFS850,,Homo sapiens,2021-07-09,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244013,SAMN45244013,,BFS849,,Homo sapiens,2021-05-28,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244012,SAMN45244012,,BFS848,,Homo sapiens,2021-05-27,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45244011,SAMN45244011,,BFS847,,Homo sapiens,2021-09-23,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244010,SAMN45244010,,BFS846,,Homo sapiens,2021-09-23,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244009,SAMN45244009,,BFS845,,Homo sapiens,2021-09-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244008,SAMN45244008,,BFS844,,Homo sapiens,2021-09-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244007,SAMN45244007,,BFS843,,Homo sapiens,2021-09-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244006,SAMN45244006,,BFS842,,Homo sapiens,2021-08-31,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244005,SAMN45244005,,BFS841,,Homo sapiens,2021-09-09,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244004,SAMN45244004,,BFS840,,Homo sapiens,2021-09-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244003,SAMN45244003,,BFS839,,Homo sapiens,2020-10-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244002,SAMN45244002,,BFS838,,Homo sapiens,2020-12-20,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244001,SAMN45244001,,BFS837,,Homo sapiens,2020-12-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45244000,SAMN45244000,,BFS836,,Homo sapiens,2020-12-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243999,SAMN45243999,,BFS835,,Homo sapiens,2020-12-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243998,SAMN45243998,,BFS834,,Homo sapiens,2020-12-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243997,SAMN45243997,,BFS833,,Homo sapiens,2020-11-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243996,SAMN45243996,,BFS832,,Homo sapiens,2020-11-01,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243995,SAMN45243995,,BFS831,,Homo sapiens,2020-10-25,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243994,SAMN45243994,,BFS830,,Homo sapiens,2020-10-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243993,SAMN45243993,,BFS829,,Homo sapiens,2020-10-19,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243992,SAMN45243992,,BFS828,,Homo sapiens,2020-10-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243991,SAMN45243991,,BFS827,,Homo sapiens,2020-10-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243990,SAMN45243990,,BFS826,,Homo sapiens,2020-10-04,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243989,SAMN45243989,,BFS825,,Homo sapiens,2020-10-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243988,SAMN45243988,,BFS824,,Homo sapiens,2020-09-30,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243987,SAMN45243987,,BFS823,,Homo sapiens,2020-09-28,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243986,SAMN45243986,,BFS822,,Homo sapiens,2020-09-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243985,SAMN45243985,,BFS821,,Homo sapiens,2020-09-26,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243984,SAMN45243984,,BFS820,,Homo sapiens,2020-09-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243983,SAMN45243983,,BFS819,,Homo sapiens,2020-09-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243982,SAMN45243982,,BFS818,,Homo sapiens,2020-09-19,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243981,SAMN45243981,,BFS817,,Homo sapiens,2020-03-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243980,SAMN45243980,,BFS816,,Homo sapiens,2020-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243979,SAMN45243979,,BFS815,,Homo sapiens,2020-02-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243978,SAMN45243978,,BFS814,,Homo sapiens,2020-01-06,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243977,SAMN45243977,,BFS813,,Homo sapiens,2019-12-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243976,SAMN45243976,,BFS812,,Homo sapiens,2019-11-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243975,SAMN45243975,,BFS811,,Homo sapiens,2019-10-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243974,SAMN45243974,,BFS810,,Homo sapiens,2019-10-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243973,SAMN45243973,,BFS809,,Homo sapiens,2019-10-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243972,SAMN45243972,,BFS808,,Homo sapiens,2021-01-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243971,SAMN45243971,,BFS807,,Homo sapiens,2021-01-04,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243970,SAMN45243970,,BFS806,,Homo sapiens,2021-02-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243969,SAMN45243969,,BFS805,,Homo sapiens,2021-02-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243968,SAMN45243968,,BFS804,,Homo sapiens,2021-03-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243967,SAMN45243967,,BFS803,,Homo sapiens,2021-03-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243966,SAMN45243966,,BFS802,,Homo sapiens,2021-03-10,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243965,SAMN45243965,,BFS801,,Homo sapiens,2021-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243964,SAMN45243964,,BFS800,,Homo sapiens,2021-05-25,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243963,SAMN45243963,,BFS799,,Homo sapiens,2021-04-02,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243962,SAMN45243962,,BFS798,,Homo sapiens,2021-04-19,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243961,SAMN45243961,,BFS797,,Homo sapiens,2021-05-06,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243960,SAMN45243960,,BFS796,,Homo sapiens,2021-05-21,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243959,SAMN45243959,,BFS795,,Homo sapiens,2021-06-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243958,SAMN45243958,,BFS794,,Homo sapiens,2021-06-01,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243957,SAMN45243957,,BFS793,,Homo sapiens,2021-06-09,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243956,SAMN45243956,,BFS792,,Homo sapiens,2021-06-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243955,SAMN45243955,,BFS791,,Homo sapiens,2021-07-12,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243954,SAMN45243954,,BFS790,,Homo sapiens,2021-07-13,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243953,SAMN45243953,,BFS789,,Homo sapiens,2021-06-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243952,SAMN45243952,,BFS788,,Homo sapiens,2021-08-11,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243951,SAMN45243951,,BFS787,,Homo sapiens,2021-08-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243950,SAMN45243950,,BFS786,,Homo sapiens,2021-08-25,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243949,SAMN45243949,,BFS785,,Homo sapiens,2021-08-30,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243948,SAMN45243948,,BFS784,,Homo sapiens,2021-09-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243947,SAMN45243947,,BFS783,,Homo sapiens,2021-09-12,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243946,SAMN45243946,,BFS782,,Homo sapiens,2021-09-16,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243945,SAMN45243945,,BFS781,,Homo sapiens,2021-09-20,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243944,SAMN45243944,,BFS780,,Homo sapiens,2021-09-25,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243943,SAMN45243943,,BFS779,,Homo sapiens,2021-09-29,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243942,SAMN45243942,,BFS1174,,Homo sapiens,2023-05-16,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243941,SAMN45243941,,BFS1172,,Homo sapiens,2022-11-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243940,SAMN45243940,,BFS1171,,Homo sapiens,2022-11-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243939,SAMN45243939,,BFS1170,,Homo sapiens,2022-10-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243938,SAMN45243938,,BFS1169,,Homo sapiens,2022-10-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243937,SAMN45243937,,BFS1168,,Homo sapiens,2022-10-10,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243936,SAMN45243936,,BFS1166,,Homo sapiens,2023-05-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243935,SAMN45243935,,BFS1165,,Homo sapiens,2023-03-30,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243934,SAMN45243934,,BFS1163,,Homo sapiens,2023-01-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243933,SAMN45243933,,BFS1162,,Homo sapiens,2023-01-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243932,SAMN45243932,,BFS1160,,Homo sapiens,2023-05-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243931,SAMN45243931,,BFS1159,,Homo sapiens,2023-05-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243930,SAMN45243930,,BFS1158,,Homo sapiens,2023-05-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243929,SAMN45243929,,BFS1157,,Homo sapiens,2023-05-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243928,SAMN45243928,,BFS1156,,Homo sapiens,2023-04-26,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243927,SAMN45243927,,BFS1155,,Homo sapiens,2023-04-17,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243926,SAMN45243926,,BFS1154,,Homo sapiens,2023-04-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243925,SAMN45243925,,BFS1153,,Homo sapiens,2023-04-04,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243924,SAMN45243924,,BFS1152,,Homo sapiens,2022-12-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243923,SAMN45243923,,BFS1151,,Homo sapiens,2022-11-30,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243922,SAMN45243922,,BFS1150,,Homo sapiens,2022-11-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243921,SAMN45243921,,BFS1149,,Homo sapiens,2022-11-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243920,SAMN45243920,,BFS1148,,Homo sapiens,2022-11-06,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243919,SAMN45243919,,BFS1147,,Homo sapiens,2022-11-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243918,SAMN45243918,,BFS1146,,Homo sapiens,2022-10-16,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243917,SAMN45243917,,BFS1143,,Homo sapiens,2023-09-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243916,SAMN45243916,,BFS1142,,Homo sapiens,2023-08-01,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243915,SAMN45243915,,BFS1140,,Homo sapiens,2023-07-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243914,SAMN45243914,,BFS1139,,Homo sapiens,2023-05-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243913,SAMN45243913,,BFS1138,,Homo sapiens,2023-05-16,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243912,SAMN45243912,,BFS1137,,Homo sapiens,2023-04-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243911,SAMN45243911,,BFS1135,,Homo sapiens,2023-03-28,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243910,SAMN45243910,,BFS1133,,Homo sapiens,2023-03-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243909,SAMN45243909,,BFS1131,,Homo sapiens,2023-03-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243908,SAMN45243908,,BFS1130,,Homo sapiens,2023-02-23,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243907,SAMN45243907,,BFS1128,,Homo sapiens,2023-01-29,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243906,SAMN45243906,,BFS1125,,Homo sapiens,2023-09-26,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243905,SAMN45243905,,BFS1121,,Homo sapiens,2023-09-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243904,SAMN45243904,,BFS1119,,Homo sapiens,2023-09-12,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243903,SAMN45243903,,BFS1117,,Homo sapiens,2023-09-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243902,SAMN45243902,,BFS1116,,Homo sapiens,2023-08-13,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243901,SAMN45243901,,BFS1114,,Homo sapiens,2023-08-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243900,SAMN45243900,,BFS1112,,Homo sapiens,2023-07-23,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243899,SAMN45243899,,BFS1065,,Homo sapiens,2022-08-21,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243898,SAMN45243898,,BFS1063,,Homo sapiens,2022-06-15,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243897,SAMN45243897,,BFS1061,,Homo sapiens,2022-02-06,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243896,SAMN45243896,,BFS1060,,Homo sapiens,2022-07-13,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243895,SAMN45243895,,BFS1059,,Homo sapiens,2022-06-27,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243894,SAMN45243894,,BFS1057,,Homo sapiens,2022-02-01,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243893,SAMN45243893,,BFS1056,,Homo sapiens,2021-11-01,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243892,SAMN45243892,,BFS1053,,Homo sapiens,2022-04-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243891,SAMN45243891,,BFS1052,,Homo sapiens,2022-03-27,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243890,SAMN45243890,,BFS1049,,Homo sapiens,2022-03-02,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243889,SAMN45243889,,BFS1048,,Homo sapiens,2022-02-09,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243888,SAMN45243888,,BFS1047,,Homo sapiens,2022-02-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243887,SAMN45243887,,BFS1045,,Homo sapiens,2022-05-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243886,SAMN45243886,,BFS1043,,Homo sapiens,2022-05-16,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243885,SAMN45243885,,BFS1041,,Homo sapiens,2022-04-19,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243884,SAMN45243884,,BFS1038,,Homo sapiens,2022-03-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243883,SAMN45243883,,BFS1037,,Homo sapiens,2022-03-13,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243882,SAMN45243882,,BFS1035,,Homo sapiens,2022-02-06,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243881,SAMN45243881,,BFS1034,,Homo sapiens,2021-11-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243880,SAMN45243880,,BFS1033,,Homo sapiens,2021-11-04,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243879,SAMN45243879,,BFS1032,,Homo sapiens,2021-10-12,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243878,SAMN45243878,,BFS1031,,Homo sapiens,2021-10-10,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243877,SAMN45243877,,BFS1030,,Homo sapiens,2021-10-03,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243876,SAMN45243876,,BFS1029,,Homo sapiens,2022-09-28,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243875,SAMN45243875,,BFS1028,,Homo sapiens,2022-09-22,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243874,SAMN45243874,,BFS1027,,Homo sapiens,2022-09-11,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243873,SAMN45243873,,BFS1025,,Homo sapiens,2022-08-23,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243872,SAMN45243872,,BFS1024,,Homo sapiens,2022-08-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243871,SAMN45243871,,BFS1023,,Homo sapiens,2022-08-08,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243870,SAMN45243870,,BFS1022,,Homo sapiens,2022-07-06,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243869,SAMN45243869,,BFS1021,,Homo sapiens,2022-06-25,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243868,SAMN45243868,,BFS1020,,Homo sapiens,2022-04-10,Bangladesh: Mathbaria,,,,,,,,,Vibrio cholerae
+45243867,SAMN45243867,,BFS1019,,Homo sapiens,2022-07-28,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243866,SAMN45243866,,BFS1018,,Homo sapiens,2022-06-20,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243865,SAMN45243865,,BFS1017,,Homo sapiens,2022-06-14,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243864,SAMN45243864,,BFS1016,,Homo sapiens,2022-05-30,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243863,SAMN45243863,,BFS1015,,Homo sapiens,2022-03-07,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243862,SAMN45243862,,BFS1014,,Homo sapiens,2022-01-10,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243861,SAMN45243861,,BFS1012,,Homo sapiens,2022-01-05,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+45243860,SAMN45243860,,BFS1011,,Homo sapiens,2021-12-04,Bangladesh: Dhaka,,,,,,,,,Vibrio cholerae
+51137443,SAMN51137443,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+51137441,SAMN51137441,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+46227577,SAMN46227577,,VC89,stool,Homo sapiens,2023-10-14,Pakistan: Nawabshah,,,,,GCA_054440555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/555/GCA_054440555.1_PDT003049173.1,Vibrio cholerae
+46227576,SAMN46227576,,VC88,stool,Homo sapiens,2023-09-02,Pakistan: Karachi,,,,,GCA_054440575.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/575/GCA_054440575.1_PDT003049174.1,Vibrio cholerae
+46227575,SAMN46227575,,VC87,stool,Homo sapiens,2023-07-26,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227574,SAMN46227574,,VC86,stool,Homo sapiens,2023-07-17,Pakistan: Karachi,,,,,GCA_054440535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/535/GCA_054440535.1_PDT003049176.1,Vibrio cholerae
+46227573,SAMN46227573,,VC85,stool,Homo sapiens,2023-07-01,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227572,SAMN46227572,,VC84,stool,Homo sapiens,2023-06-21,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227571,SAMN46227571,,VC83,stool,Homo sapiens,2023-06-10,Pakistan: Karachi,,,,,GCA_054441395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/395/GCA_054441395.1_PDT003049179.1,Vibrio cholerae
+46227570,SAMN46227570,,VC82,stool,Homo sapiens,2023-06-07,Pakistan: Karachi,,,,,GCA_054441375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/375/GCA_054441375.1_PDT003049180.1,Vibrio cholerae
+46227569,SAMN46227569,,VC81,stool,Homo sapiens,2023-04-20,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227568,SAMN46227568,,VC80,stool,Homo sapiens,2022-12-30,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227567,SAMN46227567,,VC78,stool,Homo sapiens,2022-08-20,Pakistan: Karachi,,,,,GCA_054441355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/355/GCA_054441355.1_PDT003049184.1,Vibrio cholerae
+46227566,SAMN46227566,,VC77,stool,Homo sapiens,2022-08-19,Pakistan: Karachi,,,,,GCA_054441335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/335/GCA_054441335.1_PDT003049185.1,Vibrio cholerae
+46227565,SAMN46227565,,VC76,stool,Homo sapiens,2022-08-15,Pakistan: Karachi,,,,,GCA_054441315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/315/GCA_054441315.1_PDT003049186.1,Vibrio cholerae
+46227564,SAMN46227564,,VC75,stool,Homo sapiens,2022-08-10,Pakistan: Karachi,,,,,GCA_054441295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/295/GCA_054441295.1_PDT003049187.1,Vibrio cholerae
+46227563,SAMN46227563,,VC74,stool,Homo sapiens,2022-07-29,Pakistan: Karachi,,,,,GCA_054441275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/275/GCA_054441275.1_PDT003049188.1,Vibrio cholerae
+46227562,SAMN46227562,,VC73,stool,Homo sapiens,2022-07-21,Pakistan: Karachi,,,,,GCA_054441255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/255/GCA_054441255.1_PDT003049189.1,Vibrio cholerae
+46227561,SAMN46227561,,VC72,stool,Homo sapiens,2022-07-18,Pakistan: Karachi,,,,,GCA_054441235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/235/GCA_054441235.1_PDT003049190.1,Vibrio cholerae
+46227560,SAMN46227560,,VC71,stool,Homo sapiens,2022-07-17,Pakistan: Hyderabad,,,,,GCA_054441215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/215/GCA_054441215.1_PDT003049191.1,Vibrio cholerae
+46227559,SAMN46227559,,VC70,stool,Homo sapiens,2022-07-15,Pakistan: Karachi,,,,,GCA_054441195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/195/GCA_054441195.1_PDT003049192.1,Vibrio cholerae
+46227558,SAMN46227558,,VC69,stool,Homo sapiens,2022-07-15,Pakistan: Karachi,,,,,GCA_054441175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/175/GCA_054441175.1_PDT003049193.1,Vibrio cholerae
+46227557,SAMN46227557,,VC68,stool,Homo sapiens,2022-07-04,Pakistan: Karachi,,,,,GCA_054441155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/155/GCA_054441155.1_PDT003049195.1,Vibrio cholerae
+46227556,SAMN46227556,,VC67,stool,Homo sapiens,2022-05-15,Pakistan: Karachi,,,,,GCA_054441115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/115/GCA_054441115.1_PDT003049196.1,Vibrio cholerae
+46227555,SAMN46227555,,VC66,stool,Homo sapiens,2022-07-15,Pakistan: Karachi,,,,,GCA_054441135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/135/GCA_054441135.1_PDT003049197.1,Vibrio cholerae
+46227554,SAMN46227554,,VC65,stool,Homo sapiens,2022-07-13,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227553,SAMN46227553,,VC64,stool,Homo sapiens,2022-07-16,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227552,SAMN46227552,,VC63,stool,Homo sapiens,2022-07-13,Pakistan: Karachi,,,,,GCA_054440495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/495/GCA_054440495.1_PDT003049200.1,Vibrio cholerae
+46227551,SAMN46227551,,VC62,stool,Homo sapiens,2022-07-04,Pakistan: Karachi,,,,,GCA_054441055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/055/GCA_054441055.1_PDT003049201.1,Vibrio cholerae
+46227550,SAMN46227550,,VC61,stool,Homo sapiens,2022-07-03,Pakistan: Karachi,,,,,GCA_054441075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/075/GCA_054441075.1_PDT003049202.1,Vibrio cholerae
+46227549,SAMN46227549,,VC60,stool,Homo sapiens,2022-06-27,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227548,SAMN46227548,,VC59,stool,Homo sapiens,2022-06-26,Pakistan: Karachi,,,,,GCA_054441085.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/085/GCA_054441085.1_PDT003049204.1,Vibrio cholerae
+46227547,SAMN46227547,,VC58,stool,Homo sapiens,2022-06-22,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227546,SAMN46227546,,VC57,stool,Homo sapiens,2022-06-22,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227545,SAMN46227545,,VC56,stool,Homo sapiens,2022-06-19,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227544,SAMN46227544,,VC55,stool,Homo sapiens,2022-06-19,Pakistan: Karachi,,,,,GCA_054441015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/015/GCA_054441015.1_PDT003049209.1,Vibrio cholerae
+46227543,SAMN46227543,,VC54,stool,Homo sapiens,2022-06-14,Pakistan: Karachi,,,,,GCA_054441035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/035/GCA_054441035.1_PDT003049210.1,Vibrio cholerae
+46227542,SAMN46227542,,VC53,stool,Homo sapiens,2022-06-14,Pakistan: Karachi,,,,,GCA_054440935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/935/GCA_054440935.1_PDT003049211.1,Vibrio cholerae
+46227541,SAMN46227541,,VC52,stool,Homo sapiens,2022-06-11,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227540,SAMN46227540,,VC51,stool,Homo sapiens,2022-06-09,Pakistan: Karachi,,,,,GCA_054440975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/975/GCA_054440975.1_PDT003049213.1,Vibrio cholerae
+46227539,SAMN46227539,,VC50,stool,Homo sapiens,2022-06-05,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227538,SAMN46227538,,VC49,stool,Homo sapiens,2022-05-28,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227537,SAMN46227537,,VC48,stool,Homo sapiens,2022-05-27,Pakistan: Karachi,,,,,GCA_054440955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/955/GCA_054440955.1_PDT003049217.1,Vibrio cholerae
+46227536,SAMN46227536,,VC47,stool,Homo sapiens,2022-05-27,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227535,SAMN46227535,,VC46,stool,Homo sapiens,2022-05-26,Pakistan: Karachi,,,,,GCA_054440915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/915/GCA_054440915.1_PDT003049219.1,Vibrio cholerae
+46227534,SAMN46227534,,VC45,stool,Homo sapiens,2022-05-23,Pakistan: Karachi,,,,,GCA_054440895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/895/GCA_054440895.1_PDT003049220.1,Vibrio cholerae
+46227533,SAMN46227533,,VC44,stool,Homo sapiens,2022-05-21,Pakistan: Karachi,,,,,GCA_054440875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/875/GCA_054440875.1_PDT003049221.1,Vibrio cholerae
+46227532,SAMN46227532,,VC40,stool,Homo sapiens,2022-05-13,Pakistan: Karachi,,,,,GCA_054440855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/855/GCA_054440855.1_PDT003049222.1,Vibrio cholerae
+46227531,SAMN46227531,,VC39,stool,Homo sapiens,2023-07-17,Pakistan: Karachi,,,,,GCA_054440835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/835/GCA_054440835.1_PDT003049223.1,Vibrio cholerae
+46227530,SAMN46227530,,VC38,stool,Homo sapiens,2023-07-17,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227529,SAMN46227529,,VC37,stool,Homo sapiens,2023-07-11,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227528,SAMN46227528,,VC36,stool,Homo sapiens,2023-07-03,Pakistan: Karachi,,,,,GCA_054440515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/515/GCA_054440515.1_PDT003049226.1,Vibrio cholerae
+46227527,SAMN46227527,,VC35,stool,Homo sapiens,2023-06-12,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227526,SAMN46227526,,VC34,stool,Homo sapiens,2023-04-14,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227525,SAMN46227525,,VC33,stool,Homo sapiens,2023-03-24,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227524,SAMN46227524,,VC32,stool,Homo sapiens,2023-03-15,Pakistan: Karachi,,,,,GCA_054440815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/815/GCA_054440815.1_PDT003049231.1,Vibrio cholerae
+46227523,SAMN46227523,,VC31,stool,Homo sapiens,2023-01-14,Pakistan: Karachi,,,,,GCA_054440475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/475/GCA_054440475.1_PDT003049232.1,Vibrio cholerae
+46227522,SAMN46227522,,VC30,stool,Homo sapiens,2022-12-28,Pakistan: Karachi,,,,,GCA_054440455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/455/GCA_054440455.1_PDT003049233.1,Vibrio cholerae
+46227521,SAMN46227521,,VC29,stool,Homo sapiens,2022-09-28,Pakistan: Karachi,,,,,GCA_054440415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/415/GCA_054440415.1_PDT003049234.1,Vibrio cholerae
+46227520,SAMN46227520,,VC28,stool,Homo sapiens,2022-08-26,Pakistan: Karachi,,,,,GCA_054440395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/395/GCA_054440395.1_PDT003049235.1,Vibrio cholerae
+46227519,SAMN46227519,,VC27,stool,Homo sapiens,2022-07-20,Pakistan: Karachi,,,,,GCA_054440795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/795/GCA_054440795.1_PDT003049236.1,Vibrio cholerae
+46227518,SAMN46227518,,VC26,stool,Homo sapiens,2022-07-16,Pakistan: Karachi,,,,,GCA_054440775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/775/GCA_054440775.1_PDT003049237.1,Vibrio cholerae
+46227517,SAMN46227517,,VC25,stool,Homo sapiens,2022-07-16,Pakistan: Hyderabad,,,,,GCA_054440355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/355/GCA_054440355.1_PDT003049239.1,Vibrio cholerae
+46227516,SAMN46227516,,VC24,stool,Homo sapiens,2022-06-22,Pakistan: Karachi,,,,,GCA_054440755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/755/GCA_054440755.1_PDT003049240.1,Vibrio cholerae
+46227515,SAMN46227515,,VC23,stool,Homo sapiens,2022-06-22,Pakistan: Karachi,,,,,GCA_054440735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/735/GCA_054440735.1_PDT003049241.1,Vibrio cholerae
+46227514,SAMN46227514,,VC22,stool,Homo sapiens,2022-06-17,Pakistan: Karachi,,,,,GCA_054440715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/715/GCA_054440715.1_PDT003049242.1,Vibrio cholerae
+46227513,SAMN46227513,,VC21,stool,Homo sapiens,2022-05-25,Pakistan: Karachi,,,,,GCA_054440335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/335/GCA_054440335.1_PDT003049243.1,Vibrio cholerae
+46227512,SAMN46227512,,VC20,stool,Homo sapiens,2022-05-23,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227511,SAMN46227511,,VC19,stool,Homo sapiens,2022-05-13,Pakistan: Karachi,,,,,GCA_054440695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/695/GCA_054440695.1_PDT003049245.1,Vibrio cholerae
+46227510,SAMN46227510,,VC17,stool,Homo sapiens,2022-11-21,Pakistan: Karachi,,,,,GCA_054440315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/315/GCA_054440315.1_PDT003049246.1,Vibrio cholerae
+46227509,SAMN46227509,,VC15,stool,Homo sapiens,2022-09-17,Pakistan: Karachi,,,,,GCA_054440435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/435/GCA_054440435.1_PDT003049247.1,Vibrio cholerae
+46227508,SAMN46227508,,VC14,stool,Homo sapiens,2022-09-13,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227507,SAMN46227507,,VC13,stool,Homo sapiens,2022-08-27,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227506,SAMN46227506,,VC12,stool,Homo sapiens,2022-08-18,Pakistan: Karachi,,,,,GCA_054441415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/441/415/GCA_054441415.1_PDT003049172.1,Vibrio cholerae
+46227505,SAMN46227505,,VC11,stool,Homo sapiens,2022-08-11,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227504,SAMN46227504,,VC10,stool,Homo sapiens,2022-08-07,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227503,SAMN46227503,,VC09,stool,Homo sapiens,2022-08-05,Pakistan: Karachi,,,,,GCA_054440995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/995/GCA_054440995.1_PDT003049205.1,Vibrio cholerae
+46227502,SAMN46227502,,VC08,stool,Homo sapiens,2022-08-14,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227501,SAMN46227501,,VC06,stool,Homo sapiens,2022-06-27,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227500,SAMN46227500,,VC05,stool,Homo sapiens,2022-06-16,Pakistan: Karachi,,,,,GCA_054440375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/375/GCA_054440375.1_PDT003049238.1,Vibrio cholerae
+46227499,SAMN46227499,,VC04,stool,Homo sapiens,2022-06-14,Pakistan: Karachi,,,,,,,,,Vibrio cholerae
+46227498,SAMN46227498,,VC01,stool,Homo sapiens,2022-05-13,Pakistan: Karachi,,,,,GCA_054440295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/440/295/GCA_054440295.1_PDT003049250.1,Vibrio cholerae
+40024148,SAMN40024148,,C6707,Laboratory,,2022,not applicable,,,,,,,,,Vibrio cholerae
+40024147,SAMN40024147,,C6707,Laboratory,,2022,not applicable,,,,,,,,,Vibrio cholerae
+40024146,SAMN40024146,,C6707,Laboratory,,2022,not applicable,,,,,,,,,Vibrio cholerae
+40024145,SAMN40024145,,C6707,Laboratory,,2022,not applicable,,,,,,,,,Vibrio cholerae
+40024144,SAMN40024144,,C6707,Laboratory,,2022,not applicable,,,,,,,,,Vibrio cholerae
+40024143,SAMN40024143,,C6707,Laboratory,,2022,not applicable,,,,,,,,,Vibrio cholerae
+43171259,SAMN43171259,,XXM,blood sample,,2023-10-06,"China:Dongyang, Zhejiang",,,,,,,,,Vibrio cholerae
+54305999,SAMN54305999,,C6706,ASW,,2025-11-17,China,,,,,,,,,Vibrio cholerae
+54305998,SAMN54305998,,C6706,ASW,,2025-11-17,China,,,,,,,,,Vibrio cholerae
+54305997,SAMN54305997,,C6706,ASW,,2025-11-17,China,,,,,,,,,Vibrio cholerae
+54305996,SAMN54305996,,C6706,ASW,,2025-11-17,China,,,,,,,,,Vibrio cholerae
+54305995,SAMN54305995,,C6706,ASW,,2025-11-17,China,,,,,,,,,Vibrio cholerae
+54305994,SAMN54305994,,C6706,ASW,,2025-11-17,China,,,,,,,,,Vibrio cholerae
+54304558,SAMN54304558,,PNUSAV007505,missing,,2025,USA,,,,,GCA_054172075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/172/075/GCA_054172075.1_PDT003037250.1,Vibrio cholerae
+54279533,SAMN54279533,,24MO08SH02-V1,shrimp,,2024-08,USA:MO,,,,,GCA_054149045.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/149/045/GCA_054149045.1_PDT003035883.1,Vibrio cholerae
+54204062,SAMN54204062,,01876969,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054094505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/094/505/GCA_054094505.1_PDT003030529.1,Vibrio cholerae
+54176548,SAMN54176548,,01876193,human,Homo sapiens,2025-12,United Kingdom: United Kingdom,,,,,GCA_054078335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/335/GCA_054078335.1_PDT003029478.1,Vibrio cholerae
+54177791,SAMN54177791,,PNUSAV007498,missing,,2025,USA,,,,,GCA_054078675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/078/675/GCA_054078675.1_PDT003029344.1,Vibrio cholerae
+54145237,SAMN54145237,,PNUSAV007497,missing,,2025,USA,,,,,GCA_053987175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/987/175/GCA_053987175.1_PDT003027841.1,Vibrio cholerae
+53855800,SAMN53855800,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+53855799,SAMN53855799,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+53855798,SAMN53855798,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+53855797,SAMN53855797,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+53855796,SAMN53855796,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+53855795,SAMN53855795,,,,,missing,missing,,,,,,,,,Vibrio cholerae
+54109909,SAMEA115019309,,,,,,,,,,,,,,,Vibrio cholerae
+54109908,SAMEA115019307,,,,,,,,,,,,,,,Vibrio cholerae
+54109907,SAMEA115019305,,,,,,,,,,,,,,,Vibrio cholerae
+54109906,SAMEA115019297,,,,,,,,,,,,,,,Vibrio cholerae
+54109905,SAMEA115019294,,,,,,,,,,,,,,,Vibrio cholerae
+54109904,SAMEA115019293,,,,,,,,,,,,,,,Vibrio cholerae
+54109903,SAMEA115019291,,,,,,,,,,,,,,,Vibrio cholerae
+54109902,SAMEA115019290,,,,,,,,,,,,,,,Vibrio cholerae
+54109901,SAMEA115019288,,,,,,,,,,,,,,,Vibrio cholerae
+54109900,SAMEA115019287,,,,,,,,,,,,,,,Vibrio cholerae
+54109899,SAMEA115019286,,,,,,,,,,,,,,,Vibrio cholerae
+54109898,SAMEA115019285,,,,,,,,,,,,,,,Vibrio cholerae
+54109897,SAMEA115019282,,,,,,,,,,,,,,,Vibrio cholerae
+54109896,SAMEA115019281,,,,,,,,,,,,,,,Vibrio cholerae
+54109895,SAMEA115019280,,,,,,,,,,,,,,,Vibrio cholerae
+54109894,SAMEA115019279,,,,,,,,,,,,,,,Vibrio cholerae
+54109893,SAMEA115019277,,,,,,,,,,,,,,,Vibrio cholerae
+54109892,SAMEA115019275,,,,,,,,,,,,,,,Vibrio cholerae
+54109891,SAMEA115019269,,,,,,,,,,,,,,,Vibrio cholerae
+54109890,SAMEA115019266,,,,,,,,,,,,,,,Vibrio cholerae
+54109768,SAMEA115015345,,,,,,,,,,,,,,,Vibrio cholerae
+54109767,SAMEA115015344,,,,,,,,,,,,,,,Vibrio cholerae
+54109766,SAMEA115015343,,,,,,,,,,,,,,,Vibrio cholerae
+54109765,SAMEA115015342,,,,,,,,,,,,,,,Vibrio cholerae
+54109764,SAMEA115015339,,,,,,,,,,,,,,,Vibrio cholerae
+54109763,SAMEA115015338,,,,,,,,,,,,,,,Vibrio cholerae
+54109762,SAMEA115015336,,,,,,,,,,,,,,,Vibrio cholerae
+54109761,SAMEA115015334,,,,,,,,,,,,,,,Vibrio cholerae
+54109760,SAMEA115015332,,,,,,,,,,,,,,,Vibrio cholerae
+54109759,SAMEA115015331,,,,,,,,,,,,,,,Vibrio cholerae
+54109758,SAMEA115015330,,,,,,,,,,,,,,,Vibrio cholerae
+54109757,SAMEA115015327,,,,,,,,,,,,,,,Vibrio cholerae
+54109756,SAMEA115015326,,,,,,,,,,,,,,,Vibrio cholerae
+54109755,SAMEA115015324,,,,,,,,,,,,,,,Vibrio cholerae
+54109754,SAMEA115015323,,,,,,,,,,,,,,,Vibrio cholerae
+54109533,SAMEA115014399,,,,,,,,,,,,,,,Vibrio cholerae
+54109532,SAMEA115014397,,,,,,,,,,,,,,,Vibrio cholerae
+54109531,SAMEA115014393,,,,,,,,,,,,,,,Vibrio cholerae
+54109530,SAMEA115014391,,,,,,,,,,,,,,,Vibrio cholerae
+54109529,SAMEA115014390,,,,,,,,,,,,,,,Vibrio cholerae
+54109528,SAMEA115014388,,,,,,,,,,,,,,,Vibrio cholerae
+54109527,SAMEA115014384,,,,,,,,,,,,,,,Vibrio cholerae
+54109526,SAMEA115014382,,,,,,,,,,,,,,,Vibrio cholerae
+54109525,SAMEA115014381,,,,,,,,,,,,,,,Vibrio cholerae
+54109515,SAMEA115014301,,,,,,,,,,,,,,,Vibrio cholerae
+54109511,SAMEA115013990,,,,,,,,,,,,,,,Vibrio cholerae
+54109510,SAMEA115013989,,,,,,,,,,,,,,,Vibrio cholerae
+54109509,SAMEA115013988,,,,,,,,,,,,,,,Vibrio cholerae
+54109508,SAMEA115013986,,,,,,,,,,,,,,,Vibrio cholerae
+54109507,SAMEA115013985,,,,,,,,,,,,,,,Vibrio cholerae
+54109506,SAMEA115013983,,,,,,,,,,,,,,,Vibrio cholerae
+54109505,SAMEA115013982,,,,,,,,,,,,,,,Vibrio cholerae
+54109504,SAMEA115013981,,,,,,,,,,,,,,,Vibrio cholerae
+54109489,SAMEA115013953,,,,,,,,,,,,,,,Vibrio cholerae
+54109488,SAMEA115013951,,,,,,,,,,,,,,,Vibrio cholerae
+54109487,SAMEA115013950,,,,,,,,,,,,,,,Vibrio cholerae
+54109486,SAMEA115013947,,,,,,,,,,,,,,,Vibrio cholerae
+54109479,SAMEA115013115,,,,,,,,,,,,,,,Vibrio cholerae
+54109477,SAMEA115012764,,,,,,,,,,,,,,,Vibrio cholerae
+54109472,SAMEA115012508,,,,,,,,,,,,,,,Vibrio cholerae
+54109471,SAMEA115012506,,,,,,,,,,,,,,,Vibrio cholerae
+54109470,SAMEA115012503,,,,,,,,,,,,,,,Vibrio cholerae
+54109469,SAMEA115012500,,,,,,,,,,,,,,,Vibrio cholerae
+54109468,SAMEA115012499,,,,,,,,,,,,,,,Vibrio cholerae
+54109467,SAMEA115012498,,,,,,,,,,,,,,,Vibrio cholerae
+54109466,SAMEA115012495,,,,,,,,,,,,,,,Vibrio cholerae
+54109465,SAMEA115012492,,,,,,,,,,,,,,,Vibrio cholerae
+54109316,SAMEA115008550,,,,,,,,,,,,,,,Vibrio cholerae
+54109315,SAMEA115008547,,,,,,,,,,,,,,,Vibrio cholerae
+54109314,SAMEA115008541,,,,,,,,,,,,,,,Vibrio cholerae
+54109313,SAMEA115008540,,,,,,,,,,,,,,,Vibrio cholerae
+54109312,SAMEA115008537,,,,,,,,,,,,,,,Vibrio cholerae
+54109311,SAMEA115008535,,,,,,,,,,,,,,,Vibrio cholerae
+54109310,SAMEA115008533,,,,,,,,,,,,,,,Vibrio cholerae
+54109309,SAMEA115008529,,,,,,,,,,,,,,,Vibrio cholerae
+54109308,SAMEA115008528,,,,,,,,,,,,,,,Vibrio cholerae
+54109160,SAMEA115007759,,,,,,,,,,,,,,,Vibrio cholerae
+54109159,SAMEA115007758,,,,,,,,,,,,,,,Vibrio cholerae
+54109158,SAMEA115007756,,,,,,,,,,,,,,,Vibrio cholerae
+54109157,SAMEA115007755,,,,,,,,,,,,,,,Vibrio cholerae
+54109156,SAMEA115007754,,,,,,,,,,,,,,,Vibrio cholerae
+54109155,SAMEA115007750,,,,,,,,,,,,,,,Vibrio cholerae
+54109154,SAMEA115007749,,,,,,,,,,,,,,,Vibrio cholerae
+54109153,SAMEA115007743,,,,,,,,,,,,,,,Vibrio cholerae
+54109152,SAMEA115007742,,,,,,,,,,,,,,,Vibrio cholerae
+54109151,SAMEA115007741,,,,,,,,,,,,,,,Vibrio cholerae
+54109150,SAMEA115007738,,,,,,,,,,,,,,,Vibrio cholerae
+54109149,SAMEA115007737,,,,,,,,,,,,,,,Vibrio cholerae
+54109057,SAMEA115007184,,,,,,,,,,,,,,,Vibrio cholerae
+54109056,SAMEA115007183,,,,,,,,,,,,,,,Vibrio cholerae
+54109044,SAMEA115005791,,,,,,,,,,,,,,,Vibrio cholerae
+54089827,SAMEA114988425,,,,,,,,,,,,,,,Vibrio cholerae
+54089818,SAMEA114987209,,,,,,,,,,,,,,,Vibrio cholerae
+54089808,SAMEA114986598,,,,,,,,,,,,,,,Vibrio cholerae
+54089805,SAMEA114987266,,,,,,,,,,,,,,,Vibrio cholerae
+54089787,SAMEA114985931,,,,,,,,,,,,,,,Vibrio cholerae
+54089759,SAMEA114989810,,,,,,,,,,,,,,,Vibrio cholerae
+54089692,SAMEA114988420,,,,,,,,,,,,,,,Vibrio cholerae
+54089689,SAMEA115007350,,,,,,,,,,,,,,,Vibrio cholerae
+54089681,SAMEA114989715,,,,,,,,,,,,,,,Vibrio cholerae
+54089614,SAMEA114986247,,,,,,,,,,,,,,,Vibrio cholerae
+54089578,SAMEA115009702,,,,,,,,,,,,,,,Vibrio cholerae
+54089514,SAMEA115011815,,,,,,,,,,,,,,,Vibrio cholerae
+54089455,SAMEA115010035,,,,,,,,,,,,,,,Vibrio cholerae
+54089437,SAMEA115006939,,,,,,,,,,,,,,,Vibrio cholerae
+54089356,SAMEA115006006,,,,,,,,,,,,,,,Vibrio cholerae
+54089353,SAMEA114987926,,,,,,,,,,,,,,,Vibrio cholerae
+54089335,SAMEA114986253,,,,,,,,,,,,,,,Vibrio cholerae
+54089329,SAMEA115009257,,,,,,,,,,,,,,,Vibrio cholerae
+54089276,SAMEA114987722,,,,,,,,,,,,,,,Vibrio cholerae
+54089262,SAMEA115006948,,,,,,,,,,,,,,,Vibrio cholerae
+54089242,SAMEA115009254,,,,,,,,,,,,,,,Vibrio cholerae
+54089219,SAMEA115009643,,,,,,,,,,,,,,,Vibrio cholerae
+54089218,SAMEA115006960,,,,,,,,,,,,,,,Vibrio cholerae
+54089154,SAMEA114988427,,,,,,,,,,,,,,,Vibrio cholerae
+54089084,SAMEA114987725,,,,,,,,,,,,,,,Vibrio cholerae
+54089076,SAMEA114987714,,,,,,,,,,,,,,,Vibrio cholerae
+54089046,SAMEA115011441,,,,,,,,,,,,,,,Vibrio cholerae
+54089030,SAMEA114985570,,,,,,,,,,,,,,,Vibrio cholerae
+54088968,SAMEA115010029,,,,,,,,,,,,,,,Vibrio cholerae
+54088929,SAMEA114989355,,,,,,,,,,,,,,,Vibrio cholerae
+54088902,SAMEA114987613,,,,,,,,,,,,,,,Vibrio cholerae
+54088901,SAMEA115009652,,,,,,,,,,,,,,,Vibrio cholerae
+54088862,SAMEA115007179,,,,,,,,,,,,,,,Vibrio cholerae
+54088844,SAMEA114991208,,,,,,,,,,,,,,,Vibrio cholerae
+54088838,SAMEA114986242,,,,,,,,,,,,,,,Vibrio cholerae
+54088778,SAMEA114987210,,,,,,,,,,,,,,,Vibrio cholerae
+54088773,SAMEA114986198,,,,,,,,,,,,,,,Vibrio cholerae
+54088764,SAMEA115010082,,,,,,,,,,,,,,,Vibrio cholerae
+54088763,SAMEA114986606,,,,,,,,,,,,,,,Vibrio cholerae
+54088735,SAMEA114985414,,,,,,,,,,,,,,,Vibrio cholerae
+54088714,SAMEA115008152,,,,,,,,,,,,,,,Vibrio cholerae
+54088703,SAMEA115010026,,,,,,,,,,,,,,,Vibrio cholerae
+54088640,SAMEA115006390,,,,,,,,,,,,,,,Vibrio cholerae
+54088608,SAMEA114991210,,,,,,,,,,,,,,,Vibrio cholerae
+54088576,SAMEA114985859,,,,,,,,,,,,,,,Vibrio cholerae
+54088447,SAMEA115006384,,,,,,,,,,,,,,,Vibrio cholerae
+54088440,SAMEA115012496,,,,,,,,,,,,,,,Vibrio cholerae
+54088404,SAMEA114986552,,,,,,,,,,,,,,,Vibrio cholerae
+54088355,SAMEA115006176,,,,,,,,,,,,,,,Vibrio cholerae
+54088330,SAMEA115007567,,,,,,,,,,,,,,,Vibrio cholerae
+54088305,SAMEA115007356,,,,,,,,,,,,,,,Vibrio cholerae
+54088282,SAMEA114986515,,,,,,,,,,,,,,,Vibrio cholerae
+54088279,SAMEA114986196,,,,,,,,,,,,,,,Vibrio cholerae
+54088272,SAMEA114987957,,,,,,,,,,,,,,,Vibrio cholerae
+54088261,SAMEA115006551,,,,,,,,,,,,,,,Vibrio cholerae
+54088255,SAMEA114985936,,,,,,,,,,,,,,,Vibrio cholerae
+54088199,SAMEA115006153,,,,,,,,,,,,,,,Vibrio cholerae
+54088184,SAMEA115006781,,,,,,,,,,,,,,,Vibrio cholerae
+54088099,SAMEA115012195,,,,,,,,,,,,,,,Vibrio cholerae
+54088061,SAMEA115011231,,,,,,,,,,,,,,,Vibrio cholerae
+54088013,SAMEA114987251,,,,,,,,,,,,,,,Vibrio cholerae
+54087995,SAMEA115006771,,,,,,,,,,,,,,,Vibrio cholerae
+54087942,SAMEA114989361,,,,,,,,,,,,,,,Vibrio cholerae
+54087940,SAMEA114988008,,,,,,,,,,,,,,,Vibrio cholerae
+54087928,SAMEA114986202,,,,,,,,,,,,,,,Vibrio cholerae
+54087877,SAMEA115009649,,,,,,,,,,,,,,,Vibrio cholerae
+54087866,SAMEA115006544,,,,,,,,,,,,,,,Vibrio cholerae
+54087824,SAMEA115006376,,,,,,,,,,,,,,,Vibrio cholerae
+54087799,SAMEA114989709,,,,,,,,,,,,,,,Vibrio cholerae
+54087757,SAMEA114987562,,,,,,,,,,,,,,,Vibrio cholerae
+54087640,SAMEA114986912,,,,,,,,,,,,,,,Vibrio cholerae
+54087596,SAMEA114990344,,,,,,,,,,,,,,,Vibrio cholerae
+54087551,SAMEA114992097,,,,,,,,,,,,,,,Vibrio cholerae
+54087520,SAMEA114985432,,,,,,,,,,,,,,,Vibrio cholerae
+54087513,SAMEA115006165,,,,,,,,,,,,,,,Vibrio cholerae
+54087452,SAMEA115006380,,,,,,,,,,,,,,,Vibrio cholerae
+54087441,SAMEA115006773,,,,,,,,,,,,,,,Vibrio cholerae
+54087344,SAMEA115009644,,,,,,,,,,,,,,,Vibrio cholerae
+54087339,SAMEA114989717,,,,,,,,,,,,,,,Vibrio cholerae
+54087299,SAMEA114985487,,,,,,,,,,,,,,,Vibrio cholerae
+54087296,SAMEA115005792,,,,,,,,,,,,,,,Vibrio cholerae
+54087243,SAMEA114987912,,,,,,,,,,,,,,,Vibrio cholerae
+54087220,SAMEA114989105,,,,,,,,,,,,,,,Vibrio cholerae

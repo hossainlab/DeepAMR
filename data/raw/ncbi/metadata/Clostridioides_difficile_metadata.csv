@@ -1,0 +1,501 @@
+biosample_id,accession,organism,strain,isolation_source,host,collection_date,geo_loc_name,amr_genotypes,amr_phenotypes,disease,sra_accession,assembly_accession,assembly_status,ftp_path_refseq,ftp_path_genbank,organism_query
+46044132,SAMN46044132,,R20291,human feces,Homo sapiens,2006,United Kingdom,,,,,,,,,Clostridioides difficile
+46044131,SAMN46044131,,R20291,human feces,Homo sapiens,2006,United Kingdom,,,,,,,,,Clostridioides difficile
+46044130,SAMN46044130,,R20291,human feces,Homo sapiens,2006,United Kingdom,,,,,,,,,Clostridioides difficile
+46044129,SAMN46044129,,R20291,human feces,Homo sapiens,2006,United Kingdom,,,,,,,,,Clostridioides difficile
+46044128,SAMN46044128,,R20291,human feces,Homo sapiens,2006,United Kingdom,,,,,,,,,Clostridioides difficile
+46044127,SAMN46044127,,R20291,human feces,Homo sapiens,2006,United Kingdom,,,,,,,,,Clostridioides difficile
+46044126,SAMN46044126,,R20291_Tn::hcpR,human feces,Homo sapiens,2021,USA,,,,,,,,,Clostridioides difficile
+46044125,SAMN46044125,,R20291_Tn::hcpR,human feces,Homo sapiens,2021,USA,,,,,,,,,Clostridioides difficile
+46044124,SAMN46044124,,R20291_Tn::hcpR,human feces,Homo sapiens,2021,USA,,,,,,,,,Clostridioides difficile
+46044123,SAMN46044123,,R20291_Tn::hcpR,human feces,Homo sapiens,2021,USA,,,,,,,,,Clostridioides difficile
+46044122,SAMN46044122,,R20291_Tn::hcpR,human feces,Homo sapiens,2021,USA,,,,,,,,,Clostridioides difficile
+46044121,SAMN46044121,,R20291_Tn::hcpR,human feces,Homo sapiens,2021,USA,,,,,,,,,Clostridioides difficile
+54587488,SAMN54587488,,HCD81.2/22,feces,Homo sapiens,2022,Brazil: Minas gerais; Belo horizonte,,,,,,,,,Clostridioides difficile
+54587487,SAMN54587487,,HEcd,feces,Homo sapiens,2021,Brazil: Rio de Janeiro; Rio de Janeiro,,,,,,,,,Clostridioides difficile
+54575197,SAMN54575197,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575196,SAMN54575196,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575195,SAMN54575195,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575194,SAMN54575194,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575193,SAMN54575193,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575192,SAMN54575192,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575191,SAMN54575191,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575190,SAMN54575190,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+54575189,SAMN54575189,,ATCC 630,unknown,unknown,unknown,unknown,,,,,,,,,Clostridioides difficile
+48791028,SAMN48791028,,630deltaerm,Laboratory,,2024-07-08,USA: Atlanta,,,,,,,,,Clostridioides difficile
+48791027,SAMN48791027,,630deltaerm,Laboratory,,2023-11-27,USA: Atlanta,,,,,,,,,Clostridioides difficile
+48791026,SAMN48791026,,630deltaerm,Laboratory,,2024-01-10,USA: Atlanta,,,,,,,,,Clostridioides difficile
+20931417,SAMN20931417,,S441,Cecal content,Sus scrofa domesticus,2015-03-22,Thailand: Nakhon Pathom,,,,,,,,,Clostridioides difficile
+20931416,SAMN20931416,,S437,Cecal content,Sus scrofa domesticus,2015-03-22,Thailand: Nakhon Pathom,,,,,,,,,Clostridioides difficile
+20931415,SAMN20931415,,S384,Cecal content,Sus scrofa domesticus,2015-02-28,Thailand: Nakhon Pathom,,,,,,,,,Clostridioides difficile
+20931414,SAMN20931414,,S376,Cecal content,Sus scrofa domesticus,2015-02-28,Thailand: Nakhon Pathom,,,,,,,,,Clostridioides difficile
+20931413,SAMN20931413,,S375,Cecal content,Sus scrofa domesticus,2015-02-28,Thailand: Nakhon Pathom,,,,,,,,,Clostridioides difficile
+20931412,SAMN20931412,,H230,stool sample,Homo sapiens,2015-03-21,Thailand: Bangkok,,,,,,,,,Clostridioides difficile
+20931411,SAMN20931411,,H113,stool sample,Homo sapiens,2014-09-18,Thailand: Bangkok,,,,,,,,,Clostridioides difficile
+20931410,SAMN20931410,,CD1084,stool sample,Homo sapiens,2003-08-06,Thailand: Bangkok,,,,,,,,,Clostridioides difficile
+26443783,SAMN26443783,,S23,feces,Animal,2018,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350699,SAMN26350699,,ZJ45,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370775.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/775/GCA_054370775.1_PDT003045422.1,Clostridioides difficile
+26350698,SAMN26350698,,ZJ231,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370755.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/755/GCA_054370755.1_PDT003045423.1,Clostridioides difficile
+26350697,SAMN26350697,,ZJ218,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/335/GCA_054370335.1_PDT003045424.1,Clostridioides difficile
+26350696,SAMN26350696,,ZJ115,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/735/GCA_054370735.1_PDT003045425.1,Clostridioides difficile
+26350695,SAMN26350695,,YY14,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054370695.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/695/GCA_054370695.1_PDT003045426.1,Clostridioides difficile
+26350694,SAMN26350694,,XS80,feces,Homo sapiens,2015,China:Zhejiang,,,,,GCA_054370595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/595/GCA_054370595.1_PDT003045433.1,Clostridioides difficile
+26350693,SAMN26350693,,XS56,feces,Homo sapiens,2015,China:Zhejiang,,,,,GCA_054370315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/315/GCA_054370315.1_PDT003045427.1,Clostridioides difficile
+26350692,SAMN26350692,,XS313,feces,Homo sapiens,2015,China:Zhejiang,,,,,GCA_054370715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/715/GCA_054370715.1_PDT003045428.1,Clostridioides difficile
+26350691,SAMN26350691,,XS301,feces,Homo sapiens,2015,China:Zhejiang,,,,,GCA_054370295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/295/GCA_054370295.1_PDT003045429.1,Clostridioides difficile
+26350690,SAMN26350690,,WZ5926,feces,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350689,SAMN26350689,,TZ29,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054370675.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/675/GCA_054370675.1_PDT003045431.1,Clostridioides difficile
+26350688,SAMN26350688,,SZ137,feces,Homo sapiens,2019,China:Zhejiang,,,,,GCA_054370615.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/615/GCA_054370615.1_PDT003045432.1,Clostridioides difficile
+26350687,SAMN26350687,,SZ90,feces,Homo sapiens,2018,China:Zhejiang,,,,,GCA_054372255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/255/GCA_054372255.1_PDT003045331.1,Clostridioides difficile
+26350686,SAMN26350686,,SZ68,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054372225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/225/GCA_054372225.1_PDT003045332.1,Clostridioides difficile
+26350685,SAMN26350685,,SZ39,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054372215.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/215/GCA_054372215.1_PDT003045333.1,Clostridioides difficile
+26350684,SAMN26350684,,SR47,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054372195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/195/GCA_054372195.1_PDT003045334.1,Clostridioides difficile
+26350683,SAMN26350683,,SR39,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054372175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/175/GCA_054372175.1_PDT003045336.1,Clostridioides difficile
+26350682,SAMN26350682,,SH9,feces,Homo sapiens,2019,China:Shanghai,,,,,GCA_054370475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/475/GCA_054370475.1_PDT003045337.1,Clostridioides difficile
+26350681,SAMN26350681,,SH8,feces,Homo sapiens,2017,China:Shanghai,,,,,GCA_054372155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/155/GCA_054372155.1_PDT003045338.1,Clostridioides difficile
+26350680,SAMN26350680,,SH7,feces,Homo sapiens,2016,China:Shanghai,,,,,,,,,Clostridioides difficile
+26350679,SAMN26350679,,SH6,feces,Homo sapiens,2017,China:Shanghai,,,,,,,,,Clostridioides difficile
+26350678,SAMN26350678,,SH541,feces,Homo sapiens,2019,China:Shanghai,,,,,GCA_054372135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/135/GCA_054372135.1_PDT003045341.1,Clostridioides difficile
+26350677,SAMN26350677,,SH531,feces,Homo sapiens,2019,China:Shanghai,,,,,GCA_054372115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/115/GCA_054372115.1_PDT003045342.1,Clostridioides difficile
+26350676,SAMN26350676,,SH5,feces,Homo sapiens,2019,China:Shanghai,,,,,,,,,Clostridioides difficile
+26350675,SAMN26350675,,SH40,feces,Homo sapiens,2015,China:Shanghai,,,,,,,,,Clostridioides difficile
+26350674,SAMN26350674,,SH4,feces,Homo sapiens,2018,China:Shanghai,,,,,,,,,Clostridioides difficile
+26350673,SAMN26350673,,SH377,feces,Homo sapiens,2018,China:Shanghai,,,,,GCA_054372095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/095/GCA_054372095.1_PDT003045347.1,Clostridioides difficile
+26350672,SAMN26350672,,SH374,feces,Homo sapiens,2018,China:Shanghai,,,,,GCA_054372055.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/055/GCA_054372055.1_PDT003045348.1,Clostridioides difficile
+26350671,SAMN26350671,,SH329,feces,Homo sapiens,2017,China:Shanghai,,,,,GCA_054372035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/035/GCA_054372035.1_PDT003045349.1,Clostridioides difficile
+26350670,SAMN26350670,,SH310,feces,Homo sapiens,2017,China:Shanghai,,,,,,,,,Clostridioides difficile
+26350669,SAMN26350669,,SH3,feces,Homo sapiens,2019,China:Shanghai,,,,,GCA_054372015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/015/GCA_054372015.1_PDT003045351.1,Clostridioides difficile
+26350668,SAMN26350668,,SH2N,feces,Homo sapiens,2014,China:Shanghai,,,,,GCA_054371995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/995/GCA_054371995.1_PDT003045352.1,Clostridioides difficile
+26350667,SAMN26350667,,SH227,feces,Homo sapiens,2016,China:Shanghai,,,,,GCA_054371975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/975/GCA_054371975.1_PDT003045353.1,Clostridioides difficile
+26350666,SAMN26350666,,SH223,feces,Homo sapiens,2016,China:Shanghai,,,,,GCA_054371955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/955/GCA_054371955.1_PDT003045354.1,Clostridioides difficile
+26350665,SAMN26350665,,SH2,feces,Homo sapiens,2018,China:Shanghai,,,,,GCA_054371935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/935/GCA_054371935.1_PDT003045355.1,Clostridioides difficile
+26350664,SAMN26350664,,SH10,feces,Homo sapiens,2018,China:Shanghai,,,,,GCA_054371915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/915/GCA_054371915.1_PDT003045356.1,Clostridioides difficile
+26350663,SAMN26350663,,SH1,feces,Homo sapiens,2017,China:Shanghai,,,,,GCA_054371835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/835/GCA_054371835.1_PDT003045358.1,Clostridioides difficile
+26350662,SAMN26350662,,SD1,feces,Homo sapiens,2019,China:Shandong,,,,,,,,,Clostridioides difficile
+26350661,SAMN26350661,,GSZ203,feces,Homo sapiens,2014,China:Sichuan,,,,,GCA_054371875.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/875/GCA_054371875.1_PDT003045360.1,Clostridioides difficile
+26350660,SAMN26350660,,NX500,feces,Homo sapiens,2020,China:Ningxia,,,,,GCA_054371805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/805/GCA_054371805.1_PDT003045361.1,Clostridioides difficile
+26350659,SAMN26350659,,NX423,feces,Homo sapiens,2020,China:Ningxia,,,,,GCA_054371765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/765/GCA_054371765.1_PDT003045362.1,Clostridioides difficile
+26350658,SAMN26350658,,NX338,feces,Homo sapiens,2020,China:Ningxia,,,,,GCA_054371785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/785/GCA_054371785.1_PDT003045363.1,Clostridioides difficile
+26350657,SAMN26350657,,LY106,feces,Animal,2021,China:Liaoning,,,,,GCA_054371715.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/715/GCA_054371715.1_PDT003045364.1,Clostridioides difficile
+26350656,SAMN26350656,,LE99,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054370455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/455/GCA_054370455.1_PDT003045365.1,Clostridioides difficile
+26350655,SAMN26350655,,LE65,feces,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350654,SAMN26350654,,LE23,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054371685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/685/GCA_054371685.1_PDT003045367.1,Clostridioides difficile
+26350653,SAMN26350653,,LE166,feces,Homo sapiens,2018,China:Zhejiang,,,,,GCA_054371645.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/645/GCA_054371645.1_PDT003045369.1,Clostridioides difficile
+26350652,SAMN26350652,,JES1,feces,Homo sapiens,2018,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350651,SAMN26350651,,JE54,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054371625.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/625/GCA_054371625.1_PDT003045371.1,Clostridioides difficile
+26350650,SAMN26350650,,JE31,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054371595.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/595/GCA_054371595.1_PDT003045372.1,Clostridioides difficile
+26350649,SAMN26350649,,JE29,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054371555.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/555/GCA_054371555.1_PDT003045373.1,Clostridioides difficile
+26350648,SAMN26350648,,JE18,feces,Homo sapiens,2017,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350647,SAMN26350647,,HB727,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371535.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/535/GCA_054371535.1_PDT003045375.1,Clostridioides difficile
+26350646,SAMN26350646,,HB707,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371515.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/515/GCA_054371515.1_PDT003045376.1,Clostridioides difficile
+26350645,SAMN26350645,,HB705,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/495/GCA_054371495.1_PDT003045377.1,Clostridioides difficile
+26350644,SAMN26350644,,HB697,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371475.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/475/GCA_054371475.1_PDT003045378.1,Clostridioides difficile
+26350643,SAMN26350643,,HB690,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/435/GCA_054371435.1_PDT003045380.1,Clostridioides difficile
+26350642,SAMN26350642,,HB689,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054370435.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/435/GCA_054370435.1_PDT003045381.1,Clostridioides difficile
+26350641,SAMN26350641,,HB683,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/415/GCA_054371415.1_PDT003045382.1,Clostridioides difficile
+26350640,SAMN26350640,,HB562,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/395/GCA_054371395.1_PDT003045383.1,Clostridioides difficile
+26350639,SAMN26350639,,HB506,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/375/GCA_054371375.1_PDT003045384.1,Clostridioides difficile
+26350638,SAMN26350638,,HB497,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371335.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/335/GCA_054371335.1_PDT003045385.1,Clostridioides difficile
+26350637,SAMN26350637,,HB494,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/355/GCA_054371355.1_PDT003045386.1,Clostridioides difficile
+26350636,SAMN26350636,,HB479,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/315/GCA_054371315.1_PDT003045387.1,Clostridioides difficile
+26350635,SAMN26350635,,HB442,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371275.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/275/GCA_054371275.1_PDT003045388.1,Clostridioides difficile
+26350634,SAMN26350634,,HB438,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371295.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/295/GCA_054371295.1_PDT003045389.1,Clostridioides difficile
+26350633,SAMN26350633,,HB427,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371255.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/255/GCA_054371255.1_PDT003045391.1,Clostridioides difficile
+26350632,SAMN26350632,,HB421,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054370415.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/415/GCA_054370415.1_PDT003045392.1,Clostridioides difficile
+26350631,SAMN26350631,,HB416,feces,Homo sapiens,2014,China:Hebei,,,,,GCA_054371235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/235/GCA_054371235.1_PDT003045393.1,Clostridioides difficile
+26350630,SAMN26350630,,FY56,feces,Homo sapiens,2017,China:Zhejiang,,,,,GCA_054370395.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/395/GCA_054370395.1_PDT003045394.1,Clostridioides difficile
+26350629,SAMN26350629,,BJ1282,feces,Homo sapiens,2016,China:Beijing,,,,,GCA_054370375.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/375/GCA_054370375.1_PDT003045395.1,Clostridioides difficile
+26350628,SAMN26350628,,BJ1275,feces,Homo sapiens,2016,China:Beijing,,,,,GCA_054371195.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/195/GCA_054371195.1_PDT003045396.1,Clostridioides difficile
+26350627,SAMN26350627,,BJ1239,feces,Homo sapiens,2015,China:Beijing,,,,,GCA_054371205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/205/GCA_054371205.1_PDT003045397.1,Clostridioides difficile
+26350626,SAMN26350626,,BJ1123,feces,Homo sapiens,2012,China:Beijing,,,,,GCA_054371175.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/175/GCA_054371175.1_PDT003045398.1,Clostridioides difficile
+26350625,SAMN26350625,,BJ1117,feces,Homo sapiens,2012,China:Beijing,,,,,GCA_054371155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/155/GCA_054371155.1_PDT003045399.1,Clostridioides difficile
+26350624,SAMN26350624,,BJ1101,feces,Homo sapiens,2011,China:Beijing,,,,,GCA_054371135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/135/GCA_054371135.1_PDT003045400.1,Clostridioides difficile
+26350623,SAMN26350623,,BJ1100,feces,Homo sapiens,2011,China:Beijing,,,,,GCA_054371075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/075/GCA_054371075.1_PDT003045402.1,Clostridioides difficile
+26350622,SAMN26350622,,BJ1045,feces,Homo sapiens,2010,China:Beijing,,,,,GCA_054370355.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/355/GCA_054370355.1_PDT003045403.1,Clostridioides difficile
+26350621,SAMN26350621,,GZAN30,feces,Homo sapiens,2018,China:Guangdong,,,,,GCA_054371035.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/035/GCA_054371035.1_PDT003045404.1,Clostridioides difficile
+26350620,SAMN26350620,,201492,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054371115.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/115/GCA_054371115.1_PDT003045405.1,Clostridioides difficile
+26350619,SAMN26350619,,201490,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054371015.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/015/GCA_054371015.1_PDT003045406.1,Clostridioides difficile
+26350618,SAMN26350618,,201454,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054370995.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/995/GCA_054370995.1_PDT003045407.1,Clostridioides difficile
+26350617,SAMN26350617,,201427,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054370975.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/975/GCA_054370975.1_PDT003045408.1,Clostridioides difficile
+26350616,SAMN26350616,,201417,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054370955.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/955/GCA_054370955.1_PDT003045409.1,Clostridioides difficile
+26350615,SAMN26350615,,201412,feces,Homo sapiens,2014,China:Zhejiang,,,,,GCA_054370935.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/935/GCA_054370935.1_PDT003045410.1,Clostridioides difficile
+26350614,SAMN26350614,,20147,feces,Homo sapiens,2014,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350613,SAMN26350613,,42536,feces,Homo sapiens,2021,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350612,SAMN26350612,,27250,feces,Homo sapiens,2021,China:Zhejiang,,,,,GCA_054370895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/895/GCA_054370895.1_PDT003045414.1,Clostridioides difficile
+26350611,SAMN26350611,,6607,feces,Homo sapiens,2021,China:Zhejiang,,,,,GCA_054370865.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/865/GCA_054370865.1_PDT003045415.1,Clostridioides difficile
+26350610,SAMN26350610,,1855,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370855.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/855/GCA_054370855.1_PDT003045416.1,Clostridioides difficile
+26350609,SAMN26350609,,1847,feces,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350608,SAMN26350608,,1841,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370815.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/815/GCA_054370815.1_PDT003045418.1,Clostridioides difficile
+26350607,SAMN26350607,,1536,feces,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350606,SAMN26350606,,1532,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370835.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/835/GCA_054370835.1_PDT003045420.1,Clostridioides difficile
+26350605,SAMN26350605,,1529,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370795.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/795/GCA_054370795.1_PDT003045421.1,Clostridioides difficile
+26350604,SAMN26350604,,1517,feces,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350603,SAMN26350603,,1511,feces,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350602,SAMN26350602,,1504,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054372075.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/372/075/GCA_054372075.1_PDT003045346.1,Clostridioides difficile
+26350601,SAMN26350601,,1498,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054371895.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/895/GCA_054371895.1_PDT003045357.1,Clostridioides difficile
+26350600,SAMN26350600,,1492,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054371665.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/665/GCA_054371665.1_PDT003045368.1,Clostridioides difficile
+26350599,SAMN26350599,,1491,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054371455.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/455/GCA_054371455.1_PDT003045379.1,Clostridioides difficile
+26350598,SAMN26350598,,1347,feces,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350597,SAMN26350597,,1329,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054371095.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/371/095/GCA_054371095.1_PDT003045401.1,Clostridioides difficile
+26350596,SAMN26350596,,1326,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370915.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/915/GCA_054370915.1_PDT003045412.1,Clostridioides difficile
+26350595,SAMN26350595,,1257,feces,Homo sapiens,2016,China:Zhejiang,,,,,,,,,Clostridioides difficile
+26350594,SAMN26350594,,1236,feces,Homo sapiens,2016,China:Zhejiang,,,,,GCA_054370235.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/370/235/GCA_054370235.1_PDT003045436.1,Clostridioides difficile
+47734948,SAMN47734948,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734947,SAMN47734947,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734946,SAMN47734946,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734945,SAMN47734945,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734944,SAMN47734944,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734943,SAMN47734943,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734942,SAMN47734942,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734941,SAMN47734941,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734940,SAMN47734940,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734939,SAMN47734939,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734938,SAMN47734938,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734937,SAMN47734937,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734936,SAMN47734936,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734935,SAMN47734935,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734934,SAMN47734934,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734933,SAMN47734933,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734932,SAMN47734932,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734931,SAMN47734931,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734930,SAMN47734930,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734929,SAMN47734929,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734928,SAMN47734928,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734927,SAMN47734927,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734926,SAMN47734926,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734925,SAMN47734925,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734924,SAMN47734924,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734923,SAMN47734923,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734922,SAMN47734922,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734921,SAMN47734921,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734920,SAMN47734920,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734919,SAMN47734919,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734918,SAMN47734918,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734917,SAMN47734917,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734916,SAMN47734916,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734915,SAMN47734915,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734914,SAMN47734914,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734913,SAMN47734913,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734912,SAMN47734912,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734911,SAMN47734911,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734910,SAMN47734910,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734909,SAMN47734909,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734908,SAMN47734908,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734907,SAMN47734907,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734906,SAMN47734906,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734905,SAMN47734905,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734904,SAMN47734904,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734903,SAMN47734903,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734902,SAMN47734902,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734901,SAMN47734901,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734900,SAMN47734900,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734899,SAMN47734899,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734898,SAMN47734898,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734897,SAMN47734897,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734896,SAMN47734896,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734895,SAMN47734895,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734894,SAMN47734894,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734893,SAMN47734893,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734892,SAMN47734892,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734891,SAMN47734891,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734890,SAMN47734890,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734889,SAMN47734889,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734888,SAMN47734888,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734887,SAMN47734887,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734441,SAMN47734441,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734440,SAMN47734440,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734439,SAMN47734439,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734438,SAMN47734438,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734437,SAMN47734437,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734436,SAMN47734436,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734435,SAMN47734435,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734434,SAMN47734434,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734433,SAMN47734433,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734432,SAMN47734432,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734431,SAMN47734431,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734430,SAMN47734430,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734429,SAMN47734429,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734428,SAMN47734428,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734427,SAMN47734427,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734426,SAMN47734426,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734425,SAMN47734425,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734424,SAMN47734424,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734423,SAMN47734423,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734422,SAMN47734422,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734421,SAMN47734421,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734420,SAMN47734420,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734419,SAMN47734419,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734418,SAMN47734418,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734417,SAMN47734417,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734416,SAMN47734416,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734415,SAMN47734415,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734414,SAMN47734414,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734413,SAMN47734413,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734412,SAMN47734412,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734411,SAMN47734411,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734410,SAMN47734410,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734409,SAMN47734409,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734408,SAMN47734408,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734407,SAMN47734407,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734406,SAMN47734406,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734405,SAMN47734405,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734404,SAMN47734404,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734403,SAMN47734403,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734402,SAMN47734402,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734401,SAMN47734401,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734400,SAMN47734400,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734399,SAMN47734399,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734398,SAMN47734398,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734397,SAMN47734397,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734396,SAMN47734396,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734395,SAMN47734395,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734394,SAMN47734394,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734393,SAMN47734393,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734392,SAMN47734392,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734391,SAMN47734391,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734390,SAMN47734390,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734389,SAMN47734389,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734388,SAMN47734388,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734387,SAMN47734387,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734386,SAMN47734386,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734385,SAMN47734385,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734384,SAMN47734384,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734383,SAMN47734383,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734382,SAMN47734382,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734381,SAMN47734381,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734380,SAMN47734380,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734379,SAMN47734379,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734378,SAMN47734378,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734377,SAMN47734377,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734376,SAMN47734376,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734375,SAMN47734375,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734374,SAMN47734374,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734373,SAMN47734373,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734372,SAMN47734372,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734371,SAMN47734371,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734370,SAMN47734370,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734369,SAMN47734369,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734368,SAMN47734368,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734367,SAMN47734367,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734366,SAMN47734366,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734365,SAMN47734365,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734364,SAMN47734364,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734363,SAMN47734363,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734362,SAMN47734362,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734361,SAMN47734361,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734360,SAMN47734360,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734359,SAMN47734359,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734358,SAMN47734358,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734357,SAMN47734357,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734356,SAMN47734356,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734355,SAMN47734355,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734354,SAMN47734354,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734353,SAMN47734353,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734352,SAMN47734352,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734351,SAMN47734351,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734350,SAMN47734350,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734349,SAMN47734349,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734348,SAMN47734348,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734347,SAMN47734347,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734346,SAMN47734346,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734345,SAMN47734345,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734344,SAMN47734344,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734343,SAMN47734343,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47734342,SAMN47734342,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733850,SAMN47733850,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733849,SAMN47733849,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733848,SAMN47733848,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733847,SAMN47733847,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733846,SAMN47733846,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733845,SAMN47733845,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733844,SAMN47733844,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733843,SAMN47733843,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733842,SAMN47733842,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733841,SAMN47733841,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733840,SAMN47733840,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733839,SAMN47733839,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733838,SAMN47733838,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733837,SAMN47733837,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733836,SAMN47733836,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733835,SAMN47733835,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733834,SAMN47733834,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733833,SAMN47733833,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733832,SAMN47733832,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733831,SAMN47733831,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733830,SAMN47733830,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733829,SAMN47733829,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733828,SAMN47733828,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733827,SAMN47733827,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733826,SAMN47733826,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733825,SAMN47733825,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733824,SAMN47733824,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733823,SAMN47733823,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733822,SAMN47733822,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733821,SAMN47733821,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733820,SAMN47733820,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733819,SAMN47733819,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733818,SAMN47733818,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733817,SAMN47733817,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733816,SAMN47733816,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733815,SAMN47733815,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733814,SAMN47733814,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733813,SAMN47733813,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733812,SAMN47733812,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733811,SAMN47733811,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733810,SAMN47733810,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733809,SAMN47733809,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733808,SAMN47733808,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733807,SAMN47733807,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733806,SAMN47733806,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733805,SAMN47733805,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733804,SAMN47733804,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733803,SAMN47733803,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733802,SAMN47733802,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733801,SAMN47733801,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733795,SAMN47733795,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733794,SAMN47733794,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733793,SAMN47733793,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733792,SAMN47733792,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+47733791,SAMN47733791,,,,,missing,missing,,,,,,,,,Clostridioides difficile
+54266764,SAMN54266764,,CD09230,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054146985.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/146/985/GCA_054146985.1_PDT003034651.1,Clostridioides difficile
+54266763,SAMN54266763,,CD09229,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54266762,SAMN54266762,,CD09228,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54266761,SAMN54266761,,CD09227,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054138685.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/138/685/GCA_054138685.1_PDT003034654.1,Clostridioides difficile
+54266760,SAMN54266760,,CD09226,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144315.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/315/GCA_054144315.1_PDT003034655.1,Clostridioides difficile
+54266719,SAMN54266719,,CD09225,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054145965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/145/965/GCA_054145965.1_PDT003034758.1,Clostridioides difficile
+54266718,SAMN54266718,,CD09224,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054145925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/145/925/GCA_054145925.1_PDT003034760.1,Clostridioides difficile
+54266717,SAMN54266717,,CD09223,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054145885.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/145/885/GCA_054145885.1_PDT003034761.1,Clostridioides difficile
+54266716,SAMN54266716,,CD09222,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144495.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/495/GCA_054144495.1_PDT003034523.1,Clostridioides difficile
+54266625,SAMN54266625,,CD09221,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144925.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/925/GCA_054144925.1_PDT003034585.1,Clostridioides difficile
+54266624,SAMN54266624,,CD09220,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54266623,SAMN54266623,,CD09219,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054143785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/143/785/GCA_054143785.1_PDT003034587.1,Clostridioides difficile
+54266619,SAMN54266619,,CD09208,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54266618,SAMN54266618,,CD09207,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054143725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/143/725/GCA_054143725.1_PDT003034592.1,Clostridioides difficile
+54266617,SAMN54266617,,CD09206,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144785.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/785/GCA_054144785.1_PDT003034706.1,Clostridioides difficile
+54266616,SAMN54266616,,CD09205,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054143735.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/143/735/GCA_054143735.1_PDT003034593.1,Clostridioides difficile
+54266593,SAMN54266593,,CD09204,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144225.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/225/GCA_054144225.1_PDT003034710.1,Clostridioides difficile
+54266592,SAMN54266592,,CD09203,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54266591,SAMN54266591,,CD09202,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054144765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/144/765/GCA_054144765.1_PDT003034712.1,Clostridioides difficile
+54266590,SAMN54266590,,CD09201,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54266589,SAMN54266589,,CD09200,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258721,SAMN54258721,,CD09199,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139125.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/125/GCA_054139125.1_PDT003033676.1,Clostridioides difficile
+54258720,SAMN54258720,,CD09198,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258719,SAMN54258719,,CD09197,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054140725.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/140/725/GCA_054140725.1_PDT003033678.1,Clostridioides difficile
+54258692,SAMN54258692,,CD09196,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054140135.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/140/135/GCA_054140135.1_PDT003033646.1,Clostridioides difficile
+54258691,SAMN54258691,,CD09195,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139205.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/205/GCA_054139205.1_PDT003033647.1,Clostridioides difficile
+54258690,SAMN54258690,,CD09194,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139505.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/505/GCA_054139505.1_PDT003033648.1,Clostridioides difficile
+54258689,SAMN54258689,,CD09193,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054139165.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/139/165/GCA_054139165.1_PDT003033649.1,Clostridioides difficile
+54258660,SAMN54258660,,CD09192,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054142825.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/142/825/GCA_054142825.1_PDT003033773.1,Clostridioides difficile
+54258659,SAMN54258659,,CD09190,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054140385.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/140/385/GCA_054140385.1_PDT003033774.1,Clostridioides difficile
+54258635,SAMN54258635,,CD09189,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258591,SAMN54258591,,CD09178,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054138965.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/138/965/GCA_054138965.1_PDT003033724.1,Clostridioides difficile
+54258590,SAMN54258590,,CD09177,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258589,SAMN54258589,,CD09176,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054148805.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/148/805/GCA_054148805.1_PDT003033726.1,Clostridioides difficile
+54258570,SAMN54258570,,CD09175,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258569,SAMN54258569,,CD09174,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258508,SAMN54258508,,CD09173,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054138765.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/138/765/GCA_054138765.1_PDT003033938.1,Clostridioides difficile
+54258473,SAMN54258473,,CD09157,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258472,SAMN54258472,,CD09156,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258471,SAMN54258471,,CD09155,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258443,SAMN54258443,,CD09154,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054138845.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/138/845/GCA_054138845.1_PDT003033849.1,Clostridioides difficile
+54258442,SAMN54258442,,CD09153,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54258415,SAMN54258415,,CD09152,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,GCA_054141155.1,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/141/155/GCA_054141155.1_PDT003033812.1,Clostridioides difficile
+54258414,SAMN54258414,,CD09151,stool,Homo sapiens,2025,"USA: Pittsburgh, PA",,,,,,,,,Clostridioides difficile
+54278337,SAMEA115058237,,,,,,,,,,,,,,,Clostridioides difficile
+54278330,SAMEA115058206,,,,,,,,,,,,,,,Clostridioides difficile
+54278307,SAMEA115058225,,,,,,,,,,,,,,,Clostridioides difficile
+54278290,SAMEA115058220,,,,,,,,,,,,,,,Clostridioides difficile
+54278261,SAMEA115058249,,,,,,,,,,,,,,,Clostridioides difficile
+54278258,SAMEA115058203,,,,,,,,,,,,,,,Clostridioides difficile
+54278238,SAMEA115058175,,,,,,,,,,,,,,,Clostridioides difficile
+54278222,SAMEA115058265,,,,,,,,,,,,,,,Clostridioides difficile
+54278152,SAMEA115058216,,,,,,,,,,,,,,,Clostridioides difficile
+54278143,SAMEA115058231,,,,,,,,,,,,,,,Clostridioides difficile
+54278138,SAMEA115058226,,,,,,,,,,,,,,,Clostridioides difficile
+54278134,SAMEA115058210,,,,,,,,,,,,,,,Clostridioides difficile
+54278133,SAMEA115058273,,,,,,,,,,,,,,,Clostridioides difficile
+54278131,SAMEA115058177,,,,,,,,,,,,,,,Clostridioides difficile
+54278100,SAMEA115058224,,,,,,,,,,,,,,,Clostridioides difficile
+54278097,SAMEA115058254,,,,,,,,,,,,,,,Clostridioides difficile
+54278063,SAMEA115058252,,,,,,,,,,,,,,,Clostridioides difficile
+54278041,SAMEA115058239,,,,,,,,,,,,,,,Clostridioides difficile
+54278039,SAMEA115058200,,,,,,,,,,,,,,,Clostridioides difficile
+54278023,SAMEA115058267,,,,,,,,,,,,,,,Clostridioides difficile
+54278012,SAMEA115058244,,,,,,,,,,,,,,,Clostridioides difficile
+54278008,SAMEA115058201,,,,,,,,,,,,,,,Clostridioides difficile
+54278006,SAMEA115058248,,,,,,,,,,,,,,,Clostridioides difficile
+54277990,SAMEA115058235,,,,,,,,,,,,,,,Clostridioides difficile
+54277977,SAMEA115058182,,,,,,,,,,,,,,,Clostridioides difficile
+54277963,SAMEA115058207,,,,,,,,,,,,,,,Clostridioides difficile
+54277957,SAMEA115058198,,,,,,,,,,,,,,,Clostridioides difficile
+54277955,SAMEA115058236,,,,,,,,,,,,,,,Clostridioides difficile
+54277948,SAMEA115058178,,,,,,,,,,,,,,,Clostridioides difficile
+54277924,SAMEA115058195,,,,,,,,,,,,,,,Clostridioides difficile
+54277920,SAMEA115058185,,,,,,,,,,,,,,,Clostridioides difficile
+54277912,SAMEA115058271,,,,,,,,,,,,,,,Clostridioides difficile
+54277877,SAMEA115058190,,,,,,,,,,,,,,,Clostridioides difficile
+54277866,SAMEA115058223,,,,,,,,,,,,,,,Clostridioides difficile
+54277850,SAMEA115058251,,,,,,,,,,,,,,,Clostridioides difficile
+54277836,SAMEA115058217,,,,,,,,,,,,,,,Clostridioides difficile
+54277827,SAMEA115058209,,,,,,,,,,,,,,,Clostridioides difficile
+54277820,SAMEA115058179,,,,,,,,,,,,,,,Clostridioides difficile
+54277812,SAMEA115058181,,,,,,,,,,,,,,,Clostridioides difficile
+54277799,SAMEA115058255,,,,,,,,,,,,,,,Clostridioides difficile
+54277757,SAMEA115058266,,,,,,,,,,,,,,,Clostridioides difficile
+54277756,SAMEA115058194,,,,,,,,,,,,,,,Clostridioides difficile
+54277744,SAMEA115058262,,,,,,,,,,,,,,,Clostridioides difficile
+54277729,SAMEA115058197,,,,,,,,,,,,,,,Clostridioides difficile
+54277715,SAMEA115058213,,,,,,,,,,,,,,,Clostridioides difficile
+54277709,SAMEA115058221,,,,,,,,,,,,,,,Clostridioides difficile
+54277695,SAMEA115058234,,,,,,,,,,,,,,,Clostridioides difficile
+54277691,SAMEA115058270,,,,,,,,,,,,,,,Clostridioides difficile
+54277652,SAMEA115058258,,,,,,,,,,,,,,,Clostridioides difficile
+54277651,SAMEA115058228,,,,,,,,,,,,,,,Clostridioides difficile
+54277611,SAMEA115058193,,,,,,,,,,,,,,,Clostridioides difficile
+54277609,SAMEA115058208,,,,,,,,,,,,,,,Clostridioides difficile
+54277594,SAMEA115058180,,,,,,,,,,,,,,,Clostridioides difficile
+54277582,SAMEA115058187,,,,,,,,,,,,,,,Clostridioides difficile
+54277568,SAMEA115058204,,,,,,,,,,,,,,,Clostridioides difficile
+54277560,SAMEA115058260,,,,,,,,,,,,,,,Clostridioides difficile
+54277539,SAMEA115058202,,,,,,,,,,,,,,,Clostridioides difficile
+54277533,SAMEA115058269,,,,,,,,,,,,,,,Clostridioides difficile
+54277525,SAMEA115058227,,,,,,,,,,,,,,,Clostridioides difficile
+54277524,SAMEA115058183,,,,,,,,,,,,,,,Clostridioides difficile
+54277497,SAMEA115058219,,,,,,,,,,,,,,,Clostridioides difficile
+54277482,SAMEA115058240,,,,,,,,,,,,,,,Clostridioides difficile
+54277473,SAMEA115058199,,,,,,,,,,,,,,,Clostridioides difficile
+54277466,SAMEA115058272,,,,,,,,,,,,,,,Clostridioides difficile
+54277461,SAMEA115058230,,,,,,,,,,,,,,,Clostridioides difficile
+54277443,SAMEA115058196,,,,,,,,,,,,,,,Clostridioides difficile
+54277413,SAMEA115058184,,,,,,,,,,,,,,,Clostridioides difficile
+54277374,SAMEA115058222,,,,,,,,,,,,,,,Clostridioides difficile
+54277356,SAMEA115058205,,,,,,,,,,,,,,,Clostridioides difficile
+54277344,SAMEA115058245,,,,,,,,,,,,,,,Clostridioides difficile
+54277313,SAMEA115058243,,,,,,,,,,,,,,,Clostridioides difficile
+54277302,SAMEA115058229,,,,,,,,,,,,,,,Clostridioides difficile
+54277291,SAMEA115058264,,,,,,,,,,,,,,,Clostridioides difficile
+54277277,SAMEA115058189,,,,,,,,,,,,,,,Clostridioides difficile
+54277259,SAMEA115058232,,,,,,,,,,,,,,,Clostridioides difficile
+54277222,SAMEA115058192,,,,,,,,,,,,,,,Clostridioides difficile
+54277195,SAMEA115058211,,,,,,,,,,,,,,,Clostridioides difficile
+54277105,SAMEA115058253,,,,,,,,,,,,,,,Clostridioides difficile
+54277082,SAMEA115058186,,,,,,,,,,,,,,,Clostridioides difficile
+54277081,SAMEA115058214,,,,,,,,,,,,,,,Clostridioides difficile
+54277079,SAMEA115058212,,,,,,,,,,,,,,,Clostridioides difficile
+54277072,SAMEA115058268,,,,,,,,,,,,,,,Clostridioides difficile
+54277066,SAMEA115058215,,,,,,,,,,,,,,,Clostridioides difficile
+54277062,SAMEA115058250,,,,,,,,,,,,,,,Clostridioides difficile
+54277061,SAMEA115058241,,,,,,,,,,,,,,,Clostridioides difficile
+54277057,SAMEA115058238,,,,,,,,,,,,,,,Clostridioides difficile
+54277036,SAMEA115058259,,,,,,,,,,,,,,,Clostridioides difficile
+54277021,SAMEA115058247,,,,,,,,,,,,,,,Clostridioides difficile
+54276997,SAMEA115058242,,,,,,,,,,,,,,,Clostridioides difficile
+54276986,SAMEA115058263,,,,,,,,,,,,,,,Clostridioides difficile
+54276983,SAMEA115058256,,,,,,,,,,,,,,,Clostridioides difficile
+54276931,SAMEA115058246,,,,,,,,,,,,,,,Clostridioides difficile
+54276895,SAMEA115058188,,,,,,,,,,,,,,,Clostridioides difficile
+54276890,SAMEA115058218,,,,,,,,,,,,,,,Clostridioides difficile
+54276882,SAMEA115058261,,,,,,,,,,,,,,,Clostridioides difficile
+54276881,SAMEA115058233,,,,,,,,,,,,,,,Clostridioides difficile
+54276787,SAMEA115058191,,,,,,,,,,,,,,,Clostridioides difficile
+54276786,SAMEA115058257,,,,,,,,,,,,,,,Clostridioides difficile
