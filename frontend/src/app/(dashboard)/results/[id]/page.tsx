@@ -27,7 +27,7 @@ import {
 } from "@/components/ui/table";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { predictionService } from "@/services/predictions";
-import { formatDateTime } from "@/lib/utils";
+import { formatDateTime, downloadPredictionCSV, downloadPredictionTextReport } from "@/lib/utils";
 import type { Prediction } from "@/types";
 
 interface ResultDetailPageProps {
@@ -110,10 +110,16 @@ export default function ResultDetailPage({ params }: ResultDetailPageProps) {
               Back to Results
             </Button>
           </Link>
-          <Button className="gap-2">
-            <Download className="h-4 w-4" />
-            Export PDF Report
-          </Button>
+          <div className="flex gap-2">
+            <Button className="gap-2" onClick={() => downloadPredictionTextReport(prediction)}>
+              <Download className="h-4 w-4" />
+              Export Report
+            </Button>
+            <Button variant="outline" className="gap-2" onClick={() => downloadPredictionCSV(prediction)}>
+              <Download className="h-4 w-4" />
+              Export CSV
+            </Button>
+          </div>
         </div>
 
         {/* Summary Cards */}

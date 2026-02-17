@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import {
   Users,
@@ -15,12 +15,32 @@ import { StatsCard } from "@/components/features/dashboard/stats-card";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
-import { adminStats, recentActivity } from "@/data/mock-users";
+import { deepamrApi } from "@/services/api";
 import { formatDateTime } from "@/lib/utils";
+import type { AdminStats, UserActivity } from "@/types";
 
 export default function AdminPage() {
-  const [stats] = useState(adminStats);
-  const [activity] = useState(recentActivity);
+  const [stats, setStats] = useState<AdminStats>({
+    totalUsers: 0,
+    activeUsers: 0,
+    totalPredictions: 0,
+    predictionsToday: 0,
+    storageUsed: 0,
+    storageLimit: 10,
+  });
+  const [activity, setActivity] = useState<UserActivity[]>([]);
+
+  useEffect(() => {
+    const loadData = async () => {
+      const [adminStats, recentActivity] = await Promise.all([
+        deepamrApi.admin.getStats().catch(() => stats),
+        deepamrApi.admin.getActivity().catch(() => []),
+      ]);
+      setStats(adminStats);
+      setActivity(recentActivity);
+    };
+    loadData();
+  }, []);
 
   const storagePercentage = (stats.storageUsed / stats.storageLimit) * 100;
 
@@ -38,9 +58,6 @@ export default function AdminPage() {
             title="Total Users"
             value={stats.totalUsers}
             icon={Users}
-            trend="up"
-            change={12}
-            changeLabel="this month"
           />
           <StatsCard
             title="Active Users"
@@ -52,9 +69,6 @@ export default function AdminPage() {
             title="Total Predictions"
             value={stats.totalPredictions}
             icon={TrendingUp}
-            trend="up"
-            change={23}
-            changeLabel="this week"
           />
           <StatsCard
             title="Predictions Today"
@@ -125,33 +139,37 @@ export default function AdminPage() {
           </CardHeader>
           <CardContent>
             <div className="space-y-4">
-              {activity.map((item, index) => (
-                <div
-                  key={index}
-                  className="flex items-center gap-4 p-3 rounded-lg bg-background-secondary"
-                >
-                  <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-medium">
-                    {item.userName
-                      .split(" ")
-                      .map((n) => n[0])
-                      .join("")}
+              {activity.length === 0 ? (
+                <p className="text-sm text-muted text-center py-4">No recent activity</p>
+              ) : (
+                activity.map((item, index) => (
+                  <div
+                    key={index}
+                    className="flex items-center gap-4 p-3 rounded-lg bg-background-secondary"
+                  >
+                    <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-medium">
+                      {item.userName
+                        .split(" ")
+                        .map((n) => n[0])
+                        .join("")}
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <p className="text-sm font-medium text-foreground">
+                        {item.userName}
+                      </p>
+                      <p className="text-sm text-muted">
+                        {item.action}
+                        {item.details && (
+                          <span className="text-primary ml-1">{item.details}</span>
+                        )}
+                      </p>
+                    </div>
+                    <div className="text-xs text-muted">
+                      {formatDateTime(item.timestamp)}
+                    </div>
                   </div>
-                  <div className="flex-1 min-w-0">
-                    <p className="text-sm font-medium text-foreground">
-                      {item.userName}
-                    </p>
-                    <p className="text-sm text-muted">
-                      {item.action}
-                      {item.details && (
-                        <span className="text-primary ml-1">{item.details}</span>
-                      )}
-                    </p>
-                  </div>
-                  <div className="text-xs text-muted">
-                    {formatDateTime(item.timestamp)}
-                  </div>
-                </div>
-              ))}
+                ))
+              )}
             </div>
           </CardContent>
         </Card>

@@ -11,21 +11,42 @@ import { TrendChart } from "@/components/charts/trend-chart";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { predictionService } from "@/services/predictions";
-import { dashboardStats, resistanceOverviewData, timeSeriesData } from "@/data/mock-predictions";
-import type { Prediction } from "@/types";
+import { deepamrApi } from "@/services/api";
+import type { Prediction, DashboardStats } from "@/types";
 
 export default function DashboardPage() {
   const [recentPredictions, setRecentPredictions] = useState<Prediction[]>([]);
+  const [stats, setStats] = useState<DashboardStats | null>(null);
+  const [resistanceData, setResistanceData] = useState<Array<{ name: string; value: number; color: string }>>([]);
+  const [trendsData, setTrendsData] = useState<Array<{ date: string; resistant: number; susceptible: number; intermediate: number }>>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const loadData = async () => {
-      const predictions = await predictionService.getRecent(5);
+      const [predictions, dashStats, resistance, trends] = await Promise.all([
+        predictionService.getRecent(5),
+        deepamrApi.dashboard.getStats().catch(() => null),
+        deepamrApi.dashboard.getResistanceOverview().catch(() => []),
+        deepamrApi.dashboard.getTrends().catch(() => []),
+      ]);
       setRecentPredictions(predictions);
+      setStats(dashStats);
+      setResistanceData(resistance);
+      setTrendsData(trends);
       setIsLoading(false);
     };
     loadData();
   }, []);
+
+  const defaultStats: DashboardStats = {
+    totalPredictions: 0,
+    resistantCount: 0,
+    susceptibleCount: 0,
+    pendingCount: 0,
+    weeklyChange: { predictions: 0, resistant: 0 },
+  };
+
+  const s = stats || defaultStats;
 
   return (
     <div className="min-h-screen">
@@ -55,16 +76,16 @@ export default function DashboardPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <StatsCard
             title="Total Predictions"
-            value={dashboardStats.totalPredictions}
-            change={dashboardStats.weeklyChange.predictions}
+            value={s.totalPredictions}
+            change={s.weeklyChange.predictions}
             changeLabel="vs last week"
             icon={Activity}
             trend="up"
           />
           <StatsCard
             title="Resistant Cases"
-            value={dashboardStats.resistantCount}
-            change={dashboardStats.weeklyChange.resistant}
+            value={s.resistantCount}
+            change={s.weeklyChange.resistant}
             changeLabel="vs last week"
             icon={AlertTriangle}
             iconColor="text-destructive"
@@ -72,13 +93,13 @@ export default function DashboardPage() {
           />
           <StatsCard
             title="Susceptible Cases"
-            value={dashboardStats.susceptibleCount}
+            value={s.susceptibleCount}
             icon={CheckCircle}
             iconColor="text-susceptible"
           />
           <StatsCard
             title="Pending Analysis"
-            value={dashboardStats.pendingCount}
+            value={s.pendingCount}
             icon={Clock}
             iconColor="text-intermediate"
           />
@@ -103,13 +124,13 @@ export default function DashboardPage() {
 
           {/* Resistance Overview */}
           <div>
-            <ResistancePieChart data={resistanceOverviewData} />
+            <ResistancePieChart data={resistanceData} />
           </div>
         </div>
 
         {/* Trend Chart */}
         <div className="grid grid-cols-1 gap-6">
-          <TrendChart data={timeSeriesData} title="Weekly Resistance Trends" />
+          <TrendChart data={trendsData} title="Weekly Resistance Trends" />
         </div>
       </div>
     </div>

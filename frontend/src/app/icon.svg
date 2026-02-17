@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <path d="M256 72c-72 40-144 40-144 40s0 120 0 180c0 80 144 148 144 148s144-68 144-148c0-60 0-180 0-180s-72 0-144-40z" fill="rgba(255,255,255,0.15)" stroke="white" stroke-width="12"/>
+  <g stroke="white" stroke-width="10" fill="none" stroke-linecap="round">
+    <path d="M200 160 c0 40 112 40 112 80 c0 40-112 40-112 80"/>
+    <path d="M312 160 c0 40-112 40-112 80 c0 40 112 40 112 80"/>
+    <line x1="218" y1="185" x2="294" y2="185" stroke-width="7" opacity="0.7"/>
+    <line x1="238" y1="240" x2="274" y2="240" stroke-width="7" opacity="0.7"/>
+    <line x1="218" y1="335" x2="294" y2="335" stroke-width="7" opacity="0.7"/>
+  </g>
+  <text x="256" y="430" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="56" fill="white" letter-spacing="6">AMR</text>
+</svg>

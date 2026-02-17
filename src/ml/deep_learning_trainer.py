@@ -322,7 +322,6 @@ class BaseTrainer:
             mode='min',
             factor=0.5,
             patience=5,
-            verbose=True,
         )
 
         self.history = {

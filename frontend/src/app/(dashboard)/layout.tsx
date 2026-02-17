@@ -3,29 +3,28 @@
 import { useEffect } from "react";
 import { Sidebar } from "@/components/layout/sidebar";
 import { useAuth } from "@/hooks/use-auth";
-import { currentUser } from "@/data/mock-users";
 
 export default function DashboardLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const { user, isLoading, setUser } = useAuth();
+  const { user, isLoading, checkAuth } = useAuth();
 
   useEffect(() => {
-    // For demo purposes, auto-login with demo user if not authenticated
-    if (!isLoading && !user) {
-      // Check localStorage first
+    if (isLoading) {
+      // Try to restore session from localStorage token
       const stored = localStorage.getItem("user");
       if (stored) {
-        setUser(JSON.parse(stored));
-      } else {
-        // Auto-login with demo user for convenience
-        setUser(currentUser);
-        localStorage.setItem("user", JSON.stringify(currentUser));
+        try {
+          useAuth.getState().setUser(JSON.parse(stored));
+        } catch {
+          // invalid JSON, ignore
+        }
       }
+      checkAuth();
     }
-  }, [isLoading, user, setUser]);
+  }, [isLoading, checkAuth]);
 
   if (isLoading) {
     return (

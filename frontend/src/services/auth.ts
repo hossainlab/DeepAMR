@@ -1,6 +1,5 @@
-import { mockUsers, currentUser } from "@/data/mock-users";
+import { deepamrApi } from "./api";
 import type { User } from "@/types";
-import { delay } from "@/lib/utils";
 
 export interface LoginCredentials {
   email: string;
@@ -20,81 +19,60 @@ export interface AuthResponse {
   error?: string;
 }
 
-// Mock auth service
 export const authService = {
   async login(credentials: LoginCredentials): Promise<AuthResponse> {
-    await delay(1000); // Simulate network delay
-
-    const user = mockUsers.find(u => u.email === credentials.email);
-
-    if (!user) {
-      return { success: false, error: "Invalid email or password" };
+    try {
+      const result = await deepamrApi.auth.login(credentials);
+      if (typeof window !== "undefined") {
+        localStorage.setItem("user", JSON.stringify(result.user));
+      }
+      return { success: true, user: result.user };
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Login failed";
+      return { success: false, error: message };
     }
-
-    // In a real app, we'd validate the password
-    if (credentials.password.length < 6) {
-      return { success: false, error: "Invalid email or password" };
-    }
-
-    // Store in localStorage for persistence
-    if (typeof window !== "undefined") {
-      localStorage.setItem("user", JSON.stringify(user));
-    }
-
-    return { success: true, user };
   },
 
   async register(data: RegisterData): Promise<AuthResponse> {
-    await delay(1500); // Simulate network delay
-
-    // Check if email already exists
-    const existingUser = mockUsers.find(u => u.email === data.email);
-    if (existingUser) {
-      return { success: false, error: "Email already registered" };
+    try {
+      const result = await deepamrApi.auth.register(data);
+      if (typeof window !== "undefined") {
+        localStorage.setItem("user", JSON.stringify(result.user));
+      }
+      return { success: true, user: result.user };
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Registration failed";
+      return { success: false, error: message };
     }
-
-    // Create new user
-    const newUser: User = {
-      id: `user-${Date.now()}`,
-      email: data.email,
-      name: data.name,
-      role: "user",
-      organization: data.organization,
-      createdAt: new Date().toISOString(),
-      lastLogin: new Date().toISOString(),
-    };
-
-    // Store in localStorage
-    if (typeof window !== "undefined") {
-      localStorage.setItem("user", JSON.stringify(newUser));
-    }
-
-    return { success: true, user: newUser };
   },
 
   async logout(): Promise<void> {
-    await delay(500);
+    await deepamrApi.auth.logout();
     if (typeof window !== "undefined") {
       localStorage.removeItem("user");
     }
   },
 
   async getCurrentUser(): Promise<User | null> {
-    await delay(300);
+    if (typeof window === "undefined") return null;
 
-    if (typeof window === "undefined") {
+    // Check for stored token first
+    const token = localStorage.getItem("token");
+    if (!token) {
+      localStorage.removeItem("user");
       return null;
     }
 
-    const storedUser = localStorage.getItem("user");
-    if (storedUser) {
-      return JSON.parse(storedUser);
+    // Try validating against the API
+    try {
+      const result = await deepamrApi.auth.me();
+      localStorage.setItem("user", JSON.stringify(result.user));
+      return result.user;
+    } catch {
+      // Token expired or invalid — clear storage
+      localStorage.removeItem("user");
+      localStorage.removeItem("token");
+      return null;
     }
-
-    return null;
-  },
-
-  async getDemoUser(): Promise<User> {
-    return currentUser;
   },
 };

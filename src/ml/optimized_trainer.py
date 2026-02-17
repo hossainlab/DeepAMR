@@ -102,7 +102,7 @@ class OptimizedAMRTrainer:
             "logistic_regression": {
                 "C": 1.0,
                 "penalty": "l2",
-                "solver": "liblinear",
+                "solver": "lbfgs",  # Changed from liblinear to support n_jobs
                 "max_iter": 2000,
                 "class_weight": "balanced",
                 "random_state": 42,

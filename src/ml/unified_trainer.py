@@ -265,11 +265,10 @@ class AMRNet(nn.Module):
             prev_dim = hidden_dim
         
         layers.append(nn.Linear(prev_dim, output_dim))
-        
-        if task_type == "multilabel":
-            layers.append(nn.Sigmoid())
-        # For multiclass, we use CrossEntropyLoss which applies softmax
-        
+
+        # Note: No Sigmoid for multilabel - BCEWithLogitsLoss applies it internally
+        # For multiclass, CrossEntropyLoss applies softmax internally
+
         self.model = nn.Sequential(*layers)
     
     def forward(self, x):
@@ -296,10 +295,11 @@ class PyTorchTrainer:
         
         if task_type == "multilabel":
             if class_weights is not None:
-                weight = torch.FloatTensor(class_weights).to(self.device)
-                self.criterion = nn.BCELoss(weight=weight)
+                # Use pos_weight for class-weighted multilabel loss
+                pos_weight = torch.FloatTensor(class_weights).to(self.device)
+                self.criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
             else:
-                self.criterion = nn.BCELoss()
+                self.criterion = nn.BCEWithLogitsLoss()
         else:
             if class_weights is not None:
                 weight = torch.FloatTensor(list(class_weights.values()) if isinstance(class_weights, dict) else class_weights).to(self.device)
@@ -409,25 +409,28 @@ class PyTorchTrainer:
         """Predict labels."""
         self.model.eval()
         X_t = torch.FloatTensor(X).to(self.device)
-        
+
         with torch.no_grad():
             outputs = self.model(X_t)
-            
+
             if self.task_type == "multilabel":
-                return (outputs.cpu().numpy() > 0.5).astype(int)
+                # Apply sigmoid for inference (BCEWithLogitsLoss uses raw logits)
+                probs = torch.sigmoid(outputs)
+                return (probs.cpu().numpy() > 0.5).astype(int)
             else:
                 return outputs.argmax(dim=1).cpu().numpy()
-    
+
     def predict_proba(self, X: np.ndarray) -> np.ndarray:
         """Predict probabilities."""
         self.model.eval()
         X_t = torch.FloatTensor(X).to(self.device)
-        
+
         with torch.no_grad():
             outputs = self.model(X_t)
-            
+
             if self.task_type == "multilabel":
-                return outputs.cpu().numpy()
+                # Apply sigmoid for probability output
+                return torch.sigmoid(outputs).cpu().numpy()
             else:
                 return torch.softmax(outputs, dim=1).cpu().numpy()
 

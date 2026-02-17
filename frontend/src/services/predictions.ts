@@ -1,53 +1,53 @@
-import { mockPredictions, antibioticsByOrganism, genesByOrganism, organisms } from "@/data/mock-predictions";
-import type { Prediction, PredictionFilters, Organism, UploadProgress } from "@/types";
-import { delay, generateId } from "@/lib/utils";
+import type { Prediction, PredictionFilters, Organism, UploadProgress, AntibioticResult } from "@/types";
+import { generateId } from "@/lib/utils";
+import { deepamrApi, convertApiResponseToPrediction } from "./api";
+
+// Check if file is a genomic sequence file (FASTA/FASTQ)
+function isSequenceFile(filename: string): boolean {
+  const lower = filename.toLowerCase();
+  return ['.fasta', '.fa', '.fna', '.fastq', '.fq', '.fasta.gz', '.fa.gz', '.fna.gz', '.fastq.gz', '.fq.gz'].some(ext => lower.endsWith(ext));
+}
+
+// Static organism list (reference data, not mock data)
+const organisms: Organism[] = [
+  "Mycobacterium tuberculosis",
+  "Escherichia coli",
+  "Staphylococcus aureus",
+  "Klebsiella pneumoniae",
+  "Pseudomonas aeruginosa",
+  "Acinetobacter baumannii",
+  "Salmonella typhi",
+  "Vibrio cholerae",
+  "Neisseria gonorrhoeae",
+  "Streptococcus pneumoniae",
+];
 
 export const predictionService = {
   async getAll(filters?: PredictionFilters): Promise<Prediction[]> {
-    await delay(500);
-
-    let results = [...mockPredictions];
-
-    if (filters) {
-      if (filters.organism) {
-        results = results.filter(p => p.organism === filters.organism);
-      }
-      if (filters.status) {
-        results = results.filter(p => p.status === filters.status);
-      }
-      if (filters.risk) {
-        results = results.filter(p => p.overallRisk === filters.risk);
-      }
-      if (filters.search) {
-        const searchLower = filters.search.toLowerCase();
-        results = results.filter(
-          p =>
-            p.sampleId.toLowerCase().includes(searchLower) ||
-            p.organism.toLowerCase().includes(searchLower) ||
-            p.fileName.toLowerCase().includes(searchLower)
-        );
-      }
-      if (filters.dateFrom) {
-        results = results.filter(p => new Date(p.createdAt) >= new Date(filters.dateFrom!));
-      }
-      if (filters.dateTo) {
-        results = results.filter(p => new Date(p.createdAt) <= new Date(filters.dateTo!));
-      }
+    try {
+      return await deepamrApi.predictions.list(filters);
+    } catch (error) {
+      console.error("Failed to fetch predictions:", error);
+      return [];
     }
-
-    return results.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
   },
 
   async getById(id: string): Promise<Prediction | null> {
-    await delay(300);
-    return mockPredictions.find(p => p.id === id) || null;
+    try {
+      return await deepamrApi.predictions.getById(id);
+    } catch (error) {
+      console.error("Failed to fetch prediction:", error);
+      return null;
+    }
   },
 
   async getRecent(limit: number = 5): Promise<Prediction[]> {
-    await delay(300);
-    return mockPredictions
-      .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
-      .slice(0, limit);
+    try {
+      return await deepamrApi.predictions.getRecent(limit);
+    } catch (error) {
+      console.error("Failed to fetch recent predictions:", error);
+      return [];
+    }
   },
 
   async upload(
@@ -57,62 +57,96 @@ export const predictionService = {
   ): Promise<Prediction> {
     // Stage 1: Uploading
     onProgress({ stage: "uploading", progress: 0, message: "Uploading file..." });
-    await delay(500);
-    onProgress({ stage: "uploading", progress: 30, message: "Uploading file..." });
-    await delay(500);
-    onProgress({ stage: "uploading", progress: 60, message: "Uploading file..." });
-    await delay(500);
+    await new Promise(r => setTimeout(r, 300));
+    onProgress({ stage: "uploading", progress: 50, message: "Uploading file..." });
+    await new Promise(r => setTimeout(r, 300));
     onProgress({ stage: "uploading", progress: 100, message: "Upload complete" });
 
     // Stage 2: Validating
-    await delay(300);
+    await new Promise(r => setTimeout(r, 200));
     onProgress({ stage: "validating", progress: 0, message: "Validating sequence format..." });
-    await delay(800);
-    onProgress({ stage: "validating", progress: 50, message: "Checking sequence quality..." });
-    await delay(800);
+    await new Promise(r => setTimeout(r, 400));
     onProgress({ stage: "validating", progress: 100, message: "Validation complete" });
 
     // Stage 3: Analyzing
-    await delay(300);
-    onProgress({ stage: "analyzing", progress: 0, message: "Aligning sequences..." });
-    await delay(1000);
-    onProgress({ stage: "analyzing", progress: 25, message: "Identifying resistance genes..." });
-    await delay(1000);
-    onProgress({ stage: "analyzing", progress: 50, message: "Mapping mutations..." });
-    await delay(1000);
-    onProgress({ stage: "analyzing", progress: 75, message: "Analyzing gene coverage..." });
-    await delay(1000);
+    await new Promise(r => setTimeout(r, 200));
+    onProgress({ stage: "analyzing", progress: 0, message: "Preparing genomic data..." });
+    await new Promise(r => setTimeout(r, 400));
     onProgress({ stage: "analyzing", progress: 100, message: "Analysis complete" });
 
-    // Stage 4: Predicting
-    await delay(300);
+    // Stage 4: Predicting - call real API
+    await new Promise(r => setTimeout(r, 200));
     onProgress({ stage: "predicting", progress: 0, message: "Running DeepAMR model..." });
-    await delay(1500);
-    onProgress({ stage: "predicting", progress: 50, message: "Calculating confidence scores..." });
-    await delay(1500);
+
+    let results: AntibioticResult[];
+    let summary: { resistant: number; intermediate: number; susceptible: number };
+    let overallRisk: "high" | "moderate" | "low";
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    let apiRaw: any = null;
+
+    if (isSequenceFile(file.name)) {
+      onProgress({ stage: "predicting", progress: 20, message: "Uploading to DeepAMR API..." });
+      apiRaw = await deepamrApi.predictFromFasta(file, 0.5, 'deep_learning', organism);
+      onProgress({ stage: "predicting", progress: 80, message: "Processing results..." });
+
+      const converted = convertApiResponseToPrediction(apiRaw, {
+        fileName: file.name,
+        fileSize: file.size,
+        organism,
+      });
+
+      results = converted.results.map(r => ({
+        antibiotic: r.antibiotic,
+        class: r.class,
+        status: r.status,
+        confidence: r.confidence,
+      }));
+      summary = converted.summary;
+      overallRisk = converted.overallRisk;
+    } else if (file.name.endsWith('.json')) {
+      const text = await file.text();
+      const data = JSON.parse(text);
+      const features: number[] = Array.isArray(data) ? data : data.features;
+
+      if (features && features.length >= 100) {
+        onProgress({ stage: "predicting", progress: 30, message: "Connecting to DeepAMR API..." });
+        apiRaw = await deepamrApi.predict({ features, threshold: 0.5 });
+        onProgress({ stage: "predicting", progress: 80, message: "Processing results..." });
+
+        const converted = convertApiResponseToPrediction(apiRaw, {
+          fileName: file.name,
+          fileSize: file.size,
+          organism,
+        });
+
+        results = converted.results.map(r => ({
+          antibiotic: r.antibiotic,
+          class: r.class,
+          status: r.status,
+          confidence: r.confidence,
+        }));
+        summary = converted.summary;
+        overallRisk = converted.overallRisk;
+      } else {
+        throw new Error("Insufficient features in JSON file");
+      }
+    } else {
+      throw new Error("Unsupported file format. Please upload a FASTA, FASTQ, or JSON file.");
+    }
+
     onProgress({ stage: "predicting", progress: 100, message: "Prediction complete" });
 
     // Stage 5: Completed
-    await delay(300);
+    await new Promise(r => setTimeout(r, 200));
     onProgress({ stage: "completed", progress: 100, message: "Results ready!" });
 
-    // Generate mock prediction result
-    const results = antibioticsByOrganism[organism] || antibioticsByOrganism["Escherichia coli"];
-    const genes = genesByOrganism[organism] || [];
-
-    const summary = {
-      resistant: results.filter(r => r.status === "R").length,
-      intermediate: results.filter(r => r.status === "I").length,
-      susceptible: results.filter(r => r.status === "S").length,
-    };
-
-    const resistanceRatio = summary.resistant / results.length;
-    const overallRisk: "high" | "moderate" | "low" =
-      resistanceRatio >= 0.4 ? "high" : resistanceRatio >= 0.2 ? "moderate" : "low";
+    // Use backend-generated IDs if available, otherwise fall back to local
+    const predictionId = apiRaw?.prediction_id || `pred-${generateId()}`;
+    const sampleId = apiRaw?.sample_id || `${organism.substring(0, 2).toUpperCase()}-${new Date().getFullYear()}-${generateId().toUpperCase()}`;
 
     const prediction: Prediction = {
-      id: `pred-${generateId()}`,
-      sampleId: `${organism.substring(0, 2).toUpperCase()}-${new Date().getFullYear()}-${generateId().toUpperCase()}`,
+      id: predictionId,
+      sampleId,
       organism,
       status: "completed",
       createdAt: new Date().toISOString(),
@@ -122,7 +156,7 @@ export const predictionService = {
       fileSize: file.size,
       overallRisk,
       results,
-      detectedGenes: genes,
+      detectedGenes: [],
       summary,
     };
 

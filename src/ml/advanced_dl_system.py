@@ -362,11 +362,18 @@ def train_advanced_system():
 
         if val_f1 > best_f1:
             best_f1 = val_f1
+            Path("models").mkdir(parents=True, exist_ok=True)
             torch.save(
                 {
                     "model_state_dict": model.state_dict(),
                     "scaler": loader.scaler,
                     "classes": loader.unified_drug_classes,
+                    "input_dim": X_train.shape[1],
+                    "output_dim": y_train.shape[1],
+                    "hidden_dim": 512,
+                    "n_blocks": 4,
+                    "best_val_f1": best_f1,
+                    "epoch": epoch + 1,
                 },
                 "models/advanced_deepamr_system.pt",
             )

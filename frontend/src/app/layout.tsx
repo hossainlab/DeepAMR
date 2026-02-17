@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   description: "Predict antimicrobial resistance patterns using deep learning. Designed for Bangladesh healthcare system.",
   keywords: ["AMR", "antimicrobial resistance", "deep learning", "tuberculosis", "Bangladesh", "healthcare"],
   authors: [{ name: "DeepAMR Team" }],
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({

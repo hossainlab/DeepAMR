@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Users,
   Search,
@@ -51,14 +51,18 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { mockUsers } from "@/data/mock-users";
+import { deepamrApi } from "@/services/api";
 import { formatDate } from "@/lib/utils";
 import type { User } from "@/types";
 
 export default function UsersPage() {
-  const [users, setUsers] = useState<User[]>(mockUsers);
+  const [users, setUsers] = useState<User[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [isAddDialogOpen, setIsAddDialogOpen] = useState(false);
+
+  useEffect(() => {
+    deepamrApi.admin.getUsers().then(setUsers).catch(() => {});
+  }, []);
 
   const filteredUsers = users.filter(
     (u) =>
@@ -78,9 +82,14 @@ export default function UsersPage() {
     }
   };
 
-  const handleDeleteUser = (userId: string) => {
+  const handleDeleteUser = async (userId: string) => {
     if (confirm("Are you sure you want to delete this user?")) {
-      setUsers(users.filter((u) => u.id !== userId));
+      try {
+        await deepamrApi.admin.deleteUser(userId);
+        setUsers(users.filter((u) => u.id !== userId));
+      } catch (err) {
+        console.error("Failed to delete user:", err);
+      }
     }
   };
 

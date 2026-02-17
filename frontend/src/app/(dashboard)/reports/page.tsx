@@ -23,7 +23,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { predictionService } from "@/services/predictions";
-import { formatDateTime, formatFileSize } from "@/lib/utils";
+import { formatDateTime, formatFileSize, downloadPredictionCSV, downloadBulkCSV } from "@/lib/utils";
 import type { Prediction } from "@/types";
 
 export default function ReportsPage() {
@@ -66,11 +66,12 @@ export default function ReportsPage() {
   };
 
   const handleBulkDownload = () => {
-    alert(`Downloading ${selectedRows.size} reports...`);
+    const selected = filteredPredictions.filter((p) => selectedRows.has(p.id));
+    downloadBulkCSV(selected);
   };
 
   const handleSingleDownload = (prediction: Prediction) => {
-    alert(`Downloading report for ${prediction.sampleId}...`);
+    downloadPredictionCSV(prediction);
   };
 
   const getRiskVariant = (risk: Prediction["overallRisk"]) => {

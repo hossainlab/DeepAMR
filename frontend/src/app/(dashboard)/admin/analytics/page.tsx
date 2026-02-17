@@ -1,11 +1,13 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { BarChart3, TrendingUp, Users, Activity } from "lucide-react";
 import { Header } from "@/components/layout/header";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ResistancePieChart } from "@/components/charts/resistance-pie-chart";
 import { TrendChart } from "@/components/charts/trend-chart";
-import { resistanceOverviewData, timeSeriesData } from "@/data/mock-predictions";
+import { deepamrApi } from "@/services/api";
+import type { AdminStats } from "@/types";
 import {
   BarChart,
   Bar,
@@ -37,6 +39,24 @@ const weeklyPredictions = [
 ];
 
 export default function AnalyticsPage() {
+  const [resistanceData, setResistanceData] = useState<Array<{ name: string; value: number; color: string }>>([]);
+  const [trendsData, setTrendsData] = useState<Array<{ date: string; resistant: number; susceptible: number; intermediate: number }>>([]);
+  const [adminStats, setAdminStats] = useState<AdminStats | null>(null);
+
+  useEffect(() => {
+    const loadData = async () => {
+      const [resistance, trends, stats] = await Promise.all([
+        deepamrApi.dashboard.getResistanceOverview().catch(() => []),
+        deepamrApi.dashboard.getTrends().catch(() => []),
+        deepamrApi.admin.getStats().catch(() => null),
+      ]);
+      setResistanceData(resistance);
+      setTrendsData(trends);
+      setAdminStats(stats);
+    };
+    loadData();
+  }, []);
+
   return (
     <div className="min-h-screen">
       <Header
@@ -54,9 +74,8 @@ export default function AnalyticsPage() {
                   <Activity className="h-6 w-6 text-primary" />
                 </div>
                 <div>
-                  <p className="text-sm text-muted">This Week</p>
-                  <p className="text-2xl font-bold text-foreground">156</p>
-                  <p className="text-xs text-susceptible">+23% vs last week</p>
+                  <p className="text-sm text-muted">Total Predictions</p>
+                  <p className="text-2xl font-bold text-foreground">{adminStats?.totalPredictions ?? 0}</p>
                 </div>
               </div>
             </CardContent>
@@ -69,9 +88,8 @@ export default function AnalyticsPage() {
                   <TrendingUp className="h-6 w-6 text-destructive" />
                 </div>
                 <div>
-                  <p className="text-sm text-muted">Resistance Rate</p>
-                  <p className="text-2xl font-bold text-foreground">34%</p>
-                  <p className="text-xs text-destructive">+5% vs last month</p>
+                  <p className="text-sm text-muted">Predictions Today</p>
+                  <p className="text-2xl font-bold text-foreground">{adminStats?.predictionsToday ?? 0}</p>
                 </div>
               </div>
             </CardContent>
@@ -85,7 +103,7 @@ export default function AnalyticsPage() {
                 </div>
                 <div>
                   <p className="text-sm text-muted">Active Users</p>
-                  <p className="text-2xl font-bold text-foreground">24</p>
+                  <p className="text-2xl font-bold text-foreground">{adminStats?.activeUsers ?? 0}</p>
                   <p className="text-xs text-muted">7 day active</p>
                 </div>
               </div>
@@ -99,9 +117,8 @@ export default function AnalyticsPage() {
                   <BarChart3 className="h-6 w-6 text-accent" />
                 </div>
                 <div>
-                  <p className="text-sm text-muted">Avg. Processing</p>
-                  <p className="text-2xl font-bold text-foreground">8.5m</p>
-                  <p className="text-xs text-susceptible">-12% faster</p>
+                  <p className="text-sm text-muted">Total Users</p>
+                  <p className="text-2xl font-bold text-foreground">{adminStats?.totalUsers ?? 0}</p>
                 </div>
               </div>
             </CardContent>
@@ -111,7 +128,7 @@ export default function AnalyticsPage() {
         {/* Charts Row 1 */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           <ResistancePieChart
-            data={resistanceOverviewData}
+            data={resistanceData}
             title="Overall Resistance Distribution"
           />
 
@@ -156,7 +173,7 @@ export default function AnalyticsPage() {
 
         {/* Charts Row 2 */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          <TrendChart data={timeSeriesData} title="Weekly Resistance Trends" />
+          <TrendChart data={trendsData} title="Weekly Resistance Trends" />
 
           <Card>
             <CardHeader>
