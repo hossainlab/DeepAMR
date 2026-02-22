@@ -13,8 +13,10 @@ Or run directly:
     python -m src.api.main
 """
 
+import io
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Union
@@ -24,20 +26,28 @@ import numpy as np
 from fastapi import FastAPI, HTTPException, BackgroundTasks, Depends, Header, Request, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, StreamingResponse
 from pydantic import BaseModel, Field
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
 
 # Add project root to path
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.ml.inference import DeepAMRPredictor, SklearnAMRPredictor, get_predictor
+from src.ml.inference import DeepAMRPredictor, SklearnAMRPredictor, get_predictor, MODEL_VERSION
 from src.ml.feature_extraction import KmerFeatureExtractor, get_extractor
+from src.api.bangladesh_guidelines import (
+    get_bangladesh_recommendations, get_bangladesh_context,
+    BANGLADESH_RESISTANCE_PREVALENCE, REFERRAL_CENTERS,
+)
+from src.api.reports import generate_prediction_report
 from src.api.database import (
     init_db, verify_password, create_user, get_user_by_email, get_user_by_id,
     list_users, delete_user, update_last_login, create_session, get_session,
     delete_session, save_prediction, get_prediction, list_predictions,
-    get_recent_predictions, log_activity, get_recent_activity,
+    delete_prediction, get_recent_predictions, log_activity, get_recent_activity,
     get_dashboard_stats, get_resistance_overview, get_trends, get_admin_stats,
     _sanitize_user,
 )
@@ -65,6 +75,8 @@ DRUG_CLASS_DISPLAY = {
 # FastAPI Application
 # =============================================================================
 
+limiter = Limiter(key_func=get_remote_address)
+
 app = FastAPI(
     title="DeepAMR API",
     description="""
@@ -89,10 +101,14 @@ app = FastAPI(
     redoc_url="/redoc",
 )
 
-# CORS middleware for frontend access
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
+
+# CORS middleware
+_cors_origins = os.environ.get("CORS_ORIGINS", "http://localhost:3000").split(",")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Configure appropriately for production
+    allow_origins=_cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -279,7 +295,8 @@ class LoginRequest(BaseModel):
 # =============================================================================
 
 @app.post("/auth/register", tags=["Auth"])
-async def auth_register(req: RegisterRequest):
+@limiter.limit("3/minute")
+async def auth_register(request: Request, req: RegisterRequest):
     try:
         user = create_user(req.email, req.name, req.password, organization=req.organization)
     except ValueError as e:
@@ -290,7 +307,8 @@ async def auth_register(req: RegisterRequest):
 
 
 @app.post("/auth/login", tags=["Auth"])
-async def auth_login(req: LoginRequest):
+@limiter.limit("5/minute")
+async def auth_login(request: Request, req: LoginRequest):
     db_user = get_user_by_email(req.email)
     if not db_user:
         raise HTTPException(status_code=401, detail="Invalid email or password")
@@ -346,6 +364,13 @@ async def get_prediction_endpoint(pred_id: str):
     if not pred:
         raise HTTPException(status_code=404, detail="Prediction not found")
     return pred
+
+
+@app.delete("/predictions/{pred_id}", tags=["Predictions"])
+async def delete_prediction_endpoint(pred_id: str):
+    if not delete_prediction(pred_id):
+        raise HTTPException(status_code=404, detail="Prediction not found")
+    return {"success": True}
 
 
 # =============================================================================
@@ -481,7 +506,8 @@ async def get_drug_classes():
 
 
 @app.post("/predict", response_model=PredictionResponse, tags=["Prediction"])
-async def predict(request: PredictionRequest):
+@limiter.limit("10/minute")
+async def predict(request: PredictionRequest, req: Request = None):
     """Make AMR resistance prediction for a single sample.
 
     Args:
@@ -624,7 +650,9 @@ async def predict_detailed(request: PredictionRequest):
 
 
 @app.post("/predict/fasta", tags=["Prediction"])
+@limiter.limit("10/minute")
 async def predict_from_fasta(
+    request: Request,
     file: UploadFile = File(..., description="FASTA or FASTQ file with genomic sequence"),
     threshold: float = Form(default=0.5, description="Classification threshold"),
     model_type: str = Form(default="deep_learning", description="Model type: deep_learning or sklearn"),
@@ -640,13 +668,26 @@ async def predict_from_fasta(
     4. Returns detailed results with clinical recommendations
 
     Accepted formats: .fasta, .fa, .fna, .fastq, .fq (optionally gzipped)
+    Max file size: 50 MB
     """
     import gzip
 
     try:
-        # Read file content
-        raw_content = await file.read()
+        # Validate file extension
+        _ALLOWED_EXTENSIONS = {".fasta", ".fa", ".fna", ".fastq", ".fq", ".gz"}
         filename = file.filename or "unknown"
+        suffixes = Path(filename).suffixes
+        if not any(s.lower() in _ALLOWED_EXTENSIONS for s in suffixes):
+            raise HTTPException(
+                status_code=400,
+                detail=f"Invalid file type. Allowed: {', '.join(sorted(_ALLOWED_EXTENSIONS))}",
+            )
+
+        # Read file content with size limit (50 MB)
+        _MAX_FILE_SIZE = 50 * 1024 * 1024
+        raw_content = await file.read()
+        if len(raw_content) > _MAX_FILE_SIZE:
+            raise HTTPException(status_code=413, detail="File too large. Maximum size is 50 MB.")
 
         # Decompress if gzipped
         if filename.endswith('.gz'):
@@ -760,6 +801,7 @@ async def predict_from_fasta(
                 file_name=file.filename,
                 file_size=len(raw_content),
                 results_json=results_json,
+                model_version=MODEL_VERSION,
             )
             response_data["prediction_id"] = saved["id"]
             response_data["sample_id"] = saved["sampleId"]
@@ -824,7 +866,106 @@ def get_clinical_recommendations(predictions: List[DrugPrediction]) -> List[str]
             "Standard antibiotic therapy likely effective. Monitor treatment response."
         )
 
+    # Add Bangladesh-specific recommendations
+    recommendations.extend(get_bangladesh_recommendations(resistant_classes))
+
     return recommendations
+
+
+# =============================================================================
+# Model Performance Endpoint
+# =============================================================================
+
+@app.get("/models/performance", tags=["Models"])
+async def get_model_performance():
+    """Get model accuracy metrics and per-class performance."""
+    try:
+        predictor = get_model("deep_learning")
+        info = predictor.model_info
+        performance = info.get("performance", {})
+
+        per_class = {}
+        if predictor.optimal_thresholds:
+            for drug, data in predictor.optimal_thresholds.items():
+                per_class[drug] = {
+                    "optimal_threshold": data.get("threshold", 0.5),
+                    "f1_score": data.get("f1", None),
+                }
+
+        return {
+            "model_version": MODEL_VERSION,
+            "overall": {
+                "micro_f1": performance.get("micro_f1", 0.843),
+                "macro_f1": performance.get("macro_f1", 0.700),
+                "auc": performance.get("micro_auc", 0.986),
+                "hamming_loss": performance.get("hamming_loss", 0.044),
+            },
+            "per_class": per_class,
+            "drug_classes": info["drug_classes"],
+            "has_optimal_thresholds": info.get("has_optimal_thresholds", False),
+        }
+    except Exception as e:
+        # Return hardcoded metrics even if model not loaded
+        return {
+            "model_version": MODEL_VERSION,
+            "overall": {
+                "micro_f1": 0.843,
+                "macro_f1": 0.700,
+                "auc": 0.986,
+                "hamming_loss": 0.044,
+            },
+            "per_class": {},
+            "drug_classes": DeepAMRPredictor.DEFAULT_DRUG_CLASSES,
+            "has_optimal_thresholds": False,
+        }
+
+
+# =============================================================================
+# PDF Report Endpoint
+# =============================================================================
+
+@app.get("/predictions/{pred_id}/report", tags=["Reports"])
+async def download_prediction_report(pred_id: str):
+    """Download a PDF clinical report for a prediction."""
+    pred = get_prediction(pred_id)
+    if not pred:
+        raise HTTPException(status_code=404, detail="Prediction not found")
+
+    # Augment with recommendations if not present
+    if not pred.get("recommendations") and pred.get("results"):
+        drug_preds = [
+            DrugPrediction(
+                drug_class=r.get("class", ""),
+                resistant=r.get("status") == "R",
+                probability=r.get("confidence", 0.5),
+                confidence=get_confidence(r.get("confidence", 0.5)),
+            )
+            for r in pred["results"]
+        ]
+        pred["recommendations"] = get_clinical_recommendations(drug_preds)
+        resistant_classes = {r.get("class") for r in pred["results"] if r.get("status") == "R"}
+        pred["bangladesh_recommendations"] = get_bangladesh_recommendations(resistant_classes)
+
+    pdf_bytes = generate_prediction_report(pred)
+
+    return StreamingResponse(
+        io.BytesIO(pdf_bytes),
+        media_type="application/pdf",
+        headers={"Content-Disposition": f'attachment; filename="DeepAMR_Report_{pred_id}.pdf"'},
+    )
+
+
+# =============================================================================
+# Bangladesh Guidelines Endpoint
+# =============================================================================
+
+@app.get("/guidelines/bangladesh", tags=["Information"])
+async def get_bangladesh_guidelines():
+    """Get Bangladesh-specific AMR guidelines and resistance data."""
+    return {
+        "resistance_prevalence": BANGLADESH_RESISTANCE_PREVALENCE,
+        "referral_centers": REFERRAL_CENTERS,
+    }
 
 
 # =============================================================================

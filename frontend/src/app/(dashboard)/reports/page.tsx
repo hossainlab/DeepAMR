@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Download, FileText, Search, Calendar } from "lucide-react";
+import { Download, FileText, Search, Calendar, Trash2 } from "lucide-react";
 import { Header } from "@/components/layout/header";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -23,6 +23,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { predictionService } from "@/services/predictions";
+import { deepamrApi } from "@/services/api";
 import { formatDateTime, formatFileSize, downloadPredictionCSV, downloadBulkCSV } from "@/lib/utils";
 import type { Prediction } from "@/types";
 
@@ -74,6 +75,43 @@ export default function ReportsPage() {
     downloadPredictionCSV(prediction);
   };
 
+  const handleDelete = async (id: string) => {
+    if (!confirm("Are you sure you want to delete this report?")) return;
+    try {
+      await deepamrApi.predictions.delete(id);
+      setPredictions((prev) => prev.filter((p) => p.id !== id));
+      setSelectedRows((prev) => {
+        const next = new Set(prev);
+        next.delete(id);
+        return next;
+      });
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Unknown error";
+      alert(`Failed to delete report: ${msg}. Make sure the backend is running.`);
+    }
+  };
+
+  const handleBulkDelete = async () => {
+    if (!confirm(`Delete ${selectedRows.size} selected report(s)?`)) return;
+    const results = await Promise.allSettled(
+      [...selectedRows].map((id) => deepamrApi.predictions.delete(id))
+    );
+    const deletedIds = new Set<string>();
+    [...selectedRows].forEach((id, i) => {
+      if (results[i].status === "fulfilled") deletedIds.add(id);
+    });
+    setPredictions((prev) => prev.filter((p) => !deletedIds.has(p.id)));
+    setSelectedRows((prev) => {
+      const next = new Set(prev);
+      deletedIds.forEach((id) => next.delete(id));
+      return next;
+    });
+    const failCount = results.filter((r) => r.status === "rejected").length;
+    if (failCount > 0) {
+      alert(`${deletedIds.size} deleted, ${failCount} failed. Make sure the backend is running.`);
+    }
+  };
+
   const getRiskVariant = (risk: Prediction["overallRisk"]) => {
     switch (risk) {
       case "high":
@@ -122,10 +160,16 @@ export default function ReportsPage() {
 
           {/* Bulk Actions */}
           {selectedRows.size > 0 && (
-            <Button onClick={handleBulkDownload} className="gap-2">
-              <Download className="h-4 w-4" />
-              Download Selected ({selectedRows.size})
-            </Button>
+            <>
+              <Button onClick={handleBulkDownload} className="gap-2">
+                <Download className="h-4 w-4" />
+                Download Selected ({selectedRows.size})
+              </Button>
+              <Button variant="destructive" onClick={handleBulkDelete} className="gap-2">
+                <Trash2 className="h-4 w-4" />
+                Delete Selected ({selectedRows.size})
+              </Button>
+            </>
           )}
         </div>
 
@@ -200,13 +244,28 @@ export default function ReportsPage() {
                       <TableCell className="text-muted">
                         {formatFileSize(prediction.fileSize)}
                       </TableCell>
-                      <TableCell className="text-right">
+                      <TableCell className="text-right space-x-1">
+                        <a href={deepamrApi.getPredictionReportUrl(prediction.id)} target="_blank" rel="noopener noreferrer">
+                          <Button variant="ghost" size="sm" title="Download PDF">
+                            <FileText className="h-4 w-4" />
+                          </Button>
+                        </a>
                         <Button
                           variant="ghost"
                           size="sm"
                           onClick={() => handleSingleDownload(prediction)}
+                          title="Download CSV"
                         >
                           <Download className="h-4 w-4" />
+                        </Button>
+                        <Button
+                          variant="ghost"
+                          size="sm"
+                          onClick={() => handleDelete(prediction.id)}
+                          title="Delete"
+                          className="text-destructive hover:text-destructive"
+                        >
+                          <Trash2 className="h-4 w-4" />
                         </Button>
                       </TableCell>
                     </TableRow>

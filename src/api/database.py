@@ -79,11 +79,32 @@ def init_db():
     );
     """)
 
+    # Add indexes for performance
+    cur.executescript("""
+    CREATE INDEX IF NOT EXISTS idx_predictions_user_id ON predictions(user_id);
+    CREATE INDEX IF NOT EXISTS idx_predictions_created_at ON predictions(created_at);
+    CREATE INDEX IF NOT EXISTS idx_sessions_user_id ON sessions(user_id);
+    """)
+
+    # Add model_version column if missing
+    try:
+        cur.execute("ALTER TABLE predictions ADD COLUMN model_version TEXT")
+    except sqlite3.OperationalError:
+        pass  # column already exists
+
     # Seed admin user if table is empty
     row = cur.execute("SELECT COUNT(*) FROM users").fetchone()
     if row[0] == 0:
+        admin_pw = os.environ.get("DEEPAMR_ADMIN_PASSWORD")
+        if not admin_pw:
+            admin_pw = os.urandom(16).hex()
+            import warnings
+            warnings.warn(
+                f"No DEEPAMR_ADMIN_PASSWORD set. Generated random admin password: {admin_pw}",
+                stacklevel=2,
+            )
         salt = os.urandom(16).hex()
-        pw_hash = hash_password("admin123", salt)
+        pw_hash = hash_password(admin_pw, salt)
         cur.execute(
             "INSERT INTO users (id, email, name, password_hash, salt, role, organization, created_at) "
             "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
@@ -108,11 +129,18 @@ def init_db():
 # ---------------------------------------------------------------------------
 
 def hash_password(password: str, salt: str) -> str:
-    return hashlib.sha256((salt + password).encode()).hexdigest()
+    return hashlib.pbkdf2_hmac(
+        "sha256", password.encode(), salt.encode(), 100_000
+    ).hex()
 
 
 def verify_password(password: str, salt: str, pw_hash: str) -> bool:
-    return hash_password(password, salt) == pw_hash
+    # Support legacy SHA256 hashes during migration
+    new_hash = hash_password(password, salt)
+    if new_hash == pw_hash:
+        return True
+    legacy = hashlib.sha256((salt + password).encode()).hexdigest()
+    return legacy == pw_hash
 
 
 # ---------------------------------------------------------------------------
@@ -241,15 +269,16 @@ def save_prediction(
     file_name: Optional[str],
     file_size: Optional[int],
     results_json: Optional[str],
+    model_version: Optional[str] = None,
 ) -> Dict:
     conn = get_db()
     pred_id = f"pred-{uuid.uuid4().hex[:8]}"
     now = datetime.utcnow().isoformat()
     completed = now if status == "completed" else None
     conn.execute(
-        "INSERT INTO predictions (id, sample_id, user_id, organism, status, risk_level, file_name, file_size, results_json, created_at, completed_at) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-        (pred_id, sample_id, user_id, organism, status, risk_level, file_name, file_size, results_json, now, completed),
+        "INSERT INTO predictions (id, sample_id, user_id, organism, status, risk_level, file_name, file_size, results_json, created_at, completed_at, model_version) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (pred_id, sample_id, user_id, organism, status, risk_level, file_name, file_size, results_json, now, completed, model_version),
     )
     conn.commit()
     row = conn.execute("SELECT * FROM predictions WHERE id = ?", (pred_id,)).fetchone()
@@ -304,6 +333,14 @@ def list_predictions(
     rows = conn.execute(query, params).fetchall()
     conn.close()
     return [_format_prediction(dict(r)) for r in rows]
+
+
+def delete_prediction(pred_id: str) -> bool:
+    conn = get_db()
+    cur = conn.execute("DELETE FROM predictions WHERE id = ?", (pred_id,))
+    conn.commit()
+    conn.close()
+    return cur.rowcount > 0
 
 
 def get_recent_predictions(limit: int = 5) -> List[Dict]:

@@ -120,6 +120,9 @@ class AdvancedDeepAMR(nn.Module):
 # Production Predictor Class
 # =============================================================================
 
+MODEL_VERSION = "1.0.0"
+
+
 class DeepAMRPredictor:
     """Production-ready predictor for AMR resistance.
 
@@ -182,6 +185,22 @@ class DeepAMRPredictor:
 
         # Load model
         self._load_model()
+
+        # Load optimal per-class thresholds if available
+        self.optimal_thresholds: Optional[Dict] = None
+        thresholds_path = Path("models/optimal_thresholds.json")
+        if thresholds_path.exists():
+            with open(thresholds_path) as f:
+                self.optimal_thresholds = json.load(f)
+            logger.info("Loaded per-class optimal thresholds")
+
+        # Load performance metadata if available
+        self.performance_metrics: Optional[Dict] = None
+        results_path = Path("models/advanced_system_results.json")
+        if results_path.exists():
+            with open(results_path) as f:
+                self.performance_metrics = json.load(f)
+            logger.info("Loaded performance metrics")
 
     def _load_model(self):
         """Load the trained model and preprocessing components."""
@@ -262,7 +281,14 @@ class DeepAMRPredictor:
         results = []
         for i in range(len(probabilities)):
             probs = probabilities[i]
-            preds = (probs > threshold).astype(int)
+            # Use per-class optimal thresholds if available and default threshold requested
+            if threshold == 0.5 and self.optimal_thresholds:
+                preds = np.array([
+                    int(probs[j] > self.optimal_thresholds.get(drug, {}).get("threshold", 0.5))
+                    for j, drug in enumerate(self.drug_classes)
+                ])
+            else:
+                preds = (probs > threshold).astype(int)
 
             result = {
                 "predictions": {
@@ -367,13 +393,18 @@ class DeepAMRPredictor:
     @property
     def model_info(self) -> Dict:
         """Get information about the loaded model."""
-        return {
+        info = {
             "model_path": str(self.model_path),
             "device": str(self.device),
             "drug_classes": self.drug_classes,
             "n_classes": len(self.drug_classes),
             "has_scaler": self.scaler is not None,
+            "model_version": MODEL_VERSION,
+            "has_optimal_thresholds": self.optimal_thresholds is not None,
         }
+        if self.performance_metrics:
+            info["performance"] = self.performance_metrics
+        return info
 
 
 # =============================================================================

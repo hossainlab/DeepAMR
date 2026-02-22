@@ -11,6 +11,9 @@ import {
   CheckCircle,
   Clock,
   FileText,
+  BarChart3,
+  Stethoscope,
+  Globe,
 } from "lucide-react";
 import { Header } from "@/components/layout/header";
 import { AntibioticResultRow } from "@/components/features/results/antibiotic-result-row";
@@ -27,6 +30,8 @@ import {
 } from "@/components/ui/table";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { predictionService } from "@/services/predictions";
+import { deepamrApi } from "@/services/api";
+import type { ModelPerformance } from "@/services/api";
 import { formatDateTime, downloadPredictionCSV, downloadPredictionTextReport } from "@/lib/utils";
 import type { Prediction } from "@/types";
 
@@ -38,16 +43,21 @@ export default function ResultDetailPage({ params }: ResultDetailPageProps) {
   const { id } = use(params);
   const router = useRouter();
   const [prediction, setPrediction] = useState<Prediction | null>(null);
+  const [modelPerf, setModelPerf] = useState<ModelPerformance | null>(null);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const loadData = async () => {
-      const data = await predictionService.getById(id);
+      const [data, perf] = await Promise.all([
+        predictionService.getById(id),
+        deepamrApi.getModelPerformance().catch(() => null),
+      ]);
       if (!data) {
         router.push("/results");
         return;
       }
       setPrediction(data);
+      setModelPerf(perf);
       setIsLoading(false);
     };
     loadData();
@@ -111,10 +121,12 @@ export default function ResultDetailPage({ params }: ResultDetailPageProps) {
             </Button>
           </Link>
           <div className="flex gap-2">
-            <Button className="gap-2" onClick={() => downloadPredictionTextReport(prediction)}>
-              <Download className="h-4 w-4" />
-              Export Report
-            </Button>
+            <a href={deepamrApi.getPredictionReportUrl(prediction.id)} target="_blank" rel="noopener noreferrer">
+              <Button className="gap-2">
+                <Download className="h-4 w-4" />
+                Export PDF Report
+              </Button>
+            </a>
             <Button variant="outline" className="gap-2" onClick={() => downloadPredictionCSV(prediction)}>
               <Download className="h-4 w-4" />
               Export CSV
@@ -218,11 +230,48 @@ export default function ResultDetailPage({ params }: ResultDetailPageProps) {
           </CardContent>
         </Card>
 
+        {/* Model Accuracy Info */}
+        {modelPerf && (
+          <Card className="border-primary/20">
+            <CardContent className="p-4">
+              <div className="flex items-center gap-2 mb-3">
+                <BarChart3 className="h-4 w-4 text-primary" />
+                <span className="font-semibold text-sm">Model Accuracy</span>
+                <span className="text-xs text-muted ml-auto">v{modelPerf.model_version}</span>
+              </div>
+              <div className="grid grid-cols-4 gap-3 text-center">
+                <div>
+                  <div className="text-lg font-bold text-primary">{(modelPerf.overall.micro_f1 * 100).toFixed(1)}%</div>
+                  <div className="text-xs text-muted">F1 Score</div>
+                </div>
+                <div>
+                  <div className="text-lg font-bold text-primary">{(modelPerf.overall.auc * 100).toFixed(1)}%</div>
+                  <div className="text-xs text-muted">AUC-ROC</div>
+                </div>
+                <div>
+                  <div className="text-lg font-bold text-primary">{(modelPerf.overall.macro_f1 * 100).toFixed(1)}%</div>
+                  <div className="text-xs text-muted">Macro F1</div>
+                </div>
+                <div>
+                  <div className="text-lg font-bold text-primary">{(modelPerf.overall.hamming_loss * 100).toFixed(1)}%</div>
+                  <div className="text-xs text-muted">Error Rate</div>
+                </div>
+              </div>
+              <p className="text-xs text-muted mt-2">
+                These results are AI-generated predictions. Always confirm with laboratory susceptibility testing before clinical use.
+              </p>
+            </CardContent>
+          </Card>
+        )}
+
         {/* Detailed Results Tabs */}
         <Tabs defaultValue="antibiotics" className="space-y-4">
           <TabsList>
             <TabsTrigger value="antibiotics">
               Antibiotic Results ({prediction.results?.length || 0})
+            </TabsTrigger>
+            <TabsTrigger value="recommendations">
+              Clinical Recommendations
             </TabsTrigger>
             <TabsTrigger value="genes">
               Detected Genes ({prediction.detectedGenes?.length || 0})
@@ -233,23 +282,53 @@ export default function ResultDetailPage({ params }: ResultDetailPageProps) {
             <Card>
               <CardContent className="p-0">
                 {prediction.results && prediction.results.length > 0 ? (
-                  <Table>
-                    <TableHeader>
-                      <TableRow>
-                        <TableHead>Antibiotic</TableHead>
-                        <TableHead>Class</TableHead>
-                        <TableHead>Status</TableHead>
-                        <TableHead>Confidence</TableHead>
-                        <TableHead>MIC</TableHead>
-                        <TableHead>Breakpoint</TableHead>
-                      </TableRow>
-                    </TableHeader>
-                    <TableBody>
-                      {prediction.results.map((result, index) => (
-                        <AntibioticResultRow key={index} result={result} />
-                      ))}
-                    </TableBody>
-                  </Table>
+                  <>
+                    <Table>
+                      <TableHeader>
+                        <TableRow>
+                          <TableHead>Antibiotic</TableHead>
+                          <TableHead>Class</TableHead>
+                          <TableHead>Status</TableHead>
+                          <TableHead>Confidence</TableHead>
+                          <TableHead>MIC</TableHead>
+                          <TableHead>Breakpoint</TableHead>
+                        </TableRow>
+                      </TableHeader>
+                      <TableBody>
+                        {prediction.results.map((result, index) => (
+                          <AntibioticResultRow key={index} result={result} />
+                        ))}
+                      </TableBody>
+                    </Table>
+                    {/* Confidence bars */}
+                    <div className="p-4 border-t">
+                      <h4 className="text-sm font-semibold mb-3">Resistance Confidence</h4>
+                      <div className="space-y-2">
+                        {prediction.results.map((result, index) => {
+                          const conf = result.confidence * 100;
+                          const isResistant = result.status === "R";
+                          const barColor = isResistant
+                            ? conf >= 80 ? "bg-red-500" : conf >= 60 ? "bg-yellow-500" : "bg-orange-400"
+                            : conf <= 20 ? "bg-green-500" : conf <= 40 ? "bg-green-400" : "bg-yellow-400";
+                          return (
+                            <div key={index} className="flex items-center gap-3">
+                              <span className="text-xs w-28 truncate">{result.antibiotic}</span>
+                              <div className="flex-1 bg-muted/30 rounded-full h-2.5">
+                                <div
+                                  className={`h-2.5 rounded-full ${barColor}`}
+                                  style={{ width: `${conf}%` }}
+                                />
+                              </div>
+                              <span className="text-xs w-12 text-right">{conf.toFixed(0)}%</span>
+                              <Badge variant={isResistant ? "destructive" : "success"} className="text-xs w-6 justify-center">
+                                {result.status}
+                              </Badge>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  </>
                 ) : (
                   <div className="text-center py-12 text-muted">
                     No antibiotic results available
@@ -257,6 +336,104 @@ export default function ResultDetailPage({ params }: ResultDetailPageProps) {
                 )}
               </CardContent>
             </Card>
+          </TabsContent>
+
+          <TabsContent value="recommendations">
+            <div className="space-y-4">
+              {/* Clinical Recommendations */}
+              <Card>
+                <CardHeader>
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <Stethoscope className="h-5 w-5 text-primary" />
+                    Clinical Recommendations
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  {prediction.results && prediction.results.length > 0 ? (
+                    <ul className="space-y-3">
+                      {(() => {
+                        const resistant = prediction.results.filter(r => r.status === "R");
+                        const susceptible = prediction.results.filter(r => r.status === "S");
+                        const recs: string[] = [];
+
+                        if (resistant.length >= 5) {
+                          recs.push("URGENT: Multi-drug resistance detected. Recommend immediate infectious disease consultation.");
+                          recs.push("Consider combination therapy or reserve antibiotics.");
+                        }
+                        const resistantClasses = new Set(resistant.map(r => r.class));
+                        if (resistantClasses.has("beta-lactam")) {
+                          recs.push("Beta-lactam resistance detected. Consider carbapenem or non-beta-lactam alternatives.");
+                        }
+                        if (resistantClasses.has("quinolone")) {
+                          recs.push("Fluoroquinolone resistance detected. Avoid ciprofloxacin/levofloxacin.");
+                        }
+                        const highConfSusc = susceptible.filter(r => r.confidence < 0.2);
+                        if (highConfSusc.length > 0) {
+                          recs.push(`High-confidence susceptibility predicted for: ${highConfSusc.slice(0, 3).map(r => r.antibiotic).join(", ")}`);
+                        }
+                        if (recs.length === 0) {
+                          recs.push("Standard antibiotic therapy likely effective. Monitor treatment response.");
+                        }
+                        return recs.map((rec, i) => (
+                          <li key={i} className="flex items-start gap-2">
+                            <span className="text-primary mt-0.5">•</span>
+                            <span className="text-sm">{rec}</span>
+                          </li>
+                        ));
+                      })()}
+                    </ul>
+                  ) : (
+                    <p className="text-muted text-sm">No results available for recommendations.</p>
+                  )}
+                </CardContent>
+              </Card>
+
+              {/* Bangladesh Clinical Context */}
+              <Card>
+                <CardHeader>
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <Globe className="h-5 w-5 text-green-600" />
+                    Bangladesh Clinical Context
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  {prediction.results && prediction.results.length > 0 ? (
+                    <ul className="space-y-3">
+                      {(() => {
+                        const resistantClasses = new Set(
+                          prediction.results.filter(r => r.status === "R").map(r => r.class)
+                        );
+                        const recs: string[] = [];
+
+                        if (resistantClasses.has("quinolone")) {
+                          recs.push("Quinolone resistance is ~70% locally. DGHS recommends avoiding ciprofloxacin for empirical therapy. Use ceftriaxone for enteric fever.");
+                        }
+                        if (resistantClasses.has("beta-lactam")) {
+                          recs.push("ESBL prevalence is very high (>60%). Consider carbapenems for serious infections. For UTI, fosfomycin or nitrofurantoin remain effective.");
+                        }
+                        if (resistantClasses.has("rifampicin")) {
+                          recs.push("Possible MDR-TB. Refer to National TB Programme (NTP). Contact NIDCH, Mohakhali, Dhaka.");
+                        }
+                        if (resistantClasses.size >= 5) {
+                          recs.push("Extensive drug resistance detected. Recommend referral to icddr,b or IEDCR for susceptibility testing.");
+                        }
+                        if (recs.length === 0) {
+                          recs.push("Predicted susceptibility aligns with local empirical options. Follow DGHS standard treatment guidelines.");
+                        }
+                        return recs.map((rec, i) => (
+                          <li key={i} className="flex items-start gap-2">
+                            <span className="text-green-600 mt-0.5">•</span>
+                            <span className="text-sm">{rec}</span>
+                          </li>
+                        ));
+                      })()}
+                    </ul>
+                  ) : (
+                    <p className="text-muted text-sm">No results available.</p>
+                  )}
+                </CardContent>
+              </Card>
+            </div>
           </TabsContent>
 
           <TabsContent value="genes">

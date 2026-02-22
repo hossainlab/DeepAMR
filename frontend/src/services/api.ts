@@ -52,6 +52,19 @@ export interface HealthResponse {
   models_loaded: string[];
 }
 
+export interface ModelPerformance {
+  model_version: string;
+  overall: {
+    micro_f1: number;
+    macro_f1: number;
+    auc: number;
+    hamming_loss: number;
+  };
+  per_class: Record<string, { optimal_threshold: number; f1_score: number | null }>;
+  drug_classes: string[];
+  has_optimal_thresholds: boolean;
+}
+
 export interface DrugClassInfo {
   drug_classes: string[];
   count: number;
@@ -123,6 +136,20 @@ export const deepamrApi = {
   async getModelInfo(modelType: string = 'deep_learning') {
     const response = await fetch(`${API_BASE_URL}/models/${modelType}/info`);
     return handleResponse(response);
+  },
+
+  async getModelPerformance(): Promise<ModelPerformance> {
+    const response = await fetch(`${API_BASE_URL}/models/performance`);
+    return handleResponse<ModelPerformance>(response);
+  },
+
+  async getBangladeshGuidelines() {
+    const response = await fetch(`${API_BASE_URL}/guidelines/bangladesh`);
+    return handleResponse(response);
+  },
+
+  getPredictionReportUrl(predictionId: string): string {
+    return `${API_BASE_URL}/predictions/${predictionId}/report`;
   },
 
   // -------------------------------------------------------------------
@@ -246,6 +273,14 @@ export const deepamrApi = {
         headers: authHeaders(),
       });
       return handleResponse<Prediction>(response);
+    },
+
+    async delete(id: string): Promise<void> {
+      const response = await fetch(`${API_BASE_URL}/predictions/${id}`, {
+        method: 'DELETE',
+        headers: authHeaders(),
+      });
+      await handleResponse(response);
     },
 
     async getRecent(limit: number = 5): Promise<Prediction[]> {

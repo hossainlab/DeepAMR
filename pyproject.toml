@@ -24,6 +24,12 @@ dependencies = [
     "pandas>=2.0.0",
     "biopython>=1.81",
 
+    # Security & rate limiting
+    "slowapi>=0.1.9",
+
+    # PDF report generation
+    "reportlab>=4.0.0",
+
     # Utilities
     "requests>=2.31.0",
     "tqdm>=4.65.0",
