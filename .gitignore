@@ -21,7 +21,8 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# Python packaging lib dirs (not frontend/src/lib)
+/lib/
 lib64/
 parts/
 sdist/
